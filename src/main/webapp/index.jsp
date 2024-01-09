@@ -1,1027 +1,6433 @@
 
 
-	
+<!DOCTYPE HTML>
+<html lang="en">
+    <head>
+  <link rel="dns-prefetch" href="https://maps.googleapis.com/"/>
+  <link rel="dns-prefetch" href="https://assets.adobedtm.com/"/>
+  
+
+  
+<meta charset="utf-8"/>
+<title>Tata Consultancy Services: Driving Innovation and Building on Belief</title>
+<meta name="description" content="TCS, a global leader in IT services, consulting, and business solutions, leverages technology for business transformation and helps catalyze change. Learn more."/>
+<meta name="template" content="Home page"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<meta name="robots" content="index, follow"/>
+<link rel="manifest" href="/etc.clientlibs/tcs/clientlibs/clientlib-site/resources/meta/manifest.json"/>
 
 
-	
-
-	
-
-
-	
-
-
-	
-
-	
-		
-	
-
-	
-
-		
-		
-
-	
-
-
-	
-
-				
-
-
-				
-
-					
-						
-<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-IN" lang="en-IN" prefix="og: http://ogp.me/ns#" class="no-js" data-layout-name="holiday-takedown">
-
-<head>
-    
+<meta name="title" content="Tata Consultancy Services: Driving Innovation and Building on Belief"/>
+<meta name="path" content="/content/tcs/global/en/home-page"/>
+<meta name="tags"/>
+<meta name="google-site-verification" content="YptDqnHnSMV2bjemv7lox5l5MuX9NACcODujGEy5EQg"/>
+<meta name="langCode" content="en"/>
 
 
 
+<meta prefix="og: http://ogp.me/ns#" property="og:title" content="Tata Consultancy Services: Driving Innovation and Building on Belief"/>
+<meta prefix="og: http://ogp.me/ns#" property="og:description" content="TCS, a global leader in IT services, consulting, and business solutions, leverages technology for business transformation and helps catalyze change. Learn more."/>
+<meta prefix="og: http://ogp.me/ns#" property="og:type" content="website"/>
+<meta prefix="og: http://ogp.me/ns#" property="og:url" content="https://www.tcs.com/home-page"/>
+<meta prefix="og: http://ogp.me/ns#" property="og:image"/>
+<meta prefix="og: http://ogp.me/ns#" property="og:snippets" content=""/>
+<link rel="canonical" href="https://www.tcs.com/home-page"/>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<meta charset="utf-8" />
-<link rel="canonical" href="https://www.apple.com/in/" />
-
-
-	
-	<link rel="alternate" href="https://www.apple.com/" hreflang="en-US" /><link rel="alternate" href="https://www.apple.com/ae-ar/" hreflang="ar-AE" /><link rel="alternate" href="https://www.apple.com/ae/" hreflang="en-AE" /><link rel="alternate" href="https://www.apple.com/am/" hreflang="en-AM" /><link rel="alternate" href="https://www.apple.com/at/" hreflang="de-AT" /><link rel="alternate" href="https://www.apple.com/au/" hreflang="en-AU" /><link rel="alternate" href="https://www.apple.com/az/" hreflang="en-AZ" /><link rel="alternate" href="https://www.apple.com/befr/" hreflang="fr-BE" /><link rel="alternate" href="https://www.apple.com/benl/" hreflang="nl-BE" /><link rel="alternate" href="https://www.apple.com/bg/" hreflang="bg-BG" /><link rel="alternate" href="https://www.apple.com/bh-ar/" hreflang="ar-BH" /><link rel="alternate" href="https://www.apple.com/bh/" hreflang="en-BH" /><link rel="alternate" href="https://www.apple.com/br/" hreflang="pt-BR" /><link rel="alternate" href="https://www.apple.com/bw/" hreflang="en-BW" /><link rel="alternate" href="https://www.apple.com/by/" hreflang="en-BY" /><link rel="alternate" href="https://www.apple.com/ca/" hreflang="en-CA" /><link rel="alternate" href="https://www.apple.com/ca/fr/" hreflang="fr-CA" /><link rel="alternate" href="https://www.apple.com/cf/" hreflang="fr-CF" /><link rel="alternate" href="https://www.apple.com/chde/" hreflang="de-CH" /><link rel="alternate" href="https://www.apple.com/chfr/" hreflang="fr-CH" /><link rel="alternate" href="https://www.apple.com/ci/" hreflang="fr-CI" /><link rel="alternate" href="https://www.apple.com/cl/" hreflang="es-CL" /><link rel="alternate" href="https://www.apple.com/cm/" hreflang="fr-CM" /><link rel="alternate" href="https://www.apple.com/co/" hreflang="es-CO" /><link rel="alternate" href="https://www.apple.com/cz/" hreflang="cs-CZ" /><link rel="alternate" href="https://www.apple.com/de/" hreflang="de-DE" /><link rel="alternate" href="https://www.apple.com/dk/" hreflang="da-DK" /><link rel="alternate" href="https://www.apple.com/ee/" hreflang="et-EE" /><link rel="alternate" href="https://www.apple.com/eg-ar/" hreflang="ar-EG" /><link rel="alternate" href="https://www.apple.com/eg/" hreflang="en-EG" /><link rel="alternate" href="https://www.apple.com/es/" hreflang="es-ES" /><link rel="alternate" href="https://www.apple.com/fi/" hreflang="fi-FI" /><link rel="alternate" href="https://www.apple.com/fr/" hreflang="fr-FR" /><link rel="alternate" href="https://www.apple.com/ge/" hreflang="en-GE" /><link rel="alternate" href="https://www.apple.com/gn/" hreflang="fr-GN" /><link rel="alternate" href="https://www.apple.com/gq/" hreflang="fr-GQ" /><link rel="alternate" href="https://www.apple.com/gr/" hreflang="el-GR" /><link rel="alternate" href="https://www.apple.com/gw/" hreflang="en-GW" /><link rel="alternate" href="https://www.apple.com/hk/" hreflang="zh-HK" /><link rel="alternate" href="https://www.apple.com/hk/en/" hreflang="en-HK" /><link rel="alternate" href="https://www.apple.com/hr/" hreflang="hr-HR" /><link rel="alternate" href="https://www.apple.com/hu/" hreflang="hu-HU" /><link rel="alternate" href="https://www.apple.com/id/" hreflang="en-ID" /><link rel="alternate" href="https://www.apple.com/ie/" hreflang="en-IE" /><link rel="alternate" href="https://www.apple.com/il/" hreflang="en-IL" /><link rel="alternate" href="https://www.apple.com/in/" hreflang="en-IN" /><link rel="alternate" href="https://www.apple.com/it/" hreflang="it-IT" /><link rel="alternate" href="https://www.apple.com/jo-ar/" hreflang="ar-JO" /><link rel="alternate" href="https://www.apple.com/jo/" hreflang="en-JO" /><link rel="alternate" href="https://www.apple.com/jp/" hreflang="ja-JP" /><link rel="alternate" href="https://www.apple.com/ke/" hreflang="en-KE" /><link rel="alternate" href="https://www.apple.com/kg/" hreflang="en-KG" /><link rel="alternate" href="https://www.apple.com/kr/" hreflang="ko-KR" /><link rel="alternate" href="https://www.apple.com/kw-ar/" hreflang="ar-KW" /><link rel="alternate" href="https://www.apple.com/kw/" hreflang="en-KW" /><link rel="alternate" href="https://www.apple.com/kz/" hreflang="en-KZ" /><link rel="alternate" href="https://www.apple.com/la/" hreflang="es-HN" /><link rel="alternate" href="https://www.apple.com/la/" hreflang="es-AR" /><link rel="alternate" href="https://www.apple.com/la/" hreflang="es-SV" /><link rel="alternate" href="https://www.apple.com/la/" hreflang="es-PR" /><link rel="alternate" href="https://www.apple.com/la/" hreflang="es-DO" /><link rel="alternate" href="https://www.apple.com/la/" hreflang="es-EC" /><link rel="alternate" href="https://www.apple.com/la/" hreflang="es-GT" /><link rel="alternate" href="https://www.apple.com/la/" hreflang="es-PE" /><link rel="alternate" href="https://www.apple.com/la/" hreflang="es-BO" /><link rel="alternate" href="https://www.apple.com/la/" hreflang="es-NI" /><link rel="alternate" href="https://www.apple.com/la/" hreflang="es-VE" /><link rel="alternate" href="https://www.apple.com/la/" hreflang="es-PA" /><link rel="alternate" href="https://www.apple.com/la/" hreflang="es-CR" /><link rel="alternate" href="https://www.apple.com/la/" hreflang="es-UY" /><link rel="alternate" href="https://www.apple.com/la/" hreflang="es-PY" /><link rel="alternate" href="https://www.apple.com/lae/" hreflang="en-AG" /><link rel="alternate" href="https://www.apple.com/lae/" hreflang="en-BS" /><link rel="alternate" href="https://www.apple.com/lae/" hreflang="en-TC" /><link rel="alternate" href="https://www.apple.com/lae/" hreflang="en-TT" /><link rel="alternate" href="https://www.apple.com/lae/" hreflang="en-SR" /><link rel="alternate" href="https://www.apple.com/lae/" hreflang="en-BM" /><link rel="alternate" href="https://www.apple.com/lae/" hreflang="en-BB" /><link rel="alternate" href="https://www.apple.com/lae/" hreflang="en-BZ" /><link rel="alternate" href="https://www.apple.com/lae/" hreflang="en-GD" /><link rel="alternate" href="https://www.apple.com/lae/" hreflang="en-KY" /><link rel="alternate" href="https://www.apple.com/lae/" hreflang="en-LC" /><link rel="alternate" href="https://www.apple.com/lae/" hreflang="en-MS" /><link rel="alternate" href="https://www.apple.com/lae/" hreflang="en-KN" /><link rel="alternate" href="https://www.apple.com/lae/" hreflang="en-AI" /><link rel="alternate" href="https://www.apple.com/lae/" hreflang="en-VC" /><link rel="alternate" href="https://www.apple.com/lae/" hreflang="en-GY" /><link rel="alternate" href="https://www.apple.com/lae/" hreflang="en-VG" /><link rel="alternate" href="https://www.apple.com/lae/" hreflang="en-PR" /><link rel="alternate" href="https://www.apple.com/lae/" hreflang="en-DM" /><link rel="alternate" href="https://www.apple.com/lae/" hreflang="en-JM" /><link rel="alternate" href="https://www.apple.com/li/" hreflang="de-LI" /><link rel="alternate" href="https://www.apple.com/lt/" hreflang="lt-LT" /><link rel="alternate" href="https://www.apple.com/lu/" hreflang="fr-LU" /><link rel="alternate" href="https://www.apple.com/lv/" hreflang="lv-LV" /><link rel="alternate" href="https://www.apple.com/ma/" hreflang="fr-MA" /><link rel="alternate" href="https://www.apple.com/md/" hreflang="en-MD" /><link rel="alternate" href="https://www.apple.com/me/" hreflang="en-ME" /><link rel="alternate" href="https://www.apple.com/mg/" hreflang="en-MG" /><link rel="alternate" href="https://www.apple.com/mk/" hreflang="en-MK" /><link rel="alternate" href="https://www.apple.com/ml/" hreflang="fr-ML" /><link rel="alternate" href="https://www.apple.com/mo/" hreflang="zh-MO" /><link rel="alternate" href="https://www.apple.com/mt/" hreflang="en-MT" /><link rel="alternate" href="https://www.apple.com/mu/" hreflang="fr-MU" /><link rel="alternate" href="https://www.apple.com/mx/" hreflang="es-MX" /><link rel="alternate" href="https://www.apple.com/my/" hreflang="en-MY" /><link rel="alternate" href="https://www.apple.com/mz/" hreflang="en-MZ" /><link rel="alternate" href="https://www.apple.com/ne/" hreflang="fr-NE" /><link rel="alternate" href="https://www.apple.com/ng/" hreflang="en-NG" /><link rel="alternate" href="https://www.apple.com/nl/" hreflang="nl-NL" /><link rel="alternate" href="https://www.apple.com/no/" hreflang="no-NO" /><link rel="alternate" href="https://www.apple.com/nz/" hreflang="en-NZ" /><link rel="alternate" href="https://www.apple.com/om-ar/" hreflang="ar-OM" /><link rel="alternate" href="https://www.apple.com/om/" hreflang="en-OM" /><link rel="alternate" href="https://www.apple.com/ph/" hreflang="en-PH" /><link rel="alternate" href="https://www.apple.com/pl/" hreflang="pl-PL" /><link rel="alternate" href="https://www.apple.com/pt/" hreflang="pt-PT" /><link rel="alternate" href="https://www.apple.com/qa-ar/" hreflang="ar-QA" /><link rel="alternate" href="https://www.apple.com/qa/" hreflang="en-QA" /><link rel="alternate" href="https://www.apple.com/ro/" hreflang="ro-RO" /><link rel="alternate" href="https://www.apple.com/sa-ar/" hreflang="ar-SA" /><link rel="alternate" href="https://www.apple.com/sa/" hreflang="en-SA" /><link rel="alternate" href="https://www.apple.com/se/" hreflang="sv-SE" /><link rel="alternate" href="https://www.apple.com/sg/" hreflang="en-SG" /><link rel="alternate" href="https://www.apple.com/si/" hreflang="en-SI" /><link rel="alternate" href="https://www.apple.com/sk/" hreflang="sk-SK" /><link rel="alternate" href="https://www.apple.com/sn/" hreflang="fr-SN" /><link rel="alternate" href="https://www.apple.com/th/" hreflang="th-TH" /><link rel="alternate" href="https://www.apple.com/tj/" hreflang="en-TJ" /><link rel="alternate" href="https://www.apple.com/tm/" hreflang="en-TM" /><link rel="alternate" href="https://www.apple.com/tn/" hreflang="fr-TN" /><link rel="alternate" href="https://www.apple.com/tr/" hreflang="tr-TR" /><link rel="alternate" href="https://www.apple.com/tw/" hreflang="zh-TW" /><link rel="alternate" href="https://www.apple.com/ua/" hreflang="uk-UA" /><link rel="alternate" href="https://www.apple.com/ug/" hreflang="en-UG" /><link rel="alternate" href="https://www.apple.com/uk/" hreflang="en-GB" /><link rel="alternate" href="https://www.apple.com/uz/" hreflang="en-UZ" /><link rel="alternate" href="https://www.apple.com/vn/" hreflang="vi-VN" /><link rel="alternate" href="https://www.apple.com/za/" hreflang="en-ZA" /><link rel="alternate" href="https://www.apple.com.cn/" hreflang="zh-CN" />
-
-
-
+<link rel="icon" href="/etc.clientlibs/tcs/clientlibs/clientlib-site/resources/images/favicon-16x16.png" type="image/png" sizes="16x16"/>
+<link rel="icon" href="/etc.clientlibs/tcs/clientlibs/clientlib-site/resources/images/favicon-32x32.png" type="image/png" sizes="32x32"/>
+<link rel="icon" href="/etc.clientlibs/tcs/clientlibs/clientlib-site/resources/images/favicon-48x48.png" type="image/png" sizes="48x48"/>
 
     
-
-    
-<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-
-    
-	
-		<link rel="stylesheet" type="text/css" href="/api-www/global-elements/global-header/v1/assets/globalheader.css" />
-		<link rel="stylesheet" type="text/css" href="/ac/globalfooter/8/en_IN/styles/ac-globalfooter.built.css" />
-	
-	<link rel="stylesheet" type="text/css" href="/ac/localnav/8/styles/ac-localnav.built.css" />
-
-    <title>Apple (India)</title>
-    <meta property="analytics-track" content="Apple - Index/Tab" />
-    <meta property="analytics-s-channel" content="homepage" />
-
-	<meta property="analytics-s-bucket-0" content="applestoreww" />
-	<meta property="analytics-s-bucket-1" content="applestoreww" />
-	<meta property="analytics-s-bucket-2" content="applestoreww" />
-
-    <meta name="Description" content="Discover the innovative world of Apple and shop everything iPhone, iPad, Apple Watch, Mac, and Apple TV, plus explore accessories, entertainment, and expert device support." />
-    <meta property="og:title" content="Apple (India)" />
-    <meta property="og:description" content="Discover the innovative world of Apple and shop everything iPhone, iPad, Apple Watch, Mac, and Apple TV, plus explore accessories, entertainment, and expert device support." />
-    <meta property="og:url" content="https://www.apple.com/in/" />
-    <meta property="og:locale" content="en_IN" />
-    <meta property="og:image" content="https://www.apple.com/ac/structured-data/images/open_graph_logo.png?202208080158" />
-    <meta property="og:type" content="website" />
-    <meta property="og:site_name" content="Apple (India)" />
-    <link rel="stylesheet" href="/wss/fonts?families=SF+Pro,v3|SF+Pro+Icons,v3" type="text/css" media="all" />
-    <link rel="stylesheet" href="/v/home/bi/built/styles/main.built.css" type="text/css" />
-    <link rel="stylesheet" href="/in/home/styles/ribbon.css" type="text/css" />
-   
-    <script src="/v/home/bi/built/scripts/head.built.js" type="text/javascript" charset="utf-8"></script>
-</head>
-
-<body class="page-home ac-nav-overlap globalnav-scrim globalheader-dark nav-dark">
-    <h1 class="visuallyhidden">Apple</h1>
-    
-
-<meta name="globalnav-store-key" content="SFX9YPYY9PPXCU9KH" />
-
-    <div id="globalheader"><aside id="globalmessage-segment" lang="en-IN" dir="ltr" class="globalmessage-segment"><ul data-strings="{&quot;view&quot;:&quot;{%STOREFRONT%} Store Home&quot;,&quot;segments&quot;:{&quot;eduInd&quot;:&quot;Education Store Home&quot;,&quot;other&quot;:&quot;Store Home&quot;},&quot;exit&quot;:&quot;Exit&quot;}" class="globalmessage-segment-content"></ul></aside><nav id="globalnav" lang="en-IN" dir="ltr" aria-label="Global" data-analytics-element-engagement-start="globalnav:onFlyoutOpen" data-analytics-element-engagement-end="globalnav:onFlyoutClose" data-store-api="/[storefront]/shop/bag/status" data-analytics-activitymap-region-id="global nav" data-analytics-region="global nav" class="globalnav no-js   "><div class="globalnav-content"><div class="globalnav-item globalnav-menuback"><button aria-label="Main menu" class="globalnav-menuback-button"><span class="globalnav-chevron-icon"><svg height="48" viewBox="0 0 9 48" width="9" xmlns="http://www.w3.org/2000/svg"><path d="m1.5618 24.0621 6.5581-6.4238c.2368-.2319.2407-.6118.0088-.8486-.2324-.2373-.6123-.2407-.8486-.0088l-7 6.8569c-.1157.1138-.1807.2695-.1802.4316.001.1621.0674.3174.1846.4297l7 6.7241c.1162.1118.2661.1675.4155.1675.1577 0 .3149-.062.4326-.1846.2295-.2388.2222-.6187-.0171-.8481z"/></svg></span></button></div><ul id="globalnav-list" class="globalnav-list"><li data-analytics-element-engagement="globalnav hover - apple" class="
-				globalnav-item
-				globalnav-item-apple
-				
-				
-			"><a href="/in/" data-globalnav-item-name="apple" data-analytics-title="apple home" aria-label="Apple" class="globalnav-link globalnav-link-apple"><span class="globalnav-image-regular globalnav-link-image"><svg height="44" viewBox="0 0 14 44" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m13.0729 17.6825a3.61 3.61 0 0 0 -1.7248 3.0365 3.5132 3.5132 0 0 0 2.1379 3.2223 8.394 8.394 0 0 1 -1.0948 2.2618c-.6816.9812-1.3943 1.9623-2.4787 1.9623s-1.3633-.63-2.613-.63c-1.2187 0-1.6525.6507-2.644.6507s-1.6834-.9089-2.4787-2.0243a9.7842 9.7842 0 0 1 -1.6628-5.2776c0-3.0984 2.014-4.7405 3.9969-4.7405 1.0535 0 1.9314.6919 2.5924.6919.63 0 1.6112-.7333 2.8092-.7333a3.7579 3.7579 0 0 1 3.1604 1.5802zm-3.7284-2.8918a3.5615 3.5615 0 0 0 .8469-2.22 1.5353 1.5353 0 0 0 -.031-.32 3.5686 3.5686 0 0 0 -2.3445 1.2084 3.4629 3.4629 0 0 0 -.8779 2.1585 1.419 1.419 0 0 0 .031.2892 1.19 1.19 0 0 0 .2169.0207 3.0935 3.0935 0 0 0 2.1586-1.1368z"/></svg></span><span class="globalnav-image-compact globalnav-link-image"><svg height="48" viewBox="0 0 17 48" width="17" xmlns="http://www.w3.org/2000/svg"><path d="m15.5752 19.0792a4.2055 4.2055 0 0 0 -2.01 3.5376 4.0931 4.0931 0 0 0 2.4908 3.7542 9.7779 9.7779 0 0 1 -1.2755 2.6351c-.7941 1.1431-1.6244 2.2862-2.8878 2.2862s-1.5883-.734-3.0443-.734c-1.42 0-1.9252.7581-3.08.7581s-1.9611-1.0589-2.8876-2.3584a11.3987 11.3987 0 0 1 -1.9373-6.1487c0-3.61 2.3464-5.523 4.6566-5.523 1.2274 0 2.25.8062 3.02.8062.734 0 1.8771-.8543 3.2729-.8543a4.3778 4.3778 0 0 1 3.6822 1.841zm-6.8586-2.0456a1.3865 1.3865 0 0 1 -.2527-.024 1.6557 1.6557 0 0 1 -.0361-.337 4.0341 4.0341 0 0 1 1.0228-2.5148 4.1571 4.1571 0 0 1 2.7314-1.4078 1.7815 1.7815 0 0 1 .0361.373 4.1487 4.1487 0 0 1 -.9867 2.587 3.6039 3.6039 0 0 1 -2.5148 1.3236z"/></svg></span><span class="globalnav-link-text">Apple</span></a></li><li data-topnav-flyout-item="menu" data-topnav-flyout-label="Menu" role="none" class="globalnav-item globalnav-menu"><div data-topnav-flyout="menu" class="globalnav-flyout"><div class="globalnav-menu-list"><div data-analytics-element-engagement="globalnav hover - store" class="
-				globalnav-item
-				globalnav-item-store
-				globalnav-item-menu
-				
-			"><ul role="none" class="globalnav-submenu-trigger-group"><li class="globalnav-submenu-trigger-item"><a href="/in/shop/goto/store" data-globalnav-item-name="store" data-topnav-flyout-trigger-compact data-analytics-title="store" data-analytics-element-engagement="hover - store" aria-label="Store" class="globalnav-link globalnav-submenu-trigger-link globalnav-link-store"><span class="globalnav-link-text-container"><span class="globalnav-image-regular globalnav-link-image"><svg height="44" viewBox="0 0 30 44" width="30" xmlns="http://www.w3.org/2000/svg"><path d="m26.5679 20.4629c1.002 0 1.67.738 1.693 1.857h-3.48c.076-1.119.779-1.857 1.787-1.857zm2.754 2.672v-.387c0-1.963-1.037-3.176-2.742-3.176-1.735 0-2.848 1.289-2.848 3.276 0 1.998 1.096 3.263 2.848 3.263 1.383 0 2.367-.668 2.66-1.746h-1.008c-.264.557-.814.856-1.629.856-1.072 0-1.769-.791-1.822-2.039v-.047zm-9.547-3.451h.96v.937h.094c.188-.615.914-1.049 1.752-1.049.164 0 .375.012.504.03v1.007c-.082-.023-.445-.058-.644-.058-.961 0-1.659 1.098-1.659 1.535v3.914h-1.007zm-4.27 5.519c-1.195 0-1.869-.867-1.869-2.361 0-1.5.674-2.361 1.869-2.361 1.196 0 1.87.861 1.87 2.361 0 1.494-.674 2.361-1.87 2.361zm0-5.631c-1.798 0-2.912 1.237-2.912 3.27 0 2.027 1.114 3.269 2.912 3.269 1.799 0 2.913-1.242 2.913-3.269 0-2.033-1.114-3.27-2.913-3.27zm-5.478-1.475v1.635h1.407v.843h-1.407v3.575c0 .744.282 1.06.938 1.06.182 0 .281-.006.469-.023v.849c-.199.035-.393.059-.592.059-1.301 0-1.822-.481-1.822-1.688v-3.832h-1.02v-.843h1.02v-1.635zm-8.103 5.694c.129.885.973 1.447 2.174 1.447 1.137 0 1.975-.615 1.975-1.453 0-.72-.527-1.177-1.693-1.47l-1.084-.282c-1.53-.386-2.192-1.078-2.192-2.279 0-1.436 1.201-2.408 2.988-2.408 1.635 0 2.854.972 2.942 2.338h-1.061c-.146-.867-.861-1.383-1.916-1.383-1.125 0-1.869.562-1.869 1.418 0 .662.463 1.043 1.629 1.342l.885.234c1.752.439 2.455 1.119 2.455 2.361 0 1.553-1.225 2.543-3.158 2.543-1.793 0-3.03-.949-3.141-2.408z"/></svg></span><span class="globalnav-link-text">Store</span></span></a></li></ul></div><div data-analytics-element-engagement="globalnav hover - mac" class="
-				globalnav-item
-				globalnav-item-mac
-				globalnav-item-menu
-				
-			"><ul role="none" class="globalnav-submenu-trigger-group"><li class="globalnav-submenu-trigger-item"><a href="/in/mac/" data-globalnav-item-name="mac" data-topnav-flyout-trigger-compact data-analytics-title="mac" data-analytics-element-engagement="hover - mac" aria-label="Mac" class="globalnav-link globalnav-submenu-trigger-link globalnav-link-mac"><span class="globalnav-link-text-container"><span class="globalnav-image-regular globalnav-link-image"><svg height="44" viewBox="0 0 23 44" width="23" xmlns="http://www.w3.org/2000/svg"><path d="m8.1558 25.9987v-6.457h-.0703l-2.666 6.457h-.8907l-2.666-6.457h-.0703v6.457h-.9844v-8.4551h1.2246l2.8945 7.0547h.0938l2.8945-7.0547h1.2246v8.4551zm2.5166-1.7696c0-1.1309.832-1.7812 2.3027-1.8691l1.8223-.1113v-.5742c0-.7793-.4863-1.207-1.4297-1.207-.7559 0-1.2832.2871-1.4238.7852h-1.0195c.1348-1.0137 1.1309-1.6816 2.4785-1.6816 1.541 0 2.4023.791 2.4023 2.1035v4.3242h-.9609v-.9318h-.0938c-.4102.6738-1.1016 1.043-1.9453 1.043-1.2246 0-2.1328-.7266-2.1328-1.8809zm4.125-.5859v-.5801l-1.6992.1113c-.9609.0645-1.3828.3984-1.3828 1.0312 0 .6445.5449 1.0195 1.2773 1.0195 1.0371.0001 1.8047-.6796 1.8047-1.5819zm6.958-2.0273c-.1641-.627-.7207-1.1367-1.6289-1.1367-1.1367 0-1.8516.9082-1.8516 2.3379 0 1.459.7266 2.3848 1.8516 2.3848.8496 0 1.4414-.3926 1.6289-1.1074h1.0195c-.1816 1.1602-1.125 2.0156-2.6426 2.0156-1.7695 0-2.9004-1.2832-2.9004-3.293 0-1.9688 1.125-3.2461 2.8945-3.2461 1.5352 0 2.4727.9199 2.6484 2.0449z"/></svg></span><span class="globalnav-link-text">Mac</span></span></a></li></ul></div><div data-analytics-element-engagement="globalnav hover - ipad" class="
-				globalnav-item
-				globalnav-item-ipad
-				globalnav-item-menu
-				
-			"><ul role="none" class="globalnav-submenu-trigger-group"><li class="globalnav-submenu-trigger-item"><a href="/in/ipad/" data-globalnav-item-name="ipad" data-topnav-flyout-trigger-compact data-analytics-title="ipad" data-analytics-element-engagement="hover - ipad" aria-label="iPad" class="globalnav-link globalnav-submenu-trigger-link globalnav-link-ipad"><span class="globalnav-link-text-container"><span class="globalnav-image-regular globalnav-link-image"><svg height="44" viewBox="0 0 24 44" width="24" xmlns="http://www.w3.org/2000/svg"><path d="m14.9575 23.7002c0 .902-.768 1.582-1.805 1.582-.732 0-1.277-.375-1.277-1.02 0-.632.422-.966 1.383-1.031l1.699-.111zm-1.395-4.072c-1.347 0-2.343.668-2.478 1.681h1.019c.141-.498.668-.785 1.424-.785.944 0 1.43.428 1.43 1.207v.574l-1.822.112c-1.471.088-2.303.738-2.303 1.869 0 1.154.908 1.881 2.133 1.881.844 0 1.535-.369 1.945-1.043h.094v.931h.961v-4.324c0-1.312-.862-2.103-2.403-2.103zm6.769 5.575c-1.155 0-1.846-.885-1.846-2.361 0-1.471.697-2.362 1.846-2.362 1.142 0 1.857.914 1.857 2.362 0 1.459-.709 2.361-1.857 2.361zm1.834-8.027v3.503h-.088c-.358-.691-1.102-1.107-1.981-1.107-1.605 0-2.654 1.289-2.654 3.27 0 1.986 1.037 3.269 2.654 3.269.873 0 1.623-.416 2.022-1.119h.093v1.008h.961v-8.824zm-15.394 4.869h-1.863v-3.563h1.863c1.225 0 1.899.639 1.899 1.799 0 1.119-.697 1.764-1.899 1.764zm.276-4.5h-3.194v8.455h1.055v-3.018h2.127c1.588 0 2.719-1.119 2.719-2.701 0-1.611-1.108-2.736-2.707-2.736zm-6.064 8.454h1.008v-6.316h-1.008zm-.199-8.237c0-.387.316-.704.703-.704s.703.317.703.704c0 .386-.316.703-.703.703s-.703-.317-.703-.703z"/></svg></span><span class="globalnav-link-text">iPad</span></span></a></li></ul></div><div data-analytics-element-engagement="globalnav hover - iphone" class="
-				globalnav-item
-				globalnav-item-iphone
-				globalnav-item-menu
-				
-			"><ul role="none" class="globalnav-submenu-trigger-group"><li class="globalnav-submenu-trigger-item"><a href="/in/iphone/" data-globalnav-item-name="iphone" data-topnav-flyout-trigger-compact data-analytics-title="iphone" data-analytics-element-engagement="hover - iphone" aria-label="iPhone" class="globalnav-link globalnav-submenu-trigger-link globalnav-link-iphone"><span class="globalnav-link-text-container"><span class="globalnav-image-regular globalnav-link-image"><svg height="44" viewBox="0 0 38 44" width="38" xmlns="http://www.w3.org/2000/svg"><path d="m32.7129 22.3203h3.48c-.023-1.119-.691-1.857-1.693-1.857-1.008 0-1.711.738-1.787 1.857zm4.459 2.045c-.293 1.078-1.277 1.746-2.66 1.746-1.752 0-2.848-1.266-2.848-3.264 0-1.986 1.113-3.275 2.848-3.275 1.705 0 2.742 1.213 2.742 3.176v.386h-4.541v.047c.053 1.248.75 2.039 1.822 2.039.815 0 1.366-.298 1.629-.855zm-12.282-4.682h.961v.996h.094c.316-.697.932-1.107 1.898-1.107 1.418 0 2.209.838 2.209 2.338v4.09h-1.007v-3.844c0-1.137-.481-1.676-1.489-1.676s-1.658.674-1.658 1.781v3.739h-1.008zm-2.499 3.158c0-1.5-.674-2.361-1.869-2.361-1.196 0-1.87.861-1.87 2.361 0 1.495.674 2.362 1.87 2.362 1.195 0 1.869-.867 1.869-2.362zm-4.782 0c0-2.033 1.114-3.269 2.913-3.269 1.798 0 2.912 1.236 2.912 3.269 0 2.028-1.114 3.27-2.912 3.27-1.799 0-2.913-1.242-2.913-3.27zm-6.636-5.666h1.008v3.504h.093c.317-.697.979-1.107 1.946-1.107 1.336 0 2.179.855 2.179 2.338v4.09h-1.007v-3.844c0-1.119-.504-1.676-1.459-1.676-1.131 0-1.752.715-1.752 1.781v3.739h-1.008zm-6.015 4.87h1.863c1.202 0 1.899-.645 1.899-1.764 0-1.16-.674-1.799-1.899-1.799h-1.863zm2.139-4.5c1.599 0 2.707 1.125 2.707 2.736 0 1.582-1.131 2.701-2.719 2.701h-2.127v3.018h-1.055v-8.455zm-6.114 8.454h1.008v-6.316h-1.008zm-.2-8.238c0-.386.317-.703.703-.703.387 0 .704.317.704.703 0 .387-.317.704-.704.704-.386 0-.703-.317-.703-.704z"/></svg></span><span class="globalnav-link-text">iPhone</span></span></a></li></ul></div><div data-analytics-element-engagement="globalnav hover - watch" class="
-				globalnav-item
-				globalnav-item-watch
-				globalnav-item-menu
-				
-			"><ul role="none" class="globalnav-submenu-trigger-group"><li class="globalnav-submenu-trigger-item"><a href="/in/watch/" data-globalnav-item-name="watch" data-topnav-flyout-trigger-compact data-analytics-title="watch" data-analytics-element-engagement="hover - watch" aria-label="Watch" class="globalnav-link globalnav-submenu-trigger-link globalnav-link-watch"><span class="globalnav-link-text-container"><span class="globalnav-image-regular globalnav-link-image"><svg height="44" viewBox="0 0 35 44" width="35" xmlns="http://www.w3.org/2000/svg"><path d="m28.9819 17.1758h1.008v3.504h.094c.316-.697.978-1.108 1.945-1.108 1.336 0 2.18.856 2.18 2.338v4.09h-1.008v-3.844c0-1.119-.504-1.675-1.459-1.675-1.131 0-1.752.715-1.752 1.781v3.738h-1.008zm-2.42 4.441c-.164-.627-.721-1.136-1.629-1.136-1.137 0-1.852.908-1.852 2.338 0 1.459.727 2.384 1.852 2.384.849 0 1.441-.392 1.629-1.107h1.019c-.182 1.16-1.125 2.016-2.642 2.016-1.77 0-2.901-1.284-2.901-3.293 0-1.969 1.125-3.247 2.895-3.247 1.535 0 2.472.92 2.648 2.045zm-6.533-3.568v1.635h1.407v.844h-1.407v3.574c0 .744.282 1.06.938 1.06.182 0 .281-.006.469-.023v.85c-.2.035-.393.058-.592.058-1.301 0-1.822-.48-1.822-1.687v-3.832h-1.02v-.844h1.02v-1.635zm-4.2 5.596v-.58l-1.699.111c-.961.064-1.383.398-1.383 1.031 0 .645.545 1.02 1.277 1.02 1.038 0 1.805-.68 1.805-1.582zm-4.125.586c0-1.131.832-1.782 2.303-1.869l1.822-.112v-.574c0-.779-.486-1.207-1.43-1.207-.755 0-1.283.287-1.423.785h-1.02c.135-1.014 1.131-1.682 2.479-1.682 1.541 0 2.402.792 2.402 2.104v4.324h-.961v-.931h-.094c-.41.673-1.101 1.043-1.945 1.043-1.225 0-2.133-.727-2.133-1.881zm-7.684 1.769h-.996l-2.303-8.455h1.101l1.682 6.873h.07l1.893-6.873h1.066l1.893 6.873h.07l1.682-6.873h1.101l-2.302 8.455h-.996l-1.946-6.674h-.07z"/></svg></span><span class="globalnav-link-text">Watch</span></span></a></li></ul></div><div data-analytics-element-engagement="globalnav hover - airpods" class="
-				globalnav-item
-				globalnav-item-airpods
-				globalnav-item-menu
-				
-			"><ul role="none" class="globalnav-submenu-trigger-group"><li class="globalnav-submenu-trigger-item"><a href="/in/airpods/" data-globalnav-item-name="airpods" data-topnav-flyout-trigger-compact data-analytics-title="airpods" data-analytics-element-engagement="hover - airpods" aria-label="AirPods" class="globalnav-link globalnav-submenu-trigger-link globalnav-link-airpods"><span class="globalnav-link-text-container"><span class="globalnav-image-regular globalnav-link-image"><svg height="44" viewBox="0 0 43 44" width="43" xmlns="http://www.w3.org/2000/svg"><path d="m11.7153 19.6836h.961v.937h.094c.187-.615.914-1.048 1.752-1.048.164 0 .375.011.504.029v1.008c-.082-.024-.446-.059-.645-.059-.961 0-1.658.645-1.658 1.535v3.914h-1.008zm28.135-.111c1.324 0 2.244.656 2.379 1.693h-.996c-.135-.504-.627-.838-1.389-.838-.75 0-1.336.381-1.336.943 0 .434.352.704 1.096.885l.973.235c1.189.287 1.763.802 1.763 1.711 0 1.13-1.095 1.91-2.531 1.91-1.406 0-2.373-.674-2.484-1.723h1.037c.17.533.674.873 1.482.873.85 0 1.459-.404 1.459-.984 0-.434-.328-.727-1.002-.891l-1.084-.264c-1.183-.287-1.722-.796-1.722-1.71 0-1.049 1.013-1.84 2.355-1.84zm-6.665 5.631c-1.155 0-1.846-.885-1.846-2.362 0-1.471.697-2.361 1.846-2.361 1.142 0 1.857.914 1.857 2.361 0 1.459-.709 2.362-1.857 2.362zm1.834-8.028v3.504h-.088c-.358-.691-1.102-1.107-1.981-1.107-1.605 0-2.654 1.289-2.654 3.269 0 1.987 1.037 3.27 2.654 3.27.873 0 1.623-.416 2.022-1.119h.094v1.007h.961v-8.824zm-9.001 8.028c-1.195 0-1.869-.868-1.869-2.362 0-1.5.674-2.361 1.869-2.361 1.196 0 1.869.861 1.869 2.361 0 1.494-.673 2.362-1.869 2.362zm0-5.631c-1.799 0-2.912 1.236-2.912 3.269 0 2.028 1.113 3.27 2.912 3.27s2.912-1.242 2.912-3.27c0-2.033-1.113-3.269-2.912-3.269zm-17.071 6.427h1.008v-6.316h-1.008zm-.199-8.238c0-.387.317-.703.703-.703.387 0 .703.316.703.703s-.316.703-.703.703c-.386 0-.703-.316-.703-.703zm-6.137 4.922 1.324-3.773h.093l1.325 3.773zm1.892-5.139h-1.043l-3.117 8.455h1.107l.85-2.42h3.363l.85 2.42h1.107zm14.868 4.5h-1.864v-3.562h1.864c1.224 0 1.898.639 1.898 1.799 0 1.119-.697 1.763-1.898 1.763zm.275-4.5h-3.193v8.455h1.054v-3.017h2.127c1.588 0 2.719-1.119 2.719-2.701 0-1.612-1.107-2.737-2.707-2.737z"/></svg></span><span class="globalnav-link-text">AirPods</span></span></a></li></ul></div><div data-analytics-element-engagement="globalnav hover - tv-home" class="
-				globalnav-item
-				globalnav-item-tv-home
-				globalnav-item-menu
-				
-			"><ul role="none" class="globalnav-submenu-trigger-group"><li class="globalnav-submenu-trigger-item"><a href="/in/tv-home/" data-globalnav-item-name="tv-home" data-topnav-flyout-trigger-compact data-analytics-title="tv &amp; home" data-analytics-element-engagement="hover - tv &amp; home" aria-label="TV and Home" class="globalnav-link globalnav-submenu-trigger-link globalnav-link-tv-home"><span class="globalnav-link-text-container"><span class="globalnav-image-regular globalnav-link-image"><svg height="44" viewBox="0 0 65 44" width="65" xmlns="http://www.w3.org/2000/svg"><path d="m4.3755 26v-7.5059h-2.7246v-.9492h6.5039v.9492h-2.7246v7.5059zm7.7314 0-3.1172-8.4551h1.1074l2.4844 7.0898h.0938l2.4844-7.0898h1.1074l-3.1172 8.4551zm13.981-.8438c-.7207.6328-1.7109 1.002-2.7363 1.002-1.6816 0-2.8594-.9961-2.8594-2.4141 0-1.002.5449-1.7637 1.6758-2.3613.0762-.0352.2344-.1172.3281-.1641-.7793-.8203-1.0605-1.3652-1.0605-1.9805 0-1.084.9199-1.8926 2.1562-1.8926 1.248 0 2.1562.7969 2.1562 1.9043 0 .8672-.5215 1.5-1.8281 2.1855l2.1152 2.2734c.2637-.5273.3984-1.2188.3984-2.2734v-.1465h.9844v.1523c0 1.3125-.2344 2.2676-.6973 2.9824l1.4708 1.5764h-1.3242zm-4.541-1.4824c0 .9492.7676 1.5938 1.8984 1.5938.7676 0 1.5586-.3047 2.0215-.791l-2.3906-2.6133c-.0645.0234-.2168.0996-.2988.1406-.8145.4219-1.2305 1.0078-1.2305 1.6699zm3.2109-4.3886c0-.6562-.4746-1.1016-1.1602-1.1016-.6738 0-1.1543.457-1.1543 1.1133 0 .4688.2402.8789.9082 1.541 1.0313-.5274 1.4063-.9492 1.4063-1.5527zm13.5176 6.7148v-3.8496h-4.6406v3.8496h-1.0547v-8.4551h1.0547v3.6562h4.6406v-3.6562h1.0547v8.4551zm2.6455-3.1582c0-2.0332 1.1133-3.2695 2.9121-3.2695s2.9121 1.2363 2.9121 3.2695c0 2.0273-1.1133 3.2695-2.9121 3.2695s-2.9121-1.2422-2.9121-3.2695zm4.7812 0c0-1.5-.6738-2.3613-1.8691-2.3613s-1.8691.8613-1.8691 2.3613c0 1.4941.6738 2.3613 1.8691 2.3613s1.8691-.8672 1.8691-2.3613zm2.5054-3.1582h.9609v.9961h.0938c.2871-.7031.9199-1.1074 1.7637-1.1074.8555 0 1.4531.4512 1.7461 1.1074h.0938c.3398-.668 1.0605-1.1074 1.9336-1.1074 1.2891 0 2.0098.7383 2.0098 2.0625v4.3652h-1.0078v-4.1309c0-.9316-.4395-1.3887-1.3301-1.3887-.8789 0-1.4648.6562-1.4648 1.459v4.0606h-1.0078v-4.2891c0-.75-.5215-1.2305-1.3184-1.2305-.8262 0-1.4648.7148-1.4648 1.6055v3.9141h-1.0078v-6.3164zm15.5127 4.6816c-.293 1.0781-1.2773 1.7461-2.6602 1.7461-1.752 0-2.8477-1.2656-2.8477-3.2637 0-1.9863 1.1133-3.2754 2.8477-3.2754 1.7051 0 2.7422 1.2129 2.7422 3.1758v.3867h-4.541v.0469c.0527 1.248.75 2.0391 1.8223 2.0391.8145 0 1.3652-.2988 1.6289-.8555zm-4.459-2.0449h3.4805c-.0234-1.1191-.6914-1.8574-1.6934-1.8574-1.0078 0-1.7109.7383-1.7871 1.8574z"/></svg></span><span class="globalnav-link-text">TV &amp; Home</span></span></a></li></ul></div><div data-analytics-element-engagement="globalnav hover - entertainment" class="
-				globalnav-item
-				globalnav-item-entertainment
-				globalnav-item-menu
-				
-			"><ul role="none" class="globalnav-submenu-trigger-group"><li class="globalnav-submenu-trigger-item"><a href="/in/entertainment/" data-globalnav-item-name="entertainment" data-topnav-flyout-trigger-compact data-analytics-title="entertainment" data-analytics-element-engagement="hover - entertainment" aria-label="Entertainment" class="globalnav-link globalnav-submenu-trigger-link globalnav-link-entertainment"><span class="globalnav-link-text-container"><span class="globalnav-image-regular globalnav-link-image"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 77 44" width="77" height="44"><path d="m0 17.4863h5.2383v.9492h-4.1836v2.7129h3.9668v.9375h-3.9668v2.9062h4.1836v.9492h-5.2383zm6.8994 2.1387h1.0195v.9492h.0938c.3164-.668.9082-1.0605 1.8398-1.0605 1.418 0 2.209.8379 2.209 2.3379v4.0898h-1.0195v-3.8438c0-1.1367-.4688-1.6816-1.4766-1.6816s-1.6465.6797-1.6465 1.7871v3.7383h-1.0195zm7.2803 4.6758v-3.832h-.9961v-.8438h.9961v-1.6348h1.0547v1.6348h1.3828v.8438h-1.3828v3.5742c0 .7441.2578 1.043.9141 1.043.1816 0 .2812-.0059.4688-.0234v.8672c-.1992.0352-.3926.0586-.5918.0586-1.3009-.0001-1.8458-.4806-1.8458-1.6876zm3.4365-1.4942v-.0059c0-1.9512 1.1133-3.2871 2.8301-3.2871s2.7598 1.2773 2.7598 3.1641v.3984h-4.5469c.0293 1.3066.75 2.0684 1.875 2.0684.8555 0 1.3828-.4043 1.5527-.7852l.0234-.0527h1.0195l-.0117.0469c-.2168.8555-1.1191 1.6992-2.6074 1.6992-1.8046 0-2.8945-1.2656-2.8945-3.2461zm1.0606-.5449h3.4922c-.1055-1.248-.7969-1.8398-1.7285-1.8398-.9376 0-1.6524.6386-1.7637 1.8398zm5.9912-2.6367h1.0195v.9375h.0938c.2402-.6621.832-1.0488 1.6875-1.0488.1934 0 .4102.0234.5098.041v.9902c-.2109-.0352-.4043-.0586-.627-.0586-.9727 0-1.6641.6152-1.6641 1.541v3.9141h-1.0195zm4.9658 4.6758v-3.832h-.9961v-.8438h.9961v-1.6348h1.0547v1.6348h1.3828v.8438h-1.3828v3.5742c0 .7441.2578 1.043.9141 1.043.1816 0 .2812-.0059.4688-.0234v.8672c-.1992.0352-.3926.0586-.5918.0586-1.3009-.0001-1.8458-.4806-1.8458-1.6876zm3.4658-.1231v-.0117c0-1.125.832-1.7754 2.3027-1.8633l1.8105-.1113v-.5742c0-.7793-.4746-1.2012-1.418-1.2012-.7559 0-1.2539.2812-1.418.7734l-.0059.0176h-1.0195l.0059-.0352c.1641-.9902 1.125-1.6582 2.4727-1.6582 1.541 0 2.4023.791 2.4023 2.1035v4.3242h-1.0195v-.9316h-.0938c-.3984.6738-1.0605 1.043-1.9102 1.043-1.201 0-2.1092-.7265-2.1092-1.875zm2.3203.9903c1.0371 0 1.793-.6797 1.793-1.582v-.5742l-1.6875.1055c-.9609.0586-1.3828.3984-1.3828 1.0254v.0117c0 .6386.5449 1.0136 1.2773 1.0136zm4.3926-7.4649c0-.3867.3164-.7031.7031-.7031s.7031.3164.7031.7031-.3164.7031-.7031.7031-.7031-.3164-.7031-.7031zm.1875 1.9219h1.0195v6.3164h-1.0195zm2.8213 0h1.0195v.9492h.0938c.3164-.668.9082-1.0605 1.8398-1.0605 1.418 0 2.209.8379 2.209 2.3379v4.0898h-1.0195v-3.8438c0-1.1367-.4688-1.6816-1.4766-1.6816s-1.6465.6797-1.6465 1.7871v3.7383h-1.0195zm6.8818 0h1.0195v.9609h.0938c.2812-.6797.8789-1.0723 1.7051-1.0723.8555 0 1.4531.4512 1.7461 1.1074h.0938c.3398-.668 1.0605-1.1074 1.9336-1.1074 1.2891 0 2.0098.7383 2.0098 2.0625v4.3652h-1.0195v-4.1309c0-.9316-.4277-1.3945-1.3184-1.3945-.8789 0-1.459.6621-1.459 1.4648v4.0605h-1.0195v-4.2891c0-.75-.5156-1.2363-1.3125-1.2363-.8262 0-1.4531.7207-1.4531 1.6113v3.9141h-1.0195v-6.3162zm10.0049 3.1816v-.0059c0-1.9512 1.1133-3.2871 2.8301-3.2871s2.7598 1.2773 2.7598 3.1641v.3984h-4.5469c.0293 1.3066.75 2.0684 1.875 2.0684.8555 0 1.3828-.4043 1.5527-.7852l.0234-.0527h1.0195l-.0116.0469c-.2168.8555-1.1191 1.6992-2.6074 1.6992-1.8047 0-2.8946-1.2656-2.8946-3.2461zm1.0606-.5449h3.4922c-.1055-1.248-.7969-1.8398-1.7285-1.8398-.9376 0-1.6524.6386-1.7637 1.8398zm5.9912-2.6367h1.0195v.9492h.0938c.3164-.668.9082-1.0605 1.8398-1.0605 1.418 0 2.209.8379 2.209 2.3379v4.0898h-1.0195v-3.8438c0-1.1367-.4688-1.6816-1.4766-1.6816s-1.6465.6797-1.6465 1.7871v3.7383h-1.0195zm7.2802 4.6758v-3.832h-.9961v-.8438h.9961v-1.6348h1.0547v1.6348h1.3828v.8438h-1.3828v3.5742c0 .7441.2578 1.043.9141 1.043.1816 0 .2812-.0059.4688-.0234v.8672c-.1992.0352-.3926.0586-.5918.0586-1.3008-.0001-1.8458-.4806-1.8458-1.6876z"/></svg></span><span class="globalnav-link-text">Entertainment</span></span></a></li></ul></div><div data-analytics-element-engagement="globalnav hover - accessories" class="
-				globalnav-item
-				globalnav-item-accessories
-				globalnav-item-menu
-				
-			"><ul role="none" class="globalnav-submenu-trigger-group"><li class="globalnav-submenu-trigger-item"><a href="/in/shop/goto/buy_accessories" data-globalnav-item-name="accessories" data-topnav-flyout-trigger-compact data-analytics-title="accessories" data-analytics-element-engagement="hover - accessories" aria-label="Accessories" class="globalnav-link globalnav-submenu-trigger-link globalnav-link-accessories"><span class="globalnav-link-text-container"><span class="globalnav-image-regular globalnav-link-image"><svg height="44" viewBox="0 0 67 44" width="67" xmlns="http://www.w3.org/2000/svg"><path d="m5.6603 23.5715h-3.3633l-.8496 2.4199h-1.1074l3.1172-8.4551h1.043l3.1172 8.4551h-1.1075zm-3.0527-.8965h2.7422l-1.3242-3.7734h-.0938zm10.0986-1.0664c-.1641-.627-.7207-1.1367-1.6289-1.1367-1.1367 0-1.8516.9082-1.8516 2.3379 0 1.459.7266 2.3848 1.8516 2.3848.8496 0 1.4414-.3926 1.6289-1.1074h1.0195c-.1816 1.1602-1.125 2.0156-2.6426 2.0156-1.7695 0-2.9004-1.2832-2.9004-3.293 0-1.9688 1.125-3.2461 2.8945-3.2461 1.5352 0 2.4727.9199 2.6484 2.0449zm6.5947 0c-.1641-.627-.7207-1.1367-1.6289-1.1367-1.1367 0-1.8516.9082-1.8516 2.3379 0 1.459.7266 2.3848 1.8516 2.3848.8496 0 1.4414-.3926 1.6289-1.1074h1.0195c-.1816 1.1602-1.125 2.0156-2.6426 2.0156-1.7695 0-2.9004-1.2832-2.9004-3.293 0-1.9688 1.125-3.2461 2.8945-3.2461 1.5352 0 2.4727.9199 2.6484 2.0449zm7.5796 2.748c-.293 1.0781-1.2773 1.7461-2.6602 1.7461-1.752 0-2.8477-1.2656-2.8477-3.2637 0-1.9863 1.1133-3.2754 2.8477-3.2754 1.7051 0 2.7422 1.2129 2.7422 3.1758v.3867h-4.541v.0469c.0527 1.248.75 2.0391 1.8223 2.0391.8145 0 1.3652-.2988 1.6289-.8555zm-4.459-2.0449h3.4805c-.0234-1.1191-.6914-1.8574-1.6934-1.8574-1.0078 0-1.7109.7383-1.7871 1.8574zm8.212-2.748c1.3242 0 2.2441.6562 2.3789 1.6934h-.9961c-.1348-.5039-.627-.8379-1.3887-.8379-.75 0-1.3359.3809-1.3359.9434 0 .4336.3516.7031 1.0957.8848l.9727.2344c1.1895.2871 1.7637.8027 1.7637 1.7109 0 1.1309-1.0957 1.9102-2.5312 1.9102-1.4062 0-2.373-.6738-2.4844-1.7227h1.0371c.1699.5332.6738.873 1.4824.873.8496 0 1.459-.4043 1.459-.9844 0-.4336-.3281-.7266-1.002-.8906l-1.084-.2637c-1.1836-.2871-1.7227-.7969-1.7227-1.7109 0-1.0489 1.0137-1.8399 2.3555-1.8399zm6.0439 0c1.3242 0 2.2441.6562 2.3789 1.6934h-.9961c-.1348-.5039-.627-.8379-1.3887-.8379-.75 0-1.3359.3809-1.3359.9434 0 .4336.3516.7031 1.0957.8848l.9727.2344c1.1895.2871 1.7637.8027 1.7637 1.7109 0 1.1309-1.0957 1.9102-2.5312 1.9102-1.4062 0-2.373-.6738-2.4844-1.7227h1.0371c.1699.5332.6738.873 1.4824.873.8496 0 1.459-.4043 1.459-.9844 0-.4336-.3281-.7266-1.002-.8906l-1.084-.2637c-1.1836-.2871-1.7227-.7969-1.7227-1.7109 0-1.0489 1.0137-1.8399 2.3555-1.8399zm3.6357 3.2695c0-2.0332 1.1133-3.2695 2.9121-3.2695s2.9121 1.2363 2.9121 3.2695c0 2.0273-1.1133 3.2695-2.9121 3.2695s-2.9121-1.2422-2.9121-3.2695zm4.7813 0c0-1.5-.6738-2.3613-1.8691-2.3613s-1.8691.8613-1.8691 2.3613c0 1.4941.6738 2.3613 1.8691 2.3613s1.8691-.8672 1.8691-2.3613zm2.5054-3.1582h.9609v.9375h.0938c.1875-.6152.9141-1.0488 1.752-1.0488.1641 0 .375.0117.5039.0293v1.0078c-.082-.0234-.4453-.0586-.6445-.0586-.9609 0-1.6582.6445-1.6582 1.5352v3.9141h-1.0078v-6.3165zm4.2744-1.9219c0-.3867.3164-.7031.7031-.7031s.7031.3164.7031.7031-.3164.7031-.7031.7031-.7031-.3164-.7031-.7031zm.1992 1.9219h1.0078v6.3164h-1.0078zm8.001 4.6816c-.293 1.0781-1.2773 1.7461-2.6602 1.7461-1.752 0-2.8477-1.2656-2.8477-3.2637 0-1.9863 1.1133-3.2754 2.8477-3.2754 1.7051 0 2.7422 1.2129 2.7422 3.1758v.3867h-4.541v.0469c.0527 1.248.75 2.0391 1.8223 2.0391.8145 0 1.3652-.2988 1.6289-.8555zm-4.459-2.0449h3.4805c-.0234-1.1191-.6914-1.8574-1.6934-1.8574-1.0078 0-1.7109.7383-1.7871 1.8574zm8.2119-2.748c1.3242 0 2.2441.6562 2.3789 1.6934h-.9961c-.1348-.5039-.627-.8379-1.3887-.8379-.75 0-1.3359.3809-1.3359.9434 0 .4336.3516.7031 1.0957.8848l.9727.2344c1.1895.2871 1.7637.8027 1.7637 1.7109 0 1.1309-1.0957 1.9102-2.5312 1.9102-1.4062 0-2.373-.6738-2.4844-1.7227h1.0371c.1699.5332.6738.873 1.4824.873.8496 0 1.459-.4043 1.459-.9844 0-.4336-.3281-.7266-1.002-.8906l-1.084-.2637c-1.1836-.2871-1.7227-.7969-1.7227-1.7109 0-1.0489 1.0137-1.8399 2.3555-1.8399z"/></svg></span><span class="globalnav-link-text">Accessories</span></span></a></li></ul></div><div data-analytics-element-engagement="globalnav hover - support" class="
-				globalnav-item
-				globalnav-item-support
-				globalnav-item-menu
-				
-			"><ul role="none" class="globalnav-submenu-trigger-group"><li class="globalnav-submenu-trigger-item"><a href="https://support.apple.com/en-in/?cid=gn-ols-home-hp-tab" data-globalnav-item-name="support" data-topnav-flyout-trigger-compact data-analytics-title="support" data-analytics-element-engagement="hover - support" data-analytics-exit-link="true" aria-label="Support" class="globalnav-link globalnav-submenu-trigger-link globalnav-link-support"><span class="globalnav-link-text-container"><span class="globalnav-image-regular globalnav-link-image"><svg height="44" viewBox="0 0 44 44" width="44" xmlns="http://www.w3.org/2000/svg"><path d="m42.1206 18.0337v1.635h1.406v.844h-1.406v3.574c0 .744.281 1.06.937 1.06.182 0 .282-.006.469-.023v.849c-.199.036-.392.059-.592.059-1.3 0-1.822-.48-1.822-1.687v-3.832h-1.019v-.844h1.019v-1.635zm-6.131 1.635h.961v.937h.093c.188-.615.914-1.049 1.752-1.049.164 0 .375.012.504.03v1.008c-.082-.024-.445-.059-.644-.059-.961 0-1.659.644-1.659 1.535v3.914h-1.007zm-2.463 3.158c0-1.5-.674-2.361-1.869-2.361s-1.869.861-1.869 2.361c0 1.494.674 2.361 1.869 2.361s1.869-.867 1.869-2.361zm-4.781 0c0-2.033 1.113-3.27 2.912-3.27s2.912 1.237 2.912 3.27c0 2.027-1.113 3.27-2.912 3.27s-2.912-1.243-2.912-3.27zm-2.108 0c0-1.477-.692-2.361-1.846-2.361-1.143 0-1.863.908-1.863 2.361 0 1.447.72 2.361 1.857 2.361 1.16 0 1.852-.884 1.852-2.361zm1.043 0c0 1.975-1.049 3.27-2.655 3.27-.902 0-1.629-.393-1.974-1.061h-.094v3.059h-1.008v-8.426h.961v1.054h.094c.404-.726 1.16-1.166 2.021-1.166 1.612 0 2.655 1.284 2.655 3.27zm-8.048 0c0-1.477-.691-2.361-1.845-2.361-1.143 0-1.864.908-1.864 2.361 0 1.447.721 2.361 1.858 2.361 1.16 0 1.851-.884 1.851-2.361zm1.043 0c0 1.975-1.049 3.27-2.654 3.27-.902 0-1.629-.393-1.975-1.061h-.093v3.059h-1.008v-8.426h.961v1.054h.093c.405-.726 1.161-1.166 2.022-1.166 1.611 0 2.654 1.284 2.654 3.27zm-7.645 3.158h-.961v-.99h-.094c-.316.703-.99 1.102-1.957 1.102-1.418 0-2.156-.844-2.156-2.338v-4.09h1.008v3.844c0 1.136.422 1.664 1.43 1.664 1.113 0 1.722-.663 1.722-1.77v-3.738h1.008zm-11.69-2.209c.129.885.972 1.447 2.174 1.447 1.136 0 1.974-.615 1.974-1.453 0-.72-.527-1.177-1.693-1.47l-1.084-.282c-1.529-.386-2.192-1.078-2.192-2.279 0-1.435 1.202-2.408 2.989-2.408 1.634 0 2.853.973 2.941 2.338h-1.06c-.147-.867-.862-1.383-1.916-1.383-1.125 0-1.87.562-1.87 1.418 0 .662.463 1.043 1.629 1.342l.885.234c1.752.44 2.455 1.119 2.455 2.361 0 1.553-1.224 2.543-3.158 2.543-1.793 0-3.029-.949-3.141-2.408z"/></svg></span><span class="globalnav-link-text">Support</span></span></a></li></ul></div></div></div></li><li data-topnav-flyout-label="Search apple.com" data-analytics-title="open - search field" class="globalnav-item globalnav-search"><a role="button" id="globalnav-menubutton-link-search" href="/in/search" data-topnav-flyout-trigger-regular data-topnav-flyout-trigger-compact aria-label="Search apple.com" data-analytics-title="open - search field" class="globalnav-link globalnav-link-search"><span class="globalnav-image-regular"><svg xmlns="http://www.w3.org/2000/svg" width="15px" height="44px" viewBox="0 0 15 44">
-<path d="M14.298,27.202l-3.87-3.87c0.701-0.929,1.122-2.081,1.122-3.332c0-3.06-2.489-5.55-5.55-5.55c-3.06,0-5.55,2.49-5.55,5.55 c0,3.061,2.49,5.55,5.55,5.55c1.251,0,2.403-0.421,3.332-1.122l3.87,3.87c0.151,0.151,0.35,0.228,0.548,0.228 s0.396-0.076,0.548-0.228C14.601,27.995,14.601,27.505,14.298,27.202z M1.55,20c0-2.454,1.997-4.45,4.45-4.45 c2.454,0,4.45,1.997,4.45,4.45S8.454,24.45,6,24.45C3.546,24.45,1.55,22.454,1.55,20z"/>
-</svg>
-</span><span class="globalnav-image-compact"><svg height="48" viewBox="0 0 17 48" width="17" xmlns="http://www.w3.org/2000/svg"><path d="m16.2294 29.9556-4.1755-4.0821a6.4711 6.4711 0 1 0 -1.2839 1.2625l4.2005 4.1066a.9.9 0 1 0 1.2588-1.287zm-14.5294-8.0017a5.2455 5.2455 0 1 1 5.2455 5.2527 5.2549 5.2549 0 0 1 -5.2455-5.2527z"/></svg></span></a><div id="globalnav-submenu-search" aria-labelledby="globalnav-menubutton-link-search" class="globalnav-flyout globalnav-submenu"><div class="globalnav-flyout-scroll-container"><div class="globalnav-flyout-content globalnav-submenu-content"><form action="/in/search" method="get" class="globalnav-searchfield"><div class="globalnav-searchfield-wrapper"><input placeholder="Search apple.com" aria-label="Search apple.com" autoCorrect="off" autoCapitalize="off" autoComplete="off" class="globalnav-searchfield-input" /><input id="globalnav-searchfield-src" type="hidden" name="src" value /><input type="hidden" name="type" value /><input type="hidden" name="page" value /><input type="hidden" name="locale" value /><button aria-label="Clear search" tabIndex="-1" type="button" class="globalnav-searchfield-reset"><span class="globalnav-image-regular"><svg height="14" viewBox="0 0 14 14" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m7 .0339a6.9661 6.9661 0 1 0 6.9661 6.9661 6.9661 6.9661 0 0 0 -6.9661-6.9661zm2.798 8.9867a.55.55 0 0 1 -.778.7774l-2.02-2.02-2.02 2.02a.55.55 0 0 1 -.7784-.7774l2.0206-2.0206-2.0204-2.02a.55.55 0 0 1 .7782-.7778l2.02 2.02 2.02-2.02a.55.55 0 0 1 .778.7778l-2.0203 2.02z"/></svg></span><span class="globalnav-image-compact"><svg height="16" viewBox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"><path d="m0 8a8.0474 8.0474 0 0 1 7.9922-8 8.0609 8.0609 0 0 1 8.0078 8 8.0541 8.0541 0 0 1 -8 8 8.0541 8.0541 0 0 1 -8-8zm5.6549 3.2863 2.3373-2.353 2.3451 2.353a.6935.6935 0 0 0 .4627.1961.6662.6662 0 0 0 .6667-.6667.6777.6777 0 0 0 -.1961-.4706l-2.3451-2.3373 2.3529-2.3607a.5943.5943 0 0 0 .1961-.4549.66.66 0 0 0 -.6667-.6589.6142.6142 0 0 0 -.447.1961l-2.3686 2.3606-2.353-2.3527a.6152.6152 0 0 0 -.447-.1883.6529.6529 0 0 0 -.6667.651.6264.6264 0 0 0 .1961.4549l2.3451 2.3529-2.3451 2.353a.61.61 0 0 0 -.1961.4549.6661.6661 0 0 0 .6667.6667.6589.6589 0 0 0 .4627-.1961z" /></svg></span></button><button aria-label="Submit search" tabIndex="-1" aria-hidden="true" type="submit" class="globalnav-searchfield-submit"><span class="globalnav-image-regular"><svg height="32" viewBox="0 0 30 32" width="30" xmlns="http://www.w3.org/2000/svg"><path d="m23.3291 23.3066-4.35-4.35c-.0105-.0105-.0247-.0136-.0355-.0235a6.8714 6.8714 0 1 0 -1.5736 1.4969c.0214.0256.03.0575.0542.0815l4.35 4.35a1.1 1.1 0 1 0 1.5557-1.5547zm-15.4507-8.582a5.6031 5.6031 0 1 1 5.603 5.61 5.613 5.613 0 0 1 -5.603-5.61z"/></svg></span><span class="globalnav-image-compact"><svg width="38" height="40" viewBox="0 0 38 40" xmlns="http://www.w3.org/2000/svg"><path d="m28.6724 27.8633-5.07-5.07c-.0095-.0095-.0224-.0122-.032-.0213a7.9967 7.9967 0 1 0 -1.8711 1.7625c.0254.03.0357.0681.0642.0967l5.07 5.07a1.3 1.3 0 0 0 1.8389-1.8379zm-18.0035-10.0033a6.5447 6.5447 0 1 1 6.545 6.5449 6.5518 6.5518 0 0 1 -6.545-6.5449z"/></svg></span></button></div><div role="status" aria-live="polite" data-topnav-searchresults-label="total results" class="globalnav-searchresults-count"></div></form><div class="globalnav-searchresults"></div></div></div></div></li><li id="globalnav-bag" data-analytics-region="bag" class="globalnav-item globalnav-bag"><div class="globalnav-bag-wrapper"><a role="button" id="globalnav-menubutton-link-bag" href="/in/shop/goto/bag" aria-label="Shopping Bag" data-globalnav-item-name="bag" data-topnav-flyout-trigger-regular data-topnav-flyout-trigger-compact data-analytics-title="open - bag" class="globalnav-link globalnav-link-bag"><span class="globalnav-image-regular"><svg height="44" viewBox="0 0 14 44" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m11.3535 16.0283h-1.0205a3.4229 3.4229 0 0 0 -3.333-2.9648 3.4229 3.4229 0 0 0 -3.333 2.9648h-1.02a2.1184 2.1184 0 0 0 -2.117 2.1162v7.7155a2.1186 2.1186 0 0 0 2.1162 2.1167h8.707a2.1186 2.1186 0 0 0 2.1168-2.1167v-7.7155a2.1184 2.1184 0 0 0 -2.1165-2.1162zm-4.3535-1.8652a2.3169 2.3169 0 0 1 2.2222 1.8652h-4.4444a2.3169 2.3169 0 0 1 2.2222-1.8652zm5.37 11.6969a1.0182 1.0182 0 0 1 -1.0166 1.0171h-8.7069a1.0182 1.0182 0 0 1 -1.0165-1.0171v-7.7155a1.0178 1.0178 0 0 1 1.0166-1.0166h8.707a1.0178 1.0178 0 0 1 1.0164 1.0166z"/></svg></span><span class="globalnav-image-compact"><svg height="48" viewBox="0 0 17 48" width="17" xmlns="http://www.w3.org/2000/svg"><path d="m13.4575 16.9268h-1.1353a3.8394 3.8394 0 0 0 -7.6444 0h-1.1353a2.6032 2.6032 0 0 0 -2.6 2.6v8.9232a2.6032 2.6032 0 0 0 2.6 2.6h9.915a2.6032 2.6032 0 0 0 2.6-2.6v-8.9231a2.6032 2.6032 0 0 0 -2.6-2.6001zm-4.9575-2.2768a2.658 2.658 0 0 1 2.6221 2.2764h-5.2442a2.658 2.658 0 0 1 2.6221-2.2764zm6.3574 13.8a1.4014 1.4014 0 0 1 -1.4 1.4h-9.9149a1.4014 1.4014 0 0 1 -1.4-1.4v-8.9231a1.4014 1.4014 0 0 1 1.4-1.4h9.915a1.4014 1.4014 0 0 1 1.4 1.4z"/></svg></span></a><span aria-hidden="true" data-analytics-title="open - bag" class="globalnav-bag-badge"><span class="globalnav-bag-badge-separator"></span><span class="globalnav-bag-badge-number">0</span><span class="globalnav-bag-badge-unit">+</span></span></div><div id="globalnav-submenu-bag" aria-labelledby="globalnav-menubutton-link-bag" class="globalnav-flyout globalnav-submenu"><div class="globalnav-flyout-scroll-container"><div class="globalnav-flyout-content globalnav-submenu-content"></div></div></div></li></ul><div class="globalnav-menutrigger"><button id="globalnav-menutrigger-button" aria-controls="globalnav-list" aria-label="Menu" data-topnav-menu-label-open="Menu" data-topnav-menu-label-close="Close" data-topnav-flyout-trigger-compact="menu" class="globalnav-menutrigger-button"><svg width="18" height="18" viewBox="0 0 18 18"><polyline id="globalnav-menutrigger-bread-bottom" fill="none" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" points="2 12, 16 12" class="globalnav-menutrigger-bread globalnav-menutrigger-bread-bottom"><animate id="globalnav-anim-menutrigger-bread-bottom-open" attributeName="points" keyTimes="0;0.5;1" dur="0.24s" begin="indefinite" fill="freeze" calcMode="spline" keySplines="0.42, 0, 1, 1;0, 0, 0.58, 1" values=" 2 12, 16 12; 2 9, 16 9; 3.5 15, 15 3.5"></animate><animate id="globalnav-anim-menutrigger-bread-bottom-close" attributeName="points" keyTimes="0;0.5;1" dur="0.24s" begin="indefinite" fill="freeze" calcMode="spline" keySplines="0.42, 0, 1, 1;0, 0, 0.58, 1" values=" 3.5 15, 15 3.5; 2 9, 16 9; 2 12, 16 12"></animate></polyline><polyline id="globalnav-menutrigger-bread-top" fill="none" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" points="2 5, 16 5" class="globalnav-menutrigger-bread globalnav-menutrigger-bread-top"><animate id="globalnav-anim-menutrigger-bread-top-open" attributeName="points" keyTimes="0;0.5;1" dur="0.24s" begin="indefinite" fill="freeze" calcMode="spline" keySplines="0.42, 0, 1, 1;0, 0, 0.58, 1" values=" 2 5, 16 5; 2 9, 16 9; 3.5 3.5, 15 15"></animate><animate id="globalnav-anim-menutrigger-bread-top-close" attributeName="points" keyTimes="0;0.5;1" dur="0.24s" begin="indefinite" fill="freeze" calcMode="spline" keySplines="0.42, 0, 1, 1;0, 0, 0.58, 1" values=" 3.5 3.5, 15 15; 2 9, 16 9; 2 5, 16 5"></animate></polyline></svg></button></div></div></nav><div id="globalnav-curtain" class="globalnav-curtain"></div><div id="globalnav-placeholder" class="globalnav-placeholder"></div></div><script id="__ACGH_DATA__" type="application/json">{"props":{"globalNavData":{"locale":"en_IN","ariaLabel":"Global","analyticsAttributes":[{"name":"data-analytics-activitymap-region-id","value":"global nav"},{"name":"data-analytics-region","value":"global nav"}],"links":[{"id":"3fb330dc47293817393ff111c42bb9be63082c97ccb90d295de2ac276eac3f05","name":"apple","text":"Apple","url":"/in/","ariaLabel":"Apple","submenuAriaLabel":"Apple menu","images":[{"name":"regular","assetInline":"<svg height=\"44\" viewBox=\"0 0 14 44\" width=\"14\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m13.0729 17.6825a3.61 3.61 0 0 0 -1.7248 3.0365 3.5132 3.5132 0 0 0 2.1379 3.2223 8.394 8.394 0 0 1 -1.0948 2.2618c-.6816.9812-1.3943 1.9623-2.4787 1.9623s-1.3633-.63-2.613-.63c-1.2187 0-1.6525.6507-2.644.6507s-1.6834-.9089-2.4787-2.0243a9.7842 9.7842 0 0 1 -1.6628-5.2776c0-3.0984 2.014-4.7405 3.9969-4.7405 1.0535 0 1.9314.6919 2.5924.6919.63 0 1.6112-.7333 2.8092-.7333a3.7579 3.7579 0 0 1 3.1604 1.5802zm-3.7284-2.8918a3.5615 3.5615 0 0 0 .8469-2.22 1.5353 1.5353 0 0 0 -.031-.32 3.5686 3.5686 0 0 0 -2.3445 1.2084 3.4629 3.4629 0 0 0 -.8779 2.1585 1.419 1.419 0 0 0 .031.2892 1.19 1.19 0 0 0 .2169.0207 3.0935 3.0935 0 0 0 2.1586-1.1368z\"/></svg>"},{"name":"compact","assetInline":"<svg height=\"48\" viewBox=\"0 0 17 48\" width=\"17\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m15.5752 19.0792a4.2055 4.2055 0 0 0 -2.01 3.5376 4.0931 4.0931 0 0 0 2.4908 3.7542 9.7779 9.7779 0 0 1 -1.2755 2.6351c-.7941 1.1431-1.6244 2.2862-2.8878 2.2862s-1.5883-.734-3.0443-.734c-1.42 0-1.9252.7581-3.08.7581s-1.9611-1.0589-2.8876-2.3584a11.3987 11.3987 0 0 1 -1.9373-6.1487c0-3.61 2.3464-5.523 4.6566-5.523 1.2274 0 2.25.8062 3.02.8062.734 0 1.8771-.8543 3.2729-.8543a4.3778 4.3778 0 0 1 3.6822 1.841zm-6.8586-2.0456a1.3865 1.3865 0 0 1 -.2527-.024 1.6557 1.6557 0 0 1 -.0361-.337 4.0341 4.0341 0 0 1 1.0228-2.5148 4.1571 4.1571 0 0 1 2.7314-1.4078 1.7815 1.7815 0 0 1 .0361.373 4.1487 4.1487 0 0 1 -.9867 2.587 3.6039 3.6039 0 0 1 -2.5148 1.3236z\"/></svg>"}],"analyticsAttributes":[{"name":"data-analytics-title","value":"apple home"}]},{"id":"a96483c1eec18632d3daa2a71f4da4f3c95c5529e76c369634a282aa22fcbb26","name":"store","text":"Store","url":"/in/shop/goto/store","ariaLabel":"Store","submenuAriaLabel":"Store menu","images":[{"name":"regular","assetInline":"<svg height=\"44\" viewBox=\"0 0 30 44\" width=\"30\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m26.5679 20.4629c1.002 0 1.67.738 1.693 1.857h-3.48c.076-1.119.779-1.857 1.787-1.857zm2.754 2.672v-.387c0-1.963-1.037-3.176-2.742-3.176-1.735 0-2.848 1.289-2.848 3.276 0 1.998 1.096 3.263 2.848 3.263 1.383 0 2.367-.668 2.66-1.746h-1.008c-.264.557-.814.856-1.629.856-1.072 0-1.769-.791-1.822-2.039v-.047zm-9.547-3.451h.96v.937h.094c.188-.615.914-1.049 1.752-1.049.164 0 .375.012.504.03v1.007c-.082-.023-.445-.058-.644-.058-.961 0-1.659 1.098-1.659 1.535v3.914h-1.007zm-4.27 5.519c-1.195 0-1.869-.867-1.869-2.361 0-1.5.674-2.361 1.869-2.361 1.196 0 1.87.861 1.87 2.361 0 1.494-.674 2.361-1.87 2.361zm0-5.631c-1.798 0-2.912 1.237-2.912 3.27 0 2.027 1.114 3.269 2.912 3.269 1.799 0 2.913-1.242 2.913-3.269 0-2.033-1.114-3.27-2.913-3.27zm-5.478-1.475v1.635h1.407v.843h-1.407v3.575c0 .744.282 1.06.938 1.06.182 0 .281-.006.469-.023v.849c-.199.035-.393.059-.592.059-1.301 0-1.822-.481-1.822-1.688v-3.832h-1.02v-.843h1.02v-1.635zm-8.103 5.694c.129.885.973 1.447 2.174 1.447 1.137 0 1.975-.615 1.975-1.453 0-.72-.527-1.177-1.693-1.47l-1.084-.282c-1.53-.386-2.192-1.078-2.192-2.279 0-1.436 1.201-2.408 2.988-2.408 1.635 0 2.854.972 2.942 2.338h-1.061c-.146-.867-.861-1.383-1.916-1.383-1.125 0-1.869.562-1.869 1.418 0 .662.463 1.043 1.629 1.342l.885.234c1.752.439 2.455 1.119 2.455 2.361 0 1.553-1.225 2.543-3.158 2.543-1.793 0-3.03-.949-3.141-2.408z\"/></svg>"}],"analyticsAttributes":[{"name":"data-analytics-title","value":"store"},{"name":"data-analytics-element-engagement","value":"hover - store"}]},{"id":"3ada34e35eed1caa2897150173da62842f8cb0358a79db3553887fba01324307","name":"mac","text":"Mac","url":"/in/mac/","ariaLabel":"Mac","submenuAriaLabel":"Mac menu","images":[{"name":"regular","assetInline":"<svg height=\"44\" viewBox=\"0 0 23 44\" width=\"23\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m8.1558 25.9987v-6.457h-.0703l-2.666 6.457h-.8907l-2.666-6.457h-.0703v6.457h-.9844v-8.4551h1.2246l2.8945 7.0547h.0938l2.8945-7.0547h1.2246v8.4551zm2.5166-1.7696c0-1.1309.832-1.7812 2.3027-1.8691l1.8223-.1113v-.5742c0-.7793-.4863-1.207-1.4297-1.207-.7559 0-1.2832.2871-1.4238.7852h-1.0195c.1348-1.0137 1.1309-1.6816 2.4785-1.6816 1.541 0 2.4023.791 2.4023 2.1035v4.3242h-.9609v-.9318h-.0938c-.4102.6738-1.1016 1.043-1.9453 1.043-1.2246 0-2.1328-.7266-2.1328-1.8809zm4.125-.5859v-.5801l-1.6992.1113c-.9609.0645-1.3828.3984-1.3828 1.0312 0 .6445.5449 1.0195 1.2773 1.0195 1.0371.0001 1.8047-.6796 1.8047-1.5819zm6.958-2.0273c-.1641-.627-.7207-1.1367-1.6289-1.1367-1.1367 0-1.8516.9082-1.8516 2.3379 0 1.459.7266 2.3848 1.8516 2.3848.8496 0 1.4414-.3926 1.6289-1.1074h1.0195c-.1816 1.1602-1.125 2.0156-2.6426 2.0156-1.7695 0-2.9004-1.2832-2.9004-3.293 0-1.9688 1.125-3.2461 2.8945-3.2461 1.5352 0 2.4727.9199 2.6484 2.0449z\"/></svg>"}],"analyticsAttributes":[{"name":"data-analytics-title","value":"mac"},{"name":"data-analytics-element-engagement","value":"hover - mac"}]},{"id":"4d633ae6acb372fef439d4d22b3f65c9084ef4649cef94fbf38f17a80fd0d4a6","name":"ipad","text":"iPad","url":"/in/ipad/","ariaLabel":"iPad","submenuAriaLabel":"iPad menu","images":[{"name":"regular","assetInline":"<svg height=\"44\" viewBox=\"0 0 24 44\" width=\"24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m14.9575 23.7002c0 .902-.768 1.582-1.805 1.582-.732 0-1.277-.375-1.277-1.02 0-.632.422-.966 1.383-1.031l1.699-.111zm-1.395-4.072c-1.347 0-2.343.668-2.478 1.681h1.019c.141-.498.668-.785 1.424-.785.944 0 1.43.428 1.43 1.207v.574l-1.822.112c-1.471.088-2.303.738-2.303 1.869 0 1.154.908 1.881 2.133 1.881.844 0 1.535-.369 1.945-1.043h.094v.931h.961v-4.324c0-1.312-.862-2.103-2.403-2.103zm6.769 5.575c-1.155 0-1.846-.885-1.846-2.361 0-1.471.697-2.362 1.846-2.362 1.142 0 1.857.914 1.857 2.362 0 1.459-.709 2.361-1.857 2.361zm1.834-8.027v3.503h-.088c-.358-.691-1.102-1.107-1.981-1.107-1.605 0-2.654 1.289-2.654 3.27 0 1.986 1.037 3.269 2.654 3.269.873 0 1.623-.416 2.022-1.119h.093v1.008h.961v-8.824zm-15.394 4.869h-1.863v-3.563h1.863c1.225 0 1.899.639 1.899 1.799 0 1.119-.697 1.764-1.899 1.764zm.276-4.5h-3.194v8.455h1.055v-3.018h2.127c1.588 0 2.719-1.119 2.719-2.701 0-1.611-1.108-2.736-2.707-2.736zm-6.064 8.454h1.008v-6.316h-1.008zm-.199-8.237c0-.387.316-.704.703-.704s.703.317.703.704c0 .386-.316.703-.703.703s-.703-.317-.703-.703z\"/></svg>"}],"analyticsAttributes":[{"name":"data-analytics-title","value":"ipad"},{"name":"data-analytics-element-engagement","value":"hover - ipad"}]},{"id":"1abe6eef1598252c50862c714f61f28340c42a1c50315213808443a818aa1784","name":"iphone","text":"iPhone","url":"/in/iphone/","ariaLabel":"iPhone","submenuAriaLabel":"iPhone menu","images":[{"name":"regular","assetInline":"<svg height=\"44\" viewBox=\"0 0 38 44\" width=\"38\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m32.7129 22.3203h3.48c-.023-1.119-.691-1.857-1.693-1.857-1.008 0-1.711.738-1.787 1.857zm4.459 2.045c-.293 1.078-1.277 1.746-2.66 1.746-1.752 0-2.848-1.266-2.848-3.264 0-1.986 1.113-3.275 2.848-3.275 1.705 0 2.742 1.213 2.742 3.176v.386h-4.541v.047c.053 1.248.75 2.039 1.822 2.039.815 0 1.366-.298 1.629-.855zm-12.282-4.682h.961v.996h.094c.316-.697.932-1.107 1.898-1.107 1.418 0 2.209.838 2.209 2.338v4.09h-1.007v-3.844c0-1.137-.481-1.676-1.489-1.676s-1.658.674-1.658 1.781v3.739h-1.008zm-2.499 3.158c0-1.5-.674-2.361-1.869-2.361-1.196 0-1.87.861-1.87 2.361 0 1.495.674 2.362 1.87 2.362 1.195 0 1.869-.867 1.869-2.362zm-4.782 0c0-2.033 1.114-3.269 2.913-3.269 1.798 0 2.912 1.236 2.912 3.269 0 2.028-1.114 3.27-2.912 3.27-1.799 0-2.913-1.242-2.913-3.27zm-6.636-5.666h1.008v3.504h.093c.317-.697.979-1.107 1.946-1.107 1.336 0 2.179.855 2.179 2.338v4.09h-1.007v-3.844c0-1.119-.504-1.676-1.459-1.676-1.131 0-1.752.715-1.752 1.781v3.739h-1.008zm-6.015 4.87h1.863c1.202 0 1.899-.645 1.899-1.764 0-1.16-.674-1.799-1.899-1.799h-1.863zm2.139-4.5c1.599 0 2.707 1.125 2.707 2.736 0 1.582-1.131 2.701-2.719 2.701h-2.127v3.018h-1.055v-8.455zm-6.114 8.454h1.008v-6.316h-1.008zm-.2-8.238c0-.386.317-.703.703-.703.387 0 .704.317.704.703 0 .387-.317.704-.704.704-.386 0-.703-.317-.703-.704z\"/></svg>"}],"analyticsAttributes":[{"name":"data-analytics-title","value":"iphone"},{"name":"data-analytics-element-engagement","value":"hover - iphone"}]},{"id":"1498d0c809097cdb86fe06f784aef5f40d8405d8de91c8fc1c3ae1c030129394","name":"watch","text":"Watch","url":"/in/watch/","ariaLabel":"Watch","submenuAriaLabel":"Watch menu","images":[{"name":"regular","assetInline":"<svg height=\"44\" viewBox=\"0 0 35 44\" width=\"35\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m28.9819 17.1758h1.008v3.504h.094c.316-.697.978-1.108 1.945-1.108 1.336 0 2.18.856 2.18 2.338v4.09h-1.008v-3.844c0-1.119-.504-1.675-1.459-1.675-1.131 0-1.752.715-1.752 1.781v3.738h-1.008zm-2.42 4.441c-.164-.627-.721-1.136-1.629-1.136-1.137 0-1.852.908-1.852 2.338 0 1.459.727 2.384 1.852 2.384.849 0 1.441-.392 1.629-1.107h1.019c-.182 1.16-1.125 2.016-2.642 2.016-1.77 0-2.901-1.284-2.901-3.293 0-1.969 1.125-3.247 2.895-3.247 1.535 0 2.472.92 2.648 2.045zm-6.533-3.568v1.635h1.407v.844h-1.407v3.574c0 .744.282 1.06.938 1.06.182 0 .281-.006.469-.023v.85c-.2.035-.393.058-.592.058-1.301 0-1.822-.48-1.822-1.687v-3.832h-1.02v-.844h1.02v-1.635zm-4.2 5.596v-.58l-1.699.111c-.961.064-1.383.398-1.383 1.031 0 .645.545 1.02 1.277 1.02 1.038 0 1.805-.68 1.805-1.582zm-4.125.586c0-1.131.832-1.782 2.303-1.869l1.822-.112v-.574c0-.779-.486-1.207-1.43-1.207-.755 0-1.283.287-1.423.785h-1.02c.135-1.014 1.131-1.682 2.479-1.682 1.541 0 2.402.792 2.402 2.104v4.324h-.961v-.931h-.094c-.41.673-1.101 1.043-1.945 1.043-1.225 0-2.133-.727-2.133-1.881zm-7.684 1.769h-.996l-2.303-8.455h1.101l1.682 6.873h.07l1.893-6.873h1.066l1.893 6.873h.07l1.682-6.873h1.101l-2.302 8.455h-.996l-1.946-6.674h-.07z\"/></svg>"}],"analyticsAttributes":[{"name":"data-analytics-title","value":"watch"},{"name":"data-analytics-element-engagement","value":"hover - watch"}]},{"id":"046b180d77b6e8d3dae152e6da1b75fb5defe1230a3099798486860af7bb8191","name":"airpods","text":"AirPods","url":"/in/airpods/","ariaLabel":"AirPods","submenuAriaLabel":"AirPods menu","images":[{"name":"regular","assetInline":"<svg height=\"44\" viewBox=\"0 0 43 44\" width=\"43\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m11.7153 19.6836h.961v.937h.094c.187-.615.914-1.048 1.752-1.048.164 0 .375.011.504.029v1.008c-.082-.024-.446-.059-.645-.059-.961 0-1.658.645-1.658 1.535v3.914h-1.008zm28.135-.111c1.324 0 2.244.656 2.379 1.693h-.996c-.135-.504-.627-.838-1.389-.838-.75 0-1.336.381-1.336.943 0 .434.352.704 1.096.885l.973.235c1.189.287 1.763.802 1.763 1.711 0 1.13-1.095 1.91-2.531 1.91-1.406 0-2.373-.674-2.484-1.723h1.037c.17.533.674.873 1.482.873.85 0 1.459-.404 1.459-.984 0-.434-.328-.727-1.002-.891l-1.084-.264c-1.183-.287-1.722-.796-1.722-1.71 0-1.049 1.013-1.84 2.355-1.84zm-6.665 5.631c-1.155 0-1.846-.885-1.846-2.362 0-1.471.697-2.361 1.846-2.361 1.142 0 1.857.914 1.857 2.361 0 1.459-.709 2.362-1.857 2.362zm1.834-8.028v3.504h-.088c-.358-.691-1.102-1.107-1.981-1.107-1.605 0-2.654 1.289-2.654 3.269 0 1.987 1.037 3.27 2.654 3.27.873 0 1.623-.416 2.022-1.119h.094v1.007h.961v-8.824zm-9.001 8.028c-1.195 0-1.869-.868-1.869-2.362 0-1.5.674-2.361 1.869-2.361 1.196 0 1.869.861 1.869 2.361 0 1.494-.673 2.362-1.869 2.362zm0-5.631c-1.799 0-2.912 1.236-2.912 3.269 0 2.028 1.113 3.27 2.912 3.27s2.912-1.242 2.912-3.27c0-2.033-1.113-3.269-2.912-3.269zm-17.071 6.427h1.008v-6.316h-1.008zm-.199-8.238c0-.387.317-.703.703-.703.387 0 .703.316.703.703s-.316.703-.703.703c-.386 0-.703-.316-.703-.703zm-6.137 4.922 1.324-3.773h.093l1.325 3.773zm1.892-5.139h-1.043l-3.117 8.455h1.107l.85-2.42h3.363l.85 2.42h1.107zm14.868 4.5h-1.864v-3.562h1.864c1.224 0 1.898.639 1.898 1.799 0 1.119-.697 1.763-1.898 1.763zm.275-4.5h-3.193v8.455h1.054v-3.017h2.127c1.588 0 2.719-1.119 2.719-2.701 0-1.612-1.107-2.737-2.707-2.737z\"/></svg>"}],"analyticsAttributes":[{"name":"data-analytics-title","value":"airpods"},{"name":"data-analytics-element-engagement","value":"hover - airpods"}]},{"id":"b87de86c9177aab753e4b9c361a5c054691c8b59d0e8c9ecf482e63b43221fa2","name":"tv-home","text":"TV & Home","url":"/in/tv-home/","ariaLabel":"TV and Home","submenuAriaLabel":"TV and Home menu","images":[{"name":"regular","assetInline":"<svg height=\"44\" viewBox=\"0 0 65 44\" width=\"65\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m4.3755 26v-7.5059h-2.7246v-.9492h6.5039v.9492h-2.7246v7.5059zm7.7314 0-3.1172-8.4551h1.1074l2.4844 7.0898h.0938l2.4844-7.0898h1.1074l-3.1172 8.4551zm13.981-.8438c-.7207.6328-1.7109 1.002-2.7363 1.002-1.6816 0-2.8594-.9961-2.8594-2.4141 0-1.002.5449-1.7637 1.6758-2.3613.0762-.0352.2344-.1172.3281-.1641-.7793-.8203-1.0605-1.3652-1.0605-1.9805 0-1.084.9199-1.8926 2.1562-1.8926 1.248 0 2.1562.7969 2.1562 1.9043 0 .8672-.5215 1.5-1.8281 2.1855l2.1152 2.2734c.2637-.5273.3984-1.2188.3984-2.2734v-.1465h.9844v.1523c0 1.3125-.2344 2.2676-.6973 2.9824l1.4708 1.5764h-1.3242zm-4.541-1.4824c0 .9492.7676 1.5938 1.8984 1.5938.7676 0 1.5586-.3047 2.0215-.791l-2.3906-2.6133c-.0645.0234-.2168.0996-.2988.1406-.8145.4219-1.2305 1.0078-1.2305 1.6699zm3.2109-4.3886c0-.6562-.4746-1.1016-1.1602-1.1016-.6738 0-1.1543.457-1.1543 1.1133 0 .4688.2402.8789.9082 1.541 1.0313-.5274 1.4063-.9492 1.4063-1.5527zm13.5176 6.7148v-3.8496h-4.6406v3.8496h-1.0547v-8.4551h1.0547v3.6562h4.6406v-3.6562h1.0547v8.4551zm2.6455-3.1582c0-2.0332 1.1133-3.2695 2.9121-3.2695s2.9121 1.2363 2.9121 3.2695c0 2.0273-1.1133 3.2695-2.9121 3.2695s-2.9121-1.2422-2.9121-3.2695zm4.7812 0c0-1.5-.6738-2.3613-1.8691-2.3613s-1.8691.8613-1.8691 2.3613c0 1.4941.6738 2.3613 1.8691 2.3613s1.8691-.8672 1.8691-2.3613zm2.5054-3.1582h.9609v.9961h.0938c.2871-.7031.9199-1.1074 1.7637-1.1074.8555 0 1.4531.4512 1.7461 1.1074h.0938c.3398-.668 1.0605-1.1074 1.9336-1.1074 1.2891 0 2.0098.7383 2.0098 2.0625v4.3652h-1.0078v-4.1309c0-.9316-.4395-1.3887-1.3301-1.3887-.8789 0-1.4648.6562-1.4648 1.459v4.0606h-1.0078v-4.2891c0-.75-.5215-1.2305-1.3184-1.2305-.8262 0-1.4648.7148-1.4648 1.6055v3.9141h-1.0078v-6.3164zm15.5127 4.6816c-.293 1.0781-1.2773 1.7461-2.6602 1.7461-1.752 0-2.8477-1.2656-2.8477-3.2637 0-1.9863 1.1133-3.2754 2.8477-3.2754 1.7051 0 2.7422 1.2129 2.7422 3.1758v.3867h-4.541v.0469c.0527 1.248.75 2.0391 1.8223 2.0391.8145 0 1.3652-.2988 1.6289-.8555zm-4.459-2.0449h3.4805c-.0234-1.1191-.6914-1.8574-1.6934-1.8574-1.0078 0-1.7109.7383-1.7871 1.8574z\"/></svg>"}],"analyticsAttributes":[{"name":"data-analytics-title","value":"tv & home"},{"name":"data-analytics-element-engagement","value":"hover - tv & home"}]},{"id":"dc5c36cc1467f3be15aa2c36e046d649ef36e30bdff91f1780b1c4c8418f1438","name":"entertainment","text":"Entertainment","url":"/in/entertainment/","ariaLabel":"Entertainment","submenuAriaLabel":"Entertainment menu","images":[{"name":"regular","assetInline":"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 77 44\" width=\"77\" height=\"44\"><path d=\"m0 17.4863h5.2383v.9492h-4.1836v2.7129h3.9668v.9375h-3.9668v2.9062h4.1836v.9492h-5.2383zm6.8994 2.1387h1.0195v.9492h.0938c.3164-.668.9082-1.0605 1.8398-1.0605 1.418 0 2.209.8379 2.209 2.3379v4.0898h-1.0195v-3.8438c0-1.1367-.4688-1.6816-1.4766-1.6816s-1.6465.6797-1.6465 1.7871v3.7383h-1.0195zm7.2803 4.6758v-3.832h-.9961v-.8438h.9961v-1.6348h1.0547v1.6348h1.3828v.8438h-1.3828v3.5742c0 .7441.2578 1.043.9141 1.043.1816 0 .2812-.0059.4688-.0234v.8672c-.1992.0352-.3926.0586-.5918.0586-1.3009-.0001-1.8458-.4806-1.8458-1.6876zm3.4365-1.4942v-.0059c0-1.9512 1.1133-3.2871 2.8301-3.2871s2.7598 1.2773 2.7598 3.1641v.3984h-4.5469c.0293 1.3066.75 2.0684 1.875 2.0684.8555 0 1.3828-.4043 1.5527-.7852l.0234-.0527h1.0195l-.0117.0469c-.2168.8555-1.1191 1.6992-2.6074 1.6992-1.8046 0-2.8945-1.2656-2.8945-3.2461zm1.0606-.5449h3.4922c-.1055-1.248-.7969-1.8398-1.7285-1.8398-.9376 0-1.6524.6386-1.7637 1.8398zm5.9912-2.6367h1.0195v.9375h.0938c.2402-.6621.832-1.0488 1.6875-1.0488.1934 0 .4102.0234.5098.041v.9902c-.2109-.0352-.4043-.0586-.627-.0586-.9727 0-1.6641.6152-1.6641 1.541v3.9141h-1.0195zm4.9658 4.6758v-3.832h-.9961v-.8438h.9961v-1.6348h1.0547v1.6348h1.3828v.8438h-1.3828v3.5742c0 .7441.2578 1.043.9141 1.043.1816 0 .2812-.0059.4688-.0234v.8672c-.1992.0352-.3926.0586-.5918.0586-1.3009-.0001-1.8458-.4806-1.8458-1.6876zm3.4658-.1231v-.0117c0-1.125.832-1.7754 2.3027-1.8633l1.8105-.1113v-.5742c0-.7793-.4746-1.2012-1.418-1.2012-.7559 0-1.2539.2812-1.418.7734l-.0059.0176h-1.0195l.0059-.0352c.1641-.9902 1.125-1.6582 2.4727-1.6582 1.541 0 2.4023.791 2.4023 2.1035v4.3242h-1.0195v-.9316h-.0938c-.3984.6738-1.0605 1.043-1.9102 1.043-1.201 0-2.1092-.7265-2.1092-1.875zm2.3203.9903c1.0371 0 1.793-.6797 1.793-1.582v-.5742l-1.6875.1055c-.9609.0586-1.3828.3984-1.3828 1.0254v.0117c0 .6386.5449 1.0136 1.2773 1.0136zm4.3926-7.4649c0-.3867.3164-.7031.7031-.7031s.7031.3164.7031.7031-.3164.7031-.7031.7031-.7031-.3164-.7031-.7031zm.1875 1.9219h1.0195v6.3164h-1.0195zm2.8213 0h1.0195v.9492h.0938c.3164-.668.9082-1.0605 1.8398-1.0605 1.418 0 2.209.8379 2.209 2.3379v4.0898h-1.0195v-3.8438c0-1.1367-.4688-1.6816-1.4766-1.6816s-1.6465.6797-1.6465 1.7871v3.7383h-1.0195zm6.8818 0h1.0195v.9609h.0938c.2812-.6797.8789-1.0723 1.7051-1.0723.8555 0 1.4531.4512 1.7461 1.1074h.0938c.3398-.668 1.0605-1.1074 1.9336-1.1074 1.2891 0 2.0098.7383 2.0098 2.0625v4.3652h-1.0195v-4.1309c0-.9316-.4277-1.3945-1.3184-1.3945-.8789 0-1.459.6621-1.459 1.4648v4.0605h-1.0195v-4.2891c0-.75-.5156-1.2363-1.3125-1.2363-.8262 0-1.4531.7207-1.4531 1.6113v3.9141h-1.0195v-6.3162zm10.0049 3.1816v-.0059c0-1.9512 1.1133-3.2871 2.8301-3.2871s2.7598 1.2773 2.7598 3.1641v.3984h-4.5469c.0293 1.3066.75 2.0684 1.875 2.0684.8555 0 1.3828-.4043 1.5527-.7852l.0234-.0527h1.0195l-.0116.0469c-.2168.8555-1.1191 1.6992-2.6074 1.6992-1.8047 0-2.8946-1.2656-2.8946-3.2461zm1.0606-.5449h3.4922c-.1055-1.248-.7969-1.8398-1.7285-1.8398-.9376 0-1.6524.6386-1.7637 1.8398zm5.9912-2.6367h1.0195v.9492h.0938c.3164-.668.9082-1.0605 1.8398-1.0605 1.418 0 2.209.8379 2.209 2.3379v4.0898h-1.0195v-3.8438c0-1.1367-.4688-1.6816-1.4766-1.6816s-1.6465.6797-1.6465 1.7871v3.7383h-1.0195zm7.2802 4.6758v-3.832h-.9961v-.8438h.9961v-1.6348h1.0547v1.6348h1.3828v.8438h-1.3828v3.5742c0 .7441.2578 1.043.9141 1.043.1816 0 .2812-.0059.4688-.0234v.8672c-.1992.0352-.3926.0586-.5918.0586-1.3008-.0001-1.8458-.4806-1.8458-1.6876z\"/></svg>"}],"analyticsAttributes":[{"name":"data-analytics-title","value":"entertainment"},{"name":"data-analytics-element-engagement","value":"hover - entertainment"}]},{"id":"0c82c05e964505591d557e6b76da32552d91de56d29c6788c2dffcade154fbab","name":"accessories","text":"Accessories","url":"/in/shop/goto/buy_accessories","ariaLabel":"Accessories","submenuAriaLabel":"Accessories menu","images":[{"name":"regular","assetInline":"<svg height=\"44\" viewBox=\"0 0 67 44\" width=\"67\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m5.6603 23.5715h-3.3633l-.8496 2.4199h-1.1074l3.1172-8.4551h1.043l3.1172 8.4551h-1.1075zm-3.0527-.8965h2.7422l-1.3242-3.7734h-.0938zm10.0986-1.0664c-.1641-.627-.7207-1.1367-1.6289-1.1367-1.1367 0-1.8516.9082-1.8516 2.3379 0 1.459.7266 2.3848 1.8516 2.3848.8496 0 1.4414-.3926 1.6289-1.1074h1.0195c-.1816 1.1602-1.125 2.0156-2.6426 2.0156-1.7695 0-2.9004-1.2832-2.9004-3.293 0-1.9688 1.125-3.2461 2.8945-3.2461 1.5352 0 2.4727.9199 2.6484 2.0449zm6.5947 0c-.1641-.627-.7207-1.1367-1.6289-1.1367-1.1367 0-1.8516.9082-1.8516 2.3379 0 1.459.7266 2.3848 1.8516 2.3848.8496 0 1.4414-.3926 1.6289-1.1074h1.0195c-.1816 1.1602-1.125 2.0156-2.6426 2.0156-1.7695 0-2.9004-1.2832-2.9004-3.293 0-1.9688 1.125-3.2461 2.8945-3.2461 1.5352 0 2.4727.9199 2.6484 2.0449zm7.5796 2.748c-.293 1.0781-1.2773 1.7461-2.6602 1.7461-1.752 0-2.8477-1.2656-2.8477-3.2637 0-1.9863 1.1133-3.2754 2.8477-3.2754 1.7051 0 2.7422 1.2129 2.7422 3.1758v.3867h-4.541v.0469c.0527 1.248.75 2.0391 1.8223 2.0391.8145 0 1.3652-.2988 1.6289-.8555zm-4.459-2.0449h3.4805c-.0234-1.1191-.6914-1.8574-1.6934-1.8574-1.0078 0-1.7109.7383-1.7871 1.8574zm8.212-2.748c1.3242 0 2.2441.6562 2.3789 1.6934h-.9961c-.1348-.5039-.627-.8379-1.3887-.8379-.75 0-1.3359.3809-1.3359.9434 0 .4336.3516.7031 1.0957.8848l.9727.2344c1.1895.2871 1.7637.8027 1.7637 1.7109 0 1.1309-1.0957 1.9102-2.5312 1.9102-1.4062 0-2.373-.6738-2.4844-1.7227h1.0371c.1699.5332.6738.873 1.4824.873.8496 0 1.459-.4043 1.459-.9844 0-.4336-.3281-.7266-1.002-.8906l-1.084-.2637c-1.1836-.2871-1.7227-.7969-1.7227-1.7109 0-1.0489 1.0137-1.8399 2.3555-1.8399zm6.0439 0c1.3242 0 2.2441.6562 2.3789 1.6934h-.9961c-.1348-.5039-.627-.8379-1.3887-.8379-.75 0-1.3359.3809-1.3359.9434 0 .4336.3516.7031 1.0957.8848l.9727.2344c1.1895.2871 1.7637.8027 1.7637 1.7109 0 1.1309-1.0957 1.9102-2.5312 1.9102-1.4062 0-2.373-.6738-2.4844-1.7227h1.0371c.1699.5332.6738.873 1.4824.873.8496 0 1.459-.4043 1.459-.9844 0-.4336-.3281-.7266-1.002-.8906l-1.084-.2637c-1.1836-.2871-1.7227-.7969-1.7227-1.7109 0-1.0489 1.0137-1.8399 2.3555-1.8399zm3.6357 3.2695c0-2.0332 1.1133-3.2695 2.9121-3.2695s2.9121 1.2363 2.9121 3.2695c0 2.0273-1.1133 3.2695-2.9121 3.2695s-2.9121-1.2422-2.9121-3.2695zm4.7813 0c0-1.5-.6738-2.3613-1.8691-2.3613s-1.8691.8613-1.8691 2.3613c0 1.4941.6738 2.3613 1.8691 2.3613s1.8691-.8672 1.8691-2.3613zm2.5054-3.1582h.9609v.9375h.0938c.1875-.6152.9141-1.0488 1.752-1.0488.1641 0 .375.0117.5039.0293v1.0078c-.082-.0234-.4453-.0586-.6445-.0586-.9609 0-1.6582.6445-1.6582 1.5352v3.9141h-1.0078v-6.3165zm4.2744-1.9219c0-.3867.3164-.7031.7031-.7031s.7031.3164.7031.7031-.3164.7031-.7031.7031-.7031-.3164-.7031-.7031zm.1992 1.9219h1.0078v6.3164h-1.0078zm8.001 4.6816c-.293 1.0781-1.2773 1.7461-2.6602 1.7461-1.752 0-2.8477-1.2656-2.8477-3.2637 0-1.9863 1.1133-3.2754 2.8477-3.2754 1.7051 0 2.7422 1.2129 2.7422 3.1758v.3867h-4.541v.0469c.0527 1.248.75 2.0391 1.8223 2.0391.8145 0 1.3652-.2988 1.6289-.8555zm-4.459-2.0449h3.4805c-.0234-1.1191-.6914-1.8574-1.6934-1.8574-1.0078 0-1.7109.7383-1.7871 1.8574zm8.2119-2.748c1.3242 0 2.2441.6562 2.3789 1.6934h-.9961c-.1348-.5039-.627-.8379-1.3887-.8379-.75 0-1.3359.3809-1.3359.9434 0 .4336.3516.7031 1.0957.8848l.9727.2344c1.1895.2871 1.7637.8027 1.7637 1.7109 0 1.1309-1.0957 1.9102-2.5312 1.9102-1.4062 0-2.373-.6738-2.4844-1.7227h1.0371c.1699.5332.6738.873 1.4824.873.8496 0 1.459-.4043 1.459-.9844 0-.4336-.3281-.7266-1.002-.8906l-1.084-.2637c-1.1836-.2871-1.7227-.7969-1.7227-1.7109 0-1.0489 1.0137-1.8399 2.3555-1.8399z\"/></svg>"}],"analyticsAttributes":[{"name":"data-analytics-title","value":"accessories"},{"name":"data-analytics-element-engagement","value":"hover - accessories"}]},{"id":"982f9c66b645fbdca42bbdf73f8a09d6dc48a5605feeb0083ad6d0088310988b","name":"support","text":"Support","url":"https://support.apple.com/en-in/?cid=gn-ols-home-hp-tab","ariaLabel":"Support","submenuAriaLabel":"Support menu","images":[{"name":"regular","assetInline":"<svg height=\"44\" viewBox=\"0 0 44 44\" width=\"44\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m42.1206 18.0337v1.635h1.406v.844h-1.406v3.574c0 .744.281 1.06.937 1.06.182 0 .282-.006.469-.023v.849c-.199.036-.392.059-.592.059-1.3 0-1.822-.48-1.822-1.687v-3.832h-1.019v-.844h1.019v-1.635zm-6.131 1.635h.961v.937h.093c.188-.615.914-1.049 1.752-1.049.164 0 .375.012.504.03v1.008c-.082-.024-.445-.059-.644-.059-.961 0-1.659.644-1.659 1.535v3.914h-1.007zm-2.463 3.158c0-1.5-.674-2.361-1.869-2.361s-1.869.861-1.869 2.361c0 1.494.674 2.361 1.869 2.361s1.869-.867 1.869-2.361zm-4.781 0c0-2.033 1.113-3.27 2.912-3.27s2.912 1.237 2.912 3.27c0 2.027-1.113 3.27-2.912 3.27s-2.912-1.243-2.912-3.27zm-2.108 0c0-1.477-.692-2.361-1.846-2.361-1.143 0-1.863.908-1.863 2.361 0 1.447.72 2.361 1.857 2.361 1.16 0 1.852-.884 1.852-2.361zm1.043 0c0 1.975-1.049 3.27-2.655 3.27-.902 0-1.629-.393-1.974-1.061h-.094v3.059h-1.008v-8.426h.961v1.054h.094c.404-.726 1.16-1.166 2.021-1.166 1.612 0 2.655 1.284 2.655 3.27zm-8.048 0c0-1.477-.691-2.361-1.845-2.361-1.143 0-1.864.908-1.864 2.361 0 1.447.721 2.361 1.858 2.361 1.16 0 1.851-.884 1.851-2.361zm1.043 0c0 1.975-1.049 3.27-2.654 3.27-.902 0-1.629-.393-1.975-1.061h-.093v3.059h-1.008v-8.426h.961v1.054h.093c.405-.726 1.161-1.166 2.022-1.166 1.611 0 2.654 1.284 2.654 3.27zm-7.645 3.158h-.961v-.99h-.094c-.316.703-.99 1.102-1.957 1.102-1.418 0-2.156-.844-2.156-2.338v-4.09h1.008v3.844c0 1.136.422 1.664 1.43 1.664 1.113 0 1.722-.663 1.722-1.77v-3.738h1.008zm-11.69-2.209c.129.885.972 1.447 2.174 1.447 1.136 0 1.974-.615 1.974-1.453 0-.72-.527-1.177-1.693-1.47l-1.084-.282c-1.529-.386-2.192-1.078-2.192-2.279 0-1.435 1.202-2.408 2.989-2.408 1.634 0 2.853.973 2.941 2.338h-1.06c-.147-.867-.862-1.383-1.916-1.383-1.125 0-1.87.562-1.87 1.418 0 .662.463 1.043 1.629 1.342l.885.234c1.752.44 2.455 1.119 2.455 2.361 0 1.553-1.224 2.543-3.158 2.543-1.793 0-3.029-.949-3.141-2.408z\"/></svg>"}],"analyticsAttributes":[{"name":"data-analytics-title","value":"support"},{"name":"data-analytics-element-engagement","value":"hover - support"},{"name":"data-analytics-exit-link","value":"true"}]}],"bag":{"analyticsAttributes":[{"name":"data-analytics-region","value":"bag"}],"open":{"url":"/in/shop/goto/bag","images":[{"name":"regular","assetInline":"<svg height=\"44\" viewBox=\"0 0 14 44\" width=\"14\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m11.3535 16.0283h-1.0205a3.4229 3.4229 0 0 0 -3.333-2.9648 3.4229 3.4229 0 0 0 -3.333 2.9648h-1.02a2.1184 2.1184 0 0 0 -2.117 2.1162v7.7155a2.1186 2.1186 0 0 0 2.1162 2.1167h8.707a2.1186 2.1186 0 0 0 2.1168-2.1167v-7.7155a2.1184 2.1184 0 0 0 -2.1165-2.1162zm-4.3535-1.8652a2.3169 2.3169 0 0 1 2.2222 1.8652h-4.4444a2.3169 2.3169 0 0 1 2.2222-1.8652zm5.37 11.6969a1.0182 1.0182 0 0 1 -1.0166 1.0171h-8.7069a1.0182 1.0182 0 0 1 -1.0165-1.0171v-7.7155a1.0178 1.0178 0 0 1 1.0166-1.0166h8.707a1.0178 1.0178 0 0 1 1.0164 1.0166z\"/></svg>"},{"name":"compact","assetInline":"<svg height=\"48\" viewBox=\"0 0 17 48\" width=\"17\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m13.4575 16.9268h-1.1353a3.8394 3.8394 0 0 0 -7.6444 0h-1.1353a2.6032 2.6032 0 0 0 -2.6 2.6v8.9232a2.6032 2.6032 0 0 0 2.6 2.6h9.915a2.6032 2.6032 0 0 0 2.6-2.6v-8.9231a2.6032 2.6032 0 0 0 -2.6-2.6001zm-4.9575-2.2768a2.658 2.658 0 0 1 2.6221 2.2764h-5.2442a2.658 2.658 0 0 1 2.6221-2.2764zm6.3574 13.8a1.4014 1.4014 0 0 1 -1.4 1.4h-9.9149a1.4014 1.4014 0 0 1 -1.4-1.4v-8.9231a1.4014 1.4014 0 0 1 1.4-1.4h9.915a1.4014 1.4014 0 0 1 1.4 1.4z\"/></svg>"}],"analyticsAttributes":[{"name":"data-analytics-title","value":"open - bag"}],"ariaLabel":"Shopping Bag"},"close":{"analyticsAttributes":[{"name":"data-analytics-click","value":"prop3:close - bag"},{"name":"data-analytics-title","value":"close - bag"}],"ariaLabel":"Close"},"badge":{"ariaLabel":"Shopping Bag with item count : {%BAGITEMCOUNT%}"},"storeApiUrl":"/[storefront]/shop/bag/status"},"search":{"analyticsAttributes":[{"name":"data-analytics-region","value":"search"}],"open":{"url":"/in/search","images":[{"name":"regular","assetInline":"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"15px\" height=\"44px\" viewBox=\"0 0 15 44\">\n<path d=\"M14.298,27.202l-3.87-3.87c0.701-0.929,1.122-2.081,1.122-3.332c0-3.06-2.489-5.55-5.55-5.55c-3.06,0-5.55,2.49-5.55,5.55 c0,3.061,2.49,5.55,5.55,5.55c1.251,0,2.403-0.421,3.332-1.122l3.87,3.87c0.151,0.151,0.35,0.228,0.548,0.228 s0.396-0.076,0.548-0.228C14.601,27.995,14.601,27.505,14.298,27.202z M1.55,20c0-2.454,1.997-4.45,4.45-4.45 c2.454,0,4.45,1.997,4.45,4.45S8.454,24.45,6,24.45C3.546,24.45,1.55,22.454,1.55,20z\"/>\n</svg>\n"},{"name":"compact","assetInline":"<svg height=\"48\" viewBox=\"0 0 17 48\" width=\"17\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m16.2294 29.9556-4.1755-4.0821a6.4711 6.4711 0 1 0 -1.2839 1.2625l4.2005 4.1066a.9.9 0 1 0 1.2588-1.287zm-14.5294-8.0017a5.2455 5.2455 0 1 1 5.2455 5.2527 5.2549 5.2549 0 0 1 -5.2455-5.2527z\"/></svg>"}],"ariaLabel":"Search apple.com","analyticsAttributes":[{"name":"data-analytics-title","value":"open - search field"}]},"close":{"ariaLabel":"Close"},"input":{"placeholderTextRegular":"Search apple.com","placeholderTextCompact":"Search","ariaLabel":"Search apple.com"},"submit":{"images":[{"name":"regular","assetInline":"<svg height=\"32\" viewBox=\"0 0 30 32\" width=\"30\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m23.3291 23.3066-4.35-4.35c-.0105-.0105-.0247-.0136-.0355-.0235a6.8714 6.8714 0 1 0 -1.5736 1.4969c.0214.0256.03.0575.0542.0815l4.35 4.35a1.1 1.1 0 1 0 1.5557-1.5547zm-15.4507-8.582a5.6031 5.6031 0 1 1 5.603 5.61 5.613 5.613 0 0 1 -5.603-5.61z\"/></svg>"},{"name":"compact","assetInline":"<svg width=\"38\" height=\"40\" viewBox=\"0 0 38 40\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m28.6724 27.8633-5.07-5.07c-.0095-.0095-.0224-.0122-.032-.0213a7.9967 7.9967 0 1 0 -1.8711 1.7625c.0254.03.0357.0681.0642.0967l5.07 5.07a1.3 1.3 0 0 0 1.8389-1.8379zm-18.0035-10.0033a6.5447 6.5447 0 1 1 6.545 6.5449 6.5518 6.5518 0 0 1 -6.545-6.5449z\"/></svg>"}],"ariaLabel":"Submit search"},"reset":{"images":[{"name":"regular","assetInline":"<svg height=\"14\" viewBox=\"0 0 14 14\" width=\"14\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m7 .0339a6.9661 6.9661 0 1 0 6.9661 6.9661 6.9661 6.9661 0 0 0 -6.9661-6.9661zm2.798 8.9867a.55.55 0 0 1 -.778.7774l-2.02-2.02-2.02 2.02a.55.55 0 0 1 -.7784-.7774l2.0206-2.0206-2.0204-2.02a.55.55 0 0 1 .7782-.7778l2.02 2.02 2.02-2.02a.55.55 0 0 1 .778.7778l-2.0203 2.02z\"/></svg>"},{"name":"compact","assetInline":"<svg height=\"16\" viewBox=\"0 0 16 16\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m0 8a8.0474 8.0474 0 0 1 7.9922-8 8.0609 8.0609 0 0 1 8.0078 8 8.0541 8.0541 0 0 1 -8 8 8.0541 8.0541 0 0 1 -8-8zm5.6549 3.2863 2.3373-2.353 2.3451 2.353a.6935.6935 0 0 0 .4627.1961.6662.6662 0 0 0 .6667-.6667.6777.6777 0 0 0 -.1961-.4706l-2.3451-2.3373 2.3529-2.3607a.5943.5943 0 0 0 .1961-.4549.66.66 0 0 0 -.6667-.6589.6142.6142 0 0 0 -.447.1961l-2.3686 2.3606-2.353-2.3527a.6152.6152 0 0 0 -.447-.1883.6529.6529 0 0 0 -.6667.651.6264.6264 0 0 0 .1961.4549l2.3451 2.3529-2.3451 2.353a.61.61 0 0 0 -.1961.4549.6661.6661 0 0 0 .6667.6667.6589.6589 0 0 0 .4627-.1961z\" /></svg>"}],"ariaLabel":"Clear search"},"results":{"ariaLabel":"total results"},"defaultLinks":{"title":"Quick Links","images":[{"name":"regular","assetInline":"<svg height=\"16\" viewBox=\"0 0 9 16\" width=\"9\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m8.6124 8.1035-2.99 2.99a.5.5 0 0 1 -.7071-.7071l2.1366-2.1364h-6.316a.5.5 0 0 1 0-1h6.316l-2.1368-2.1367a.5.5 0 0 1 .7071-.7071l2.99 2.99a.5.5 0 0 1 .0002.7073z\"/></svg>"},{"name":"compact","assetInline":"<svg height=\"25\" viewBox=\"0 0 13 25\" width=\"13\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m12.3577 13.4238-4.4444 4.4444a.6.6 0 0 1 -.8486-.8477l3.37-3.37h-9.3231a.65.65 0 0 1 0-1.3008h9.3232l-3.37-3.37a.6.6 0 0 1 .8486-.8477l4.4444 4.4444a.5989.5989 0 0 1 -.0001.8474z\"/></svg>"}],"analyticsAttributes":[{"name":"data-analytics-region","value":"defaultlinks search"}]},"defaultLinksApiUrl":"/search-services/suggestions/defaultlinks/","suggestedLinks":{"title":"Suggested Links","images":[{"name":"regular","assetInline":"<svg height=\"16\" viewBox=\"0 0 9 16\" width=\"9\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m8.6124 8.1035-2.99 2.99a.5.5 0 0 1 -.7071-.7071l2.1366-2.1364h-6.316a.5.5 0 0 1 0-1h6.316l-2.1368-2.1367a.5.5 0 0 1 .7071-.7071l2.99 2.99a.5.5 0 0 1 .0002.7073z\"/></svg>"},{"name":"compact","assetInline":"<svg height=\"25\" viewBox=\"0 0 13 25\" width=\"13\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m12.3577 13.4238-4.4444 4.4444a.6.6 0 0 1 -.8486-.8477l3.37-3.37h-9.3231a.65.65 0 0 1 0-1.3008h9.3232l-3.37-3.37a.6.6 0 0 1 .8486-.8477l4.4444 4.4444a.5989.5989 0 0 1 -.0001.8474z\"/></svg>"}],"analyticsAttributes":[{"name":"data-analytics-region","value":"suggested links"}]},"suggestedSearches":{"title":"Suggested Searches","images":[{"name":"regular","assetInline":"<svg height=\"16\" viewBox=\"0 0 9 16\" width=\"9\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m8.6235 11.2266-2.2141-2.2142a3.43 3.43 0 0 0 .7381-2.1124 3.469 3.469 0 1 0 -1.5315 2.8737l2.23 2.23a.55.55 0 0 0 .7773-.7773zm-7.708-4.3266a2.7659 2.7659 0 1 1 2.7657 2.766 2.7694 2.7694 0 0 1 -2.7657-2.766z\"/></svg>"},{"name":"compact","assetInline":"<svg height=\"25\" viewBox=\"0 0 13 25\" width=\"13\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m12.3936 17.7969-3.1231-3.1231a4.83 4.83 0 0 0 1.023-2.9541 4.89 4.89 0 1 0 -2.1806 4.059v.0006l3.1484 3.1484a.8.8 0 0 0 1.1319-1.1308zm-10.9536-6.0769a3.9768 3.9768 0 1 1 3.976 3.9773 3.981 3.981 0 0 1 -3.976-3.9773z\"/></svg>"}],"analyticsAttributes":[{"name":"data-analytics-region","value":"suggested search"}]},"suggestionsApiUrl":"/search-services/suggestions/"},"segmentbar":{"dataStrings":{"view":"{%STOREFRONT%} Store Home","exit":"Exit","segments":{"eduInd":"Education Store Home","other":"Store Home"}}},"menu":{"open":{"ariaLabel":"Menu"},"close":{"ariaLabel":"Close"},"back":{"ariaLabel":"Main menu","images":[{"name":"compact","assetInline":"<svg height=\"48\" viewBox=\"0 0 9 48\" width=\"9\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m1.5618 24.0621 6.5581-6.4238c.2368-.2319.2407-.6118.0088-.8486-.2324-.2373-.6123-.2407-.8486-.0088l-7 6.8569c-.1157.1138-.1807.2695-.1802.4316.001.1621.0674.3174.1846.4297l7 6.7241c.1162.1118.2661.1675.4155.1675.1577 0 .3149-.062.4326-.1846.2295-.2388.2222-.6187-.0171-.8481z\"/></svg>"}]}},"submenu":{"open":{"images":[{"name":"regular","assetInline":"<svg height=\"10\" viewBox=\"0 0 10 10\" width=\"10\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m4.6725 6.635-2.655-2.667a.445.445 0 0 1 -.123-.304.4331.4331 0 0 1 .427-.439h.006a.447.447 0 0 1 .316.135l2.357 2.365 2.356-2.365a.458.458 0 0 1 .316-.135.433.433 0 0 1 .433.433v.006a.4189.4189 0 0 1 -.123.3l-2.655 2.671a.4451.4451 0 0 1 -.327.14.464.464 0 0 1 -.328-.14z\"/></svg>"},{"name":"compact","assetInline":"<svg height=\"48\" viewBox=\"0 0 9 48\" width=\"9\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m7.4382 24.0621-6.5581-6.4238c-.2368-.2319-.2407-.6118-.0088-.8486.2324-.2373.6123-.2407.8486-.0088l7 6.8569c.1157.1138.1807.2695.1802.4316-.001.1621-.0674.3174-.1846.4297l-7 6.7242c-.1162.1118-.2661.1675-.4155.1675-.1577 0-.3149-.062-.4326-.1846-.2295-.2388-.2222-.6187.0171-.8481l6.5537-6.2959z\"/></svg>"}]}},"textDirection":"ltr","wwwDomain":"www.apple.com","searchUrlPath":"/in/search","storeUrlPath":"/in","hasAbsoluteUrls":false,"hasShopRedirectUrls":false,"analyticsType":"marcom","storeApiKey":"","submenuApiUrl":"/api-www/global-elements/global-header/v1/flyouts"}}}</script>
-    <script type="text/javascript" src="/api-www/global-elements/global-header/v1/assets/globalheader.umd.js"></script>
+  <link href="/etc.clientlibs/tcs/clientlibs/clientlib-dependencies.min.10537dbe19f577ccd35bfc9664de7cb3.css" rel="stylesheet" type="text/css" xmlns="http://www.w3.org/1999/xhtml">
+<link href="/etc.clientlibs/tcs/clientlibs/clientlib-icons.min.8782b0ca013627ceebf07a3e23c3f32c.css" rel="stylesheet" type="text/css" xmlns="http://www.w3.org/1999/xhtml">
+<link href="/etc.clientlibs/tcs/clientlibs/clientlib-site.min.2937fce74e5f018b35398762aaa6c39b.css" rel="stylesheet" type="text/css" xmlns="http://www.w3.org/1999/xhtml">
 
 
-    
 
-<script src="/metrics/ac-analytics/2.19.0/scripts/ac-analytics.js" type="text/javascript" charset="utf-8"></script>
 
-    <main class="main" role="main">
-        <section class="homepage-section collection-module" data-module-template="ribbon">
-            <div data-unit-id="ribbon-bau-cashback" data-analytics-activitymap-region-id="BAU Cashback offer ribbon">
-                <div class="module-content">
-                    <div class="ribbon-iphone-ti">
-                        <div class="section-content">
-                            <span class="iphone-ti-ribbon-copy trade-in">
-                                Save up to ₹8000.00 instantly on eligible products with HDFC Bank Credit Cards.<sup class="footnote footnote-number"><a href="#footnote-1" aria-label="Footnote">*</a></sup> Plus No Cost EMI from most leading banks.<sup class="footnote footnote-number"><a href="#footnote-2" aria-label="Footnote">‡</a></sup> <a href="/in/shop/goto/store" class="nowrap ribbon-link" target="_self" data-analytics-title="diwali - 2023 offer on">Shop&nbsp;now<span class="icon icon-after icon-chevronright"></span></a>
-                            </span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            
-           
-        </section>
-        <section class="homepage-section collection-module" data-module-template="heroes" data-analytics-region="hero">
+  
+  
+      <script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" data-document-language="true" type="text/javascript" charset="UTF-8" data-domain-script="2af66668-d407-488e-9301-c6c63a324e40"></script> 
+<script type="text/javascript"> 
+ function OptanonWrapper() { } 
+</script>
+      <script type="text/javascript">
+
+function OptanonWrapper() { 
+  $("#onetrust-policy-text a").attr("aria-label","Cookie policy link opens in new tab");
+  $("#filter-btn-handler").attr("aria-expanded","false");
+  $("#filter-btn-handler").on("click", function() {
+    var FilterIconExpanded = $(this).attr("aria-expanded");
+    if (FilterIconExpanded === "true") {
+          $(this).attr("aria-expanded", "false");
+        } else {
+          $(this).attr("aria-expanded", "true");
+        }
+      });
+      $(".privacy-notice-link").attr("aria-label","More information on cookie consent link opens in new tab");
+      $(".category-host-list-handler").removeAttr("aria-label");
+      $(".banner_logo").attr("aria-label","Tata consultancy services");
+      $(".banner_logo").attr("role","img");
+      $("#onetrust-pc-btn-handler").on("click",function(){
+        $("#onetrust-pc-sdk #close-pc-btn-handler").focus();
+      });
+
+$(".save-preference-btn-handler,#accept-recommended-btn-handler,.ot-pc-refuse-all-handler,#close-pc-btn-handler,#onetrust-reject-all-handler, #onetrust-accept-btn-handler ").on("click", ()=>{
+    setTimeout(()=>{
+      if(OnetrustActiveGroups!==undefined){
+        if($('.youtube-noCookie-selector').length>0) {
+          if(OnetrustActiveGroups.includes("C0004")) {
+            $(".youtube-noCookie-selector").each(function(index, ele){
+              let youtubeUrl = $(ele).find('.youtubeInput').val();
+              let width= $(ele).find('.youtubeInput').attr("data-width");
+              let height= $(ele).find('.youtubeInput').attr("data-height");
+              let src= $(ele).find('.youtubeInput').attr("data-src");
+              let ariaLabel= $(ele).find('.youtubeInput').attr("data-aria-label");
       
-            <div data-unit-id="iphone-15-pro" data-analytics-section-engagement="name:hero-iphone-15-pro">
-    <div class="module-content">
-        <div class="unit-wrapper theme-dark">
-            <a class="unit-link" href="/in/iphone-15-pro/" target="_self" rel="follow" data-analytics-region="learn more" aria-hidden="true" tabindex="-1">&nbsp;</a>
-            <div class="unit-copy-wrapper">
-                <h2 class="headline">iPhone 15 Pro</h2>
-                <h3 class="subhead" role="presentation">Titanium. So strong. So light. So Pro.</h3>
-                <div class="cta-links">
-                    <a class="icon icon-after icon-chevronright" href="/in/iphone-15-pro/" target="_self" rel="follow" data-analytics-region="learn more" data-analytics-title="Learn more about iPhone 15 Pro" aria-label="Learn more about iPhone 15 Pro">Learn more</a>
-                    <a class="icon icon-after icon-chevronright" href="/in/shop/goto/buy_iphone/iphone_15_pro" target="_self" rel="follow" data-analytics-region="buy" data-analytics-title="Buy iPhone 15 Pro" aria-label="Buy iPhone 15 Pro">Buy</a>
-                </div>
-            </div>
-            <div class="unit-image-wrapper">
-                
-                <figure class="unit-image unit-image-iphone-15-pro-hero-iphone15pro"></figure>
-                
-            </div>
-        </div>
-    </div>
-</div>
-            <div data-unit-id="iphone-15" data-analytics-section-engagement="name:hero-iphone-15">
-    <div class="module-content">
-        <div class="unit-wrapper">
-            <a class="unit-link" href="/in/iphone-15/" target="_self" rel="follow" data-analytics-region="learn more">&nbsp;</a>
-            <div class="unit-copy-wrapper">
-                <h2 class="headline">iPhone 15</h2>
-                <h3 class="subhead" role="presentation">New camera. New design. Newphoria.</h3>
-                <div class="cta-links">
-                    <a class="icon icon-after icon-chevronright" href="/in/iphone-15/" target="_self" rel="follow" data-analytics-region="learn more" data-analytics-title="Learn more about iPhone 15" aria-label="Learn more about iPhone 15">Learn more</a>
-                    <a class="icon icon-after icon-chevronright" href="/in/shop/goto/buy_iphone/iphone_15" target="_self" rel="follow" data-analytics-region="buy" data-analytics-title="Buy iPhone 15" aria-label="Buy iPhone 15">Buy</a>
-                </div>
-            </div>
-            <div class="unit-image-wrapper">
-                <figure class="unit-image unit-image-iphone-15-hero-iphone15-announce" data-anim-lazy-image>
-                </figure>
-            </div>
-        </div>
-    </div>
-</div>
-              <div
-							
-							
-							data-unit-id="apple-watch-series-9-anim"
-							data-analytics-section-engagement="name:hero-apple-watch-series-9-anim"
-						>
-							<div class="module-content">
-								<div class="unit-wrapper theme-dark bottom-copy-wrapper">
-									<a
-										class="unit-link"
-										href='/in/apple-watch-series-9/'
-										target="_self"
-										rel="follow"
-										data-analytics-region="learn more"
-										aria-hidden="true"
-										tabindex="-1"
-									>&nbsp;</a>
-								
-									<div class="unit-copy-wrapper">
-												<h2
-													 class="logo-image logo-image-apple-watch-series-9-anim-hero-logo-apple-watch-series-9 headline" 
-													
-													
-													
-													
-													
-												><span class="visuallyhidden">Apple Watch Series 9</span></h2>
-												<h3
-													 class="subhead" 
-													
-													
-													
-													
-													role="presentation"
-												>Double tap. A magical new way to use Apple Watch.</h3>
-										<div class="cta-links">
-											<a
-												 class="icon icon-after icon-none button button-elevated button-neutral" 
-												
-												href="/in/apple-watch-series-9/" target="_self" rel="follow" data-analytics-region="learn more"
-												data-analytics-title="Learn more about Apple Watch Series 9"
-												aria-label="Learn more about Apple Watch Series 9"
-												
-											>Learn more</a>
-											<a
-												 class="icon icon-after icon-none button button-elevated button-neutral" 
-												
-												href="/in/shop/goto/buy_watch/apple_watch_series_9" target="_self" rel="follow" data-analytics-region="buy"
-												data-analytics-title="Buy Apple Watch Series 9"
-												aria-label="Buy Apple Watch Series 9"
-												
-											>Buy</a>
-										</div>
-									</div>
-								
-									<div class="unit-image-wrapper">
-										<div class="animation-wrapper">
-											<video
-												id="apple-watch-series-9"
-												autoplay
-												loop
-												data-inline-media
-												muted
-												data-load-timeout="5000"
-												data-inline-media-basepath="/105/media/us/home/2023/dcadd810-de7a-4de2-a731-be7b99689951/anim/watch_hero/"
-												aria-label="A video of an Apple Watch on someone’s wrist while they double tap their thumb and finger"
-												role="img"
-											></video>
-								
-											<div class="inline-media-ui">
-												<button
-													class="play-pause-button"
-													data-inline-media-control="PlayPause"
-													data-analytics-intrapage-link=""
-													data-aria-playing="pause Apple Watch Series 9 animation"
-													data-aria-paused="play Apple Watch Series 9 animation"
-													data-analytics-title-pause="pause | apple watch series 9 animation"
-													data-analytics-click-pause="prop3:pause | apple watch series 9 animation"
-													data-analytics-title-play="play | apple watch series 9 animation"
-													data-analytics-click-play="prop3:play | apple watch series 9 animation"
-													data-analytics-click="prop3:play | apple watch series 9 animation"
-													data-analytics-title="play | apple watch series 9 animation">
-												</button>
-											</div>
-								
-											<figure class="start-frame"></figure>
-											<figure class="image-hero-apple-watch-series-9 hide"></figure>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-        </section>
-        <section class="homepage-section collection-module" data-module-template="promos" data-analytics-region="promo">
-           
-            <link rel="stylesheet" href="/in/home/promos/apple-watch-ultra-2/styles/styles.css" type="text/css" />
-<div data-unit-id="apple-watch-ultra-2" data-analytics-section-engagement="name:promo-apple-watch-ultra-2">
-    <div class="module-content">
-        <div class="unit-wrapper">
-            <a class="unit-link" href="/in/apple-watch-ultra-2/" target="_self" rel="follow" data-analytics-region="learn more">&nbsp;</a>
-            <div class="unit-copy-wrapper">
-                <h4 class="logo-image logo-image-apple-watch-ultra-2-promo-logo-apple-watch-ultra2 headline"><span class="visuallyhidden">Apple Watch Ultra 2</span></h4>
-                <h5 class="subhead" role="presentation">Next-level adventure.</h5>
-                <div class="cta-links">
-                    <a class="icon icon-after icon-chevronright" href="/in/apple-watch-ultra-2/" target="_self" rel="follow" data-analytics-region="learn more" data-analytics-title="Learn more about Apple Watch Ultra 2" aria-label="Learn more about Apple Watch Ultra 2">Learn more</a>
-                    <a class="icon icon-after icon-chevronright" href="/in/shop/goto/buy_watch/apple_watch_ultra_2" target="_self" rel="follow" data-analytics-region="buy" data-analytics-title="Buy Apple Watch Ultra 2" aria-label="Buy Apple Watch Ultra 2">Buy</a>
-                </div>
-            </div>
-            <div class="unit-image-wrapper">
-                <figure class="unit-image unit-image-apple-watch-ultra-2-promo-apple-watch-ultra2-order" data-anim-lazy-image>
-                </figure>
-            </div>
-        </div>
-    </div>
-</div>
-             <div
-							
-							
-							data-unit-id="macbook-pro-14-and-16"
-							data-analytics-section-engagement="name:promo-macbook-pro-14-and-16"
-						>
-							<div class="module-content">
-								
-								<div
-									 class="unit-wrapper" 
-									
-								>
-										<a 
-											 class="unit-link" 
-											
-											href="/in/macbook-pro/" target="_self" rel="follow" data-analytics-region="learn more"
-											
-										>&nbsp;</a>
-									<div class="unit-copy-wrapper">
-										
-													<h4
-														 class="headline" 
-														
-														
-														
-														
-														
-													>MacBook Pro</h4>
-													<h5
-														 class="subhead" 
-														
-														
-														
-														
-														role="presentation"
-													>Mind-blowing. Head-turning.</h5>
-										
-										
-										<div
-											 class="cta-links" 
-											
-										>
-													<a
-														 class="icon icon-after icon-chevronright" 
-														
-														href="/in/macbook-pro/" target="_self" rel="follow" data-analytics-region="learn more"
-														data-analytics-title="Learn more about MacBook Pro 14 and 16 inch"
-														aria-label="Learn more about MacBook Pro 14 and 16 inch"
-														
-													>Learn more</a>
-													<a
-														 class="icon icon-after icon-chevronright" 
-														
-														href="/in/shop/goto/buy_mac/macbook_pro" target="_self" rel="follow" data-analytics-region="buy"
-														data-analytics-title="Buy MacBook Pro 14 and 16 inch"
-														aria-label="Buy MacBook Pro 14 and 16 inch"
-														
-													>Buy</a>
-										</div>
-									</div>
-										<div
-											 class="unit-image-wrapper" 
-											
-										>
-											<figure
-												 class="unit-image unit-image-macbook-pro-14-and-16-promo-mbp" 
-												
-												
-												data-anim-lazy-image
-											>
-											</figure>
-										</div>
-								</div>
-							</div>
-						</div>
-              
-             
-             <link rel="stylesheet" href="/in/home/promos/ipad/style.css" type="text/css" />
-<div
-							
-							
-							data-unit-id="ipad"
-							data-analytics-section-engagement="name:promo-ipad"
-						>
-							<div class="module-content">
-								
-								<div
-									 class="unit-wrapper" 
-									
-								>
-										<a 
-											 class="unit-link" 
-											
-											href="/in/ipad-10.9/" target="_self" rel="follow" data-analytics-region="learn more"
-											
-										>&nbsp;</a>
-									<div class="unit-copy-wrapper">
-													<h4
-														 class="headline" 
-														
-														
-														
-														
-														
-													>iPad</h4>
-													<h5
-														 class="subhead" 
-														
-														
-														
-														
-														role="presentation"
-													>Lovable. Drawable. Magical.</h5>
-										
-										<div
-											 class="cta-links" 
-											
-										>
-													<a
-														 class="icon icon-after icon-chevronright" 
-														
-														href="/in/ipad-10.9/" target="_self" rel="follow" data-analytics-region="learn more"
-														data-analytics-title="Learn more about iPad"
-														aria-label="Learn more about iPad"
-														
-													>Learn more</a>
-													<a
-														 class="icon icon-after icon-chevronright" 
-														
-														href="/in/shop/goto/buy_ipad/ipad" target="_self" rel="follow" data-analytics-region="buy"
-														data-analytics-title="Buy iPad"
-														aria-label="Buy iPad"
-														
-													>Buy</a>
-										</div>
-										
-									</div>
-										<div
-											 class="unit-image-wrapper" 
-											
-										>
-											<figure
-												 class="unit-image unit-image-ipad-promo-ipad" 
-												
-												
-												data-anim-lazy-image
-											>
-											</figure>
-										</div>
-								</div>
-							</div>
-						</div>
-             <div
-							
-							
-							data-unit-id="airpods-pro"
-							data-analytics-section-engagement="name:promo-airpods-pro"
-						>
-							<div class="module-content">
-								
-								<div
-									 class="unit-wrapper theme-dark" 
-									
-								>
-										<a 
-											 class="unit-link" 
-											
-											href="/in/airpods-pro/" target="_self" rel="follow" data-analytics-region="learn more"
-											
-										>&nbsp;</a>
-									<div class="unit-copy-wrapper">
-													<h4
-														 class="headline" 
-														
-														
-														
-														
-														
-													>AirPods Pro</h4>
-													<h5
-														 class="subhead" 
-														
-														
-														
-														
-														role="presentation"
-													>Adaptive Audio. Now playing.</h5>
-										
-										
-										
-										<div
-											 class="cta-links" 
-											
-										>
-											 		<a
-											 			 class="icon icon-after icon-chevronright" 
-											 			
-											 			href="/in/airpods-pro/" target="_self" rel="follow" data-analytics-region="learn more"
-											 			data-analytics-title="Learn more about AirPods Pro"
-											 			aria-label="Learn more about AirPods Pro"
-											 			
-											 		>Learn more</a>
-											
-											
-											 		<a
-											 			 class="icon icon-after icon-chevronright" 
-											 			
-											 			href="/in/shop/goto/product/MTJV3" target="_self" rel="follow" data-analytics-region="buy"
-											 			data-analytics-title="Buy AirPods Pro"
-											 			aria-label="Buy AirPods Pro"
-											 			
-											 		>Buy</a>
-										</div>
-									</div>
-										<div
-											 class="unit-image-wrapper" 
-											
-										>
-											<figure
-												 class="unit-image unit-image-airpods-pro-promo-airpods-pro-order" 
-												
-												
-												data-anim-lazy-image
-											>
-											</figure>
-										</div>
-								</div>
-							</div>
-						</div>
-             
-             <div data-unit-id="homepod-mini" data-analytics-section-engagement="name:promo-homepod-mini">
-    <div class="module-content">
-        <div class="unit-wrapper no-avail">
-            <a class="unit-link" href="/in/homepod-mini/" target="_self" rel="follow" data-analytics-region="learn more">&nbsp;</a>
-            <div class="unit-copy-wrapper">
-                <h4 class="headline">HomePod mini</h4>
-                <div class="cta-links">
-                    <a class="icon icon-after icon-chevronright" href="/in/homepod-mini/" target="_self" rel="follow" data-analytics-region="learn more" data-analytics-title="Learn more about HomePod mini" aria-label="Learn more about HomePod mini">Learn more</a>
-                    <a class="icon icon-after icon-chevronright" href="/in/shop/goto/buy_homepod/homepod_mini" target="_self" rel="follow" data-analytics-region="buy" data-analytics-title="Buy HomePod mini" aria-label="Buy HomePod mini">Buy</a>
-                </div>
-            </div>
-            <div class="unit-image-wrapper">
-                <figure class="unit-image unit-image-homepod-mini-tile-homepod-mini" data-anim-lazy-image>
-                </figure>
-            </div>
-        </div>
-    </div>
-</div>
-            <div
-							
-							
-							data-unit-id="iphone-tradein"
-							data-analytics-section-engagement="name:promo-iphone-tradein"
-						>
-							<div class="module-content">
-								
-								<div
-									 class="unit-wrapper" 
-									
-								>
-										<a 
-											 class="unit-link" 
-											
-											href="/in/shop/goto/trade_in" target="_self" rel="follow" data-analytics-region="buy"
-											
-										>&nbsp;</a>
-									<div class="unit-copy-wrapper">
-										
-													<h4
-														 class="logo-image logo-image-iphone-tradein-logo-tradein headline" 
-														
-														
-														
-														
-														
-													><span class="visuallyhidden">Apple Trade In</span></h4>
-													<h5
-														 class="subhead" 
-														
-														
-														
-														
-														role="presentation"
-													>Upgrade and save. It’s that easy.</h5>
-										
-										
-										<div
-											 class="cta-links" 
-											
-										>
-													<a
-														 class="icon icon-after icon-chevronright" 
-														
-														href="/in/shop/goto/trade_in" target="_self" rel="follow" data-analytics-region="buy"
-														data-analytics-title="See what your device is worth"
-														aria-label="See what your device is worth"
-														
-													>See what your device is worth</a>
-										</div>
-									</div>
-										<div
-											 class="unit-image-wrapper" 
-											
-										>
-											<figure
-												 class="unit-image unit-image-iphone-tradein-promo-iphone-tradein" 
-												
-												
-												data-anim-lazy-image
-											>
-											</figure>
-										</div>
-								</div>
-							</div>
-						</div>
-        </section>
-        <section class="homepage-section standalone-module" data-module-template="tv-plus-gallery" data-analytics-region="tv-plus-gallery">
-            <div class="module-content">
-                <script type="text/javascript">
-	window.tvPlusHpData = {"data": {"shelf": {"cachingPolicy": {"cache": true, "maxAge": 0, "type": "RefreshWithCanvas"}, "displayType": "river", "id": "edt.col.62e955c2-304d-40d9-9adf-17262421f0be", "items": [{"extendedMetadata": {"caption": "COMING TO APPLE TV+ FRIDAY", "images": {"channelSplashWide": {"width": 4320, "height": 1800, "url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/eb/a9/39/eba9394d-c1d3-6c68-26c9-0e661abab198/6c94dd4d-00ae-467d-bf4d-67741e11d60e.png/{w}x{h}sr.{f}", "joeColor": "b:rgb(10,13,12) p:rgb(230,231,230) s:rgb(208,209,209) t:rgb(186,187,186) q:rgb(168,170,170)"}, "posterArt": {"width": 3840, "height": 2160, "url": "https://is1-ssl.mzstatic.com/image/thumb/rss8pF-klNy76S-NWFue-A/{w}x{h}.{f}", "supportsLayeredImage": true, "joeColor": "b:rgb(196,196,196) p:rgb(6,6,6) s:rgb(38,39,38) t:rgb(44,44,44) q:rgb(69,70,70)"}, "channelSplashTall": {"width": 1680, "height": 3636, "url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/97/50/19/975019ae-8b24-e2d5-5f5a-3b8621332c72/f1cce767-aa69-4080-b0d0-51079bdd88ed.png/{w}x{h}tc.{f}", "joeColor": "b:rgb(20,24,23) p:rgb(235,236,236) s:rgb(204,207,205) t:rgb(192,194,193) q:rgb(167,170,169)"}, "singleColorContentLogo": {"width": 5162, "height": 2226, "url": "https://is1-ssl.mzstatic.com/image/thumb/iAiHFTlU3p6muMhKQXbOYg/{w}x{h}.{f}", "joeColor": "b:rgb(255,255,255) p:rgb(12,12,12) s:rgb(25,25,25) t:rgb(61,61,61) q:rgb(71,71,71)"}}, "longNote": "Coming to Apple\u00a0TV+ 12 January."}, "genres": [{"id": "umc.gnr.mov.crime", "name": "Crime", "type": "Genre", "url": "https://tv.apple.com/in/genre/crime/umc.gnr.mov.crime"}], "id": "umc.cmc.5x1fg9vferlfeutzpq6rra1zf", "images": {"shelfImage": {"height": 2160, "isP3": false, "joeColor": "b:rgb(196,196,196) p:rgb(6,6,6) s:rgb(38,39,38) t:rgb(44,44,44) q:rgb(69,70,70)", "supportsLayeredImage": true, "url": "https://is1-ssl.mzstatic.com/image/thumb/rss8pF-klNy76S-NWFue-A/{w}x{h}.{f}", "width": 3840}, "shelfImageBackground": {"height": 2160, "isP3": false, "joeColor": "b:rgb(151,81,47) p:rgb(252,227,180) s:rgb(252,201,139) t:rgb(232,198,154) q:rgb(232,177,121)", "supportsLayeredImage": false, "url": "https://is1-ssl.mzstatic.com/image/thumb/N4Sm6w4rNswMFnZS3_wqZw/{w}x{h}.{f}", "width": 3840}, "transitionImage": {"height": 3240, "isP3": false, "joeColor": "b:rgb(100,101,101) p:rgb(213,234,223) s:rgb(254,181,121) t:rgb(191,207,199) q:rgb(223,165,117)", "supportsLayeredImage": false, "url": "https://is1-ssl.mzstatic.com/image/thumb/Kpj2xYUtHMidhAXbRaMAxw/{w}x{h}sr.{f}", "width": 4320}}, "isAppleOriginal": true, "releaseDate": 1698451200000, "secondaryActions": ["AddToUpNext"], "title": "Killers of the Flower Moon", "type": "Movie", "url": "https://tv.apple.com/in/movie/killers-of-the-flower-moon/umc.cmc.5x1fg9vferlfeutzpq6rra1zf"}, {"extendedMetadata": {"images": {"channelSplashWide": {"width": 4320, "height": 1800, "url": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/7b/37/90/7b3790f1-2439-ba15-935b-f7f3036fc3c2/4d101480-3317-4e4a-9bac-2284f350922b.png/{w}x{h}sr.{f}", "joeColor": "b:rgb(56,92,120) p:rgb(233,235,230) s:rgb(232,226,220) t:rgb(198,207,208) q:rgb(197,200,200)"}, "posterArt": {"width": 3840, "height": 2160, "url": "https://is1-ssl.mzstatic.com/image/thumb/tPJwMGtsAr_psAVlyf2Rzg/{w}x{h}.{f}", "supportsLayeredImage": true, "joeColor": "b:rgb(64,100,129) p:rgb(251,246,225) s:rgb(252,243,177) t:rgb(213,217,206) q:rgb(214,214,167)"}, "channelSplashTall": {"width": 1680, "height": 3636, "url": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/c0/11/15/c0111558-3dd9-6fbe-705b-0afec6323294/6be3427d-8d09-4897-839f-5e93924496db.png/{w}x{h}tc.{f}", "joeColor": "b:rgb(34,65,88) p:rgb(232,233,223) s:rgb(230,210,189) t:rgb(192,199,196) q:rgb(191,181,169)"}, "singleColorContentLogo": {"width": 2792, "height": 1328, "url": "https://is1-ssl.mzstatic.com/image/thumb/J7vM2h0h2cFSUDB5x44EKg/{w}x{h}.{f}", "joeColor": "b:rgb(255,255,255) p:rgb(12,12,12) s:rgb(25,25,25) t:rgb(61,61,61) q:rgb(71,71,71)"}}, "longNote": "A thrilling road trip comedy."}, "genres": [{"id": "umc.gnr.mov.comedy", "name": "Comedy", "type": "Genre", "url": "https://tv.apple.com/in/genre/comedy/umc.gnr.mov.comedy"}], "id": "umc.cmc.6o6y3wel2lez2tkdu2cv8dzd1", "images": {"shelfImage": {"height": 2160, "isP3": false, "joeColor": "b:rgb(64,100,129) p:rgb(251,246,225) s:rgb(252,243,177) t:rgb(213,217,206) q:rgb(214,214,167)", "supportsLayeredImage": true, "url": "https://is1-ssl.mzstatic.com/image/thumb/tPJwMGtsAr_psAVlyf2Rzg/{w}x{h}.{f}", "width": 3840}, "shelfImageBackground": {"height": 2160, "isP3": false, "joeColor": "b:rgb(180,181,179) p:rgb(35,28,24) s:rgb(37,35,32) t:rgb(64,58,55) q:rgb(66,64,61)", "supportsLayeredImage": false, "url": "https://is1-ssl.mzstatic.com/image/thumb/3QeIazFewU4Mox-YZ1BBhA/{w}x{h}.{f}", "width": 3840}, "transitionImage": {"height": 3240, "isP3": false, "joeColor": "b:rgb(167,173,168) p:rgb(14,10,6) s:rgb(27,19,13) t:rgb(45,43,38) q:rgb(55,50,44)", "supportsLayeredImage": false, "url": "https://is1-ssl.mzstatic.com/image/thumb/zOQ4Gz7BdkLtExHLasRDdg/{w}x{h}sr.{f}", "width": 4320}}, "isAppleOriginal": true, "releaseDate": 1702598400000, "secondaryActions": ["AddToUpNext"], "title": "The Family Plan", "type": "Movie", "url": "https://tv.apple.com/in/movie/the-family-plan/umc.cmc.6o6y3wel2lez2tkdu2cv8dzd1"}, {"extendedMetadata": {"comingSoon": {"tvs.sbd.4000": {"comingSoonDate": "2024-01-26", "isComingSoon": true}}, "images": {"channelSplashWide": {"width": 4320, "height": 1800, "url": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/97/aa/ce/97aaceec-2718-49f5-c6d2-373ffd994f7d/f63b2b9d-4e9f-4ef6-a720-e5021fd7943f.png/{w}x{h}sr.{f}", "joeColor": "b:rgb(57,53,48) p:rgb(249,229,198) s:rgb(236,225,203) t:rgb(211,193,168) q:rgb(200,190,172)"}, "posterArt": {"width": 3840, "height": 2160, "url": "https://is1-ssl.mzstatic.com/image/thumb/cXVsKbD0Sk-ogzcoNmj6aA/{w}x{h}.{f}", "supportsLayeredImage": true, "joeColor": "b:rgb(171,169,159) p:rgb(14,11,10) s:rgb(23,20,18) t:rgb(46,42,40) q:rgb(52,50,46)"}, "channelSplashTall": {"width": 1680, "height": 3636, "url": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/f6/de/e4/f6dee492-57e7-3f37-8947-e0aae00d83d9/1fd19741-c5a8-4563-9013-9bac6e5432e1.png/{w}x{h}tc.{f}", "joeColor": "b:rgb(29,26,29) p:rgb(208,218,216) s:rgb(150,185,203) t:rgb(172,180,178) q:rgb(126,153,168)"}, "singleColorContentLogo": {"width": 6227, "height": 1093, "url": "https://is1-ssl.mzstatic.com/image/thumb/BS1yxYks8uahNcDwJLULzg/{w}x{h}.{f}", "joeColor": "b:rgb(255,255,255) p:rgb(12,12,12) s:rgb(25,25,25) t:rgb(61,61,61) q:rgb(71,71,71)"}}, "longNote": "New series premieres 26 January."}, "genres": [{"id": "umc.gnr.tv.drama", "name": "Drama", "type": "Genre", "url": "https://tv.apple.com/in/genre/drama/umc.gnr.tv.drama"}], "id": "umc.cmc.7bxcni0vwgll9kmicq738k5q2", "images": {"shelfImage": {"height": 2160, "isP3": false, "joeColor": "b:rgb(171,169,159) p:rgb(14,11,10) s:rgb(23,20,18) t:rgb(46,42,40) q:rgb(52,50,46)", "supportsLayeredImage": true, "url": "https://is1-ssl.mzstatic.com/image/thumb/cXVsKbD0Sk-ogzcoNmj6aA/{w}x{h}.{f}", "width": 3840}, "shelfImageBackground": {"height": 2160, "isP3": false, "joeColor": "b:rgb(224,208,185) p:rgb(20,15,14) s:rgb(26,26,24) t:rgb(61,54,48) q:rgb(66,62,56)", "supportsLayeredImage": false, "url": "https://is1-ssl.mzstatic.com/image/thumb/bguDRTLJslV5Eug8Ibn9OQ/{w}x{h}.{f}", "width": 3840}, "transitionImage": {"height": 3240, "isP3": false, "joeColor": "b:rgb(33,31,24) p:rgb(184,210,210) s:rgb(158,199,205) t:rgb(153,174,173) q:rgb(133,166,169)", "supportsLayeredImage": false, "url": "https://is1-ssl.mzstatic.com/image/thumb/ccD7XsLI6hfm8Pd9Ye2gsQ/{w}x{h}sr.{f}", "width": 4320}}, "isAppleOriginal": true, "releaseDate": 1706227200000, "secondaryActions": ["AddToUpNext"], "title": "Masters of the Air", "type": "Show", "url": "https://tv.apple.com/in/show/masters-of-the-air/umc.cmc.7bxcni0vwgll9kmicq738k5q2"}, {"extendedMetadata": {"caption": "NEW EPISODES FRIDAYS", "images": {"channelSplashWide": {"width": 4320, "height": 1800, "url": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/ee/cd/b4/eecdb452-4553-ef29-a24e-283f9abac2ef/3e43b2c4-0719-45ed-88ab-48fb6688d344.png/{w}x{h}sr.{f}", "joeColor": "b:rgb(1,30,19) p:rgb(234,225,129) s:rgb(175,202,129) t:rgb(187,186,107) q:rgb(140,167,107)"}, "posterArt": {"width": 3840, "height": 2160, "url": "https://is1-ssl.mzstatic.com/image/thumb/mZsXfk4apSIl3Q5QZqztiQ/{w}x{h}.{f}", "supportsLayeredImage": true, "joeColor": "b:rgb(6,39,27) p:rgb(235,234,154) s:rgb(132,200,109) t:rgb(189,195,129) q:rgb(107,167,93)"}, "channelSplashTall": {"width": 1680, "height": 3636, "url": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/70/36/e0/7036e04c-845f-61d1-bfb7-26334074376a/b0eae62f-8ea4-4883-8f26-245eb2f13e7f.png/{w}x{h}tc.{f}", "joeColor": "b:rgb(6,29,23) p:rgb(232,224,159) s:rgb(226,220,133) t:rgb(187,185,132) q:rgb(182,182,111)"}, "singleColorContentLogo": {"width": 4954, "height": 1196, "url": "https://is1-ssl.mzstatic.com/image/thumb/2Pvq9Q1gy7cxOpfXK1_8Ew/{w}x{h}.{f}", "joeColor": "b:rgb(255,255,255) p:rgb(12,12,12) s:rgb(25,25,25) t:rgb(61,61,61) q:rgb(71,71,71)"}}, "longNote": "Some secrets cannot be contained."}, "genres": [{"id": "umc.gnr.tv.adventure", "name": "Adventure", "type": "Genre", "url": "https://tv.apple.com/in/genre/adventure/umc.gnr.tv.adventure"}], "id": "umc.cmc.62l8x0ixrhyq3yaqa5y8yo7ew", "images": {"shelfImage": {"height": 2160, "isP3": false, "joeColor": "b:rgb(6,39,27) p:rgb(235,234,154) s:rgb(132,200,109) t:rgb(189,195,129) q:rgb(107,167,93)", "supportsLayeredImage": true, "url": "https://is1-ssl.mzstatic.com/image/thumb/mZsXfk4apSIl3Q5QZqztiQ/{w}x{h}.{f}", "width": 3840}, "shelfImageBackground": {"height": 2160, "isP3": false, "joeColor": "b:rgb(3,35,30) p:rgb(238,231,144) s:rgb(208,222,132) t:rgb(191,192,121) q:rgb(167,185,112)", "supportsLayeredImage": false, "url": "https://is1-ssl.mzstatic.com/image/thumb/ZpgnpMND_O-u7ME4602c-Q/{w}x{h}.{f}", "width": 3840}, "transitionImage": {"height": 3240, "isP3": false, "joeColor": "b:rgb(26,29,11) p:rgb(227,226,145) s:rgb(160,200,116) t:rgb(187,186,118) q:rgb(133,166,95)", "supportsLayeredImage": false, "url": "https://is1-ssl.mzstatic.com/image/thumb/OFHNmCIAhV3ZWgWz09nXIA/{w}x{h}sr.{f}", "width": 4320}}, "isAppleOriginal": true, "releaseDate": 1700179200000, "secondaryActions": ["AddToUpNext"], "title": "Monarch: Legacy of Monsters", "type": "Show", "url": "https://tv.apple.com/in/show/monarch-legacy-of-monsters/umc.cmc.62l8x0ixrhyq3yaqa5y8yo7ew"}, {"extendedMetadata": {"images": {"channelSplashWide": {"width": 4320, "height": 1800, "url": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/00/39/86/00398675-949c-5a5d-81fd-39450110d5c8/121e2a53-c130-4d77-a055-68efba5c7473.png/{w}x{h}sr.{f}", "joeColor": "b:rgb(186,109,48) p:rgb(14,2,0) s:rgb(32,15,5) t:rgb(49,23,10) q:rgb(63,34,14)"}, "posterArt": {"width": 3840, "height": 2160, "url": "https://is1-ssl.mzstatic.com/image/thumb/44dJzkosAhD0-ugRepvsfw/{w}x{h}.{f}", "supportsLayeredImage": true, "joeColor": "b:rgb(200,131,67) p:rgb(24,8,2) s:rgb(35,16,10) t:rgb(59,33,15) q:rgb(68,39,22)"}, "channelSplashTall": {"width": 1680, "height": 3636, "url": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/27/70/4a/27704afa-feb6-8ed8-9d0e-9d4f3536de2a/d404c65c-cb7e-481b-8ecd-846293327946.png/{w}x{h}tc.{f}", "joeColor": "b:rgb(180,103,47) p:rgb(4,1,0) s:rgb(5,2,0) t:rgb(39,22,9) q:rgb(40,22,9)"}, "singleColorContentLogo": {"width": 7884, "height": 2382, "url": "https://is1-ssl.mzstatic.com/image/thumb/qOsAe0YuSE0kbguTATsVLQ/{w}x{h}.{f}", "joeColor": "b:rgb(255,255,255) p:rgb(12,12,12) s:rgb(25,25,25) t:rgb(61,61,61) q:rgb(71,71,71)"}}, "longNote": "Change is on the air."}, "genres": [{"id": "umc.gnr.tv.drama", "name": "Drama", "type": "Genre", "url": "https://tv.apple.com/in/genre/drama/umc.gnr.tv.drama"}], "id": "umc.cmc.25tn3v8ku4b39tr6ccgb8nl6m", "images": {"shelfImage": {"height": 2160, "isP3": false, "joeColor": "b:rgb(200,131,67) p:rgb(24,8,2) s:rgb(35,16,10) t:rgb(59,33,15) q:rgb(68,39,22)", "supportsLayeredImage": true, "url": "https://is1-ssl.mzstatic.com/image/thumb/44dJzkosAhD0-ugRepvsfw/{w}x{h}.{f}", "width": 3840}, "shelfImageBackground": {"height": 2160, "isP3": false, "joeColor": "b:rgb(57,20,10) p:rgb(255,253,234) s:rgb(223,149,94) t:rgb(215,206,189) q:rgb(190,123,77)", "supportsLayeredImage": false, "url": "https://is1-ssl.mzstatic.com/image/thumb/ghWMYp06twqtitvO7vdJkA/{w}x{h}.{f}", "width": 3840}, "transitionImage": {"height": 3240, "isP3": false, "joeColor": "b:rgb(37,6,0) p:rgb(244,182,86) s:rgb(233,149,62) t:rgb(202,147,69) q:rgb(194,121,49)", "supportsLayeredImage": false, "url": "https://is1-ssl.mzstatic.com/image/thumb/uSzgbcE8ABK93r6BwYQrbQ/{w}x{h}sr.{f}", "width": 4320}}, "isAppleOriginal": true, "releaseDate": 1572566400000, "secondaryActions": ["AddToUpNext"], "title": "The Morning Show", "type": "Show", "url": "https://tv.apple.com/in/show/the-morning-show/umc.cmc.25tn3v8ku4b39tr6ccgb8nl6m"}, {"extendedMetadata": {"images": {"channelSplashWide": {"width": 4320, "height": 1800, "url": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/12/05/19/1205192b-eb74-0244-db9c-95ae5be95751/283d1ec1-7df7-467b-bba0-96dd7bc1ad2a.png/{w}x{h}sr.{f}", "joeColor": "b:rgba(13,10,14,255) p:rgba(232,212,207,255) s:rgba(227,197,178,255) t:rgba(188,172,168,255) q:rgba(184,160,145,255)"}, "posterArt": {"width": 3840, "height": 2160, "url": "https://is1-ssl.mzstatic.com/image/thumb/BkCQwrg5nkdzmB4uocPNhQ/{w}x{h}.{f}", "supportsLayeredImage": true, "joeColor": "b:rgb(17,19,28) p:rgb(234,215,209) s:rgb(214,157,116) t:rgb(190,176,173) q:rgb(174,130,98)"}, "channelSplashTall": {"width": 1680, "height": 3636, "url": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/d8/80/3e/d8803ef4-0c6c-1fe6-3b4e-15e4690d18aa/01c96032-6397-4686-9432-7e803c2aac8e.png/{w}x{h}tc.{f}", "joeColor": "b:rgba(4,4,6,255) p:rgba(237,223,215,255) s:rgba(217,179,155,255) t:rgba(191,179,173,255) q:rgba(174,144,125,255)"}, "singleColorContentLogo": {"width": 7912, "height": 742, "url": "https://is1-ssl.mzstatic.com/image/thumb/HLNPgFIE4bhiP-j3Ov07pg/{w}x{h}.{f}", "joeColor": "b:rgb(255,255,255) p:rgb(12,12,12) s:rgb(25,25,25) t:rgb(61,61,61) q:rgb(71,71,71)"}}, "longNote": "All empires fall."}, "genres": [{"id": "umc.gnr.tv.scifi", "name": "Sci-Fi", "type": "Genre", "url": "https://tv.apple.com/in/genre/sci-fi/umc.gnr.tv.scifi"}], "id": "umc.cmc.5983fipzqbicvrve6jdfep4x3", "images": {"shelfImage": {"height": 2160, "isP3": false, "joeColor": "b:rgb(17,19,28) p:rgb(234,215,209) s:rgb(214,157,116) t:rgb(190,176,173) q:rgb(174,130,98)", "supportsLayeredImage": true, "url": "https://is1-ssl.mzstatic.com/image/thumb/BkCQwrg5nkdzmB4uocPNhQ/{w}x{h}.{f}", "width": 3840}, "shelfImageBackground": {"height": 2160, "isP3": false, "joeColor": "b:rgb(16,11,20) p:rgb(232,203,178) s:rgb(210,159,140) t:rgb(189,165,146) q:rgb(171,130,116)", "supportsLayeredImage": false, "url": "https://is1-ssl.mzstatic.com/image/thumb/uuSNVtHj-RIfOnOCxPIaiw/{w}x{h}.{f}", "width": 3840}, "transitionImage": {"height": 3240, "isP3": false, "joeColor": "b:rgb(14,13,12) p:rgb(215,199,183) s:rgb(216,164,144) t:rgb(175,161,149) q:rgb(176,134,117)", "supportsLayeredImage": false, "url": "https://is1-ssl.mzstatic.com/image/thumb/tQAjZ49TxWviswDqumNqBw/{w}x{h}sr.{f}", "width": 4320}}, "isAppleOriginal": true, "releaseDate": 1632441600000, "secondaryActions": ["AddToUpNext"], "title": "Foundation", "type": "Show", "url": "https://tv.apple.com/in/show/foundation/umc.cmc.5983fipzqbicvrve6jdfep4x3"}], "metrics": {"data.uts.shelfCategoryId": "edt.cat.unknown.edt.col.62e955c2-304d-40d9-9adf-17262421f0be", "data.uts.shelfCategoryName": "uts.category.unknown.edt.col.62e955c2-304d-40d9-9adf-17262421f0be", "data.uts.responseId": "d8ed90ae-9485-47bd-9e8b-0ee96c38976d", "data.uts.displayType": "River"}, "url": "https://tv.apple.com/in/collection/edt.col.62e955c2-304d-40d9-9adf-17262421f0be?ctx_dt=river"}}, "utsk": "6e3013c6d6fae3c2::::::235656c069bb0efb", "marcom": {"timestamp_utc": "2024-01-09T05:56:15.668Z", "locale": "en-IN", "storefront": "143467", "collection_id": "edt.col.62e955c2-304d-40d9-9adf-17262421f0be", "url": "https://uts-api-web-marketing.itunes.apple.com/uts/v3/shelves/edt.col.62e955c2-304d-40d9-9adf-17262421f0be?caller=web-marketing&ctx_dt=river&v=54&pfm=web&profile=Full&sf=143467&locale=en-IN"}}
+              if(youtubeUrl){
+                  let iframeContent = "<iframe width='"+width+"' height='"+height+"' src='"+src+"' frameborder='0' allowfullscreen aria-label='"+ariaLabel+"'></iframe>";
+                  if($(ele).find('iframe').length<1){
+                      $(ele).append(iframeContent);
+                  }
+              }
+            })
+            $('.youtube-noCookie-selector .main-youtube-fallback-text').hide();
+          }
+          else{
+            if($(".youtube-noCookie-selector iframe").length>0){
+              $(".youtube-noCookie-selector iframe").remove();
+            }
+            $('.youtube-noCookie-selector .main-youtube-fallback-text').show();
+          }
+        }
+        if($('.youtube-nid-selector').length>0) {
+        if(OnetrustActiveGroups.includes("C0004")){
+          $(".youtube-nid-selector").each(function(index, ele){
+            let youtubeUrl = $(ele).find(".youtubeInput").val();
+            if(youtubeUrl){
+                let iframeContent = "<iframe width='560' height='315' src='"+youtubeUrl+"' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen='true' title='Youtube Video'></iframe>";
+                if($(ele).find("iframe").length<1){
+                    $(ele).append(iframeContent);
+                }
+            }
+          })
+          $('.youtube-nid-selector .main-youtube-fallback-text').hide();
+        }
+        else{
+          if($(".youtube-nid-selector iframe").length>0){
+            $(".youtube-nid-selector iframe").remove();
+          }
+          $('.youtube-nid-selector .main-youtube-fallback-text').show();
+        }
+        
+      }
+      if(!isEmbedScriptAdded()){
+        addEmbedScript();
+      }
+      window.location.reload();
+    }
+  },500)
+});
+function isEmbedScriptAdded(){
+  const scripts = document.querySelectorAll('script');
+  for (const script of scripts){
+    if(script.src === "https://gateway.on24.com/view/orion/engagement-hub/dist/embed/embed.js"){
+      return true;
+    }
+  }
+  return false;
+}
+function addEmbedScript(){
+  var OnetrustActiveGroups = window.OnetrustActiveGroups;
+  if(OnetrustActiveGroups !== undefined && OnetrustActiveGroups.includes("C0003")){
+    let scriptEle = document.createElement("script");
+    scriptEle.setAttribute("src", "https://gateway.on24.com/view/orion/engagement-hub/dist/embed/embed.js");
+    scriptEle.setAttribute("data-width", "100%");
+    scriptEle.setAttribute("data-height", "auto");
+    scriptEle.setAttribute("data-url", "https://gateway.on24.com/");
+    var cmpEmbedElement=document.querySelector(".cmp-embed");
+    if(cmpEmbedElement){
+      cmpEmbedElement.appendChild(scriptEle);
+    }
+  }
+}
+}
 </script>
 
-                <div id="tv-plus-gallery" data-analytics-gallery-id="Tv Plus Gallery" data-analytics-section-engagement="name:tv-plus-gallery" aria-label="Tv Plus Gallery" role="group" class="gallery" data-watch-now="Stream now" data-preview-now="Preview now" data-watch-now-aria="Stream now, {title}" data-preview-now-aria="Preview now, {title}" data-token="itscg=10000&itsct=atv-apl_hp-stream_now--220622" data-watch-now-sports="Watch it live now" data-preview-now-sports="Add to up next" data-watch-now-sports-aria="Watch {title} live now" data-preview-now-sports-aria="Add {title} to up next" data-play-aria="play Apple TV plus gallery" data-pause-aria="pause Apple TV plus gallery" data-dotnav-item-aria="Item {n}" data-prev-aria-template="Show previous TV Series, ${title}" data-next-aria-template="Show next TV Series, ${title}" data-fnb-genre="Sports" data-fnb-title="Friday Night Baseball" data-fnb-supported="true" data-fnb-copy="Live MLB games, every Friday." data-fnb-cta="See the schedule" data-fnb-url="https://tv.apple.com/room/edt.item.62327df1-6874-470e-98b2-a5bbeac509a2">
-                    <h4 class="visuallyhidden">Apple TV+</h4>
-                    <div class="item-container"></div>
-                    <div data-analytics-gallery-interaction-type="paddlenav" class="paddlenav paddlenav-framed">
-                        <ul>
-                            <li class="previous"><button aria-label="Previous" class="paddlenav-arrow paddlenav-arrow-previous"></button></li>
-                            <li class="next"><button aria-label="Next" class="paddlenav-arrow paddlenav-arrow-next"></button></li>
-                        </ul>
+  
+  
+  
+
+
+<script type="text/javascript">
+        var siteSection0;
+        var siteSection1;
+        var siteSection2;
+        var siteSection3;
+        var siteSection4;
+        var childCount = "";
+        var displayLanguage = "English";
+        var pageTitle = document.getElementsByTagName("meta")["title"].getAttribute("content");
+        var pagePath = document.getElementsByTagName("meta")["path"].getAttribute("content");
+        var tags = document.getElementsByTagName("meta")["tags"].getAttribute("content");
+        var langCode = document.getElementsByTagName("meta")["langCode"].getAttribute("content");
+        var pathArray = pagePath.split('/');
+        var langaugeMap = {
+                'ja': 'japanese',
+                'fr': 'french',
+                'de': 'german',
+                'zh': 'chinese'
+        };
+        var languageCode;
+        if(displayLanguage != undefined && displayLanguage != "English"){
+            languageCode = displayLanguage.toLowerCase();
+        }else if(langCode != undefined){
+            languageCode = langaugeMap[langCode];
+        }else if(pathArray[4] != undefined){
+            languageCode = langaugeMap[pathArray[4]];
+        }
+        var langauge = (languageCode != undefined) ? ': '+languageCode : "";
+        pathArray = pathArray.splice(5,pathArray.length);
+         for (var i = 0; i < pathArray.length; i++) {
+          if((i==pathArray.length-1 && childCount >= 1) || i < pathArray.length-1 || i==0 || (pathArray.length == 2 && childCount.length == 0 &&
+          (pathArray[0] == "what-we-do" || pathArray[0] == "who-we-are" || pathArray[0] == "investor-relations" || pathArray[0] == "careers" || pathArray[0]
+           == "insights")) || (pathArray[1] == "industries" || pathArray[1] == "services" || pathArray[1] == "products-platforms")){
+              eval("siteSection" + i + "=pathArray[i] + langauge;");
+          }
+         }
+         var contentUnit;
+         var baseContentUnit;
+         if (siteSection0 == "what-we-do" || siteSection0 == "who-we-are" || siteSection0 == "investor-relations" ||
+         siteSection0 == "careers" || siteSection0 == "insights" ||  siteSection0 == "contact-us" ||
+         (siteSection0 != undefined && siteSection0.includes("home"))) {
+        	if(pathArray[0] == "investor-relations"){
+ 				contentUnit = "investor-relations";
+            }else if(siteSection2 !=undefined){
+                contentUnit = (tags != undefined) ? tags : siteSection2;
+            }else if(siteSection1 !=undefined) {
+                contentUnit = (tags != undefined) ? tags : siteSection1;
+            }else if(siteSection0.includes("home")){
+               contentUnit = "home";
+            }else{
+               contentUnit = (tags != undefined) ? tags : siteSection0;
+            }
+         }else {
+          contentUnit = "other";
+         }
+         if(pathArray[0] == "investor-relations"){
+			 baseContentUnit = "investor-relations";
+         }else if(pathArray.length >= 6){
+        	 baseContentUnit = pathArray[2] + ":" + pathArray[3];
+         }else{
+        	 baseContentUnit = siteSection2 || siteSection1 || siteSection0;
+         }
+         var articleType;
+         if(document.getElementById("articleType")){
+            articleType = document.getElementById("articleType").value;
+         }
+         var authorName = [];
+         var authors;
+         if(articleType == "White Paper" || articleType == "Blog" ){
+        	 let elements = document.getElementsByClassName('blog-author')
+        	 for (let i = 0; i < elements.length; i++) {
+        	     authorName.push(elements[i].value) ;
+        	 }
+        	 authors= authorName.join(":");
+         }
+         var contentType;
+         if(articleType != undefined){
+            contentType = "Article Type:" +articleType.toLowerCase();
+         }else if(pathArray[pathArray.length-2] != undefined){
+            contentType = pathArray[pathArray.length-2];
+         } else {
+            contentType = pathArray[pathArray.length-1];
+         }
+
+        var digitalData = {};
+        digitalData.page = {
+            pageInfo: {
+                pageName: pageTitle,
+                pagePath: pagePath,
+                siteSection: siteSection0,
+                siteSection1: siteSection1,
+                siteSection2: siteSection2,
+                siteSection3: siteSection3,
+                siteSection4: siteSection4
+            },
+            category: {
+                contentType: contentType,
+                contentUnit: contentUnit + langauge,
+                baseContentUnit: baseContentUnit
+            }
+        }
+        var content={};
+        if(authorName.length > 0){
+            digitalData.content = {
+               blogAuthor: authors,
+               blogName: pageTitle
+           }
+        }
+</script>
+  <script>
+   //prehiding snippet for Adobe Target with asynchronous tags deployment
+   ;(function(win, doc, style, timeout) {
+   var STYLE_ID = 'at-body-style';
+   function getParent() {
+      return doc.getElementsByTagName('head')[0];
+   }
+   function addStyle(parent, id, def) {
+      if (!parent) {
+      return;
+      }
+      var style = doc.createElement('style');
+      style.id = id;
+      style.innerHTML = def;
+      parent.appendChild(style);
+   }
+   function removeStyle(parent, id) {
+      if (!parent) {
+        return;
+      }
+      var style = doc.getElementById(id);
+      if (!style) {
+        return;
+      }
+      parent.removeChild(style);
+   }
+   addStyle(getParent(), STYLE_ID, style);
+     setTimeout(function() {
+        removeStyle(getParent(), STYLE_ID);
+     }, timeout);
+   }(window, document, "body {opacity: 0 !important}", 3000));
+</script>
+
+  
+  <script src="https://assets.adobedtm.com/54b495b4a932/3085d2f7ae3f/launch-896a39c0a8e2.min.js" async></script>
+  
+    
+    
+
+    
+
+    
+    
+    
+
+  
+  
+</head>
+    <body class="basePage page basicpage body-bg-dark" id="basePage-bc0524455b">
+        
+        
+        
+            
+
+<div class="cmp-page__skiptomaincontent">
+    <a class="cmp-page__skiptomaincontent-link" alt="Skip to main content link" href="#main-content">Skip to main content</a>
+</div>
+
+    
+<link rel="stylesheet" href="/etc.clientlibs/core/wcm/components/page/v2/page/clientlibs/site/skiptomaincontent.min.15c8e6e0e8a432d5ad140592e0b96372.css" type="text/css">
+
+
+
+
+            
+
+
+
+            <div class="cmp-page__skiptomaincontent" aria-label="Skip Navigation">
+  <a class="cmp-page__skiptomaincontent-link" alt="Skip to footer link" href="#main-footer">Skip to footer</a>
+</div>
+<div class="root responsivegrid">
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="experiencefragment aem-GridColumn aem-GridColumn--default--12">
+<div id="experiencefragment-a157391355" class="cmp-experiencefragment cmp-experiencefragment--header">
+
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="responsivegrid aem-GridColumn aem-GridColumn--default--12">
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="header aem-GridColumn aem-GridColumn--default--12">
+
+
+  <section class="w-100 z-index-1 main-header-section" data-dl-title="Header">
+    <header class="d-xl-block d-none position-fixed w-100 tab-header">
+      <nav aria-label="Primary Navigation" class="navbar navbar-expand-lg position-relative py-0">
+        <div class="header_rollover position-fixed __display"></div>
+        <div class="main-header py-0">
+          <a class="navbar-brand position-relative py-0 tcs-right-logo" href="https://www.tcs.com"><img class="brand-logo-img " src="/content/dam/global-tcs/en/images/home/dark-theme.svg" alt="Tata Consultancy Services"/>
+            <span class="sr-only d-none">Tata Consultancy Services</span></a>
+          <span class="seperator"></span>
+          <div class="hamburger-menu">
+            <span></span>
+            <span></span>
+            <span></span>
+          </div>
+        </div>
+        <div class="navbar-collapse navbar_links">
+          
+            <ul class="navbar-nav mr-auto" role="menu">
+              
+                <li class="nav-item nav_item_li d-flex flex-column justify-content-center align-items-center" data-nav="subHeader0" data-nav-link="/content/tcs/global/en/what-we-do.html" role="presentation">
+                  <a class="nav-link" href="https://www.tcs.com/what-we-do" role="menuitem" aria-haspopup="true">What we do</a>
+                  <span class="nav-underline"></span>
+                </li>
+              
+                <li class="nav-item nav_item_li d-flex flex-column justify-content-center align-items-center" data-nav="subHeader1" data-nav-link="https://www.tcs.com/who-we-are" role="presentation">
+                  <a class="nav-link" href="https://www.tcs.com/who-we-are" role="menuitem" aria-haspopup="true">Who we are</a>
+                  <span class="nav-underline"></span>
+                </li>
+              
+                <li class="nav-item nav_item_li d-flex flex-column justify-content-center align-items-center" data-nav="subHeader2" data-nav-link="/content/tcs/global/en/insights.html" role="presentation">
+                  <a class="nav-link" href="https://www.tcs.com/insights" role="menuitem" aria-haspopup="true">Insights</a>
+                  <span class="nav-underline"></span>
+                </li>
+              
+                <li class="nav-item nav_item_li d-flex flex-column justify-content-center align-items-center" data-nav="subHeader3" data-nav-link="/content/tcs/global/en/careers.html" role="presentation">
+                  <a class="nav-link" href="https://www.tcs.com/careers" role="menuitem" aria-haspopup="true">Careers</a>
+                  <span class="nav-underline"></span>
+                </li>
+              
+                <li class="nav-item nav_item_li d-flex flex-column justify-content-center align-items-center" data-nav="subHeader4" data-nav-link="/content/tcs/global/en/who-we-are/newsroom.html" role="presentation">
+                  <a class="nav-link" href="https://www.tcs.com/who-we-are/newsroom" role="menuitem" aria-haspopup="true">New and now</a>
+                  <span class="nav-underline"></span>
+                </li>
+              
+                <li class="nav-item nav_item_li d-flex flex-column justify-content-center align-items-center" data-nav="subHeader5" data-nav-link="https://www.tcs.com/investor-relations" role="presentation">
+                  <a class="nav-link" href="https://www.tcs.com/investor-relations" role="menuitem" aria-haspopup="true">Investors</a>
+                  <span class="nav-underline"></span>
+                </li>
+              
+            </ul>
+          
+          
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+                
+                  <div class="navbar-text">
+                    
+                      
+                      <a tabindex="0" href="https://www.tcs.com/contact-us/whats-on-your-mind">Contact us</a>
+                    
+                  </div>
+                
+                  <div class="navbar-text">
+                    
+                      
+                      <a tabindex="0" href="https://www.tcs.com/who-we-are/worldwide">TCS Worldwide</a>
+                    
+                  </div>
+                
+              
+            
+          
+        </div>
+        <span class="navbar-text d-flex" tabindex="0" data-target="#searchModal" data-toggle="modal" data-backdrop="static" role="button">
+          <span class="search-icon"></span>
+          <span class="sr-only">Search</span>
+        </span>
+        <span class="navbar-text py-0 tcs-white-logo">
+          
+            
+            <a href="https://www.tata.com/" target="_blank"><img src="/content/dam/global-tcs/en/images/home/logo-tata.svg" alt="tata.com"/><span class="sr-only d-none">tata.com</span><span class="sr-only">Open in New Tab</span></a>
+          
+        </span>
+      </nav>
+      
+        <div>
+
+
+
+<div class="mega_menu pt-32 position-absolute" data-nav="subHeader0">
+  <div class="submenu_rollover w-100 position-absolute"></div>
+  <div class="tcs-custom-container px-0 menu_container">
+    <div class="row position-relative position-relative">
+      <div class="col-11 mega_menu_internal_div">
+        <div class="header-inner-left">
+          <ul class="inner-ul position-relative pl-0" role="tablist">
+            <li class="inner-link row" role="presentation"><a href="#" data-nav-id="subHeader0" class="d-flex justify-content-between align-items-center col-3 l2_link overview_link py-3 px-0 position-relative" role="tab">Overview
+             <div class="d-flex align-items-center"><span class="header-right-arrow-icon"></span></div></a><div class="l3_divinder col-1"></div><div class="col-12 col-md-6 row pb-5 sub-header-content sub_header_description position-absolute"><h3 class="font-white main-heading">TCS is here to make a difference through technology.
+             </h3>
+              
+                <p class="normal-content font-grayWhite pb-4">Leading the way in innovation for over 50 years, we build greater futures for businesses across multiple industries and 131 countries. </p>
+              
+              
+              <div class="d-flex align-items-center">
+                
+                  <a href="https://www.tcs.com/what-we-do" class="btn-l3-description  btn-responsive mt-3 mb-2 mr-4">Discover all solutions</a>
+                
+              </div>
+            </div>
+            </li>
+            
+              <li class="inner-link row" data-id="Industries" role="presentation">
+                <a href="https://www.tcs.com/what-we-do.html#industries" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Industries
+                  <div class="d-flex align-items-center">
+                    
+                    <span class="header-right-arrow-icon"></span>
+                    
+                  </div>
+                </a>
+                <div class="l3_divinder col-1"></div>
+                
+                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/industries/banking">Banking</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/industries/capital-markets">Capital Markets</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/industries/consumer-goods-distribution">Consumer Goods and Distribution</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/industries/communications-media-information-services">Communications, Media, and Information Services</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/industries/education">Education</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/industries/energy-resources-utilities">Energy, Resources, and Utilities</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/industries/healthcare">Healthcare</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/industries/high-tech">High Tech</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/industries/insurance">Insurance</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/industries/life-sciences">Life Sciences</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/industries/manufacturing">Manufacturing</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/industries/public-services">Public Services</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/industries/retail">Retail </a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/industries/travel-and-logistics">Travel and Logistics</a></li>
+                    
+                  </ul>
+                
+
+                
+                
+                
+                
+              </li>
+            
+              <li class="inner-link row" data-id="Services" role="presentation">
+                <a href="https://www.tcs.com/what-we-do.html#services" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Services
+                  <div class="d-flex align-items-center">
+                    
+                    <span class="header-right-arrow-icon"></span>
+                    
+                  </div>
+                </a>
+                <div class="l3_divinder col-1"></div>
+                
+                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/services/cloud">Cloud</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/services/cognitive-business-operations">Cognitive Business Operations</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/services/consulting">Consulting</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/services/cybersecurity">Cybersecurity</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/services/data-and-analytics">Data and Analytics</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/services/enterprise-solutions">Enterprise Solutions</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/services/iot-digital-engineering">IoT and Digital Engineering</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/services/network-solutions-and-services">Network Solutions and Services</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/services/tcs-interactive">TCS Interactive</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/services/sustainability-services">Sustainability Services</a></li>
+                    
+                  </ul>
+                
+
+                
+                
+                
+                
+              </li>
+            
+              <li class="inner-link row" data-id="Products and Platforms" role="presentation">
+                <a href="https://www.tcs.com/what-we-do.html#products" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Products and Platforms
+                  <div class="d-flex align-items-center">
+                    
+                    <span class="header-right-arrow-icon"></span>
+                    
+                  </div>
+                </a>
+                <div class="l3_divinder col-1"></div>
+                
+                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-add">TCS ADD™</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-bancs">TCS BANCS™</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-bfsi-platforms">TCS BFSI Platforms</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-chroma">TCS CHROMA™</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-customer-intelligence-insights">TCS Customer Intelligence &amp; Insights™</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-erp-on-cloud">TCS ERP on Cloud</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://digitate.com/">ignio™</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcsion.com/dotcom/TCSSMB/">TCS iON™</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-hobs">TCS HOBS™</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-intelligent-urban-exchange">TCS Intelligent Urban Exchange™</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-omnistore">TCS OmniStore™</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-optumera">TCS Optumera™</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-tap">TCS Tap™</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/products-platforms/quartz">Quartz™ – The Smart Ledgers™</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-twinx">TCS TwinX™</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-mastercraft">TCS MasterCraft™</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.jile.io/">Jile™</a></li>
+                    
+                  </ul>
+                
+
+                
+                
+                
+                
+              </li>
+            
+              <li class="inner-link row" data-id="Research &amp; Innovation" role="presentation">
+                <a href="https://www.tcs.com/what-we-do/research" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Research &amp; Innovation
+                  <div class="d-flex align-items-center">
+                    
+                    <span class="header-right-arrow-icon"></span>
+                    
+                  </div>
+                </a>
+                <div class="l3_divinder col-1"></div>
+                
+                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/research">TCS Research</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/pace-innovation">TCS Pace™</a></li>
+                    
+                  </ul>
+                
+
+                
+                
+                
+                
+              </li>
+            
+
+          </ul>
+        </div>
+      </div>
+
+      <div class="sub-header-right-rollover position-absolute d-none"></div>
+    </div>
+  </div>
+</div>
+
+
+<div id="subHeader0" class="collapse uniques mobile-level2" aria-labelledby="subHeader0" data-parent="#header-accordion">
+  <div class="px-3 d-flex flex-column" id="sub-menu-accordion-subHeader0">
+    <a data-nav-id="subHeader0" href="javascript:void(0);" class="mobile-tab-link py-3 overview-link"><span class="overview-text">Overview</span></a>
+    
+      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader00">
+        <div class="d-flex justify-content-between align-items-center">
+          <a href="https://www.tcs.com/what-we-do#industries" class="mobile-tab-link"><span>Industries</span>
+          </a>
+          
+            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader00" aria-expanded="false" aria-label="Industries" role="button" aria-controls="child-subHeader00" tabindex="0"></span>
+          
+        </div>
+        
+          <div id="child-subHeader00" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader00" data-parent="#sub-menu-accordion-subHeader0">
+            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/industries/banking">Banking</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/industries/capital-markets">Capital Markets</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/industries/consumer-goods-distribution">Consumer Goods and Distribution</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/industries/communications-media-information-services">Communications, Media, and Information Services</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/industries/education">Education</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/industries/energy-resources-utilities">Energy, Resources, and Utilities</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/industries/healthcare">Healthcare</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/industries/high-tech">High Tech</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/industries/insurance">Insurance</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/industries/life-sciences">Life Sciences</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/industries/manufacturing">Manufacturing</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/industries/public-services">Public Services</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/industries/retail">Retail </a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/industries/travel-and-logistics">Travel and Logistics</a></li>
+              
+            </ul>
+          </div>
+        
+      </li>
+    
+      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader01">
+        <div class="d-flex justify-content-between align-items-center">
+          <a href="https://www.tcs.com/what-we-do#services" class="mobile-tab-link"><span>Services</span>
+          </a>
+          
+            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader01" aria-expanded="false" aria-label="Services" role="button" aria-controls="child-subHeader01" tabindex="0"></span>
+          
+        </div>
+        
+          <div id="child-subHeader01" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader01" data-parent="#sub-menu-accordion-subHeader0">
+            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/services/cloud">Cloud</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/services/cognitive-business-operations">Cognitive Business Operations</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/services/consulting">Consulting</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/services/cybersecurity">Cybersecurity</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/services/data-and-analytics">Data and Analytics</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/services/enterprise-solutions">Enterprise Solutions</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/services/iot-digital-engineering">IoT and Digital Engineering</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/services/network-solutions-and-services">Network Solutions and Services</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/services/tcs-interactive">TCS Interactive</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/services/sustainability-services">Sustainability Services</a></li>
+              
+            </ul>
+          </div>
+        
+      </li>
+    
+      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader02">
+        <div class="d-flex justify-content-between align-items-center">
+          <a href="https://www.tcs.com/what-we-do#products" class="mobile-tab-link"><span>Products and Platforms</span>
+          </a>
+          
+            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader02" aria-expanded="false" aria-label="Products and Platforms" role="button" aria-controls="child-subHeader02" tabindex="0"></span>
+          
+        </div>
+        
+          <div id="child-subHeader02" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader02" data-parent="#sub-menu-accordion-subHeader0">
+            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-add">TCS ADD™</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-bancs">TCS BANCS™</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-bfsi-platforms">TCS BFSI Platforms</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-chroma">TCS CHROMA™</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-customer-intelligence-insights">TCS Customer Intelligence &amp; Insights™</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-erp-on-cloud">TCS ERP on Cloud</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://digitate.com/">ignio™</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcsion.com/dotcom/TCSSMB/">TCS iON™</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-hobs">TCS HOBS™</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-intelligent-urban-exchange">TCS Intelligent Urban Exchange™</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-omnistore">TCS OmniStore™</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-optumera">TCS Optumera™</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-tap">TCS Tap™</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/products-platforms/quartz">Quartz™ – The Smart Ledgers™</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-twinx">TCS TwinX™</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-mastercraft">TCS MasterCraft™</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.jile.io/">Jile™</a></li>
+              
+            </ul>
+          </div>
+        
+      </li>
+    
+      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader03">
+        <div class="d-flex justify-content-between align-items-center">
+          <a href="https://www.tcs.com/what-we-do/research" class="mobile-tab-link"><span>Research &amp; Innovation</span>
+          </a>
+          
+            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader03" aria-expanded="false" aria-label="Research &amp; Innovation" role="button" aria-controls="child-subHeader03" tabindex="0"></span>
+          
+        </div>
+        
+          <div id="child-subHeader03" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader03" data-parent="#sub-menu-accordion-subHeader0">
+            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/research">TCS Research</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/pace-innovation">TCS Pace™</a></li>
+              
+            </ul>
+          </div>
+        
+      </li>
+    
+  </div>
+</div></div>
+      
+        <div>
+
+
+
+<div class="mega_menu pt-32 position-absolute" data-nav="subHeader1">
+  <div class="submenu_rollover w-100 position-absolute"></div>
+  <div class="tcs-custom-container px-0 menu_container">
+    <div class="row position-relative position-relative">
+      <div class="col-11 mega_menu_internal_div">
+        <div class="header-inner-left">
+          <ul class="inner-ul position-relative pl-0" role="tablist">
+            <li class="inner-link row" role="presentation"><a href="#" data-nav-id="subHeader1" class="d-flex justify-content-between align-items-center col-3 l2_link overview_link py-3 px-0 position-relative" role="tab">Overview
+             <div class="d-flex align-items-center"><span class="header-right-arrow-icon"></span></div></a><div class="l3_divinder col-1"></div><div class="col-12 col-md-6 row pb-5 sub-header-content sub_header_description position-absolute"><h3 class="font-white main-heading">We’re in it for good, driving positive change for the benefit of all.
+             </h3>
+              
+                <p class="normal-content font-grayWhite pb-4">Our expert, committed team put our shared beliefs into action – every day. Together, we combine innovation and collective knowledge to create the extraordinary. </p>
+              
+              
+              <div class="d-flex align-items-center">
+                
+                  <a href="https://www.tcs.com/who-we-are" class="btn-l3-description  btn-responsive mt-3 mb-2 mr-4">Discover the difference</a>
+                
+              </div>
+            </div>
+            </li>
+            
+              <li class="inner-link row" data-id="About Us" role="presentation">
+                <a href="https://www.tcs.com/who-we-are" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">About Us
+                  <div class="d-flex align-items-center">
+                    
+                    <span class="header-right-arrow-icon"></span>
+                    
+                  </div>
+                </a>
+                <div class="l3_divinder col-1"></div>
+                
+                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/who-we-are/tcs-sustainable-business-carbon-neutrality">Corporate Sustainability</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/who-we-are/diversity-equity-inclusion">Diversity, Equity, and Inclusion</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/who-we-are/corporate-social-responsibility">Corporate Social Responsibility </a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/who-we-are/tcs-way">The TCS Way</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/who-we-are/sports-sponsorships">Sports Sponsorships</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/who-we-are/alliances-partnerships">Alliances</a></li>
+                    
+                  </ul>
+                
+
+                
+                
+                
+                
+              </li>
+            
+              <li class="inner-link row" data-id="Leadership" role="presentation">
+                <a href="https://www.tcs.com/who-we-are/leadership" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Leadership
+                  <div class="d-flex align-items-center">
+                    
+                  </div>
+                </a>
+                <div class="l3_divinder col-1"></div>
+                
+
+                
+                
+                
+                
+              </li>
+            
+              <li class="inner-link row" data-id="Events" role="presentation">
+                <a href="https://www.tcs.com/who-we-are/events" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Events
+                  <div class="d-flex align-items-center">
+                    
+                  </div>
+                </a>
+                <div class="l3_divinder col-1"></div>
+                
+
+                
+                
+                
+                
+              </li>
+            
+
+          </ul>
+        </div>
+      </div>
+
+      <div class="sub-header-right-rollover position-absolute d-none"></div>
+    </div>
+  </div>
+</div>
+
+
+<div id="subHeader1" class="collapse uniques mobile-level2" aria-labelledby="subHeader1" data-parent="#header-accordion">
+  <div class="px-3 d-flex flex-column" id="sub-menu-accordion-subHeader1">
+    <a data-nav-id="subHeader1" href="javascript:void(0);" class="mobile-tab-link py-3 overview-link"><span class="overview-text">Overview</span></a>
+    
+      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader10">
+        <div class="d-flex justify-content-between align-items-center">
+          <a href="https://www.tcs.com/who-we-are" class="mobile-tab-link"><span>About Us</span>
+          </a>
+          
+            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader10" aria-expanded="false" aria-label="About Us" role="button" aria-controls="child-subHeader10" tabindex="0"></span>
+          
+        </div>
+        
+          <div id="child-subHeader10" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader10" data-parent="#sub-menu-accordion-subHeader1">
+            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/who-we-are/tcs-sustainable-business-carbon-neutrality">Corporate Sustainability</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/who-we-are/diversity-equity-inclusion">Diversity, Equity, and Inclusion</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/who-we-are/corporate-social-responsibility">Corporate Social Responsibility </a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/who-we-are/tcs-way">The TCS Way</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/who-we-are/sports-sponsorships">Sports Sponsorships</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/who-we-are/alliances-partnerships">Alliances</a></li>
+              
+            </ul>
+          </div>
+        
+      </li>
+    
+      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader11">
+        <div class="d-flex justify-content-between align-items-center">
+          <a href="https://www.tcs.com/who-we-are/leadership" class="mobile-tab-link"><span>Leadership</span>
+          </a>
+          
+        </div>
+        
+      </li>
+    
+      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader12">
+        <div class="d-flex justify-content-between align-items-center">
+          <a href="https://www.tcs.com/who-we-are/events" class="mobile-tab-link"><span>Events</span>
+          </a>
+          
+        </div>
+        
+      </li>
+    
+  </div>
+</div></div>
+      
+        <div>
+
+
+
+<div class="mega_menu pt-32 position-absolute" data-nav="subHeader2">
+  <div class="submenu_rollover w-100 position-absolute"></div>
+  <div class="tcs-custom-container px-0 menu_container">
+    <div class="row position-relative position-relative">
+      <div class="col-11 mega_menu_internal_div">
+        <div class="header-inner-left">
+          <ul class="inner-ul position-relative pl-0" role="tablist">
+            <li class="inner-link row" role="presentation"><a href="#" data-nav-id="subHeader2" class="d-flex justify-content-between align-items-center col-3 l2_link overview_link py-3 px-0 position-relative" role="tab">Overview
+             <div class="d-flex align-items-center"><span class="header-right-arrow-icon"></span></div></a><div class="l3_divinder col-1"></div><div class="col-12 col-md-6 row pb-5 sub-header-content sub_header_description position-absolute"><h3 class="font-white main-heading">Extraordinary expertise leads to remarkable results.
+             </h3>
+              
+                <p class="normal-content font-grayWhite pb-4">We share news, insights, analysis and research – tailored to your unique interests – to help you deepen your knowledge and impact. </p>
+              
+              
+              <div class="d-flex align-items-center">
+                
+                  <a href="https://www.tcs.com/insights" class="btn-l3-description  btn-responsive mt-3 mb-2 mr-4">Discover Expert Insights</a>
+                
+              </div>
+            </div>
+            </li>
+            
+              <li class="inner-link row" data-id="Customer Stories" role="presentation">
+                <a href="https://www.tcs.com/insights/customer-stories" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Customer Stories
+                  <div class="d-flex align-items-center">
+                    
+                  </div>
+                </a>
+                <div class="l3_divinder col-1"></div>
+                
+
+                
+                
+                
+                
+              </li>
+            
+              <li class="inner-link row" data-id="Perspectives" role="presentation">
+                <a href="https://www.tcs.com/insights/perspectives" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Perspectives
+                  <div class="d-flex align-items-center">
+                    
+                  </div>
+                </a>
+                <div class="l3_divinder col-1"></div>
+                
+
+                
+                
+                
+                
+              </li>
+            
+              <li class="inner-link row" data-id="Global studies" role="presentation">
+                <a href="https://www.tcs.com/insights/global-studies" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Global studies
+                  <div class="d-flex align-items-center">
+                    
+                  </div>
+                </a>
+                <div class="l3_divinder col-1"></div>
+                
+
+                
+                
+                
+                
+              </li>
+            
+              <li class="inner-link row" data-id="Topics" role="presentation">
+                <a href="https://www.tcs.com/insights" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Topics
+                  <div class="d-flex align-items-center">
+                    
+                    <span class="header-right-arrow-icon"></span>
+                    
+                  </div>
+                </a>
+                <div class="l3_divinder col-1"></div>
+                
+                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/insights">Insights</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/insights/topics/metaverse-topic">Metaverse</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/insights/topics/sustainability-topic">Sustainability</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/insights/topics/cybersecurity-topic">Cybersecurity</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/insights/topics/ai-ml-topic">AI &amp; ML</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/insights/topics/blockchain-topic">Blockchain</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/insights/topics/cloud-topic">Cloud</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/insights/topics/future-of-work-topic">Future of Work</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/insights/topics/health-and-wellness-topic">Health &amp; Wellness</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/insights/topics/internet-of-things-topic">IoT</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/insights/topics/data-analytics-storage-topic">Data Analytics and Storage</a></li>
+                    
+                  </ul>
+                
+
+                
+                
+                
+                
+              </li>
+            
+
+          </ul>
+        </div>
+      </div>
+
+      <div class="sub-header-right-rollover position-absolute d-none"></div>
+    </div>
+  </div>
+</div>
+
+
+<div id="subHeader2" class="collapse uniques mobile-level2" aria-labelledby="subHeader2" data-parent="#header-accordion">
+  <div class="px-3 d-flex flex-column" id="sub-menu-accordion-subHeader2">
+    <a data-nav-id="subHeader2" href="javascript:void(0);" class="mobile-tab-link py-3 overview-link"><span class="overview-text">Overview</span></a>
+    
+      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader20">
+        <div class="d-flex justify-content-between align-items-center">
+          <a href="https://www.tcs.com/insights/customer-stories" class="mobile-tab-link"><span>Customer Stories</span>
+          </a>
+          
+        </div>
+        
+      </li>
+    
+      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader21">
+        <div class="d-flex justify-content-between align-items-center">
+          <a href="https://www.tcs.com/insights/perspectives" class="mobile-tab-link"><span>Perspectives</span>
+          </a>
+          
+        </div>
+        
+      </li>
+    
+      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader22">
+        <div class="d-flex justify-content-between align-items-center">
+          <a href="https://www.tcs.com/insights/global-studies" class="mobile-tab-link"><span>Global studies</span>
+          </a>
+          
+        </div>
+        
+      </li>
+    
+      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader23">
+        <div class="d-flex justify-content-between align-items-center">
+          <a href="https://www.tcs.com/insights" class="mobile-tab-link"><span>Topics</span>
+          </a>
+          
+            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader23" aria-expanded="false" aria-label="Topics" role="button" aria-controls="child-subHeader23" tabindex="0"></span>
+          
+        </div>
+        
+          <div id="child-subHeader23" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader23" data-parent="#sub-menu-accordion-subHeader2">
+            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/insights">Insights</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/insights/topics/metaverse-topic">Metaverse</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/insights/topics/sustainability-topic">Sustainability</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/insights/topics/cybersecurity-topic">Cybersecurity</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/insights/topics/ai-ml-topic">AI &amp; ML</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/insights/topics/blockchain-topic">Blockchain</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/insights/topics/cloud-topic">Cloud</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/insights/topics/future-of-work-topic">Future of Work</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/insights/topics/health-and-wellness-topic">Health &amp; Wellness</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/insights/topics/internet-of-things-topic">IoT</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/insights/topics/data-analytics-storage-topic">Data Analytics and Storage</a></li>
+              
+            </ul>
+          </div>
+        
+      </li>
+    
+  </div>
+</div></div>
+      
+        <div>
+
+
+
+<div class="mega_menu pt-32 position-absolute" data-nav="subHeader3">
+  <div class="submenu_rollover w-100 position-absolute"></div>
+  <div class="tcs-custom-container px-0 menu_container">
+    <div class="row position-relative position-relative">
+      <div class="col-11 mega_menu_internal_div">
+        <div class="header-inner-left">
+          <ul class="inner-ul position-relative pl-0" role="tablist">
+            <li class="inner-link row" role="presentation"><a href="#" data-nav-id="subHeader3" class="d-flex justify-content-between align-items-center col-3 l2_link overview_link py-3 px-0 position-relative" role="tab">Overview
+             <div class="d-flex align-items-center"><span class="header-right-arrow-icon"></span></div></a><div class="l3_divinder col-1"></div><div class="col-12 col-md-6 row pb-5 sub-header-content sub_header_description position-absolute"><h3 class="font-white main-heading">Want to be a global change-maker?  Join our team.
+             </h3>
+              
+                <p class="normal-content font-grayWhite pb-4">At TCS, we believe exceptional work begins with hiring, celebrating and nurturing the best people — from all walks of life. </p>
+              
+              
+              <div class="d-flex align-items-center">
+                
+                  <a href="https://www.tcs.com/careers" class="btn-l3-description  btn-responsive mt-3 mb-2 mr-4">Join us</a>
+                
+              </div>
+            </div>
+            </li>
+            
+              <li class="inner-link row" data-id="India" role="presentation">
+                <a href="https://www.tcs.com/careers/india" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">India
+                  <div class="d-flex align-items-center">
+                    
+                    <span class="header-right-arrow-icon"></span>
+                    
+                  </div>
+                </a>
+                <div class="l3_divinder col-1"></div>
+                
+                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/india">India</a></li>
+                    
+                  </ul>
+                
+
+                
+                
+                
+                
+              </li>
+            
+              <li class="inner-link row" data-id="Americas" role="presentation">
+                <a href="https://www.tcs.com/careers" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Americas
+                  <div class="d-flex align-items-center">
+                    
+                    <span class="header-right-arrow-icon"></span>
+                    
+                  </div>
+                </a>
+                <div class="l3_divinder col-1"></div>
+                
+                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/argentina">Argentina</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/brazil">Brazil</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/canada">Canada</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/chile">Chile</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/colombia">Colombia</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/ecuador">Ecuador</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/mexico">Mexico</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/peru">Peru</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/uruguay">Uruguay</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/united-states">USA</a></li>
+                    
+                  </ul>
+                
+
+                
+                
+                
+                
+              </li>
+            
+              <li class="inner-link row" data-id="Asia Pacific" role="presentation">
+                <a href="https://www.tcs.com/careers" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Asia Pacific
+                  <div class="d-flex align-items-center">
+                    
+                    <span class="header-right-arrow-icon"></span>
+                    
+                  </div>
+                </a>
+                <div class="l3_divinder col-1"></div>
+                
+                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/australia">Australia</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/china">Mainland China</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/hongkong">Hong Kong SAR</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/indonesia">Indonesia</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/japan">Japan</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/malaysia">Malaysia</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/newzealand">New Zealand</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/philippines">Philippines</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/republic-of-korea">Republic of Korea</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/singapore">Singapore</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/taiwan">Chinese Taipei</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/thailand">Thailand</a></li>
+                    
+                  </ul>
+                
+
+                
+                
+                
+                
+              </li>
+            
+              <li class="inner-link row" data-id="Europe and UK" role="presentation">
+                <a href="https://www.tcs.com/careers/trainee-program-graduates-europe" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Europe and UK
+                  <div class="d-flex align-items-center">
+                    
+                    <span class="header-right-arrow-icon"></span>
+                    
+                  </div>
+                </a>
+                <div class="l3_divinder col-1"></div>
+                
+                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/belgium">Belgium</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/denmark">Denmark</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/estonia">Estonia</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/finland">Finland</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/france">France</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/germany">Germany</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/hungary">Hungary</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/ireland">Ireland</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/italy">Italy</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/luxembourg">Luxembourg</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/netherlands">Netherlands</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/norway">Norway</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/poland">Poland</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/portugal">Portugal</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/spain">Spain</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/sweden">Sweden</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/switzerland">Switzerland</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/united-kingdom">United Kingdom</a></li>
+                    
+                  </ul>
+                
+
+                
+                
+                
+                
+              </li>
+            
+              <li class="inner-link row" data-id="Middle East and Africa" role="presentation">
+                <a href="https://www.tcs.com/careers" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Middle East and Africa
+                  <div class="d-flex align-items-center">
+                    
+                    <span class="header-right-arrow-icon"></span>
+                    
+                  </div>
+                </a>
+                <div class="l3_divinder col-1"></div>
+                
+                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/bahrain">Bahrain</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/israel">Israel</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/kuwait">Kuwait</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/qatar">Qatar</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/saudi-arabia">Saudi Arabia</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/south-africa">South Africa</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/united-arab-emirates">United Arab Emirates</a></li>
+                    
+                  </ul>
+                
+
+                
+                
+                
+                
+              </li>
+            
+
+          </ul>
+        </div>
+      </div>
+
+      <div class="sub-header-right-rollover position-absolute d-none"></div>
+    </div>
+  </div>
+</div>
+
+
+<div id="subHeader3" class="collapse uniques mobile-level2" aria-labelledby="subHeader3" data-parent="#header-accordion">
+  <div class="px-3 d-flex flex-column" id="sub-menu-accordion-subHeader3">
+    <a data-nav-id="subHeader3" href="javascript:void(0);" class="mobile-tab-link py-3 overview-link"><span class="overview-text">Overview</span></a>
+    
+      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader30">
+        <div class="d-flex justify-content-between align-items-center">
+          <a href="https://www.tcs.com/careers/india" class="mobile-tab-link"><span>India</span>
+          </a>
+          
+            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader30" aria-expanded="false" aria-label="India" role="button" aria-controls="child-subHeader30" tabindex="0"></span>
+          
+        </div>
+        
+          <div id="child-subHeader30" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader30" data-parent="#sub-menu-accordion-subHeader3">
+            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/india">India</a></li>
+              
+            </ul>
+          </div>
+        
+      </li>
+    
+      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader31">
+        <div class="d-flex justify-content-between align-items-center">
+          <a href="https://www.tcs.com/careers" class="mobile-tab-link"><span>Americas</span>
+          </a>
+          
+            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader31" aria-expanded="false" aria-label="Americas" role="button" aria-controls="child-subHeader31" tabindex="0"></span>
+          
+        </div>
+        
+          <div id="child-subHeader31" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader31" data-parent="#sub-menu-accordion-subHeader3">
+            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/argentina">Argentina</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/brazil">Brazil</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/canada">Canada</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/chile">Chile</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/colombia">Colombia</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/ecuador">Ecuador</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/mexico">Mexico</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/peru">Peru</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/uruguay">Uruguay</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/united-states">USA</a></li>
+              
+            </ul>
+          </div>
+        
+      </li>
+    
+      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader32">
+        <div class="d-flex justify-content-between align-items-center">
+          <a href="https://www.tcs.com/careers" class="mobile-tab-link"><span>Asia Pacific</span>
+          </a>
+          
+            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader32" aria-expanded="false" aria-label="Asia Pacific" role="button" aria-controls="child-subHeader32" tabindex="0"></span>
+          
+        </div>
+        
+          <div id="child-subHeader32" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader32" data-parent="#sub-menu-accordion-subHeader3">
+            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/australia">Australia</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/china">Mainland China</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/hongkong">Hong Kong SAR</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/indonesia">Indonesia</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/japan">Japan</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/malaysia">Malaysia</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/newzealand">New Zealand</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/philippines">Philippines</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/republic-of-korea">Republic of Korea</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/singapore">Singapore</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/taiwan">Chinese Taipei</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/thailand">Thailand</a></li>
+              
+            </ul>
+          </div>
+        
+      </li>
+    
+      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader33">
+        <div class="d-flex justify-content-between align-items-center">
+          <a href="https://www.tcs.com/careers/trainee-program-graduates-europe" class="mobile-tab-link"><span>Europe and UK</span>
+          </a>
+          
+            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader33" aria-expanded="false" aria-label="Europe and UK" role="button" aria-controls="child-subHeader33" tabindex="0"></span>
+          
+        </div>
+        
+          <div id="child-subHeader33" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader33" data-parent="#sub-menu-accordion-subHeader3">
+            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/belgium">Belgium</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/denmark">Denmark</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/estonia">Estonia</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/finland">Finland</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/france">France</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/germany">Germany</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/hungary">Hungary</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/ireland">Ireland</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/italy">Italy</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/luxembourg">Luxembourg</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/netherlands">Netherlands</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/norway">Norway</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/poland">Poland</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/portugal">Portugal</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/spain">Spain</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/sweden">Sweden</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/switzerland">Switzerland</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/united-kingdom">United Kingdom</a></li>
+              
+            </ul>
+          </div>
+        
+      </li>
+    
+      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader34">
+        <div class="d-flex justify-content-between align-items-center">
+          <a href="https://www.tcs.com/careers" class="mobile-tab-link"><span>Middle East and Africa</span>
+          </a>
+          
+            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader34" aria-expanded="false" aria-label="Middle East and Africa" role="button" aria-controls="child-subHeader34" tabindex="0"></span>
+          
+        </div>
+        
+          <div id="child-subHeader34" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader34" data-parent="#sub-menu-accordion-subHeader3">
+            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/bahrain">Bahrain</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/israel">Israel</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/kuwait">Kuwait</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/qatar">Qatar</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/saudi-arabia">Saudi Arabia</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/south-africa">South Africa</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/united-arab-emirates">United Arab Emirates</a></li>
+              
+            </ul>
+          </div>
+        
+      </li>
+    
+  </div>
+</div></div>
+      
+        <div>
+
+
+
+<div class="mega_menu pt-32 position-absolute" data-nav="subHeader4">
+  <div class="submenu_rollover w-100 position-absolute"></div>
+  <div class="tcs-custom-container px-0 menu_container">
+    <div class="row position-relative position-relative">
+      <div class="col-11 mega_menu_internal_div">
+        <div class="header-inner-left">
+          <ul class="inner-ul position-relative pl-0" role="tablist">
+            <li class="inner-link row" role="presentation"><a href="#" data-nav-id="subHeader4" class="d-flex justify-content-between align-items-center col-3 l2_link overview_link py-3 px-0 position-relative" role="tab">Overview
+             <div class="d-flex align-items-center"><span class="header-right-arrow-icon"></span></div></a><div class="l3_divinder col-1"></div><div class="col-12 col-md-6 row pb-5 sub-header-content sub_header_description position-absolute"><h3 class="font-white main-heading">
+             </h3>
+              
+                <p class="normal-content font-grayWhite pb-4"> </p>
+              
+              
+              <div class="d-flex align-items-center">
+                
+              </div>
+            </div>
+            </li>
+            
+              <li class="inner-link row" data-id="Newsroom" role="presentation">
+                <a href="https://www.tcs.com/who-we-are/newsroom" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Newsroom
+                  <div class="d-flex align-items-center">
+                    
+                    <span class="header-right-arrow-icon"></span>
+                    
+                  </div>
+                </a>
+                <div class="l3_divinder col-1"></div>
+                
+
+                
+                
+                  <div class="right-submenu-l3 non-list-div row col-8 position-absolute level3_container flex-column">
+                    <h4 class="sub-heading pb-4">Recent News</h4>
+                    
+                      <div class="d-flex flex-column pb-32">
+                          <div class="d-flex">
+                            
+                            <div class="d-flex flex-column ">
+                              <span class="small-content-span">18 Dec 2023</span>
+                              <a href="https://www.tcs.com/who-we-are/newsroom/press-release/class-eight-student-thrissur-kerela-aditya-kb-wins-indias-largest-interschool-quiz-tcs-inquizitive-2023" class="section-content">Class 8 student from Thrissur, Kerela, Aditya KB wins India’s largest Interschool quiz – TCS INQuizitive 2023</a>
+                            </div>
+                          </div>
+                      </div>
+                    
+                      <div class="d-flex flex-column pb-32">
+                          <div class="d-flex">
+                            
+                            <div class="d-flex flex-column ">
+                              <span class="small-content-span">18 Dec 2023</span>
+                              <a href="https://www.tcs.com/who-we-are/newsroom/press-release/six-partners-with-tcs-to-transform-its-swiss-post-trade-market-infrastructure" class="section-content">SIX Partners with TCS to Transform its Swiss Post Trade Market Infrastructure</a>
+                            </div>
+                          </div>
+                      </div>
+                    
+                      <div class="d-flex flex-column pb-32">
+                          <div class="d-flex">
+                            
+                            <div class="d-flex flex-column ">
+                              <span class="small-content-span">14 Dec 2023</span>
+                              <a href="https://www.tcs.com/who-we-are/newsroom/press-release/tcs-recognized-aws-gsi-partner-year-global-2023" class="section-content">TCS Recognized by AWS as GSI Partner of the Year-Global  for 2023</a>
+                            </div>
+                          </div>
+                      </div>
+                    
+                    <a class="cta-anchor-tag"></a>
+                  </div>
+                
+                
+                
+              </li>
+            
+              <li class="inner-link row" data-id="Analyst recognition" role="presentation">
+                <a href="https://www.tcs.com/who-we-are/newsroom/analyst-recognition" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Analyst recognition
+                  <div class="d-flex align-items-center">
+                    
+                    <span class="header-right-arrow-icon"></span>
+                    
+                  </div>
+                </a>
+                <div class="l3_divinder col-1"></div>
+                
+
+                
+                
+                  <div class="right-submenu-l3 non-list-div row col-8 position-absolute level3_container flex-column">
+                    <h4 class="sub-heading pb-4">Recent recognitions</h4>
+                    
+                      <div class="d-flex flex-column pb-32">
+                          <div class="d-flex">
+                            
+                            <div class="d-flex flex-column ">
+                              <span class="small-content-span">26 Sep 2023</span>
+                              <a href="https://www.tcs.com/who-we-are/newsroom/analyst-reports/banking-operations-leader-everest-group" class="section-content"> TCS Named a Leader in Banking Ops Services PEAK Matrix™ Assessment</a>
+                            </div>
+                          </div>
+                      </div>
+                    
+                      <div class="d-flex flex-column pb-32">
+                          <div class="d-flex">
+                            
+                            <div class="d-flex flex-column ">
+                              <span class="small-content-span">06 Sep 2023</span>
+                              <a href="https://www.tcs.com/who-we-are/newsroom/analyst-reports/leader-higher-education-digital-services" class="section-content">TCS a leader in higher education digital services: Avasant Report</a>
+                            </div>
+                          </div>
+                      </div>
+                    
+                      <div class="d-flex flex-column pb-32">
+                          <div class="d-flex">
+                            
+                            <div class="d-flex flex-column ">
+                              <span class="small-content-span">05 Sep 2023</span>
+                              <a href="https://www.tcs.com/who-we-are/newsroom/analyst-reports/asset-wealth-management-leader-everest-group" class="section-content">TCS Named a Leader in Asset and Wealth Management IT services</a>
+                            </div>
+                          </div>
+                      </div>
+                    
+                    <a class="cta-anchor-tag"></a>
+                  </div>
+                
+                
+                
+              </li>
+            
+
+          </ul>
+        </div>
+      </div>
+
+      <div class="sub-header-right-rollover position-absolute d-none"></div>
+    </div>
+  </div>
+</div>
+
+
+<div id="subHeader4" class="collapse uniques mobile-level2" aria-labelledby="subHeader4" data-parent="#header-accordion">
+  <div class="px-3 d-flex flex-column" id="sub-menu-accordion-subHeader4">
+    <a data-nav-id="subHeader4" href="javascript:void(0);" class="mobile-tab-link py-3 overview-link"><span class="overview-text">Overview</span></a>
+    
+      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader40">
+        <div class="d-flex justify-content-between align-items-center">
+          <a href="https://www.tcs.com/who-we-are/newsroom" class="mobile-tab-link"><span>Newsroom</span>
+          </a>
+          
+        </div>
+        
+      </li>
+    
+      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader41">
+        <div class="d-flex justify-content-between align-items-center">
+          <a href="https://www.tcs.com/who-we-are/newsroom/analyst-recognition" class="mobile-tab-link"><span>Analyst recognition</span>
+          </a>
+          
+        </div>
+        
+      </li>
+    
+  </div>
+</div></div>
+      
+        <div>
+
+
+
+<div class="mega_menu pt-32 position-absolute" data-nav="subHeader5">
+  <div class="submenu_rollover w-100 position-absolute"></div>
+  <div class="tcs-custom-container px-0 menu_container">
+    <div class="row position-relative position-relative">
+      <div class="col-11 mega_menu_internal_div">
+        <div class="header-inner-left">
+          <ul class="inner-ul position-relative pl-0" role="tablist">
+            <li class="inner-link row" role="presentation"><a href="#" data-nav-id="subHeader5" class="d-flex justify-content-between align-items-center col-3 l2_link overview_link py-3 px-0 position-relative" role="tab">Overview
+             <div class="d-flex align-items-center"><span class="header-right-arrow-icon"></span></div></a><div class="l3_divinder col-1"></div><div class="col-12 col-md-6 row pb-5 sub-header-content sub_header_description position-absolute"><h3 class="font-white main-heading">TCS works hand in hand with world-leading investors.
+             </h3>
+              
+              
+                <div class="show-stock d-flex border investor-data-table">
+                  <div class="p-4 investor-description">
+                    <div class="investor-brand-name">Tata Consultancy Services Limited</div>
+                    <div class="investor-data-type">NSE:TCS</div>
+                  </div>
+                  <div class="p-4 investor-data">
+                    <div class="nse-price"><span class="nsePrice pr-2"></span>INR</div>
+                    <div class="nse-percentage"><span class="nsePercent"></span></div>
+                  </div>
+                </div>
+              
+              <div class="d-flex align-items-center">
+                
+                  <a href="https://www.tcs.com/investor-relations" class="btn-l3-description  btn-responsive mt-3 mb-2 mr-4">Discover more</a>
+                
+              </div>
+            </div>
+            </li>
+            
+              <li class="inner-link row" data-id="Management Commentary" role="presentation">
+                <a href="https://www.tcs.com/investor-relations.html#management" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Management Commentary
+                  <div class="d-flex align-items-center">
+                    
+                    <span class="header-right-arrow-icon"></span>
+                    
+                  </div>
+                </a>
+                <div class="l3_divinder col-1"></div>
+                
+                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/management-commentary/latest-quarter-commentary">Latest Quarter Commentary</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/management-commentary/annual-report-sections">Annual Report Section</a></li>
+                    
+                  </ul>
+                
+
+                
+                
+                
+                
+              </li>
+            
+              <li class="inner-link row" data-id="Financials" role="presentation">
+                <a href="https://www.tcs.com/investor-relations.html#quarterly" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Financials
+                  <div class="d-flex align-items-center">
+                    
+                    <span class="header-right-arrow-icon"></span>
+                    
+                  </div>
+                </a>
+                <div class="l3_divinder col-1"></div>
+                
+                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/financial-statements">Quarterly Earnings Reports</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/content/dam/tcs/pdf/discover-tcs/investor-relations/tcs-data-sheet/TCS-Data-Sheet-Q1FY24.xlsx">Download TCS Data Sheet</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/cmc-financials">Erstwhile CMC Financials</a></li>
+                    
+                  </ul>
+                
+
+                
+                
+                
+                
+              </li>
+            
+              <li class="inner-link row" data-id="News and Events" role="presentation">
+                <a href="https://www.tcs.com/investor-relations.html#news" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">News and Events
+                  <div class="d-flex align-items-center">
+                    
+                    <span class="header-right-arrow-icon"></span>
+                    
+                  </div>
+                </a>
+                <div class="l3_divinder col-1"></div>
+                
+                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/who-we-are/newsroom/investor-press-release">Press Releases</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/view-all-corporate-actions">Corporate Actions</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/events">Events</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/calendar">Calendar</a></li>
+                    
+                  </ul>
+                
+
+                
+                
+                
+                
+              </li>
+            
+              <li class="inner-link row" data-id="ESG" role="presentation">
+                <a href="https://www.tcs.com/investor-relations.html#esg" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">ESG
+                  <div class="d-flex align-items-center">
+                    
+                    <span class="header-right-arrow-icon"></span>
+                    
+                  </div>
+                </a>
+                <div class="l3_divinder col-1"></div>
+                
+                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/esg/environment">Environment</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/esg/social">Social</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/corporate-governance">Governance</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/corporate-sustainability-investor-relations">Policies and Reports</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/stakeholder-engagement-identification-material-issues">Stakeholder Engagement and Identification of Material Issues</a></li>
+                    
+                  </ul>
+                
+
+                
+                
+                
+                
+              </li>
+            
+              <li class="inner-link row" data-id="Resources" role="presentation">
+                <a href="https://www.tcs.com/investor-relations.html#resource" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Resources
+                  <div class="d-flex align-items-center">
+                    
+                    <span class="header-right-arrow-icon"></span>
+                    
+                  </div>
+                </a>
+                <div class="l3_divinder col-1"></div>
+                
+                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/glossary">Glossary</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/investor-faqs">Investor FAQs</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/stock-information">Stock Information</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/overlays/analyst-coverage">Analyst Coverage</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/subsidiaries">Subsidiaries</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/contact-us/whats-on-your-mind/ir-landing/ir-form">Subscribe to Investor Updates</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://iepfinvestorinfo.tcsapps.com/#/home">Unclaimed Dividend Information</a></li>
+                    
+                  </ul>
+                
+
+                
+                
+                
+                
+              </li>
+            
+
+          </ul>
+        </div>
+      </div>
+
+      <div class="sub-header-right-rollover position-absolute d-none"></div>
+    </div>
+  </div>
+</div>
+
+
+<div id="subHeader5" class="collapse uniques mobile-level2" aria-labelledby="subHeader5" data-parent="#header-accordion">
+  <div class="px-3 d-flex flex-column" id="sub-menu-accordion-subHeader5">
+    <a data-nav-id="subHeader5" href="javascript:void(0);" class="mobile-tab-link py-3 overview-link"><span class="overview-text">Overview</span></a>
+    
+      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader50">
+        <div class="d-flex justify-content-between align-items-center">
+          <a href="https://www.tcs.com/investor-relations#management" class="mobile-tab-link"><span>Management Commentary</span>
+          </a>
+          
+            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader50" aria-expanded="false" aria-label="Management Commentary" role="button" aria-controls="child-subHeader50" tabindex="0"></span>
+          
+        </div>
+        
+          <div id="child-subHeader50" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader50" data-parent="#sub-menu-accordion-subHeader5">
+            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/management-commentary/latest-quarter-commentary">Latest Quarter Commentary</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/management-commentary/annual-report-sections">Annual Report Section</a></li>
+              
+            </ul>
+          </div>
+        
+      </li>
+    
+      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader51">
+        <div class="d-flex justify-content-between align-items-center">
+          <a href="https://www.tcs.com/investor-relations#quarterly" class="mobile-tab-link"><span>Financials</span>
+          </a>
+          
+            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader51" aria-expanded="false" aria-label="Financials" role="button" aria-controls="child-subHeader51" tabindex="0"></span>
+          
+        </div>
+        
+          <div id="child-subHeader51" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader51" data-parent="#sub-menu-accordion-subHeader5">
+            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/financial-statements">Quarterly Earnings Reports</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/content/dam/tcs/pdf/discover-tcs/investor-relations/tcs-data-sheet/TCS-Data-Sheet-Q1FY24.xlsx">Download TCS Data Sheet</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/cmc-financials">Erstwhile CMC Financials</a></li>
+              
+            </ul>
+          </div>
+        
+      </li>
+    
+      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader52">
+        <div class="d-flex justify-content-between align-items-center">
+          <a href="https://www.tcs.com/investor-relations#news" class="mobile-tab-link"><span>News and Events</span>
+          </a>
+          
+            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader52" aria-expanded="false" aria-label="News and Events" role="button" aria-controls="child-subHeader52" tabindex="0"></span>
+          
+        </div>
+        
+          <div id="child-subHeader52" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader52" data-parent="#sub-menu-accordion-subHeader5">
+            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/who-we-are/newsroom/investor-press-release">Press Releases</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/view-all-corporate-actions">Corporate Actions</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/events">Events</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/calendar">Calendar</a></li>
+              
+            </ul>
+          </div>
+        
+      </li>
+    
+      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader53">
+        <div class="d-flex justify-content-between align-items-center">
+          <a href="https://www.tcs.com/investor-relations#esg" class="mobile-tab-link"><span>ESG</span>
+          </a>
+          
+            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader53" aria-expanded="false" aria-label="ESG" role="button" aria-controls="child-subHeader53" tabindex="0"></span>
+          
+        </div>
+        
+          <div id="child-subHeader53" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader53" data-parent="#sub-menu-accordion-subHeader5">
+            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/esg/environment">Environment</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/esg/social">Social</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/corporate-governance">Governance</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/corporate-sustainability-investor-relations">Policies and Reports</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/stakeholder-engagement-identification-material-issues">Stakeholder Engagement and Identification of Material Issues</a></li>
+              
+            </ul>
+          </div>
+        
+      </li>
+    
+      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader54">
+        <div class="d-flex justify-content-between align-items-center">
+          <a href="https://www.tcs.com/investor-relations#resource" class="mobile-tab-link"><span>Resources</span>
+          </a>
+          
+            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader54" aria-expanded="false" aria-label="Resources" role="button" aria-controls="child-subHeader54" tabindex="0"></span>
+          
+        </div>
+        
+          <div id="child-subHeader54" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader54" data-parent="#sub-menu-accordion-subHeader5">
+            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/glossary">Glossary</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/investor-faqs">Investor FAQs</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/stock-information">Stock Information</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/overlays/analyst-coverage">Analyst Coverage</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/subsidiaries">Subsidiaries</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/contact-us/whats-on-your-mind/ir-landing/ir-form">Subscribe to Investor Updates</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://iepfinvestorinfo.tcsapps.com/#/home">Unclaimed Dividend Information</a></li>
+              
+            </ul>
+          </div>
+        
+      </li>
+    
+  </div>
+</div></div>
+      
+    </header>
+    <header class="d-xl-none d-block position-fixed w-100 ">
+      <nav aria-label="Primary Navigation" class="navbar navbar-expand-lg">
+        <div class="main-header">
+          <a class="navbar-brand position-relative py-0 tcs-right-logo" href="https://www.tcs.com"><img class="brand-logo-img" src="/content/dam/global-tcs/en/images/home/dark-theme.svg" alt="Tata Consultancy Services"/><span class="sr-only d-none">Tata Consultancy Services&nbsp;Opens in new tab</span></a>
+          <span class="seperator"></span>
+          
+            
+            <a class="navbar-brand tcs-logo-mobile" href="https://www.tata.com/" target="_blank"><img class="brand-logo-img" src="/content/dam/global-tcs/en/images/home/logo-tata.svg" alt="tata.com"/>
+              <span class="sr-only d-none">tata.com&nbsp;Opens in new tab</span></a>
+          
+          <span tabindex="0" class="navbar-text search-icon-link searchIcon" data-target="#searchModal" data-toggle="modal" data-backdrop="static" role="button" aria-label="Search">
+            <span class="search-icon"></span>
+            <span class="sr-only d-none">Search</span>
+          </span>
+          <div class="hamburger-menu" aria-label="Navigation Menu" role="button" aria-expanded="false" tabindex="0">
+            <span></span>
+            <span></span>
+            <span></span>
+          </div>
+        </div>
+
+        <div class="navbar-collapse overflow-hidden" id="navbarMenu">
+          <div class="mobile-navbar-outer-div d-flex flex-column justify-content-start  h-100">
+            <div class="tab-mob-view">
+              
+                <div id="header-accordion">
+                  
+                    <div class="card-header card-header-new p-0 level2-accordion-card mx-0" data-link="subHeader0" data-href="/content/tcs/global/en/what-we-do.html" id="subHeader0L2">
+                      <h5 class="mb-0 d-flex align-items-center mobile-l1-link">
+                        <button class="btn btn-link main-accordion-btn sub-header-btn-link" tabindex="-1" aria-hidden="true" data-toggle="collapse" data-target="#subHeader0" aria-expanded="false" aria-controls="subHeader0">
+                          What we do
+                        </button>
+                        <span class="header-dropdown-icon"></span>
+                      </h5>
                     </div>
-                    <div class="tablist-wrapper">
-                        <div data-analytics-gallery-interaction-type="dotnav" class="dotnav">
-                            <ul role="tablist" class="dotnav-items"></ul>
-                        </div>
+                    
+
+
+
+<div class="mega_menu pt-32 position-absolute" data-nav="subHeader0">
+  <div class="submenu_rollover w-100 position-absolute"></div>
+  <div class="tcs-custom-container px-0 menu_container">
+    <div class="row position-relative position-relative">
+      <div class="col-11 mega_menu_internal_div">
+        <div class="header-inner-left">
+          <ul class="inner-ul position-relative pl-0" role="tablist">
+            <li class="inner-link row" role="presentation"><a href="#" data-nav-id="subHeader0" class="d-flex justify-content-between align-items-center col-3 l2_link overview_link py-3 px-0 position-relative" role="tab">Overview
+             <div class="d-flex align-items-center"><span class="header-right-arrow-icon"></span></div></a><div class="l3_divinder col-1"></div><div class="col-12 col-md-6 row pb-5 sub-header-content sub_header_description position-absolute"><h3 class="font-white main-heading">TCS is here to make a difference through technology.
+             </h3>
+              
+                <p class="normal-content font-grayWhite pb-4">Leading the way in innovation for over 50 years, we build greater futures for businesses across multiple industries and 131 countries. </p>
+              
+              
+              <div class="d-flex align-items-center">
+                
+                  <a href="https://www.tcs.com/what-we-do" class="btn-l3-description  btn-responsive mt-3 mb-2 mr-4">Discover all solutions</a>
+                
+              </div>
+            </div>
+            </li>
+            
+              <li class="inner-link row" data-id="Industries" role="presentation">
+                <a href="https://www.tcs.com/what-we-do.html#industries" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Industries
+                  <div class="d-flex align-items-center">
+                    
+                    <span class="header-right-arrow-icon"></span>
+                    
+                  </div>
+                </a>
+                <div class="l3_divinder col-1"></div>
+                
+                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/industries/banking">Banking</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/industries/capital-markets">Capital Markets</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/industries/consumer-goods-distribution">Consumer Goods and Distribution</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/industries/communications-media-information-services">Communications, Media, and Information Services</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/industries/education">Education</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/industries/energy-resources-utilities">Energy, Resources, and Utilities</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/industries/healthcare">Healthcare</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/industries/high-tech">High Tech</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/industries/insurance">Insurance</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/industries/life-sciences">Life Sciences</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/industries/manufacturing">Manufacturing</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/industries/public-services">Public Services</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/industries/retail">Retail </a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/industries/travel-and-logistics">Travel and Logistics</a></li>
+                    
+                  </ul>
+                
+
+                
+                
+                
+                
+              </li>
+            
+              <li class="inner-link row" data-id="Services" role="presentation">
+                <a href="https://www.tcs.com/what-we-do.html#services" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Services
+                  <div class="d-flex align-items-center">
+                    
+                    <span class="header-right-arrow-icon"></span>
+                    
+                  </div>
+                </a>
+                <div class="l3_divinder col-1"></div>
+                
+                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/services/cloud">Cloud</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/services/cognitive-business-operations">Cognitive Business Operations</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/services/consulting">Consulting</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/services/cybersecurity">Cybersecurity</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/services/data-and-analytics">Data and Analytics</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/services/enterprise-solutions">Enterprise Solutions</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/services/iot-digital-engineering">IoT and Digital Engineering</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/services/network-solutions-and-services">Network Solutions and Services</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/services/tcs-interactive">TCS Interactive</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/services/sustainability-services">Sustainability Services</a></li>
+                    
+                  </ul>
+                
+
+                
+                
+                
+                
+              </li>
+            
+              <li class="inner-link row" data-id="Products and Platforms" role="presentation">
+                <a href="https://www.tcs.com/what-we-do.html#products" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Products and Platforms
+                  <div class="d-flex align-items-center">
+                    
+                    <span class="header-right-arrow-icon"></span>
+                    
+                  </div>
+                </a>
+                <div class="l3_divinder col-1"></div>
+                
+                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-add">TCS ADD™</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-bancs">TCS BANCS™</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-bfsi-platforms">TCS BFSI Platforms</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-chroma">TCS CHROMA™</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-customer-intelligence-insights">TCS Customer Intelligence &amp; Insights™</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-erp-on-cloud">TCS ERP on Cloud</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://digitate.com/">ignio™</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcsion.com/dotcom/TCSSMB/">TCS iON™</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-hobs">TCS HOBS™</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-intelligent-urban-exchange">TCS Intelligent Urban Exchange™</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-omnistore">TCS OmniStore™</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-optumera">TCS Optumera™</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-tap">TCS Tap™</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/products-platforms/quartz">Quartz™ – The Smart Ledgers™</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-twinx">TCS TwinX™</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-mastercraft">TCS MasterCraft™</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.jile.io/">Jile™</a></li>
+                    
+                  </ul>
+                
+
+                
+                
+                
+                
+              </li>
+            
+              <li class="inner-link row" data-id="Research &amp; Innovation" role="presentation">
+                <a href="https://www.tcs.com/what-we-do/research" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Research &amp; Innovation
+                  <div class="d-flex align-items-center">
+                    
+                    <span class="header-right-arrow-icon"></span>
+                    
+                  </div>
+                </a>
+                <div class="l3_divinder col-1"></div>
+                
+                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/research">TCS Research</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/pace-innovation">TCS Pace™</a></li>
+                    
+                  </ul>
+                
+
+                
+                
+                
+                
+              </li>
+            
+
+          </ul>
+        </div>
+      </div>
+
+      <div class="sub-header-right-rollover position-absolute d-none"></div>
+    </div>
+  </div>
+</div>
+
+
+<div id="subHeader0" class="collapse uniques mobile-level2" aria-labelledby="subHeader0" data-parent="#header-accordion">
+  <div class="px-3 d-flex flex-column" id="sub-menu-accordion-subHeader0">
+    <a data-nav-id="subHeader0" href="javascript:void(0);" class="mobile-tab-link py-3 overview-link"><span class="overview-text">Overview</span></a>
+    
+      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader00">
+        <div class="d-flex justify-content-between align-items-center">
+          <a href="https://www.tcs.com/what-we-do#industries" class="mobile-tab-link"><span>Industries</span>
+          </a>
+          
+            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader00" aria-expanded="false" aria-label="Industries" role="button" aria-controls="child-subHeader00" tabindex="0"></span>
+          
+        </div>
+        
+          <div id="child-subHeader00" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader00" data-parent="#sub-menu-accordion-subHeader0">
+            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/industries/banking">Banking</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/industries/capital-markets">Capital Markets</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/industries/consumer-goods-distribution">Consumer Goods and Distribution</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/industries/communications-media-information-services">Communications, Media, and Information Services</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/industries/education">Education</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/industries/energy-resources-utilities">Energy, Resources, and Utilities</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/industries/healthcare">Healthcare</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/industries/high-tech">High Tech</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/industries/insurance">Insurance</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/industries/life-sciences">Life Sciences</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/industries/manufacturing">Manufacturing</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/industries/public-services">Public Services</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/industries/retail">Retail </a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/industries/travel-and-logistics">Travel and Logistics</a></li>
+              
+            </ul>
+          </div>
+        
+      </li>
+    
+      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader01">
+        <div class="d-flex justify-content-between align-items-center">
+          <a href="https://www.tcs.com/what-we-do#services" class="mobile-tab-link"><span>Services</span>
+          </a>
+          
+            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader01" aria-expanded="false" aria-label="Services" role="button" aria-controls="child-subHeader01" tabindex="0"></span>
+          
+        </div>
+        
+          <div id="child-subHeader01" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader01" data-parent="#sub-menu-accordion-subHeader0">
+            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/services/cloud">Cloud</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/services/cognitive-business-operations">Cognitive Business Operations</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/services/consulting">Consulting</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/services/cybersecurity">Cybersecurity</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/services/data-and-analytics">Data and Analytics</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/services/enterprise-solutions">Enterprise Solutions</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/services/iot-digital-engineering">IoT and Digital Engineering</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/services/network-solutions-and-services">Network Solutions and Services</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/services/tcs-interactive">TCS Interactive</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/services/sustainability-services">Sustainability Services</a></li>
+              
+            </ul>
+          </div>
+        
+      </li>
+    
+      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader02">
+        <div class="d-flex justify-content-between align-items-center">
+          <a href="https://www.tcs.com/what-we-do#products" class="mobile-tab-link"><span>Products and Platforms</span>
+          </a>
+          
+            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader02" aria-expanded="false" aria-label="Products and Platforms" role="button" aria-controls="child-subHeader02" tabindex="0"></span>
+          
+        </div>
+        
+          <div id="child-subHeader02" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader02" data-parent="#sub-menu-accordion-subHeader0">
+            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-add">TCS ADD™</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-bancs">TCS BANCS™</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-bfsi-platforms">TCS BFSI Platforms</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-chroma">TCS CHROMA™</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-customer-intelligence-insights">TCS Customer Intelligence &amp; Insights™</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-erp-on-cloud">TCS ERP on Cloud</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://digitate.com/">ignio™</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcsion.com/dotcom/TCSSMB/">TCS iON™</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-hobs">TCS HOBS™</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-intelligent-urban-exchange">TCS Intelligent Urban Exchange™</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-omnistore">TCS OmniStore™</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-optumera">TCS Optumera™</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-tap">TCS Tap™</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/products-platforms/quartz">Quartz™ – The Smart Ledgers™</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-twinx">TCS TwinX™</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-mastercraft">TCS MasterCraft™</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.jile.io/">Jile™</a></li>
+              
+            </ul>
+          </div>
+        
+      </li>
+    
+      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader03">
+        <div class="d-flex justify-content-between align-items-center">
+          <a href="https://www.tcs.com/what-we-do/research" class="mobile-tab-link"><span>Research &amp; Innovation</span>
+          </a>
+          
+            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader03" aria-expanded="false" aria-label="Research &amp; Innovation" role="button" aria-controls="child-subHeader03" tabindex="0"></span>
+          
+        </div>
+        
+          <div id="child-subHeader03" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader03" data-parent="#sub-menu-accordion-subHeader0">
+            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/research">TCS Research</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/pace-innovation">TCS Pace™</a></li>
+              
+            </ul>
+          </div>
+        
+      </li>
+    
+  </div>
+</div>
+                  
+                    <div class="card-header card-header-new p-0 level2-accordion-card mx-0" data-link="subHeader1" data-href="https://www.tcs.com/who-we-are" id="subHeader1L2">
+                      <h5 class="mb-0 d-flex align-items-center mobile-l1-link">
+                        <button class="btn btn-link main-accordion-btn sub-header-btn-link" tabindex="-1" aria-hidden="true" data-toggle="collapse" data-target="#subHeader1" aria-expanded="false" aria-controls="subHeader1">
+                          Who we are
+                        </button>
+                        <span class="header-dropdown-icon"></span>
+                      </h5>
                     </div>
-                    <button class="play-pause">
-                        <svg viewBox="0 0 85 85" style="display: none">
-                            <defs>
-                                <g id="pause-icon">
-                                    <path d="M42.5,84.5c-23.16,0-42-18.84-42-42c0-23.16,18.84-42,42-42c23.16,0,42,18.84,42,42C84.5,65.66,65.66,84.5,42.5,84.5z M42.5,4.5c-20.95,0-38,17.05-38,38s17.05,38,38,38s38-17.05,38-38S63.45,4.5,42.5,4.5z" />
-                                    <path d="M50,28.25c1.1,0,2,0.9,2,2v24c0,1.1-0.9,2-2,2s-2-0.9-2-2v-24C48,29.15,48.9,28.25,50,28.25z" />
-                                    <path d="M35,28.25c1.1,0,2,0.9,2,2v24c0,1.1-0.9,2-2,2s-2-0.9-2-2v-24C33,29.15,33.9,28.25,35,28.25z" />
-                                </g>
-                                <g id="play-icon">
-                                    <path d="M42.5,84.5c-23.16,0-42-18.84-42-42c0-23.16,18.84-42,42-42c23.16,0,42,18.84,42,42C84.5,65.66,65.66,84.5,42.5,84.5z M42.5,4.5c-20.95,0-38,17.05-38,38s17.05,38,38,38s38-17.05,38-38S63.45,4.5,42.5,4.5z" />
-                                    <path d="M55.73,41.55c0.3,0.45,0.3,1.03,0,1.48c-0.11,0.23-0.29,0.41-0.52,0.52L35.27,56.1c-0.23,0.12-0.48,0.17-0.74,0.15 c-0.8-0.03-1.45-0.68-1.48-1.48v-25c-0.01-0.26,0.07-0.52,0.22-0.74c0.11-0.23,0.29-0.41,0.52-0.52c0.22-0.15,0.48-0.23,0.74-0.22 c0.25,0.01,0.5,0.06,0.74,0.15L55.21,41c0.21,0.16,0.39,0.36,0.52,0.59" />
-                                </g>
-                            </defs>
-                        </svg>
+                    
+
+
+
+<div class="mega_menu pt-32 position-absolute" data-nav="subHeader1">
+  <div class="submenu_rollover w-100 position-absolute"></div>
+  <div class="tcs-custom-container px-0 menu_container">
+    <div class="row position-relative position-relative">
+      <div class="col-11 mega_menu_internal_div">
+        <div class="header-inner-left">
+          <ul class="inner-ul position-relative pl-0" role="tablist">
+            <li class="inner-link row" role="presentation"><a href="#" data-nav-id="subHeader1" class="d-flex justify-content-between align-items-center col-3 l2_link overview_link py-3 px-0 position-relative" role="tab">Overview
+             <div class="d-flex align-items-center"><span class="header-right-arrow-icon"></span></div></a><div class="l3_divinder col-1"></div><div class="col-12 col-md-6 row pb-5 sub-header-content sub_header_description position-absolute"><h3 class="font-white main-heading">We’re in it for good, driving positive change for the benefit of all.
+             </h3>
+              
+                <p class="normal-content font-grayWhite pb-4">Our expert, committed team put our shared beliefs into action – every day. Together, we combine innovation and collective knowledge to create the extraordinary. </p>
+              
+              
+              <div class="d-flex align-items-center">
+                
+                  <a href="https://www.tcs.com/who-we-are" class="btn-l3-description  btn-responsive mt-3 mb-2 mr-4">Discover the difference</a>
+                
+              </div>
+            </div>
+            </li>
+            
+              <li class="inner-link row" data-id="About Us" role="presentation">
+                <a href="https://www.tcs.com/who-we-are" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">About Us
+                  <div class="d-flex align-items-center">
+                    
+                    <span class="header-right-arrow-icon"></span>
+                    
+                  </div>
+                </a>
+                <div class="l3_divinder col-1"></div>
+                
+                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/who-we-are/tcs-sustainable-business-carbon-neutrality">Corporate Sustainability</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/who-we-are/diversity-equity-inclusion">Diversity, Equity, and Inclusion</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/who-we-are/corporate-social-responsibility">Corporate Social Responsibility </a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/who-we-are/tcs-way">The TCS Way</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/who-we-are/sports-sponsorships">Sports Sponsorships</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/who-we-are/alliances-partnerships">Alliances</a></li>
+                    
+                  </ul>
+                
+
+                
+                
+                
+                
+              </li>
+            
+              <li class="inner-link row" data-id="Leadership" role="presentation">
+                <a href="https://www.tcs.com/who-we-are/leadership" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Leadership
+                  <div class="d-flex align-items-center">
+                    
+                  </div>
+                </a>
+                <div class="l3_divinder col-1"></div>
+                
+
+                
+                
+                
+                
+              </li>
+            
+              <li class="inner-link row" data-id="Events" role="presentation">
+                <a href="https://www.tcs.com/who-we-are/events" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Events
+                  <div class="d-flex align-items-center">
+                    
+                  </div>
+                </a>
+                <div class="l3_divinder col-1"></div>
+                
+
+                
+                
+                
+                
+              </li>
+            
+
+          </ul>
+        </div>
+      </div>
+
+      <div class="sub-header-right-rollover position-absolute d-none"></div>
+    </div>
+  </div>
+</div>
+
+
+<div id="subHeader1" class="collapse uniques mobile-level2" aria-labelledby="subHeader1" data-parent="#header-accordion">
+  <div class="px-3 d-flex flex-column" id="sub-menu-accordion-subHeader1">
+    <a data-nav-id="subHeader1" href="javascript:void(0);" class="mobile-tab-link py-3 overview-link"><span class="overview-text">Overview</span></a>
+    
+      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader10">
+        <div class="d-flex justify-content-between align-items-center">
+          <a href="https://www.tcs.com/who-we-are" class="mobile-tab-link"><span>About Us</span>
+          </a>
+          
+            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader10" aria-expanded="false" aria-label="About Us" role="button" aria-controls="child-subHeader10" tabindex="0"></span>
+          
+        </div>
+        
+          <div id="child-subHeader10" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader10" data-parent="#sub-menu-accordion-subHeader1">
+            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/who-we-are/tcs-sustainable-business-carbon-neutrality">Corporate Sustainability</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/who-we-are/diversity-equity-inclusion">Diversity, Equity, and Inclusion</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/who-we-are/corporate-social-responsibility">Corporate Social Responsibility </a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/who-we-are/tcs-way">The TCS Way</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/who-we-are/sports-sponsorships">Sports Sponsorships</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/who-we-are/alliances-partnerships">Alliances</a></li>
+              
+            </ul>
+          </div>
+        
+      </li>
+    
+      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader11">
+        <div class="d-flex justify-content-between align-items-center">
+          <a href="https://www.tcs.com/who-we-are/leadership" class="mobile-tab-link"><span>Leadership</span>
+          </a>
+          
+        </div>
+        
+      </li>
+    
+      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader12">
+        <div class="d-flex justify-content-between align-items-center">
+          <a href="https://www.tcs.com/who-we-are/events" class="mobile-tab-link"><span>Events</span>
+          </a>
+          
+        </div>
+        
+      </li>
+    
+  </div>
+</div>
+                  
+                    <div class="card-header card-header-new p-0 level2-accordion-card mx-0" data-link="subHeader2" data-href="/content/tcs/global/en/insights.html" id="subHeader2L2">
+                      <h5 class="mb-0 d-flex align-items-center mobile-l1-link">
+                        <button class="btn btn-link main-accordion-btn sub-header-btn-link" tabindex="-1" aria-hidden="true" data-toggle="collapse" data-target="#subHeader2" aria-expanded="false" aria-controls="subHeader2">
+                          Insights
+                        </button>
+                        <span class="header-dropdown-icon"></span>
+                      </h5>
+                    </div>
+                    
+
+
+
+<div class="mega_menu pt-32 position-absolute" data-nav="subHeader2">
+  <div class="submenu_rollover w-100 position-absolute"></div>
+  <div class="tcs-custom-container px-0 menu_container">
+    <div class="row position-relative position-relative">
+      <div class="col-11 mega_menu_internal_div">
+        <div class="header-inner-left">
+          <ul class="inner-ul position-relative pl-0" role="tablist">
+            <li class="inner-link row" role="presentation"><a href="#" data-nav-id="subHeader2" class="d-flex justify-content-between align-items-center col-3 l2_link overview_link py-3 px-0 position-relative" role="tab">Overview
+             <div class="d-flex align-items-center"><span class="header-right-arrow-icon"></span></div></a><div class="l3_divinder col-1"></div><div class="col-12 col-md-6 row pb-5 sub-header-content sub_header_description position-absolute"><h3 class="font-white main-heading">Extraordinary expertise leads to remarkable results.
+             </h3>
+              
+                <p class="normal-content font-grayWhite pb-4">We share news, insights, analysis and research – tailored to your unique interests – to help you deepen your knowledge and impact. </p>
+              
+              
+              <div class="d-flex align-items-center">
+                
+                  <a href="https://www.tcs.com/insights" class="btn-l3-description  btn-responsive mt-3 mb-2 mr-4">Discover Expert Insights</a>
+                
+              </div>
+            </div>
+            </li>
+            
+              <li class="inner-link row" data-id="Customer Stories" role="presentation">
+                <a href="https://www.tcs.com/insights/customer-stories" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Customer Stories
+                  <div class="d-flex align-items-center">
+                    
+                  </div>
+                </a>
+                <div class="l3_divinder col-1"></div>
+                
+
+                
+                
+                
+                
+              </li>
+            
+              <li class="inner-link row" data-id="Perspectives" role="presentation">
+                <a href="https://www.tcs.com/insights/perspectives" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Perspectives
+                  <div class="d-flex align-items-center">
+                    
+                  </div>
+                </a>
+                <div class="l3_divinder col-1"></div>
+                
+
+                
+                
+                
+                
+              </li>
+            
+              <li class="inner-link row" data-id="Global studies" role="presentation">
+                <a href="https://www.tcs.com/insights/global-studies" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Global studies
+                  <div class="d-flex align-items-center">
+                    
+                  </div>
+                </a>
+                <div class="l3_divinder col-1"></div>
+                
+
+                
+                
+                
+                
+              </li>
+            
+              <li class="inner-link row" data-id="Topics" role="presentation">
+                <a href="https://www.tcs.com/insights" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Topics
+                  <div class="d-flex align-items-center">
+                    
+                    <span class="header-right-arrow-icon"></span>
+                    
+                  </div>
+                </a>
+                <div class="l3_divinder col-1"></div>
+                
+                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/insights">Insights</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/insights/topics/metaverse-topic">Metaverse</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/insights/topics/sustainability-topic">Sustainability</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/insights/topics/cybersecurity-topic">Cybersecurity</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/insights/topics/ai-ml-topic">AI &amp; ML</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/insights/topics/blockchain-topic">Blockchain</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/insights/topics/cloud-topic">Cloud</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/insights/topics/future-of-work-topic">Future of Work</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/insights/topics/health-and-wellness-topic">Health &amp; Wellness</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/insights/topics/internet-of-things-topic">IoT</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/insights/topics/data-analytics-storage-topic">Data Analytics and Storage</a></li>
+                    
+                  </ul>
+                
+
+                
+                
+                
+                
+              </li>
+            
+
+          </ul>
+        </div>
+      </div>
+
+      <div class="sub-header-right-rollover position-absolute d-none"></div>
+    </div>
+  </div>
+</div>
+
+
+<div id="subHeader2" class="collapse uniques mobile-level2" aria-labelledby="subHeader2" data-parent="#header-accordion">
+  <div class="px-3 d-flex flex-column" id="sub-menu-accordion-subHeader2">
+    <a data-nav-id="subHeader2" href="javascript:void(0);" class="mobile-tab-link py-3 overview-link"><span class="overview-text">Overview</span></a>
+    
+      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader20">
+        <div class="d-flex justify-content-between align-items-center">
+          <a href="https://www.tcs.com/insights/customer-stories" class="mobile-tab-link"><span>Customer Stories</span>
+          </a>
+          
+        </div>
+        
+      </li>
+    
+      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader21">
+        <div class="d-flex justify-content-between align-items-center">
+          <a href="https://www.tcs.com/insights/perspectives" class="mobile-tab-link"><span>Perspectives</span>
+          </a>
+          
+        </div>
+        
+      </li>
+    
+      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader22">
+        <div class="d-flex justify-content-between align-items-center">
+          <a href="https://www.tcs.com/insights/global-studies" class="mobile-tab-link"><span>Global studies</span>
+          </a>
+          
+        </div>
+        
+      </li>
+    
+      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader23">
+        <div class="d-flex justify-content-between align-items-center">
+          <a href="https://www.tcs.com/insights" class="mobile-tab-link"><span>Topics</span>
+          </a>
+          
+            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader23" aria-expanded="false" aria-label="Topics" role="button" aria-controls="child-subHeader23" tabindex="0"></span>
+          
+        </div>
+        
+          <div id="child-subHeader23" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader23" data-parent="#sub-menu-accordion-subHeader2">
+            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/insights">Insights</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/insights/topics/metaverse-topic">Metaverse</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/insights/topics/sustainability-topic">Sustainability</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/insights/topics/cybersecurity-topic">Cybersecurity</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/insights/topics/ai-ml-topic">AI &amp; ML</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/insights/topics/blockchain-topic">Blockchain</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/insights/topics/cloud-topic">Cloud</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/insights/topics/future-of-work-topic">Future of Work</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/insights/topics/health-and-wellness-topic">Health &amp; Wellness</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/insights/topics/internet-of-things-topic">IoT</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/insights/topics/data-analytics-storage-topic">Data Analytics and Storage</a></li>
+              
+            </ul>
+          </div>
+        
+      </li>
+    
+  </div>
+</div>
+                  
+                    <div class="card-header card-header-new p-0 level2-accordion-card mx-0" data-link="subHeader3" data-href="/content/tcs/global/en/careers.html" id="subHeader3L2">
+                      <h5 class="mb-0 d-flex align-items-center mobile-l1-link">
+                        <button class="btn btn-link main-accordion-btn sub-header-btn-link" tabindex="-1" aria-hidden="true" data-toggle="collapse" data-target="#subHeader3" aria-expanded="false" aria-controls="subHeader3">
+                          Careers
+                        </button>
+                        <span class="header-dropdown-icon"></span>
+                      </h5>
+                    </div>
+                    
+
+
+
+<div class="mega_menu pt-32 position-absolute" data-nav="subHeader3">
+  <div class="submenu_rollover w-100 position-absolute"></div>
+  <div class="tcs-custom-container px-0 menu_container">
+    <div class="row position-relative position-relative">
+      <div class="col-11 mega_menu_internal_div">
+        <div class="header-inner-left">
+          <ul class="inner-ul position-relative pl-0" role="tablist">
+            <li class="inner-link row" role="presentation"><a href="#" data-nav-id="subHeader3" class="d-flex justify-content-between align-items-center col-3 l2_link overview_link py-3 px-0 position-relative" role="tab">Overview
+             <div class="d-flex align-items-center"><span class="header-right-arrow-icon"></span></div></a><div class="l3_divinder col-1"></div><div class="col-12 col-md-6 row pb-5 sub-header-content sub_header_description position-absolute"><h3 class="font-white main-heading">Want to be a global change-maker?  Join our team.
+             </h3>
+              
+                <p class="normal-content font-grayWhite pb-4">At TCS, we believe exceptional work begins with hiring, celebrating and nurturing the best people — from all walks of life. </p>
+              
+              
+              <div class="d-flex align-items-center">
+                
+                  <a href="https://www.tcs.com/careers" class="btn-l3-description  btn-responsive mt-3 mb-2 mr-4">Join us</a>
+                
+              </div>
+            </div>
+            </li>
+            
+              <li class="inner-link row" data-id="India" role="presentation">
+                <a href="https://www.tcs.com/careers/india" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">India
+                  <div class="d-flex align-items-center">
+                    
+                    <span class="header-right-arrow-icon"></span>
+                    
+                  </div>
+                </a>
+                <div class="l3_divinder col-1"></div>
+                
+                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/india">India</a></li>
+                    
+                  </ul>
+                
+
+                
+                
+                
+                
+              </li>
+            
+              <li class="inner-link row" data-id="Americas" role="presentation">
+                <a href="https://www.tcs.com/careers" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Americas
+                  <div class="d-flex align-items-center">
+                    
+                    <span class="header-right-arrow-icon"></span>
+                    
+                  </div>
+                </a>
+                <div class="l3_divinder col-1"></div>
+                
+                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/argentina">Argentina</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/brazil">Brazil</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/canada">Canada</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/chile">Chile</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/colombia">Colombia</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/ecuador">Ecuador</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/mexico">Mexico</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/peru">Peru</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/uruguay">Uruguay</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/united-states">USA</a></li>
+                    
+                  </ul>
+                
+
+                
+                
+                
+                
+              </li>
+            
+              <li class="inner-link row" data-id="Asia Pacific" role="presentation">
+                <a href="https://www.tcs.com/careers" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Asia Pacific
+                  <div class="d-flex align-items-center">
+                    
+                    <span class="header-right-arrow-icon"></span>
+                    
+                  </div>
+                </a>
+                <div class="l3_divinder col-1"></div>
+                
+                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/australia">Australia</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/china">Mainland China</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/hongkong">Hong Kong SAR</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/indonesia">Indonesia</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/japan">Japan</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/malaysia">Malaysia</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/newzealand">New Zealand</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/philippines">Philippines</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/republic-of-korea">Republic of Korea</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/singapore">Singapore</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/taiwan">Chinese Taipei</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/thailand">Thailand</a></li>
+                    
+                  </ul>
+                
+
+                
+                
+                
+                
+              </li>
+            
+              <li class="inner-link row" data-id="Europe and UK" role="presentation">
+                <a href="https://www.tcs.com/careers/trainee-program-graduates-europe" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Europe and UK
+                  <div class="d-flex align-items-center">
+                    
+                    <span class="header-right-arrow-icon"></span>
+                    
+                  </div>
+                </a>
+                <div class="l3_divinder col-1"></div>
+                
+                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/belgium">Belgium</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/denmark">Denmark</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/estonia">Estonia</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/finland">Finland</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/france">France</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/germany">Germany</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/hungary">Hungary</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/ireland">Ireland</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/italy">Italy</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/luxembourg">Luxembourg</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/netherlands">Netherlands</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/norway">Norway</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/poland">Poland</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/portugal">Portugal</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/spain">Spain</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/sweden">Sweden</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/switzerland">Switzerland</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/united-kingdom">United Kingdom</a></li>
+                    
+                  </ul>
+                
+
+                
+                
+                
+                
+              </li>
+            
+              <li class="inner-link row" data-id="Middle East and Africa" role="presentation">
+                <a href="https://www.tcs.com/careers" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Middle East and Africa
+                  <div class="d-flex align-items-center">
+                    
+                    <span class="header-right-arrow-icon"></span>
+                    
+                  </div>
+                </a>
+                <div class="l3_divinder col-1"></div>
+                
+                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/bahrain">Bahrain</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/israel">Israel</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/kuwait">Kuwait</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/qatar">Qatar</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/saudi-arabia">Saudi Arabia</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/south-africa">South Africa</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/united-arab-emirates">United Arab Emirates</a></li>
+                    
+                  </ul>
+                
+
+                
+                
+                
+                
+              </li>
+            
+
+          </ul>
+        </div>
+      </div>
+
+      <div class="sub-header-right-rollover position-absolute d-none"></div>
+    </div>
+  </div>
+</div>
+
+
+<div id="subHeader3" class="collapse uniques mobile-level2" aria-labelledby="subHeader3" data-parent="#header-accordion">
+  <div class="px-3 d-flex flex-column" id="sub-menu-accordion-subHeader3">
+    <a data-nav-id="subHeader3" href="javascript:void(0);" class="mobile-tab-link py-3 overview-link"><span class="overview-text">Overview</span></a>
+    
+      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader30">
+        <div class="d-flex justify-content-between align-items-center">
+          <a href="https://www.tcs.com/careers/india" class="mobile-tab-link"><span>India</span>
+          </a>
+          
+            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader30" aria-expanded="false" aria-label="India" role="button" aria-controls="child-subHeader30" tabindex="0"></span>
+          
+        </div>
+        
+          <div id="child-subHeader30" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader30" data-parent="#sub-menu-accordion-subHeader3">
+            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/india">India</a></li>
+              
+            </ul>
+          </div>
+        
+      </li>
+    
+      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader31">
+        <div class="d-flex justify-content-between align-items-center">
+          <a href="https://www.tcs.com/careers" class="mobile-tab-link"><span>Americas</span>
+          </a>
+          
+            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader31" aria-expanded="false" aria-label="Americas" role="button" aria-controls="child-subHeader31" tabindex="0"></span>
+          
+        </div>
+        
+          <div id="child-subHeader31" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader31" data-parent="#sub-menu-accordion-subHeader3">
+            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/argentina">Argentina</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/brazil">Brazil</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/canada">Canada</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/chile">Chile</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/colombia">Colombia</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/ecuador">Ecuador</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/mexico">Mexico</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/peru">Peru</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/uruguay">Uruguay</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/united-states">USA</a></li>
+              
+            </ul>
+          </div>
+        
+      </li>
+    
+      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader32">
+        <div class="d-flex justify-content-between align-items-center">
+          <a href="https://www.tcs.com/careers" class="mobile-tab-link"><span>Asia Pacific</span>
+          </a>
+          
+            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader32" aria-expanded="false" aria-label="Asia Pacific" role="button" aria-controls="child-subHeader32" tabindex="0"></span>
+          
+        </div>
+        
+          <div id="child-subHeader32" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader32" data-parent="#sub-menu-accordion-subHeader3">
+            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/australia">Australia</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/china">Mainland China</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/hongkong">Hong Kong SAR</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/indonesia">Indonesia</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/japan">Japan</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/malaysia">Malaysia</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/newzealand">New Zealand</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/philippines">Philippines</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/republic-of-korea">Republic of Korea</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/singapore">Singapore</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/taiwan">Chinese Taipei</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/thailand">Thailand</a></li>
+              
+            </ul>
+          </div>
+        
+      </li>
+    
+      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader33">
+        <div class="d-flex justify-content-between align-items-center">
+          <a href="https://www.tcs.com/careers/trainee-program-graduates-europe" class="mobile-tab-link"><span>Europe and UK</span>
+          </a>
+          
+            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader33" aria-expanded="false" aria-label="Europe and UK" role="button" aria-controls="child-subHeader33" tabindex="0"></span>
+          
+        </div>
+        
+          <div id="child-subHeader33" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader33" data-parent="#sub-menu-accordion-subHeader3">
+            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/belgium">Belgium</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/denmark">Denmark</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/estonia">Estonia</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/finland">Finland</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/france">France</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/germany">Germany</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/hungary">Hungary</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/ireland">Ireland</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/italy">Italy</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/luxembourg">Luxembourg</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/netherlands">Netherlands</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/norway">Norway</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/poland">Poland</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/portugal">Portugal</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/spain">Spain</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/sweden">Sweden</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/switzerland">Switzerland</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/united-kingdom">United Kingdom</a></li>
+              
+            </ul>
+          </div>
+        
+      </li>
+    
+      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader34">
+        <div class="d-flex justify-content-between align-items-center">
+          <a href="https://www.tcs.com/careers" class="mobile-tab-link"><span>Middle East and Africa</span>
+          </a>
+          
+            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader34" aria-expanded="false" aria-label="Middle East and Africa" role="button" aria-controls="child-subHeader34" tabindex="0"></span>
+          
+        </div>
+        
+          <div id="child-subHeader34" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader34" data-parent="#sub-menu-accordion-subHeader3">
+            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/bahrain">Bahrain</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/israel">Israel</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/kuwait">Kuwait</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/qatar">Qatar</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/saudi-arabia">Saudi Arabia</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/south-africa">South Africa</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/united-arab-emirates">United Arab Emirates</a></li>
+              
+            </ul>
+          </div>
+        
+      </li>
+    
+  </div>
+</div>
+                  
+                    <div class="card-header card-header-new p-0 level2-accordion-card mx-0" data-link="subHeader4" data-href="/content/tcs/global/en/who-we-are/newsroom.html" id="subHeader4L2">
+                      <h5 class="mb-0 d-flex align-items-center mobile-l1-link">
+                        <button class="btn btn-link main-accordion-btn sub-header-btn-link" tabindex="-1" aria-hidden="true" data-toggle="collapse" data-target="#subHeader4" aria-expanded="false" aria-controls="subHeader4">
+                          New and now
+                        </button>
+                        <span class="header-dropdown-icon"></span>
+                      </h5>
+                    </div>
+                    
+
+
+
+<div class="mega_menu pt-32 position-absolute" data-nav="subHeader4">
+  <div class="submenu_rollover w-100 position-absolute"></div>
+  <div class="tcs-custom-container px-0 menu_container">
+    <div class="row position-relative position-relative">
+      <div class="col-11 mega_menu_internal_div">
+        <div class="header-inner-left">
+          <ul class="inner-ul position-relative pl-0" role="tablist">
+            <li class="inner-link row" role="presentation"><a href="#" data-nav-id="subHeader4" class="d-flex justify-content-between align-items-center col-3 l2_link overview_link py-3 px-0 position-relative" role="tab">Overview
+             <div class="d-flex align-items-center"><span class="header-right-arrow-icon"></span></div></a><div class="l3_divinder col-1"></div><div class="col-12 col-md-6 row pb-5 sub-header-content sub_header_description position-absolute"><h3 class="font-white main-heading">
+             </h3>
+              
+                <p class="normal-content font-grayWhite pb-4"> </p>
+              
+              
+              <div class="d-flex align-items-center">
+                
+              </div>
+            </div>
+            </li>
+            
+              <li class="inner-link row" data-id="Newsroom" role="presentation">
+                <a href="https://www.tcs.com/who-we-are/newsroom" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Newsroom
+                  <div class="d-flex align-items-center">
+                    
+                    <span class="header-right-arrow-icon"></span>
+                    
+                  </div>
+                </a>
+                <div class="l3_divinder col-1"></div>
+                
+
+                
+                
+                  <div class="right-submenu-l3 non-list-div row col-8 position-absolute level3_container flex-column">
+                    <h4 class="sub-heading pb-4">Recent News</h4>
+                    
+                      <div class="d-flex flex-column pb-32">
+                          <div class="d-flex">
+                            
+                            <div class="d-flex flex-column ">
+                              <span class="small-content-span">18 Dec 2023</span>
+                              <a href="https://www.tcs.com/who-we-are/newsroom/press-release/class-eight-student-thrissur-kerela-aditya-kb-wins-indias-largest-interschool-quiz-tcs-inquizitive-2023" class="section-content">Class 8 student from Thrissur, Kerela, Aditya KB wins India’s largest Interschool quiz – TCS INQuizitive 2023</a>
+                            </div>
+                          </div>
+                      </div>
+                    
+                      <div class="d-flex flex-column pb-32">
+                          <div class="d-flex">
+                            
+                            <div class="d-flex flex-column ">
+                              <span class="small-content-span">18 Dec 2023</span>
+                              <a href="https://www.tcs.com/who-we-are/newsroom/press-release/six-partners-with-tcs-to-transform-its-swiss-post-trade-market-infrastructure" class="section-content">SIX Partners with TCS to Transform its Swiss Post Trade Market Infrastructure</a>
+                            </div>
+                          </div>
+                      </div>
+                    
+                      <div class="d-flex flex-column pb-32">
+                          <div class="d-flex">
+                            
+                            <div class="d-flex flex-column ">
+                              <span class="small-content-span">14 Dec 2023</span>
+                              <a href="https://www.tcs.com/who-we-are/newsroom/press-release/tcs-recognized-aws-gsi-partner-year-global-2023" class="section-content">TCS Recognized by AWS as GSI Partner of the Year-Global  for 2023</a>
+                            </div>
+                          </div>
+                      </div>
+                    
+                    <a class="cta-anchor-tag"></a>
+                  </div>
+                
+                
+                
+              </li>
+            
+              <li class="inner-link row" data-id="Analyst recognition" role="presentation">
+                <a href="https://www.tcs.com/who-we-are/newsroom/analyst-recognition" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Analyst recognition
+                  <div class="d-flex align-items-center">
+                    
+                    <span class="header-right-arrow-icon"></span>
+                    
+                  </div>
+                </a>
+                <div class="l3_divinder col-1"></div>
+                
+
+                
+                
+                  <div class="right-submenu-l3 non-list-div row col-8 position-absolute level3_container flex-column">
+                    <h4 class="sub-heading pb-4">Recent recognitions</h4>
+                    
+                      <div class="d-flex flex-column pb-32">
+                          <div class="d-flex">
+                            
+                            <div class="d-flex flex-column ">
+                              <span class="small-content-span">26 Sep 2023</span>
+                              <a href="https://www.tcs.com/who-we-are/newsroom/analyst-reports/banking-operations-leader-everest-group" class="section-content"> TCS Named a Leader in Banking Ops Services PEAK Matrix™ Assessment</a>
+                            </div>
+                          </div>
+                      </div>
+                    
+                      <div class="d-flex flex-column pb-32">
+                          <div class="d-flex">
+                            
+                            <div class="d-flex flex-column ">
+                              <span class="small-content-span">06 Sep 2023</span>
+                              <a href="https://www.tcs.com/who-we-are/newsroom/analyst-reports/leader-higher-education-digital-services" class="section-content">TCS a leader in higher education digital services: Avasant Report</a>
+                            </div>
+                          </div>
+                      </div>
+                    
+                      <div class="d-flex flex-column pb-32">
+                          <div class="d-flex">
+                            
+                            <div class="d-flex flex-column ">
+                              <span class="small-content-span">05 Sep 2023</span>
+                              <a href="https://www.tcs.com/who-we-are/newsroom/analyst-reports/asset-wealth-management-leader-everest-group" class="section-content">TCS Named a Leader in Asset and Wealth Management IT services</a>
+                            </div>
+                          </div>
+                      </div>
+                    
+                    <a class="cta-anchor-tag"></a>
+                  </div>
+                
+                
+                
+              </li>
+            
+
+          </ul>
+        </div>
+      </div>
+
+      <div class="sub-header-right-rollover position-absolute d-none"></div>
+    </div>
+  </div>
+</div>
+
+
+<div id="subHeader4" class="collapse uniques mobile-level2" aria-labelledby="subHeader4" data-parent="#header-accordion">
+  <div class="px-3 d-flex flex-column" id="sub-menu-accordion-subHeader4">
+    <a data-nav-id="subHeader4" href="javascript:void(0);" class="mobile-tab-link py-3 overview-link"><span class="overview-text">Overview</span></a>
+    
+      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader40">
+        <div class="d-flex justify-content-between align-items-center">
+          <a href="https://www.tcs.com/who-we-are/newsroom" class="mobile-tab-link"><span>Newsroom</span>
+          </a>
+          
+        </div>
+        
+      </li>
+    
+      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader41">
+        <div class="d-flex justify-content-between align-items-center">
+          <a href="https://www.tcs.com/who-we-are/newsroom/analyst-recognition" class="mobile-tab-link"><span>Analyst recognition</span>
+          </a>
+          
+        </div>
+        
+      </li>
+    
+  </div>
+</div>
+                  
+                    <div class="card-header card-header-new p-0 level2-accordion-card mx-0" data-link="subHeader5" data-href="https://www.tcs.com/investor-relations" id="subHeader5L2">
+                      <h5 class="mb-0 d-flex align-items-center mobile-l1-link">
+                        <button class="btn btn-link main-accordion-btn sub-header-btn-link" tabindex="-1" aria-hidden="true" data-toggle="collapse" data-target="#subHeader5" aria-expanded="false" aria-controls="subHeader5">
+                          Investors
+                        </button>
+                        <span class="header-dropdown-icon"></span>
+                      </h5>
+                    </div>
+                    
+
+
+
+<div class="mega_menu pt-32 position-absolute" data-nav="subHeader5">
+  <div class="submenu_rollover w-100 position-absolute"></div>
+  <div class="tcs-custom-container px-0 menu_container">
+    <div class="row position-relative position-relative">
+      <div class="col-11 mega_menu_internal_div">
+        <div class="header-inner-left">
+          <ul class="inner-ul position-relative pl-0" role="tablist">
+            <li class="inner-link row" role="presentation"><a href="#" data-nav-id="subHeader5" class="d-flex justify-content-between align-items-center col-3 l2_link overview_link py-3 px-0 position-relative" role="tab">Overview
+             <div class="d-flex align-items-center"><span class="header-right-arrow-icon"></span></div></a><div class="l3_divinder col-1"></div><div class="col-12 col-md-6 row pb-5 sub-header-content sub_header_description position-absolute"><h3 class="font-white main-heading">TCS works hand in hand with world-leading investors.
+             </h3>
+              
+              
+                <div class="show-stock d-flex border investor-data-table">
+                  <div class="p-4 investor-description">
+                    <div class="investor-brand-name">Tata Consultancy Services Limited</div>
+                    <div class="investor-data-type">NSE:TCS</div>
+                  </div>
+                  <div class="p-4 investor-data">
+                    <div class="nse-price"><span class="nsePrice pr-2"></span>INR</div>
+                    <div class="nse-percentage"><span class="nsePercent"></span></div>
+                  </div>
+                </div>
+              
+              <div class="d-flex align-items-center">
+                
+                  <a href="https://www.tcs.com/investor-relations" class="btn-l3-description  btn-responsive mt-3 mb-2 mr-4">Discover more</a>
+                
+              </div>
+            </div>
+            </li>
+            
+              <li class="inner-link row" data-id="Management Commentary" role="presentation">
+                <a href="https://www.tcs.com/investor-relations.html#management" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Management Commentary
+                  <div class="d-flex align-items-center">
+                    
+                    <span class="header-right-arrow-icon"></span>
+                    
+                  </div>
+                </a>
+                <div class="l3_divinder col-1"></div>
+                
+                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/management-commentary/latest-quarter-commentary">Latest Quarter Commentary</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/management-commentary/annual-report-sections">Annual Report Section</a></li>
+                    
+                  </ul>
+                
+
+                
+                
+                
+                
+              </li>
+            
+              <li class="inner-link row" data-id="Financials" role="presentation">
+                <a href="https://www.tcs.com/investor-relations.html#quarterly" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Financials
+                  <div class="d-flex align-items-center">
+                    
+                    <span class="header-right-arrow-icon"></span>
+                    
+                  </div>
+                </a>
+                <div class="l3_divinder col-1"></div>
+                
+                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/financial-statements">Quarterly Earnings Reports</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/content/dam/tcs/pdf/discover-tcs/investor-relations/tcs-data-sheet/TCS-Data-Sheet-Q1FY24.xlsx">Download TCS Data Sheet</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/cmc-financials">Erstwhile CMC Financials</a></li>
+                    
+                  </ul>
+                
+
+                
+                
+                
+                
+              </li>
+            
+              <li class="inner-link row" data-id="News and Events" role="presentation">
+                <a href="https://www.tcs.com/investor-relations.html#news" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">News and Events
+                  <div class="d-flex align-items-center">
+                    
+                    <span class="header-right-arrow-icon"></span>
+                    
+                  </div>
+                </a>
+                <div class="l3_divinder col-1"></div>
+                
+                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/who-we-are/newsroom/investor-press-release">Press Releases</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/view-all-corporate-actions">Corporate Actions</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/events">Events</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/calendar">Calendar</a></li>
+                    
+                  </ul>
+                
+
+                
+                
+                
+                
+              </li>
+            
+              <li class="inner-link row" data-id="ESG" role="presentation">
+                <a href="https://www.tcs.com/investor-relations.html#esg" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">ESG
+                  <div class="d-flex align-items-center">
+                    
+                    <span class="header-right-arrow-icon"></span>
+                    
+                  </div>
+                </a>
+                <div class="l3_divinder col-1"></div>
+                
+                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/esg/environment">Environment</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/esg/social">Social</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/corporate-governance">Governance</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/corporate-sustainability-investor-relations">Policies and Reports</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/stakeholder-engagement-identification-material-issues">Stakeholder Engagement and Identification of Material Issues</a></li>
+                    
+                  </ul>
+                
+
+                
+                
+                
+                
+              </li>
+            
+              <li class="inner-link row" data-id="Resources" role="presentation">
+                <a href="https://www.tcs.com/investor-relations.html#resource" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Resources
+                  <div class="d-flex align-items-center">
+                    
+                    <span class="header-right-arrow-icon"></span>
+                    
+                  </div>
+                </a>
+                <div class="l3_divinder col-1"></div>
+                
+                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/glossary">Glossary</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/investor-faqs">Investor FAQs</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/stock-information">Stock Information</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/overlays/analyst-coverage">Analyst Coverage</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/subsidiaries">Subsidiaries</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/contact-us/whats-on-your-mind/ir-landing/ir-form">Subscribe to Investor Updates</a></li>
+                    
+                      <li class="l3-li-list"><a class="l3-li-link" href="https://iepfinvestorinfo.tcsapps.com/#/home">Unclaimed Dividend Information</a></li>
+                    
+                  </ul>
+                
+
+                
+                
+                
+                
+              </li>
+            
+
+          </ul>
+        </div>
+      </div>
+
+      <div class="sub-header-right-rollover position-absolute d-none"></div>
+    </div>
+  </div>
+</div>
+
+
+<div id="subHeader5" class="collapse uniques mobile-level2" aria-labelledby="subHeader5" data-parent="#header-accordion">
+  <div class="px-3 d-flex flex-column" id="sub-menu-accordion-subHeader5">
+    <a data-nav-id="subHeader5" href="javascript:void(0);" class="mobile-tab-link py-3 overview-link"><span class="overview-text">Overview</span></a>
+    
+      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader50">
+        <div class="d-flex justify-content-between align-items-center">
+          <a href="https://www.tcs.com/investor-relations#management" class="mobile-tab-link"><span>Management Commentary</span>
+          </a>
+          
+            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader50" aria-expanded="false" aria-label="Management Commentary" role="button" aria-controls="child-subHeader50" tabindex="0"></span>
+          
+        </div>
+        
+          <div id="child-subHeader50" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader50" data-parent="#sub-menu-accordion-subHeader5">
+            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/management-commentary/latest-quarter-commentary">Latest Quarter Commentary</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/management-commentary/annual-report-sections">Annual Report Section</a></li>
+              
+            </ul>
+          </div>
+        
+      </li>
+    
+      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader51">
+        <div class="d-flex justify-content-between align-items-center">
+          <a href="https://www.tcs.com/investor-relations#quarterly" class="mobile-tab-link"><span>Financials</span>
+          </a>
+          
+            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader51" aria-expanded="false" aria-label="Financials" role="button" aria-controls="child-subHeader51" tabindex="0"></span>
+          
+        </div>
+        
+          <div id="child-subHeader51" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader51" data-parent="#sub-menu-accordion-subHeader5">
+            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/financial-statements">Quarterly Earnings Reports</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/content/dam/tcs/pdf/discover-tcs/investor-relations/tcs-data-sheet/TCS-Data-Sheet-Q1FY24.xlsx">Download TCS Data Sheet</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/cmc-financials">Erstwhile CMC Financials</a></li>
+              
+            </ul>
+          </div>
+        
+      </li>
+    
+      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader52">
+        <div class="d-flex justify-content-between align-items-center">
+          <a href="https://www.tcs.com/investor-relations#news" class="mobile-tab-link"><span>News and Events</span>
+          </a>
+          
+            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader52" aria-expanded="false" aria-label="News and Events" role="button" aria-controls="child-subHeader52" tabindex="0"></span>
+          
+        </div>
+        
+          <div id="child-subHeader52" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader52" data-parent="#sub-menu-accordion-subHeader5">
+            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/who-we-are/newsroom/investor-press-release">Press Releases</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/view-all-corporate-actions">Corporate Actions</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/events">Events</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/calendar">Calendar</a></li>
+              
+            </ul>
+          </div>
+        
+      </li>
+    
+      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader53">
+        <div class="d-flex justify-content-between align-items-center">
+          <a href="https://www.tcs.com/investor-relations#esg" class="mobile-tab-link"><span>ESG</span>
+          </a>
+          
+            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader53" aria-expanded="false" aria-label="ESG" role="button" aria-controls="child-subHeader53" tabindex="0"></span>
+          
+        </div>
+        
+          <div id="child-subHeader53" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader53" data-parent="#sub-menu-accordion-subHeader5">
+            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/esg/environment">Environment</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/esg/social">Social</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/corporate-governance">Governance</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/corporate-sustainability-investor-relations">Policies and Reports</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/stakeholder-engagement-identification-material-issues">Stakeholder Engagement and Identification of Material Issues</a></li>
+              
+            </ul>
+          </div>
+        
+      </li>
+    
+      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader54">
+        <div class="d-flex justify-content-between align-items-center">
+          <a href="https://www.tcs.com/investor-relations#resource" class="mobile-tab-link"><span>Resources</span>
+          </a>
+          
+            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader54" aria-expanded="false" aria-label="Resources" role="button" aria-controls="child-subHeader54" tabindex="0"></span>
+          
+        </div>
+        
+          <div id="child-subHeader54" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader54" data-parent="#sub-menu-accordion-subHeader5">
+            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/glossary">Glossary</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/investor-faqs">Investor FAQs</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/stock-information">Stock Information</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/overlays/analyst-coverage">Analyst Coverage</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/subsidiaries">Subsidiaries</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/contact-us/whats-on-your-mind/ir-landing/ir-form">Subscribe to Investor Updates</a></li>
+              
+                <li class="l3-li-list-mobile pb-3">
+                  <a class="l3-li-list-mobile-link" href="https://iepfinvestorinfo.tcsapps.com/#/home">Unclaimed Dividend Information</a></li>
+              
+            </ul>
+          </div>
+        
+      </li>
+    
+  </div>
+</div>
+                  
+                </div>
+              
+            </div>
+            <div class="d-flex flex-column pt-3">
+            
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+                  
+                      <div class="navbar-text d-block mobile-contact-text pt-32">
+                        
+                          
+                          <a class="contact-text" href="https://www.tcs.com/contact-us/whats-on-your-mind" tabindex="-1" aria-hidden="true">Contact us</a>
+                        
+                      </div>
+                  
+                      <div class="navbar-text d-block mobile-contact-text pt-32">
+                        
+                          
+                          <a class="contact-text" href="https://www.tcs.com/who-we-are/worldwide" tabindex="-1" aria-hidden="true">TCS Worldwide</a>
+                        
+                      </div>
+                  
+                
+              
+            
+            </div>
+          </div>
+        </div>
+
+        <span class="navbar-text py-0 tcs-white-logo">
+          
+            
+            <a href="https://www.tata.com/" target="_blank"><img src="/content/dam/global-tcs/en/images/home/logo-tata.svg" alt="tata.com"/><span class="sr-only d-none">tata.com&nbsp;Opens in new tab</span></a>
+          
+        </span>
+      </nav>
+    </header>
+    <button class="tigger-click-btn d-none" type="button">
+      <span class="sr-only">Mute</span>
+    </button>
+    <div class="nav_rollover position-fixed"></div>
+    <div class="nav_rollover_transparent position-fixed"></div>
+    <div class="body_rollover position-fixed"></div>
+  </section>
+  <div class="sticky-header-padding lg-sticky-padding"></div>
+
+  <div class="modal fade search-overlay-panel p-0" id="searchModal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
+    <div class="modal-dialog search-modal-dialog">
+      <div class="modal-content search-modal-content border-0">
+        <input type="hidden" name="search-page-url" class="search-page-url" value="/content/tcs/global/en/home-page"/>
+        <div class="modal-header search-modal-header border-0 pt-0 px-0 pb-0">
+          <div class="tcs-custom-container w-100 position-relative">
+            <div class="search-bar w-100 position-relative autocomplete">
+              <span class="search-updates" role="status" aria-live="polite" aria-atomic="true"></span>
+              <label class="sr-only" for="search-input">What are you looking for?</label>
+              <input type="text" placeholder="What are you looking for?" aria-controls="search-inputautocomplete-list" aria-expanded="false" aria-autocomplete="list" class="search-input d-block" aria-owns="search-inputautocomplete-list" id="search-input" role="combobox"/>
+              <div id="search-inputautocomplete-list"></div>
+            </div>
+            <button type="button" class="close-search position-absolute border-0" title="Close"></button>
+          </div>
+        </div>
+        <div class="modal-body search-modal-body">
+          <div class="search-list">
+            <div class="tcs-custom-container">
+              <div class="search-no-result" role="status" aria-live="polite" aria-atomic="true">
+
+              </div>
+            </div>
+            <div class="search-list-top">
+              <div class="tcs-custom-container position-relative">
+                <div class="top-list-container">
+                  <h5 class="section-heading color-white text-uppercase mb-4">Top Results</h5>
+                  <div class="swiper search-list-carousel position-relative">
+
+                    <div class="swiper-wrapper">
+
+
+
+
+
+
+                    </div>
+
+                  
+
+                  </div>
+                </div>
+                <div class="search-list-slider-button search-list-slider-button-prev position-absolute z-index-1" title="Previous">
+                </div>
+                <div class="search-list-slider-button search-list-slider-button-next position-absolute z-index-1" title="Next">
+                </div>
+              </div>
+            </div>
+            <div class="search-list-tag-list tcs-custom-container position-relative">
+              <div class="search-sorting-dropdown position-relative">
+                <button class="search-sort-button btn w-100 text-left position-relative" role="combobox" aria-controls="search-sort-options" aria-expanded="false" data-sort="relevant">Most Relevant</button>
+                <div class="search-sort-options position-absolute" id="search-sort-options">
+                  <button class="sort-options-button btn w-100 text-left position-relative active" role="option" data-sort="relevant">Most Relevant</button>
+                  <button class="sort-options-button btn w-100 text-left position-relative" role="option" data-sort="latest">Latest first</button>
+                  <button class="sort-options-button btn w-100 text-left position-relative" role="option" data-sort="oldest">Oldest first</button>
+                </div>
+              </div>
+              <div class="search-list-slider-button search-list-tagslider-button-prev position-absolute z-index-1" title="Previous" tabindex="0" role="button">
+              </div>
+              <div class="swiper tag-list-carousel position-relative overflow-hidden">
+
+                <div class="swiper-wrapper">
+
+                </div>
+
+
+
+              </div>
+             
+              <div class=" search-list-slider-button search-list-tagslider-button-next position-absolute z-index-1" title="Next" tabindex="0" role="button">
+              </div>
+
+            </div>
+            <div class="search-list-result container">
+
+
+
+
+
+
+
+            </div>
+            <div class="search-list-pagination tcs-custom-container">
+              <div class="row align-items-center">
+                <div class="col-md-6 d-none d-md-block">
+                  <div class="text-left">
+                    <span>Showing</span>
+                    <div class="pagination-dropdown search-list-count-dropdown d-inline-block position-relative text-center cursor-pointer" role="combobox" tabindex="0" aria-controls="paginationListBox-1" aria-expanded="false" title="Click here to toggle dropdown">
+                      <div class="page-selected per-page-count d-block" role="button"><span class="text-uppercase color-white page-number selected-number">10</span></div>
+                          <div id="paginationListBox-1" class="pagination-pages position-absolute page-list-count" role="listbox">
+                        <button class="position-relative d-block pagination-number text-left w-100 selected" data-pageno="20">20 </button>
+                        <button class="position-relative d-block pagination-number text-left w-100" data-pageno="30">30
+                        </button>
+                        <button class="position-relative d-block text-left pagination-number w-100" data-pageno="40">40
+                        </button>
+
+                      </div>
+                      <span class="dropdown-arrow position-absolute">
+                      </span>
+                    </div>
+                    <span class="search-result-count"></span>
+                  </div>
+                </div>
+                <div class="col-12 col-md-6">
+                  <div class="text-center text-md-right">
+                    <button class="pagination-button pagination-prev-button" disabled>
+                      <span class="sr-only">Previous</span>
                     </button>
+                    <div class="pagination-dropdown d-inline-block position-relative text-center cursor-pointer" tabindex="0" role="combobox" aria-controls="paginationListBox-2" aria-expanded="false" title="Click here to toggle dropdown">
+                      <div class="page-selected pages-list-selected d-block" role="button"><span class="text-uppercase color-white page-number selected-number">01</span> - <span class="text-uppercase page-number">07</span></div>
+                          <div id="paginationListBox-2" class="pagination-pages position-absolute pages-list" role="listbox">
+                        <button class="position-relative d-block pagination-number w-100 selected text-left" data-pageno="02">02 </button>
+                        <button class="position-relative  d-block pagination-number w-100 text-left" data-pageno="03">03
+                        </button>
+                        <button class="position-relative d-block pagination-number w-100 text-left" data-pageno="04">04
+                        </button>
+
+                      </div>
+                      <span class="dropdown-arrow position-absolute">
+                      </span>
+                    </div>
+                    <button class="pagination-button pagination-next-button">
+                      <span class="sr-only">Next</span>
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+      </div>
+    </div>
+  </div>
+
+
+
+</div>
+
+    
+</div>
+</div>
+
+    
+</div>
+</div>
+
+    
+</div>
+<div class="homeHeroCarousel aem-GridColumn aem-GridColumn--default--12">
+  
+  
+  
+  
+    <section class="home-banner ">
+      <input type="hidden" class="banner-slide-duration" value="7"/>
+      <div class="swiper home-banner-carousel" id="main-content" role="main">
+        <div class="swiper-wrapper">
+          
+            
+          
+            
+          
+            
+          
+            
+              <div class="swiper-slide home-banner-slide">
+                <div class="home-banner-box">                                  
+                  <div class="home-banner-content text-left position-absolute z-index-2" data-dl-title="TCS to Announce Q3 FY 2024 Results on Jan 11, 2024">
+                    
+                      <h1 class="home-banner-title">TCS to Announce Q3 FY 2024 Results on Jan 11, 2024</h1>
+                    
+                    
+                    <div class="home-banner-links">
+                      <div>
+                      
+                      	
+                        <a href="https://www.tcs.com/content/dam/tcs/pdf/discover-tcs/investor-relations/corporate-actions/2023-24/schedule-of-events-Q3-2023-24.pdf" target="_blank" class="tcs-primary-btn d-inline-block tcs-section-click">Learn more
+                          <span class="sr-only">&nbsp about &nbsp TCS to Announce Q3 FY 2024 Results on Jan 11, 2024</span>
+                        </a>
+                      
+                      
+                     </div>
+                    </div>
+                  </div>
+                  
+                  
+                  
+                  <div class="image-video-box position-relative z-index-1 image-gradient-bg non-svg-image orange-yellow ">  
+					         <div class="hero-home-gradient position-relative w-100 h-100"></div>
+                    
+  
+    
+    
+  <script defer="true" src="/libs/dam/components/scene7/common/clientlibs/viewer.min.4618b42d2de5cb16b5ebca7fdf77812d.js" xmlns="http://www.w3.org/1999/xhtml"></script>
+<script defer="true" src="/etc.clientlibs/clientlibs/granite/jquery.min.cee8557e8779d371fe722bbcdd3b3eb7.js" xmlns="http://www.w3.org/1999/xhtml"></script>
+<script defer="true" src="/etc.clientlibs/clientlibs/granite/utils.min.4a192b590a2c2926fb000264370c0588.js" xmlns="http://www.w3.org/1999/xhtml"></script>
+<script defer="true" src="/libs/dam/components/scene7/dynamicmedia/clientlibs/dynamicmedia.min.7e6c319ddfaae25b587068f944783174.js" xmlns="http://www.w3.org/1999/xhtml"></script>
+<script defer="true" src="/libs/dam/components/scene7/common/clientlibs/i18n.min.729cff467445a61264e4f0ffb2261059.js" xmlns="http://www.w3.org/1999/xhtml"></script>
+<link href="/libs/dam/components/scene7/dynamicmedia/clientlibs/dynamicmedia.min.a97e0418f0d0d6fe2eea57c7dc5e8804.css" rel="stylesheet" type="text/css" xmlns="http://www.w3.org/1999/xhtml">
+
+
+
+    <div id="dynamicmedia_262769362" data-current-page="/content/tcs/global/en/home-page" data-page-locale="en" data-asset-path="TCSCOMprod/ir-annocement" data-asset-name="ir-annocement.png" data-asset-type="image" data-viewer-path="https://s7ap1.scene7.com/s7viewers/" data-imageserver="https://s7ap1.scene7.com/is/image/" data-videoserver="https://s7ap1.scene7.com/is/content/" data-contenturl="https://s7ap1.scene7.com/is/content/" data-wcmdisabled data-dms7 data-mode="smartcrop" data-alt="TCS to Announce Q3 FY 2024 Results on Jan 11, 2024" class="s7dm-dynamic-media" data-custom-class="fit-cover dynamic-media-image">
+    </div>
+  
+
+					  
+                
+                    <div class="home-banner-progress-bar position-absolute"></div>
+                  </div>
+                </div>
+              </div>
+            
+              <div class="swiper-slide home-banner-slide">
+                <div class="home-banner-box">                                  
+                  <div class="home-banner-content text-left position-absolute z-index-2" data-dl-title="The TCS Global Cloud Study for Retailers">
+                    
+                      <h1 class="home-banner-title">The TCS Global Cloud Study for Retailers</h1>
+                    
+                    
+                      <div class="home-banner-desc d-none d-lg-block">Cloud is front and center in the changing landscape of retail</div>
+                    
+                    <div class="home-banner-links">
+                      <div>
+                      
+                      	
+                        <a href="https://www.tcs.com/insights/global-studies/tcs-global-cloud-study/global-cloud-study-retailers" class="tcs-primary-btn d-inline-block tcs-section-click">Learn more
+                          <span class="sr-only">&nbsp about &nbsp The TCS Global Cloud Study for Retailers</span>
+                        </a>
+                      
+                      
+                     </div>
+                    </div>
+                  </div>
+                  
+                  
+                  
+                  <div class="image-video-box position-relative z-index-1 image-gradient-bg non-svg-image  ">  
+					         <div class="hero-home-gradient position-relative w-100 h-100"></div>
+                    
+  
+    
+    
+  
+
+
+    <div id="dynamicmedia_66743920" data-current-page="/content/tcs/global/en/home-page" data-page-locale="en" data-asset-path="TCSCOMprod/tcs-global-cloud-study-retailers" data-asset-name="tcs-global-cloud-study-retailers.jpg" data-asset-type="image" data-viewer-path="https://s7ap1.scene7.com/s7viewers/" data-imageserver="https://s7ap1.scene7.com/is/image/" data-videoserver="https://s7ap1.scene7.com/is/content/" data-contenturl="https://s7ap1.scene7.com/is/content/" data-wcmdisabled data-dms7 data-mode="smartcrop" data-alt="The TCS Global Cloud Study for Retailers" class="s7dm-dynamic-media" data-custom-class="fit-cover dynamic-media-image">
+    </div>
+  
+
+					  
+                
+                    <div class="home-banner-progress-bar position-absolute"></div>
+                  </div>
+                </div>
+              </div>
+            
+              <div class="swiper-slide home-banner-slide">
+                <div class="home-banner-box">                                  
+                  <div class="home-banner-content text-left position-absolute z-index-2" data-dl-title="The formative future of the factory ">
+                    
+                      <h1 class="home-banner-title">The formative future of the factory </h1>
+                    
+                    
+                      <div class="home-banner-desc d-none d-lg-block">Neural manufacturing transforms enterprise value chains into ecosystems that sense, learn, and adapt</div>
+                    
+                    <div class="home-banner-links">
+                      <div>
+                      
+                      	
+                        <a href="https://www.tcs.com/what-we-do/industries/manufacturing" class="tcs-primary-btn d-inline-block tcs-section-click">Learn more
+                          <span class="sr-only">&nbsp about &nbsp The formative future of the factory </span>
+                        </a>
+                      
+                      
+                     </div>
+                    </div>
+                  </div>
+                  
+                  
+                  
+                  <div class="image-video-box position-relative z-index-1 image-gradient-bg non-svg-image  ">  
+					         <div class="hero-home-gradient position-relative w-100 h-100"></div>
+                    
+  
+    
+    
+  
+
+
+    <div id="dynamicmedia_32067424" data-current-page="/content/tcs/global/en/home-page" data-page-locale="en" data-asset-path="TCSCOMprod/formative-future-factory" data-asset-name="formative-future-factory .jpg" data-asset-type="image" data-viewer-path="https://s7ap1.scene7.com/s7viewers/" data-imageserver="https://s7ap1.scene7.com/is/image/" data-videoserver="https://s7ap1.scene7.com/is/content/" data-contenturl="https://s7ap1.scene7.com/is/content/" data-wcmdisabled data-dms7 data-mode="smartcrop" data-alt="The formative future of the factory " class="s7dm-dynamic-media" data-custom-class="fit-cover dynamic-media-image">
+    </div>
+  
+
+					  
+                
+                    <div class="home-banner-progress-bar position-absolute"></div>
+                  </div>
+                </div>
+              </div>
+            
+              <div class="swiper-slide home-banner-slide">
+                <div class="home-banner-box">                                  
+                  <div class="home-banner-content text-left position-absolute z-index-2" data-dl-title="Building on ambition and optimism">
+                    
+                      <h1 class="home-banner-title">Building on ambition and optimism</h1>
+                    
+                    
+                      <div class="home-banner-desc d-none d-lg-block">Defining new pathways of growth to foster an inclusive culture</div>
+                    
+                    <div class="home-banner-links">
+                      <div>
+                      
+                      	
+                        <a href="https://www.tcs.com/who-we-are/diversity-equity-inclusion" class="tcs-primary-btn d-inline-block tcs-section-click">Discover more
+                          <span class="sr-only">&nbsp about &nbsp Building on ambition and optimism</span>
+                        </a>
+                      
+                      
+                     </div>
+                    </div>
+                  </div>
+                  
+                  
+                  
+                  <div class="image-video-box position-relative z-index-1 image-gradient-bg non-svg-image  ">  
+					         <div class="hero-home-gradient position-relative w-100 h-100"></div>
+                    
+  
+    
+    
+  
+
+
+    <div id="dynamicmedia_125389396" data-current-page="/content/tcs/global/en/home-page" data-page-locale="en" data-asset-path="TCSCOMprod/building-ambition-optimism" data-asset-name="building-ambition-optimism.jpg" data-asset-type="image" data-viewer-path="https://s7ap1.scene7.com/s7viewers/" data-imageserver="https://s7ap1.scene7.com/is/image/" data-videoserver="https://s7ap1.scene7.com/is/content/" data-contenturl="https://s7ap1.scene7.com/is/content/" data-wcmdisabled data-dms7 data-mode="smartcrop" data-alt="Building on ambition and optimism" class="s7dm-dynamic-media" data-custom-class="fit-cover dynamic-media-image">
+    </div>
+  
+
+					  
+                
+                    <div class="home-banner-progress-bar position-absolute"></div>
+                  </div>
+                </div>
+              </div>
+            
+              <div class="swiper-slide home-banner-slide">
+                <div class="home-banner-box">                                  
+                  <div class="home-banner-content text-left position-absolute z-index-2" data-dl-title="Make net-negative the new benchmark">
+                    
+                      <h1 class="home-banner-title">Make net-negative the new benchmark</h1>
+                    
+                    
+                      <div class="home-banner-desc d-none d-lg-block">Create a cleaner and greener future by adopting an ecosystem approach for energy and utilities businesses.</div>
+                    
+                    <div class="home-banner-links">
+                      <div>
+                      
+                      	
+                        <a href="https://www.tcs.com/what-we-do/industries/energy-resources-utilities" class="tcs-primary-btn d-inline-block tcs-section-click">Read more
+                          <span class="sr-only">&nbsp about &nbsp Make net-negative the new benchmark</span>
+                        </a>
+                      
+                      
+                     </div>
+                    </div>
+                  </div>
+                  
+                  
+                  
+                  <div class="image-video-box position-relative z-index-1 image-gradient-bg non-svg-image  ">  
+					         <div class="hero-home-gradient position-relative w-100 h-100"></div>
+                    
+  
+    
+    
+  
+
+
+    <div id="dynamicmedia_104549342" data-current-page="/content/tcs/global/en/home-page" data-page-locale="en" data-asset-path="TCSCOMprod/make-net-negative-new-benchmark" data-asset-name="make-net-negative-new-benchmark.jpg" data-asset-type="image" data-viewer-path="https://s7ap1.scene7.com/s7viewers/" data-imageserver="https://s7ap1.scene7.com/is/image/" data-videoserver="https://s7ap1.scene7.com/is/content/" data-contenturl="https://s7ap1.scene7.com/is/content/" data-wcmdisabled data-dms7 data-mode="smartcrop" data-alt="Make net-negative the new benchmark" class="s7dm-dynamic-media" data-custom-class="fit-cover dynamic-media-image">
+    </div>
+  
+
+					  
+                
+                    <div class="home-banner-progress-bar position-absolute"></div>
+                  </div>
+                </div>
+              </div>
+            
+          
+        </div>
+        <div class="swiper-pagination"></div>
+        <div class="home-banner-play-pause playing home-banner-button position-absolute" tabindex="0" title="pause"></div>
+        <div class="home-banner-button-next home-banner-button position-absolute" title="Next"></div>
+        <div class="home-banner-button-prev home-banner-button position-absolute" title="Previous"></div>
+        
+          <span class="sr-only">Play Pause Button</span>
+        </div>
+        <div class="circle-box homer-banner-timer position-absolute z-index-1 d-none">
+          <span class="icon home-banner-counter position-absolute text-center"></span>
+          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 70 70" preserveAspectRatio="none">
+            <circle cx="165" cy="36" r="32" class="white-halo" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-dasharray="360, 20000" transform="rotate(-90,100,100)"></circle>
+            <circle cx="165" cy="36" r="32" class="gradient-halo" fill="none" stroke="#DC0916" stroke-width="2" stroke-dasharray="0, 20000" transform="rotate(-90,100,100)"></circle>
+          </svg>
+        </div>
+      </div>
+      
+        
+        
+        
+          
+      
+        
+        
+        
+          
+            
+            
+         
+            <div class="dm-video-control"> 
+                                                              
+                  <a data-asset="false" class="video-ts-download z-index-2" data-title="Download transcript" target="_blank" download>
+                  <span class="video-ts-msg video-message-wrapper video-ts-downloading d-none">Transcript downloading</span>
+                  <span class="sr-only">Download transcript</span>
+                </a>
+              </div>
+           
+          
+      
+        
+        
+        
+          
+      
+        
+        
+        
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+      
+    </section>
+    
+  
+
+
+</div>
+<div class="rowContainer aem-GridColumn aem-GridColumn--default--12">
+
+  
+  
+  <div style="background-color:#000000">
+    
+  </div>
+
+
+  
+  
+  <div style="background-color:#000000">
+    <div class="container-fluid tcs-custom-container px-0 false row-container-darkbg">
+      <div class="row mx-0 custom-container px-0  dark-theme-container">
+        
+          <div class="w-100 px-0
+          px-0
+          ">
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="richText aem-GridColumn aem-GridColumn--default--12">
+
+
+
+<h6><span class="color-white">Snapshots<br />
+</span></h6>
+
+</div>
+<div class="embed aem-GridColumn aem-GridColumn--default--12">
+<div id="embed-a4539aa4f2" class="cmp-embed">
+    
+    
+    <storifyme-collection url="https://storifyme.com/widgets/tcs/widget/custom/7238"></storifyme-collection>
+</div>
+
+    
+
+</div>
+
+    
+</div>
+</div>
+        
+      </div>
+    </div>
+  </div>
+
+
+
+</div>
+<div class="interactiveQuiz aem-GridColumn aem-GridColumn--default--12">
+
+
+  <div class="interactive-quiz-outer-container position-relative interactive-quiz-outer-container-height">
+    <div class="quiz-restart-btn-div d-none tcs-custom-container justify-content-end">
+      <div class="quiz-restart-btn position-absolute">
+      <span class="refresh-btn-text d-flex align-items-center" tabindex="0"><span class="refresh-btn"></span>
+        <span class="refresh-btn-text-span text-capitalize">restart</span></span>
+      </div>
+    </div>
+    <div class="tcs-custom-container">
+      <div class="interactive-quiz-inner-container container-fluid px-0" data-dl-title="Global Thought Leadership Study ">
+        <div class="d-none question-count">3</div>
+        <div class="quiz-solution-screen"></div>
+        <div class="row d-flex justify-content-end qna-card-detail-div">
+          <div class="col-lg-6 col-md-6 col-12 quiz-question-title align-items-center">
+            <div class="quiz-question-title-inner-div" tabindex="0">
+              <div class="interactive-quiz-desc text-uppercase" id="quiz-title" role="term">Global Thought Leadership Study </div>
+              <div class="interactive-quiz-title" role="definition" aria-labelledby="quiz-title">Answer a few questions to unlock insights into innovation with cloud</div>
+            </div>
+          </div>
+          <div class="col-12 col-lg-1 d-lg-block d-none"></div>
+          <div class="col-lg-5 col-md-6 col-12 position-relative quiz-question-box">
+            <div class="quiz-question-card-container">
+              <div class="quiz-card-counts-div d-flex"></div>
+              <div class="position-relative quiz-card-div-parent">
+                
+                  
+                  <div class="position-absolute qna-card-outer-div" data-exp-path="/content/experience-fragments/tcs/global/en/interactive-quiz-cloud-study/question-1">
+                    <div class="quiz-box quiz-card-div d-flex flex-column justify-content-between" data-card-type="questionCard">
+  <div class="quiz-card-question">
+    Are you leveraging your competitive advantage with cloud?
+  </div>
+  <div class="d-flex justify-content-between pt-5 pb-3">
+    <div class="response-text d-flex flex-lg-row flex-column justify-content-start justify-content-md-start justify-content-lg-center align-items-lg-center align-items-md-start align-items-start ml-4 ml-md-4 ml-lg-0">
+      <button class="btn solution-card left-solution-btn btn-responsive cta-gradient-btn quiz-nav-btn d-flex align-items-center justify-content-center p-0 tcs-section-click" data-answer-path="/content/experience-fragments/tcs/global/en/interactive-quiz-cloud-study/question-2" data-card-type="questionCard" aria-label="Yes">
+        <span class="quiz-back-btn-icon"></span>
+      </button>
+      <span class="quiz-btn-text ml-lg-3 ml-md-0">Yes</span>
+    </div>
+    <div class="response-text d-flex flex-lg-row flex-column justify-content-end justify-content-md-end justify-content-lg-center align-items-lg-center align-items-end align-items-md-end mr-4 mr-md-4 mr-lg-0">
+      <span class="quiz-btn-text mr-lg-3 mr-md-0">No</span>
+      <button class="btn solution-card right-solution-btn btn-responsive cta-gradient-btn quiz-nav-btn d-flex align-items-center justify-content-center p-0 tcs-section-click" data-answer-path="/content/experience-fragments/tcs/global/en/interactive-quiz-cloud-study/question-4" data-card-type="questionCard" aria-label="No">
+        <span class="quiz-next-btn-icon"></span>
+      </button>
+    </div>
+  </div>
+</div>
+
+                  </div>
+                
+                  
+                  <div class="position-absolute qna-card-outer-div" data-exp-path="/content/experience-fragments/tcs/global/en/interactive-quiz-cloud-study/question-2">
+                    <div class="quiz-box quiz-card-div d-flex flex-column justify-content-between" data-card-type="questionCard">
+  <div class="quiz-card-question">
+    Where do you hope to turn cloud investments into innovation?
+  </div>
+  <div class="d-flex justify-content-between pt-5 pb-3">
+    <div class="response-text d-flex flex-lg-row flex-column justify-content-start justify-content-md-start justify-content-lg-center align-items-lg-center align-items-md-start align-items-start ml-4 ml-md-4 ml-lg-0">
+      <button class="btn solution-card left-solution-btn btn-responsive cta-gradient-btn quiz-nav-btn d-flex align-items-center justify-content-center p-0 tcs-section-click" data-answer-path="/content/experience-fragments/tcs/global/en/interactive-quiz-cloud-study/question-3" data-card-type="questionCard" aria-label="AI">
+        <span class="quiz-back-btn-icon"></span>
+      </button>
+      <span class="quiz-btn-text ml-lg-3 ml-md-0">AI</span>
+    </div>
+    <div class="response-text d-flex flex-lg-row flex-column justify-content-end justify-content-md-end justify-content-lg-center align-items-lg-center align-items-end align-items-md-end mr-4 mr-md-4 mr-lg-0">
+      <span class="quiz-btn-text mr-lg-3 mr-md-0">Ecosystems</span>
+      <button class="btn solution-card right-solution-btn btn-responsive cta-gradient-btn quiz-nav-btn d-flex align-items-center justify-content-center p-0 tcs-section-click" data-answer-path="/content/experience-fragments/tcs/global/en/interactive-quiz-cloud-study/question-3" data-card-type="questionCard" aria-label="Ecosystems">
+        <span class="quiz-next-btn-icon"></span>
+      </button>
+    </div>
+  </div>
+</div>
+
+                  </div>
+                
+                  
+                  <div class="position-absolute qna-card-outer-div" data-exp-path="/content/experience-fragments/tcs/global/en/interactive-quiz-cloud-study/question-3">
+                    <div class="quiz-box quiz-card-div d-flex flex-column justify-content-between" data-card-type="solutionCard">
+  <div class="quiz-card-question">
+    What is standing in the way of cloud-enabled innovation? 
+  </div>
+  <div class="d-flex justify-content-between pt-5 pb-3">
+    <div class="response-text d-flex flex-lg-row flex-column justify-content-start justify-content-md-start justify-content-lg-center align-items-lg-center align-items-md-start align-items-start ml-4 ml-md-4 ml-lg-0">
+      <button class="btn solution-card left-solution-btn btn-responsive cta-gradient-btn quiz-nav-btn d-flex align-items-center justify-content-center p-0 tcs-section-click" data-answer-path="/content/experience-fragments/tcs/global/en/interactive-quiz-cloud-study/solution-yes" data-card-type="solutionCard" aria-label="Cost">
+        <span class="quiz-back-btn-icon"></span>
+      </button>
+      <span class="quiz-btn-text ml-lg-3 ml-md-0">Cost</span>
+    </div>
+    <div class="response-text d-flex flex-lg-row flex-column justify-content-end justify-content-md-end justify-content-lg-center align-items-lg-center align-items-end align-items-md-end mr-4 mr-md-4 mr-lg-0">
+      <span class="quiz-btn-text mr-lg-3 mr-md-0">Complexity</span>
+      <button class="btn solution-card right-solution-btn btn-responsive cta-gradient-btn quiz-nav-btn d-flex align-items-center justify-content-center p-0 tcs-section-click" data-answer-path="/content/experience-fragments/tcs/global/en/interactive-quiz-cloud-study/solution-yes" data-card-type="solutionCard" aria-label="Complexity">
+        <span class="quiz-next-btn-icon"></span>
+      </button>
+    </div>
+  </div>
+</div>
+
+                  </div>
+                
+                  
+                  <div class="position-absolute qna-card-outer-div" data-exp-path="/content/experience-fragments/tcs/global/en/interactive-quiz-cloud-study/question-4">
+                    <div class="quiz-box quiz-card-div d-flex flex-column justify-content-between" data-card-type="questionCard">
+  <div class="quiz-card-question">
+    Where do you hope to turn cloud investments into innovation? 
+  </div>
+  <div class="d-flex justify-content-between pt-5 pb-3">
+    <div class="response-text d-flex flex-lg-row flex-column justify-content-start justify-content-md-start justify-content-lg-center align-items-lg-center align-items-md-start align-items-start ml-4 ml-md-4 ml-lg-0">
+      <button class="btn solution-card left-solution-btn btn-responsive cta-gradient-btn quiz-nav-btn d-flex align-items-center justify-content-center p-0 tcs-section-click" data-answer-path="/content/experience-fragments/tcs/global/en/interactive-quiz-cloud-study/question-5" data-card-type="questionCard" aria-label="AI">
+        <span class="quiz-back-btn-icon"></span>
+      </button>
+      <span class="quiz-btn-text ml-lg-3 ml-md-0">AI</span>
+    </div>
+    <div class="response-text d-flex flex-lg-row flex-column justify-content-end justify-content-md-end justify-content-lg-center align-items-lg-center align-items-end align-items-md-end mr-4 mr-md-4 mr-lg-0">
+      <span class="quiz-btn-text mr-lg-3 mr-md-0">Ecosystems </span>
+      <button class="btn solution-card right-solution-btn btn-responsive cta-gradient-btn quiz-nav-btn d-flex align-items-center justify-content-center p-0 tcs-section-click" data-answer-path="/content/experience-fragments/tcs/global/en/interactive-quiz-cloud-study/question-5" data-card-type="questionCard" aria-label="Ecosystems ">
+        <span class="quiz-next-btn-icon"></span>
+      </button>
+    </div>
+  </div>
+</div>
+
+                  </div>
+                
+                  
+                  <div class="position-absolute qna-card-outer-div" data-exp-path="/content/experience-fragments/tcs/global/en/interactive-quiz-cloud-study/question-5">
+                    <div class="quiz-box quiz-card-div d-flex flex-column justify-content-between" data-card-type="solutionCard">
+  <div class="quiz-card-question">
+    What is standing in the way of cloud-enabled innovation? 
+  </div>
+  <div class="d-flex justify-content-between pt-5 pb-3">
+    <div class="response-text d-flex flex-lg-row flex-column justify-content-start justify-content-md-start justify-content-lg-center align-items-lg-center align-items-md-start align-items-start ml-4 ml-md-4 ml-lg-0">
+      <button class="btn solution-card left-solution-btn btn-responsive cta-gradient-btn quiz-nav-btn d-flex align-items-center justify-content-center p-0 tcs-section-click" data-answer-path="/content/experience-fragments/tcs/global/en/interactive-quiz-cloud-study/solution-no" data-card-type="solutionCard" aria-label="Cost">
+        <span class="quiz-back-btn-icon"></span>
+      </button>
+      <span class="quiz-btn-text ml-lg-3 ml-md-0">Cost</span>
+    </div>
+    <div class="response-text d-flex flex-lg-row flex-column justify-content-end justify-content-md-end justify-content-lg-center align-items-lg-center align-items-end align-items-md-end mr-4 mr-md-4 mr-lg-0">
+      <span class="quiz-btn-text mr-lg-3 mr-md-0">Complexity </span>
+      <button class="btn solution-card right-solution-btn btn-responsive cta-gradient-btn quiz-nav-btn d-flex align-items-center justify-content-center p-0 tcs-section-click" data-answer-path="/content/experience-fragments/tcs/global/en/interactive-quiz-cloud-study/solution-no" data-card-type="solutionCard" aria-label="Complexity ">
+        <span class="quiz-next-btn-icon"></span>
+      </button>
+    </div>
+  </div>
+</div>
+
+                  </div>
+                
+              </div>
+            </div>
+            <div class="quiz-question-cover d-none position-absolute"></div>
+            <div class="quiz-question-cover-mob d-none position-absolute"></div>
+          </div>
+        </div>
+        <div class="qna-loader-screen container d-none justify-content-center align-items-center" tabindex="0" aria-live="polite">
+          <div class="container px-0 mt-1">
+            <div class="row">
+              <div class="col d-flex flex-column justify-content-center align-items-center">
+                <span class="loader d-flex justify-content-center align-items-center"><span class="sr-only">loading </span><span class="loader-text-span"><span class="loader-count">100</span>%</span></span>
+                <div class="loader-text pt-3">
+                  <div class="loader-text-title">Ignite your transformation</div>
+                  <div class="loader-text-desc">We&#39;re matching your answers with the latest TCS insights and expertise.</div>
+                </div>
+
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+</div>
+<div class="whatsHotCard aem-GridColumn aem-GridColumn--default--12">
+
+<section class=" whats-hot-dark-panel whats-hot-panel overflow-hidden  ">
+<div class="tcs-custom-container" data-dl-title="Spotlight on sustainability">
+	<div class="whats-hot-card-title">
+		<div class="row align-items-center">
+			<div class="col-6">
+				<h2 class="whats-hot-section-heading">Spotlight on sustainability</h2>
+			</div>
+			<div class="col-6 text-right align-self-start">
+				
+				<a href="https://www.tcs.com/what-we-do/services/sustainability-services" class="view-all-link border-bottom pb-1 text-decoration-none"> View all</a>
+			</div>
+		</div>
+	</div>
+	
+	
+	
+	
+	<div class="whats-hot-slider swiper position-relative">
+
+		<div class="swiper-wrapper">
+
+			
+			
+				
+					
+						
+							<div class="swiper-slide hot-slide-item">
+								
+								<a href="https://www.tcs.com/what-we-do/industries/education/white-paper/sustainability-education-better-future" class="cta-link-focus tcs-card-click">
+									<div class="hot-card position-relative">
+										<div class="whats-hot-card-img" data-device-bg-src="/content/dam/global-tcs/en/images/home/insights-by-interest/collegiate-collaborations-climate.png" data-lazy-load></div>
+										<div class="hot-card-tags position-absolute p-4 w-100">
+											<span class="tag-list  rounded-pill text-decoration-none">Education</span>
+										</div>
+										
+										
+										<div class="hot-card-body position-absolute px-4 w-100">
+											<p class="hot-card-text">Collegiate collaborations for climate</p>
+											<div class="hot-card-link-box">
+												<span class="hot-card-cta-link read-more-cta position-relative text-uppercase article-ico  pl-4">Read More </span>
+											</div>
+										</div>
+									</div>
+								</a>
+								
+							</div>
+						
+							<div class="swiper-slide hot-slide-item">
+								
+								<a href="https://www.tcs.com/what-we-do/services/sustainability-services/article/sustainable-business-transformation-european-organizations" class="cta-link-focus tcs-card-click">
+									<div class="hot-card position-relative">
+										<div class="whats-hot-card-img" data-device-bg-src="/content/dam/global-tcs/en/images/home/insights-by-interest/businesses-balance-green-goals.png" data-lazy-load></div>
+										<div class="hot-card-tags position-absolute p-4 w-100">
+											<span class="tag-list  rounded-pill text-decoration-none">Enterprise</span>
+										</div>
+										
+										
+										<div class="hot-card-body position-absolute px-4 w-100">
+											<p class="hot-card-text">Businesses balance green goals </p>
+											<div class="hot-card-link-box">
+												<span class="hot-card-cta-link read-more-cta position-relative text-uppercase article-ico  pl-4">Read More </span>
+											</div>
+										</div>
+									</div>
+								</a>
+								
+							</div>
+						
+							<div class="swiper-slide hot-slide-item">
+								
+								<a href="https://www.tcs.com/who-we-are/tcs-way/article/achieve-sustainable-development-goals-tcs-solutions" class="cta-link-focus tcs-card-click">
+									<div class="hot-card position-relative">
+										<div class="whats-hot-card-img" data-device-bg-src="/content/dam/global-tcs/en/images/home/insights-by-interest/path-planet-people-prosperity.png" data-lazy-load></div>
+										<div class="hot-card-tags position-absolute p-4 w-100">
+											<span class="tag-list  rounded-pill text-decoration-none">TCS Way</span>
+										</div>
+										
+										
+										<div class="hot-card-body position-absolute px-4 w-100">
+											<p class="hot-card-text">Path to planet, people, prosperity</p>
+											<div class="hot-card-link-box">
+												<span class="hot-card-cta-link read-more-cta position-relative text-uppercase article-ico  pl-4">Read More </span>
+											</div>
+										</div>
+									</div>
+								</a>
+								
+							</div>
+						
+					
+				
+			
+		</div>
+
+		<div class="swiper-button-prev whats-hot-slider-nav-button position-absolute rounded-circle whats-hot-slider-prev z-index-1">
+			<span class="sr-only">Swipe Left</span>
+		</div>
+		<div class="swiper-button-next whats-hot-slider-nav-button position-absolute rounded-circle whats-hot-slider-next z-index-1">
+			<span class="sr-only">Swipe Right</span>
+		</div>
+	</div>
+	
+
+</div>
+
+</section>
+</div>
+<div class="cardContainer aem-GridColumn aem-GridColumn--default--12">
+
+    
+    
+    
+        <section class="news-card-section   dark-theme-panel">
+            <div class="our-people-section card-panel news-panel news-panel-image position-relative " data-dl-title="Discover the TCS difference ">
+            <div class="tcs-custom-container col-lg-10 mx-auto px-0">
+                <h4 class="news-title card-panel">Discover the TCS difference </h4>
+            </div>
+            <div class="tcs-custom-container news-banner-container col-lg-10 mx-auto px-lg-0">
+                <div class="news-banner-list position-relative  ">
+
+                    
+                        <div id="card-banner-0" class="active  news-banner-box   " role="tabpanel" aria-labelledby="mini-card-0">
+<div data-card-title="Art &amp; AI " data-card-desc="A TCS partnership for interactive and inclusive art" class="news-card-box text-linear-bg-left  align-items-sm-center align-items-end image-gradient-bg ">
+    
+  
+    
+    
+  
+
+
+    <div id="dynamicmedia_66617584" data-current-page="/content/tcs/global/en/home-page" data-page-locale="en" data-asset-path="TCSCOMprod/munch-museum" data-asset-name="munch-museum.png" data-asset-type="image" data-viewer-path="https://s7ap1.scene7.com/s7viewers/" data-imageserver="https://s7ap1.scene7.com/is/image/" data-videoserver="https://s7ap1.scene7.com/is/content/" data-contenturl="https://s7ap1.scene7.com/is/content/" data-wcmdisabled data-dms7 data-mode="smartcrop" data-alt="AI-powered immersive art experiences at the Munch Museum " class="s7dm-dynamic-media" data-custom-class="dynamic-media-image fit-cover" data-lazy-load>
+    </div>
+  
+
+  <div class="container">
+    <div class="news-content-box position-relative z-index-2 offset-lg-1">
+      
+      <h5 class="news-banner-title">AI-powered immersive art experiences at the Munch Museum </h5>
+      <div class="news-banner-button">
+      	
+        <a href="https://www.tcs.com/who-we-are/newsroom/press-release/munch-museum-partners-tcs-create-pioneering-immersive-ai-driven-drawing-experience" class="tcs-secondary-btn color-white tcs-card-click d-inline-block">Learn more
+        <span class="sr-only">&nbsp about &nbsp AI-powered immersive art experiences at the Munch Museum </span></a>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+                    
+                        <div id="card-banner-1" class="  news-banner-box   " role="tabpanel" aria-labelledby="mini-card-1">
+<div data-card-title=" TCS Pace " data-card-desc="Operationalize the disruptive potential of Gen AI " class="news-card-box text-linear-bg-left  align-items-sm-center align-items-end image-gradient-bg ">
+    
+  
+    
+    
+  
+
+
+    <div id="dynamicmedia_57361396" data-current-page="/content/tcs/global/en/home-page" data-page-locale="en" data-asset-path="TCSCOMprod/gen-ai-gives-rise-knowledge-driven-enterprise" data-asset-name="gen-ai-gives-rise-knowledge-driven-enterprise.jpg" data-asset-type="image" data-viewer-path="https://s7ap1.scene7.com/s7viewers/" data-imageserver="https://s7ap1.scene7.com/is/image/" data-videoserver="https://s7ap1.scene7.com/is/content/" data-contenturl="https://s7ap1.scene7.com/is/content/" data-wcmdisabled data-dms7 data-mode="smartcrop" data-alt="Gen AI gives rise to the knowledge-driven enterprise" class="s7dm-dynamic-media" data-custom-class="dynamic-media-image fit-cover" data-lazy-load>
+    </div>
+  
+
+  <div class="container">
+    <div class="news-content-box position-relative z-index-2 offset-lg-1">
+      
+      <h5 class="news-banner-title">Gen AI gives rise to the knowledge-driven enterprise</h5>
+      <div class="news-banner-button">
+      	
+        <a href="https://www.tcs.com/what-we-do/pace-innovation/article/genai-tools-knowledge-driven-enterprise" class="tcs-secondary-btn color-white tcs-card-click d-inline-block">Read more
+        <span class="sr-only">&nbsp about &nbsp Gen AI gives rise to the knowledge-driven enterprise</span></a>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+                    
+                        <div id="card-banner-2" class="  news-banner-box   " role="tabpanel" aria-labelledby="mini-card-2">
+<div data-card-title="TCS + AWS " data-card-desc="Responsible frameworks and PacePort innovation hubs" class="news-card-box text-linear-bg-left  align-items-sm-center align-items-end image-gradient-bg ">
+    
+  
+    
+    
+  
+
+
+    <div id="dynamicmedia_57388276" data-current-page="/content/tcs/global/en/home-page" data-page-locale="en" data-asset-path="TCSCOMprod/tcs-launches-new-gen-ai-practice" data-asset-name="tcs-launches-new-gen-ai-practice.jpg" data-asset-type="image" data-viewer-path="https://s7ap1.scene7.com/s7viewers/" data-imageserver="https://s7ap1.scene7.com/is/image/" data-videoserver="https://s7ap1.scene7.com/is/content/" data-contenturl="https://s7ap1.scene7.com/is/content/" data-wcmdisabled data-dms7 data-mode="smartcrop" data-alt="TCS launches new Gen AI practice in collaboration with Amazon Web Services" class="s7dm-dynamic-media" data-custom-class="dynamic-media-image fit-cover" data-lazy-load>
+    </div>
+  
+
+  <div class="container">
+    <div class="news-content-box position-relative z-index-2 offset-lg-1">
+      
+      <h5 class="news-banner-title">TCS launches new Gen AI practice in collaboration with Amazon Web Services</h5>
+      <div class="news-banner-button">
+      	
+        <a href="https://www.tcs.com/who-we-are/newsroom/press-release/tcs-launches-new-generative-ai-practice-partnership-with-aws" class="tcs-secondary-btn color-white tcs-card-click d-inline-block">Read more
+        <span class="sr-only">&nbsp about &nbsp TCS launches new Gen AI practice in collaboration with Amazon Web Services</span></a>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+                    
+                        <div id="card-banner-3" class="  news-banner-box   " role="tabpanel" aria-labelledby="mini-card-3">
+<div data-card-title="Healthcare &amp; AI" data-card-desc="Data-backed initiatives for improved health outcomes" class="news-card-box text-linear-bg-left  align-items-sm-center align-items-end image-gradient-bg ">
+    
+  
+    
+    
+  
+
+
+    <div id="dynamicmedia_61359986" data-current-page="/content/tcs/global/en/home-page" data-page-locale="en" data-asset-path="TCSCOMprod/ai-wellness-world-work" data-asset-name="ai-wellness-world-work.jpg" data-asset-type="image" data-viewer-path="https://s7ap1.scene7.com/s7viewers/" data-imageserver="https://s7ap1.scene7.com/is/image/" data-videoserver="https://s7ap1.scene7.com/is/content/" data-contenturl="https://s7ap1.scene7.com/is/content/" data-wcmdisabled data-dms7 data-mode="smartcrop" data-alt="AI and wellness in the world of work " class="s7dm-dynamic-media" data-custom-class="dynamic-media-image fit-cover" data-lazy-load>
+    </div>
+  
+
+  <div class="container">
+    <div class="news-content-box position-relative z-index-2 offset-lg-1">
+      
+      <h5 class="news-banner-title">AI and wellness in the world of work </h5>
+      <div class="news-banner-button">
+      	
+        <a href="https://www.tcs.com/who-we-are/tcs-way/article/employee-wellness-creating-future-workplace" class="tcs-secondary-btn color-white tcs-card-click d-inline-block">Read more
+        <span class="sr-only">&nbsp about &nbsp AI and wellness in the world of work </span></a>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+                    
+
                 </div>
             </div>
+
+
+            <div class="container position-relative col-lg-10 mx-auto px-lg-0">
+                <div class=" our-people-slider position-absolute swiper offset-lg-1">
+                    <div class="swiper-wrapper news-card-wrapper d-none d-xl-flex" data-wcmmode="false" role="tablist"></div>
+                    <div class="swiper-pagination news-swiper-pagination news-swiper-pagination-image position-absolute w-100"></div>
+
+                </div>
+            </div>
+            <div class="tcs-custom-container position-relative news-swiper-button col-lg-10 mx-auto">
+            <div class="our-people-slider-button-prev position-absolute z-index-2 rounded-circle ">
+                <span class="sr-only">Swipe Left</span>
+            </div>
+            <div class="our-people-slider-button-prev-lg position-absolute z-index-2 rounded-circle ">
+                <span class="sr-only">Swipe Left</span>
+            </div>
+            <div class="our-people-slider-button-next position-absolute z-index-2 rounded-circle ">
+                <span class="sr-only">Swipe Right</span>
+            </div>
+            <div class="our-people-slider-button-next-lg position-absolute z-index-2 rounded-circle ">
+                <span class="sr-only">Swipe Right</span>
+            </div>
+            </div>
+        </div>
         </section>
-    </main>
-    <footer class="no-js" lang="en-IN" id="ac-globalfooter" data-analytics-region="global footer" role="contentinfo" aria-labelledby="ac-gf-label">
-        <div class="ac-gf-content">
-            <h2 class="ac-gf-label" id="ac-gf-label">Apple Footer</h2>
-            <section class="ac-gf-sosumi" aria-label="Footnotes">
+    
 
-                <ul>
+
+
+
+
+
+
+
+
+
+</div>
+<div class="storiesSection aem-GridColumn aem-GridColumn--default--12">
+
+<div class="story-section-padding" data-wcmmode="DISABLED">
+	<section class="text-image-banner-section publish-height">
+		<div class=" text-bg-image-banner w-100 bg-image 
+		 position-relative image-gradient-bg text-linear-bg-left left-image-gradient-bg position-left-bg-image">
+			
+  
+    
+    
+  
+
+
+    <div id="dynamicmedia_261129939" data-current-page="/content/tcs/global/en/home-page" data-page-locale="en" data-asset-path="TCSCOMprod/who-we-are-story-home" data-asset-name="who-we-are-story-home.jpg" data-asset-type="image" data-viewer-path="https://s7ap1.scene7.com/s7viewers/" data-imageserver="https://s7ap1.scene7.com/is/image/" data-videoserver="https://s7ap1.scene7.com/is/content/" data-contenturl="https://s7ap1.scene7.com/is/content/" data-wcmdisabled data-dms7 data-mode="smartcrop" data-alt="Who we are" class="s7dm-dynamic-media" data-custom-class="dynamic-media-image fit-cover" data-lazy-load>
+    </div>
+  
+
+			<div class="container-fluid tcs-custom-container px-0">
+				<div class="row" data-dl-title="Who we are">
+					<div class="col-12 col-md-3 col-lg-3 col-xl-5 z-index-2 d-none d-md-block"></div>
+					<div class="col-11 col-md-9 col-lg-9  col-xl-7 z-index-2 mobile-view-padding-0">
+						<div class="text-image-banner-content-div">
+							<div>
+								<h2 class="text-image-banner-heading text-uppercase">Who we are</h2>
+								<h3 class="text-image-banner-title">We build greater futures through innovation and collective knowledge. </h3>
+								<div class="text-image-banner-rte-description rte-links-div"><p><p>TCS is an IT services, consulting and business solutions organization that has been partnering with many of the world’s largest businesses in their transformation journeys for over 50 years. </p>
+</p></div>
+								
+								<div class="position-relative banner-cta-margin">
+									<a class="text-image-banner-cta-link cta-link-focus tcs-section-click" href="https://www.tcs.com/who-we-are">Get to know us</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>	
+	</section>
+</div></div>
+<div class="solutionCard aem-GridColumn aem-GridColumn--default--12">
+
+
+
+
+
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    <div>
+    <section class="solution-card-main-section  " data-dl-title="Belief in action">
+        <div class="container-fluid tcs-custom-container px-0 overflow-hidden-large-screen">        
+            <div class="row">
+                <div class="col-12">
+                    <h2 class="solution-card-section-title ">Belief in action</h2>
+                    
+                        <div class="position-relative">
+                            <div class="swiper swiper-container solution-card-swiper-container   solution-cards-swiper-container-width-4cards ">
+                                <div class="swiper-wrapper solution-card-wrapper">
+                                    
+                                        
+                                        <div class="swiper-slide solution-card-swiper-slide">
+	                                        
+		                                        <a href="https://www.tcs.com/what-we-do/industries/energy-resources-utilities/case-study/nwc-erp-platform-transformation-supply-chain" class="d-block card solution-card-swiper-card border-0 h-100 tcs-card-click tcs-section-click cta-link-focus"> 
+			                                            <div class="w-100 h-100 position-relative text-linear-bg-left" aria-hidden="true">
+                                                    
+  
+    
+    
+  
+
+
+    <div id="dynamicmedia_93892419" data-current-page="/content/tcs/global/en/home-page" data-page-locale="en" data-asset-path="TCSCOMprod/nwc-erp-platform-transformation-supply-card-1" data-asset-name="nwc-erp-platform-transformation-supply-card.jpg" data-asset-type="image" data-viewer-path="https://s7ap1.scene7.com/s7viewers/" data-imageserver="https://s7ap1.scene7.com/is/image/" data-videoserver="https://s7ap1.scene7.com/is/content/" data-contenturl="https://s7ap1.scene7.com/is/content/" data-wcmdisabled data-dms7 data-mode="smartcrop" data-alt="Saudi Arabia’s National Water Company consolidates and transforms comprehensively " class="s7dm-dynamic-media" data-custom-class="solution-card-img dynamic-media-image" data-lazy-load>
+    </div>
+  
+
+                                                  </div>
+			                                            <div class="solution-card-inner-section position-absolute   text-left ">
+			                                                <div class="solution-card-inner-content-div">
+			                                                    
+			                                                    
+			                                                        <h3 class="solution-card-inner-heading-text color-white inner-heading-medium-text">A new, nimble NWC</h3>
+			                                                    
+			                                                    <p class="solution-card-inner-description color-white">Saudi Arabia’s National Water Company consolidates and transforms comprehensively </p>
+			                                                    <span class="solution-card-read-more-text read-more-cta text-uppercase position-relative pl-4 read-more-icon">Read more</span>
+                                                                
+			                                                </div>
+			                                            </div>
+		                                        </a>
+		                                    
+                                        </div>
+                                    
+                                        
+                                        <div class="swiper-slide solution-card-swiper-slide">
+	                                        
+		                                        <a href="https://www.tcs.com/what-we-do/industries/insurance/case-study/reimagining-client-experience-conversational-ai" class="d-block card solution-card-swiper-card border-0 h-100 tcs-card-click tcs-section-click cta-link-focus"> 
+			                                            <div class="w-100 h-100 position-relative text-linear-bg-left" aria-hidden="true">
+                                                    
+  
+    
+    
+  
+
+
+    <div id="dynamicmedia_28352738" data-current-page="/content/tcs/global/en/home-page" data-page-locale="en" data-asset-path="TCSCOMprod/ai-hero-2" data-asset-name="ai-hero.jpg" data-asset-type="image" data-viewer-path="https://s7ap1.scene7.com/s7viewers/" data-imageserver="https://s7ap1.scene7.com/is/image/" data-videoserver="https://s7ap1.scene7.com/is/content/" data-contenturl="https://s7ap1.scene7.com/is/content/" data-wcmdisabled data-dms7 data-mode="smartcrop" data-alt="Gaining Momentum with AI" class="s7dm-dynamic-media" data-custom-class="solution-card-img dynamic-media-image" data-lazy-load>
+    </div>
+  
+
+                                                  </div>
+			                                            <div class="solution-card-inner-section position-absolute   text-left ">
+			                                                <div class="solution-card-inner-content-div">
+			                                                    
+			                                                    
+			                                                        <h3 class="solution-card-inner-heading-text color-white inner-heading-medium-text">Gaining Momentum with AI</h3>
+			                                                    
+			                                                    <p class="solution-card-inner-description color-white">South-African insurer Momentum Metropolitan delivers chatbot service automation and better CX</p>
+			                                                    <span class="solution-card-read-more-text read-more-cta text-uppercase position-relative pl-4 read-more-icon">Read more</span>
+                                                                
+			                                                </div>
+			                                            </div>
+		                                        </a>
+		                                    
+                                        </div>
+                                    
+                                        
+                                        <div class="swiper-slide solution-card-swiper-slide">
+	                                        
+		                                        <a href="https://www.tcs.com/what-we-do/services/iot-digital-engineering/case-study/kautex-accelerates-digitalization-sustainable-mobility" class="d-block card solution-card-swiper-card border-0 h-100 tcs-card-click tcs-section-click cta-link-focus"> 
+			                                            <div class="w-100 h-100 position-relative text-linear-bg-left" aria-hidden="true">
+                                                    
+  
+    
+    
+  
+
+
+    <div id="dynamicmedia_24872164" data-current-page="/content/tcs/global/en/home-page" data-page-locale="en" data-asset-path="TCSCOMprod/kautex-accelerates-digitalization-sustainable-mobility-card" data-asset-name="kautex-accelerates-digitalization-sustainable-mobility-card.jpg" data-asset-type="image" data-viewer-path="https://s7ap1.scene7.com/s7viewers/" data-imageserver="https://s7ap1.scene7.com/is/image/" data-videoserver="https://s7ap1.scene7.com/is/content/" data-contenturl="https://s7ap1.scene7.com/is/content/" data-wcmdisabled data-dms7 data-mode="smartcrop" data-alt="German automotive supplier develops end-to-end software capability" class="s7dm-dynamic-media" data-custom-class="solution-card-img dynamic-media-image" data-lazy-load>
+    </div>
+  
+
+                                                  </div>
+			                                            <div class="solution-card-inner-section position-absolute   text-left ">
+			                                                <div class="solution-card-inner-content-div">
+			                                                    
+			                                                    
+			                                                        <h3 class="solution-card-inner-heading-text color-white inner-heading-medium-text">Kautex kickstarts automation</h3>
+			                                                    
+			                                                    <p class="solution-card-inner-description color-white">German automotive supplier develops end-to-end software capability</p>
+			                                                    <span class="solution-card-read-more-text read-more-cta text-uppercase position-relative pl-4 read-more-icon">Read more</span>
+                                                                
+			                                                </div>
+			                                            </div>
+		                                        </a>
+		                                    
+                                        </div>
+                                    
+                                        
+                                        <div class="swiper-slide solution-card-swiper-slide">
+	                                        
+		                                        <a href="https://www.tcs.com/what-we-do/industries/retail/case-study/colruyts-algorithmic-pricing-advantage" class="d-block card solution-card-swiper-card border-0 h-100 tcs-card-click tcs-section-click cta-link-focus"> 
+			                                            <div class="w-100 h-100 position-relative text-linear-bg-left" aria-hidden="true">
+                                                    
+  
+    
+    
+  
+
+
+    <div id="dynamicmedia_24233956" data-current-page="/content/tcs/global/en/home-page" data-page-locale="en" data-asset-path="TCSCOMprod/colruyt-algo-pricing-1" data-asset-name="colruyt-algo-pricing.jpg" data-asset-type="image" data-viewer-path="https://s7ap1.scene7.com/s7viewers/" data-imageserver="https://s7ap1.scene7.com/is/image/" data-videoserver="https://s7ap1.scene7.com/is/content/" data-contenturl="https://s7ap1.scene7.com/is/content/" data-wcmdisabled data-dms7 data-mode="smartcrop" data-alt="retail" class="s7dm-dynamic-media" data-custom-class="solution-card-img dynamic-media-image" data-lazy-load>
+    </div>
+  
+
+                                                  </div>
+			                                            <div class="solution-card-inner-section position-absolute   text-left ">
+			                                                <div class="solution-card-inner-content-div">
+			                                                    
+			                                                    
+			                                                        <h3 class="solution-card-inner-heading-text color-white inner-heading-medium-text">Colruyt&#39;s retail revitalized</h3>
+			                                                    
+			                                                    <p class="solution-card-inner-description color-white">TCS helps deliver on brand promise with next-gen pricing engine</p>
+			                                                    <span class="solution-card-read-more-text read-more-cta text-uppercase position-relative pl-4 read-more-icon">Read more</span>
+                                                                
+			                                                </div>
+			                                            </div>
+		                                        </a>
+		                                    
+                                        </div>
+                                    
+                                        
+                                        <div class="swiper-slide solution-card-swiper-slide">
+	                                        
+		                                        <a href="https://www.tcs.com/what-we-do/pace-innovation/case-study/takeda-digital-transformation-innovation-at-scale" class="d-block card solution-card-swiper-card border-0 h-100 tcs-card-click tcs-section-click cta-link-focus"> 
+			                                            <div class="w-100 h-100 position-relative text-linear-bg-left" aria-hidden="true">
+                                                    
+  
+    
+    
+  
+
+
+    <div id="dynamicmedia_94489282" data-current-page="/content/tcs/global/en/home-page" data-page-locale="en" data-asset-path="TCSCOMprod/takeda-Card-1330x1270-1" data-asset-name="takeda-Card-1330x1270.jpg" data-asset-type="image" data-viewer-path="https://s7ap1.scene7.com/s7viewers/" data-imageserver="https://s7ap1.scene7.com/is/image/" data-videoserver="https://s7ap1.scene7.com/is/content/" data-contenturl="https://s7ap1.scene7.com/is/content/" data-wcmdisabled data-dms7 data-mode="smartcrop" data-alt="takeda" class="s7dm-dynamic-media" data-custom-class="solution-card-img dynamic-media-image" data-lazy-load>
+    </div>
+  
+
+                                                  </div>
+			                                            <div class="solution-card-inner-section position-absolute   text-left ">
+			                                                <div class="solution-card-inner-content-div">
+			                                                    
+			                                                    
+			                                                        <h3 class="solution-card-inner-heading-text color-white inner-heading-medium-text">Tackling Takeda&#39;s revamp</h3>
+			                                                    
+			                                                    <p class="solution-card-inner-description color-white">Progressive pharma for patients, providers, payers</p>
+			                                                    <span class="solution-card-read-more-text read-more-cta text-uppercase position-relative pl-4 read-more-icon">Read more</span>
+                                                                
+			                                                </div>
+			                                            </div>
+		                                        </a>
+		                                    
+                                        </div>
+                                                            
+                                </div>
+                                <div class="swiper-button-prev solution-swiper-pagination-btn solution-card-swiper-button-prev ">
+                                    <i class="arrow-icon"><span class="sr-only">Swipe Left</span></i>
+                                </div>
+                                <div class="swiper-button-next solution-swiper-pagination-btn solution-card-swiper-button-next ">
+                                    <i class="arrow-icon"><span class="sr-only">Swipe Right</span></i>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    
+                </div>
+            </div>
+        </div>
+    </section>
+    </div>
+
+</div>
+<div class="storiesSection aem-GridColumn aem-GridColumn--default--12">
+
+<div class="story-section-padding" data-wcmmode="DISABLED">
+	<section class="text-image-banner-section publish-height">
+		<div class=" text-bg-image-banner w-100 bg-image 
+		 position-relative image-gradient-bg text-linear-bg-right right-image-gradient-bg position-right-bg-image">
+			
+  
+    
+    
+  
+
+
+    <div id="dynamicmedia_122728149" data-current-page="/content/tcs/global/en/home-page" data-page-locale="en" data-asset-path="TCSCOMprod/what-we-do-story-home" data-asset-name="what-we-do-story-home.jpg" data-asset-type="image" data-viewer-path="https://s7ap1.scene7.com/s7viewers/" data-imageserver="https://s7ap1.scene7.com/is/image/" data-videoserver="https://s7ap1.scene7.com/is/content/" data-contenturl="https://s7ap1.scene7.com/is/content/" data-wcmdisabled data-dms7 data-mode="smartcrop" data-alt="What we do" class="s7dm-dynamic-media" data-custom-class="dynamic-media-image fit-cover" data-lazy-load>
+    </div>
+  
+
+			<div class="container-fluid tcs-custom-container px-0">
+				<div class="row" data-dl-title="What we do">
+					<div class="col-12 col-md-3 col-lg-3 col-xl-5 z-index-2 d-none d-xl-none"></div>
+					<div class="col-11 col-md-9 col-lg-9  col-xl-7 z-index-2 mobile-view-padding-0">
+						<div class="text-image-banner-content-div">
+							<div>
+								<h2 class="text-image-banner-heading text-uppercase">What we do</h2>
+								<h3 class="text-image-banner-title">TCS transforms businesses through technology.</h3>
+								<div class="text-image-banner-rte-description rte-links-div"><p><p>We help businesses successfully navigate digital transformation and drive real growth, drawing on the combined power of experience and contextual knowledge, across a vast ecosystem of expertise.</p>
+</p></div>
+								
+								<div class="position-relative banner-cta-margin">
+									<a class="text-image-banner-cta-link cta-link-focus tcs-section-click" href="https://www.tcs.com/what-we-do">Get to know us</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>	
+	</section>
+</div></div>
+<div class="rowContainer aem-GridColumn--default--none aem-GridColumn aem-GridColumn--default--12 aem-GridColumn--offset--default--0">
+
+  
+  
+    
+  
+
+
+  
+  
+    
+  
+
+
+  
+  
+    <div class="container px-lg-0  px-0 false ">
+      <div class="row mx-0 custom-container px-0  ">
+        
+          <div class="w-100 px-0
+          px-0
+          ">
+
+
+<div class="aem-Grid aem-Grid--0 ">
+    
+    
+    
+</div>
+</div>
+        
+      </div>
+    </div>
+  
+
+
+
+</div>
+<div class="footerCTA aem-GridColumn aem-GridColumn--default--12">
+
+
+</div>
+<div class="experiencefragment aem-GridColumn aem-GridColumn--default--12">
+<div id="experiencefragment-dd48c931ac" class="cmp-experiencefragment cmp-experiencefragment--sticky-nav-contact-us">
+
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="responsivegrid aem-GridColumn aem-GridColumn--default--12">
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="stickyContactUs aem-GridColumn aem-GridColumn--default--12">
+
+
+<section class="sticky-contact-us">
+    <div id="sticky-outer-wrapper">
+        <div class="contact-sticky  published_height">
+            <a href="javascript:void(0);" class="contact-sticky-icon position-relative" role="button">Contact</a>
+            <span class="tooltiptext position-absolute text-center d-none">Contact</span>
+            <span class="sr-only">Press Enter to open an overlay</span>
+        </div>
+    </div>
+</section>
+
+<!-- overlay -->
+
+<div class="page-overlay-welcomepage d-none w-100 h-100" role="dialog" aria-labelledby="What’s on your mind?">
+    <section class="welcome-page-overlay-wrapper position-relative w-100 published_height">
+        <div class="form-close-button justify-content-between px-4 py-3 py-md-4 flex-row w-100 float-right">
+            <button type="button" class="form-right-icon overlay-close-welcomepage d-flex justify-content-center align-items-center position-relative float-right">
+                <span class="close-icon"><span class="sr-only">close</span></span>
+            </button>
+        </div>
+        <div class="row" data-dl-title="What’s on your mind?">
+            <div class="container welcome-form-page mx-auto px-4 col-lg-10 col-md-11 col-sm-11 col-11 h-100">
+                <div class="row mb-4">
+                    <div class="welcome-main-heading col-lg-7 col-md-12 pb-4" role="heading" aria-level="2">
+                        What’s on your mind?
+                    </div>
+                    <div class="welcome-sub-heading col-lg-5 col-md-12 pt-lg-4">
+                        We’re here to help! Tell us what you’re looking for and we’ll get you connected to the right people.
+                    </div>
+                </div>
                 
-               <li id="footnote-1">*Instant savings, otherwise referred to as instant cashback, is available with the purchase of an eligible product for qualifying HDFC Bank Credit Cards and EasyEMI Credit Cards only. Minimum transaction value of ₹10001.00 applies. <a href="/in/shop/ways-to-buy">Click here </a> to see instant savings amounts and eligible devices. Instant savings is available for up to two orders per rolling 90-day period with an eligible card. Card eligibility is subject to terms and conditions between you and your card-issuing bank. Total transaction value is calculated after any trade-in credit or eligible discount applied. Any subsequent order adjustment(s) or cancellation(s) may result in instant savings being recalculated, and any refund may be adjusted to account for instant savings clawback; this may result in no refund being made to you. Offer may be revised or withdrawn at any time without any prior notice. <a href="/in/shop/browse/financing/terms"> Additional terms apply</a>. Offer cannot be combined with Apple Store for Education or Corporate Employee Purchase Plan pricing. Multiple separate orders cannot be combined for instant&nbsp;savings.</li>
-            	<li id="footnote-2">‡No Cost EMI is available with the purchase of an <a href="/in/shop/ways-to-buy">eligible product</a> made using eligible cards on 3- or 6-month tenures from most leading banks. Monthly pricing is rounded to the nearest rupee. Exact pricing will be provided by your bank, subject to your bank’s terms and conditions. Minimum order spend applies as per your card-issuing bank threshold. Offer cannot be combined with Apple Store for Education or Corporate Employee Purchase Plan pricing. Card eligibility is subject to terms and conditions between you and your card-issuing bank. Offer may be revised or withdrawn at any time without any prior notice. <a href="/in/shop/browse/financing/terms"> Additional terms apply</a>.</li>
-               <li>Representative example: Based on a 6-month tenure. ₹79900.00 total cost includes 15% p.a. and No Cost EMI savings of ₹3380.00, paid over 6 months as six monthly payments of ₹13317.00.</li>
-               
-              <li>A subscription is required for Apple&nbsp;TV+.</li>
-            </ul>
-            </section>
-            
-    	<nav class="ac-gf-directory with-5-columns" aria-label="Apple Directory" role="navigation">
-		<!--googleoff: all-->
-		<div class="ac-gf-directory-column">
-			<div class="ac-gf-directory-column-section">
-				<h3 class="ac-gf-directory-column-section-title">
-					<span class="ac-gf-directory-column-section-title-text">Shop and Learn</span>
-					<button class="ac-gf-directory-column-section-title-button" disabled>
-						<span class="ac-gf-directory-column-section-title-text">Shop and Learn</span>
-						<span class="ac-gf-directory-column-section-title-icon" aria-hidden="true"></span>
-					</button>
-				</h3>
-				<ul id="footer-directory-column-section-products" class="ac-gf-directory-column-section-list" role="list">
-					<li class="ac-gf-directory-column-section-item" role="listitem"><a class="ac-gf-directory-column-section-link" href="/in/shop/goto/store" data-analytics-title="store">Store</a></li>
-					<li class="ac-gf-directory-column-section-item" role="listitem"><a class="ac-gf-directory-column-section-link" href="/in/mac/" data-analytics-title="mac">Mac</a></li>
-					<li class="ac-gf-directory-column-section-item" role="listitem"><a class="ac-gf-directory-column-section-link" href="/in/ipad/" data-analytics-title="ipad">iPad</a></li>
-					<li class="ac-gf-directory-column-section-item" role="listitem"><a class="ac-gf-directory-column-section-link" href="/in/iphone/" data-analytics-title="iphone">iPhone</a></li>
-					<li class="ac-gf-directory-column-section-item" role="listitem"><a class="ac-gf-directory-column-section-link" href="/in/watch/" data-analytics-title="watch">Watch</a></li>
-					<li class="ac-gf-directory-column-section-item" role="listitem"><a class="ac-gf-directory-column-section-link" href="/in/airpods/" data-analytics-title="airpods">AirPods</a></li>
-					<li class="ac-gf-directory-column-section-item" role="listitem"><a class="ac-gf-directory-column-section-link" href="/in/tv-home/" data-analytics-title="tv and home">TV &amp; Home</a></li>
-					<li class="ac-gf-directory-column-section-item" role="listitem"><a class="ac-gf-directory-column-section-link" href="/in/airtag/" data-analytics-title="airtag">AirTag</a></li>
-					<li class="ac-gf-directory-column-section-item" role="listitem"><a class="ac-gf-directory-column-section-link" href="/in/shop/goto/buy_accessories" data-analytics-title="accessories">Accessories</a></li>
-					<li class="ac-gf-directory-column-section-item" role="listitem"><a class="ac-gf-directory-column-section-link" href="/in/shop/goto/giftcards" data-analytics-title="gift cards">Gift Cards</a></li>
-				</ul>
-			</div>
-			<div class="ac-gf-directory-column-section">
-				<h3 class="ac-gf-directory-column-section-title">
-					<span class="ac-gf-directory-column-section-title-text">Apple Wallet</span>
-					<button class="ac-gf-directory-column-section-title-button" disabled>
-						<span class="ac-gf-directory-column-section-title-text">Apple Wallet</span>
-						<span class="ac-gf-directory-column-section-title-icon" aria-hidden="true"></span>
-					</button>
-				</h3>
-				<ul id="footer-directory-column-section-applewallet" class="ac-gf-directory-column-section-list" role="list">
-					<li class="ac-gf-directory-column-section-item" role="listitem"><a class="ac-gf-directory-column-section-link" href="/in/wallet/" data-analytics-title="wallet">Wallet</a></li>
-				</ul>
-			</div>
-		</div>
-		<div class="ac-gf-directory-column">
-			<div class="ac-gf-directory-column-section">
-				<h3 class="ac-gf-directory-column-section-title">
-					<span class="ac-gf-directory-column-section-title-text">Account</span>
-					<button class="ac-gf-directory-column-section-title-button" disabled>
-						<span class="ac-gf-directory-column-section-title-text">Account</span>
-						<span class="ac-gf-directory-column-section-title-icon" aria-hidden="true"></span>
-					</button>
-				</h3>
-				<ul id="footer-directory-column-section-accounts" class="ac-gf-directory-column-section-list" role="list">
-					<li class="ac-gf-directory-column-section-item" role="listitem"><a class="ac-gf-directory-column-section-link" href="https://appleid.apple.com/in/" data-analytics-title="manage your apple id" data-analytics-exit-link>Manage Your Apple ID</a></li>
-					<li class="ac-gf-directory-column-section-item" role="listitem"><a class="ac-gf-directory-column-section-link" href="/in/shop/goto/account" data-analytics-title="apple store account">Apple Store Account</a></li>
-					<li class="ac-gf-directory-column-section-item" role="listitem"><a class="ac-gf-directory-column-section-link" href="https://www.icloud.com" data-analytics-title="icloud.com" data-analytics-exit-link>iCloud.com</a></li>
-				</ul>
-			</div>
-			<div class="ac-gf-directory-column-section">
-				<h3 class="ac-gf-directory-column-section-title">
-					<span class="ac-gf-directory-column-section-title-text">Entertainment</span>
-					<button class="ac-gf-directory-column-section-title-button" disabled>
-						<span class="ac-gf-directory-column-section-title-text">Entertainment</span>
-						<span class="ac-gf-directory-column-section-title-icon" aria-hidden="true"></span>
-					</button>
-				</h3>
-				<ul id="footer-directory-column-section-entertainment" class="ac-gf-directory-column-section-list" role="list">
-					<li class="ac-gf-directory-column-section-item" role="listitem"><a class="ac-gf-directory-column-section-link" href="/in/apple-one/" data-analytics-title="apple one">Apple One</a></li>
-					<li class="ac-gf-directory-column-section-item" role="listitem"><a class="ac-gf-directory-column-section-link" href="/in/apple-tv-plus/" data-analytics-title="apple tv plus">Apple TV+</a></li>
-					<li class="ac-gf-directory-column-section-item" role="listitem"><a class="ac-gf-directory-column-section-link" href="/in/apple-music/" data-analytics-title="apple music">Apple Music</a></li>
-					<li class="ac-gf-directory-column-section-item" role="listitem"><a class="ac-gf-directory-column-section-link" href="/in/apple-arcade/" data-analytics-title="apple arcade">Apple Arcade</a></li>
-					<li class="ac-gf-directory-column-section-item" role="listitem"><a class="ac-gf-directory-column-section-link" href="/in/apple-podcasts/" data-analytics-title="apple podcasts">Apple Podcasts</a></li>
-					<li class="ac-gf-directory-column-section-item" role="listitem"><a class="ac-gf-directory-column-section-link" href="/in/apple-books/" data-analytics-title="apple books">Apple Books</a></li>
-					<li class="ac-gf-directory-column-section-item" role="listitem"><a class="ac-gf-directory-column-section-link" href="/in/app-store/" data-analytics-title="app store">App Store</a></li>
-				</ul>
-			</div>
-		</div>
-		<div class="ac-gf-directory-column">
-			<div class="ac-gf-directory-column-section">
-				<h3 class="ac-gf-directory-column-section-title">
-					<span class="ac-gf-directory-column-section-title-text">Apple Store</span>
-					<button class="ac-gf-directory-column-section-title-button" disabled>
-						<span class="ac-gf-directory-column-section-title-text">Apple Store</span>
-						<span class="ac-gf-directory-column-section-title-icon" aria-hidden="true"></span>
-					</button>
-				</h3>
-				<ul id="footer-directory-column-section-storeservices" class="ac-gf-directory-column-section-list" role="list">
-					<li class="ac-gf-directory-column-section-item" role="listitem"><a class="ac-gf-directory-column-section-link" href="/in/retail/" data-analytics-title="find a store">Find a Store</a></li>
-					<li class="ac-gf-directory-column-section-item" role="listitem"><a class="ac-gf-directory-column-section-link" href="/in/retail/geniusbar/" data-analytics-title="genius bar">Genius Bar</a></li>
-					<li class="ac-gf-directory-column-section-item" role="listitem"><a class="ac-gf-directory-column-section-link" href="/in/today/" data-analytics-title="today at apple">Today at Apple</a></li>
-					<li class="ac-gf-directory-column-section-item" role="listitem"><a class="ac-gf-directory-column-section-link" href="/in/today/camp/" data-analytics-title="apple camp">Apple Camp</a></li>
-					<li class="ac-gf-directory-column-section-item" role="listitem"><a class="ac-gf-directory-column-section-link" href="/in/shop/goto/trade_in" data-analytics-title="apple trade in">Apple Trade In</a></li>
-					<li class="ac-gf-directory-column-section-item" role="listitem"><a class="ac-gf-directory-column-section-link" href="/in/shop/goto/ways_to_buy" data-analytics-title="financing">Ways to Buy</a></li>
-					<li class="ac-gf-directory-column-section-item" role="listitem"><a class="ac-gf-directory-column-section-link" href="/in/recycling/" data-analytics-title="recycling">Recycling Programme</a></li>
-					<li class="ac-gf-directory-column-section-item" role="listitem"><a class="ac-gf-directory-column-section-link" href="/in/shop/goto/order/list" data-analytics-title="order status">Order Status</a></li>
-					<li class="ac-gf-directory-column-section-item" role="listitem"><a class="ac-gf-directory-column-section-link" href="/in/shop/goto/help" data-analytics-title="shopping help">Shopping Help</a></li>
-				</ul>
-			</div>
-		</div>
-		<div class="ac-gf-directory-column">
-			<div class="ac-gf-directory-column-section">
-				<h3 class="ac-gf-directory-column-section-title">
-					<span class="ac-gf-directory-column-section-title-text">For Business</span>
-					<button class="ac-gf-directory-column-section-title-button" disabled>
-						<span class="ac-gf-directory-column-section-title-text">For Business</span>
-						<span class="ac-gf-directory-column-section-title-icon" aria-hidden="true"></span>
-					</button>
-				</h3>
-				<ul id="footer-directory-column-section-business" class="ac-gf-directory-column-section-list" role="list">
-					<li class="ac-gf-directory-column-section-item" role="listitem"><a class="ac-gf-directory-column-section-link" href="/in/business/" data-analytics-title="apple and business">Apple and Business</a></li>
-					<li class="ac-gf-directory-column-section-item" role="listitem"><a class="ac-gf-directory-column-section-link" href="/in/retail/business/" data-analytics-title="shop for business">Shop for Business</a></li>
-				</ul>
-			</div>
-			<div class="ac-gf-directory-column-section">
-				<h3 class="ac-gf-directory-column-section-title">
-					<span class="ac-gf-directory-column-section-title-text">For Education</span>
-					<button class="ac-gf-directory-column-section-title-button" disabled>
-						<span class="ac-gf-directory-column-section-title-text">For Education</span>
-						<span class="ac-gf-directory-column-section-title-icon" aria-hidden="true"></span>
-					</button>
-				</h3>
-				<ul id="footer-directory-column-section-education" class="ac-gf-directory-column-section-list" role="list">
-					<li class="ac-gf-directory-column-section-item" role="listitem"><a class="ac-gf-directory-column-section-link" href="/in/education/" data-analytics-title="apple and education">Apple and Education</a></li>
-					<li class="ac-gf-directory-column-section-item" role="listitem"><a class="ac-gf-directory-column-section-link" href="/in/education/k12/how-to-buy/" data-analytics-title="shop for k12">Shop for Education</a></li>
-					<li class="ac-gf-directory-column-section-item" role="listitem"><a class="ac-gf-directory-column-section-link" href="/in/shop/goto/educationrouting" data-analytics-title="shop for university">Shop for University</a></li>
-				</ul>
-			</div>
-			<div class="ac-gf-directory-column-section">
-				<h3 class="ac-gf-directory-column-section-title">
-					<span class="ac-gf-directory-column-section-title-text">For Healthcare</span>
-					<button class="ac-gf-directory-column-section-title-button" disabled>
-						<span class="ac-gf-directory-column-section-title-text">For Healthcare</span>
-						<span class="ac-gf-directory-column-section-title-icon" aria-hidden="true"></span>
-					</button>
-				</h3>
-				<ul id="footer-directory-column-section-healthcare" class="ac-gf-directory-column-section-list" role="list">
-					<li class="ac-gf-directory-column-section-item" role="listitem"><a class="ac-gf-directory-column-section-link" href="/in/healthcare/" data-analytics-title="apple in healthcare">Apple in Healthcare</a></li>
-					<li class="ac-gf-directory-column-section-item" role="listitem"><a class="ac-gf-directory-column-section-link" href="/in/healthcare/apple-watch/" data-analytics-title="health on apple watch">Health on Apple Watch</a></li>
-				</ul>
-			</div>
-		</div>
-		<div class="ac-gf-directory-column">
-			<div class="ac-gf-directory-column-section">
-				<h3 class="ac-gf-directory-column-section-title">
-					<span class="ac-gf-directory-column-section-title-text">Apple Values</span>
-					<button class="ac-gf-directory-column-section-title-button" disabled>
-						<span class="ac-gf-directory-column-section-title-text">Apple Values</span>
-						<span class="ac-gf-directory-column-section-title-icon" aria-hidden="true"></span>
-					</button>
-				</h3>
-				<ul id="footer-directory-column-section-responsibility" class="ac-gf-directory-column-section-list" role="list">
-					<li class="ac-gf-directory-column-section-item" role="listitem"><a class="ac-gf-directory-column-section-link" href="/in/accessibility/" data-analytics-title="accessibility">Accessibility</a></li>
-					<li class="ac-gf-directory-column-section-item" role="listitem"><a class="ac-gf-directory-column-section-link" href="/in/education-initiative/" data-analytics-title="education">Education</a></li>
-					<li class="ac-gf-directory-column-section-item" role="listitem"><a class="ac-gf-directory-column-section-link" href="/in/environment/" data-analytics-title="environment">Environment</a></li>
-					<li class="ac-gf-directory-column-section-item" role="listitem"><a class="ac-gf-directory-column-section-link" href="/in/privacy/" data-analytics-title="privacy">Privacy</a></li>
-					<li class="ac-gf-directory-column-section-item" role="listitem"><a class="ac-gf-directory-column-section-link" href="/in/supplier-responsibility/" data-analytics-title="supplier responsibility">Supplier Responsibility</a></li>
-				</ul>
-			</div>
-			<div class="ac-gf-directory-column-section">
-				<h3 class="ac-gf-directory-column-section-title">
-					<span class="ac-gf-directory-column-section-title-text">About Apple</span>
-					<button class="ac-gf-directory-column-section-title-button" disabled>
-						<span class="ac-gf-directory-column-section-title-text">About Apple</span>
-						<span class="ac-gf-directory-column-section-title-icon" aria-hidden="true"></span>
-					</button>
-				</h3>
-				<ul id="footer-directory-column-section-about" class="ac-gf-directory-column-section-list" role="list">
-					<li class="ac-gf-directory-column-section-item" role="listitem"><a class="ac-gf-directory-column-section-link" href="/in/newsroom/" data-analytics-title="newsroom">Newsroom</a></li>
-					<li class="ac-gf-directory-column-section-item" role="listitem"><a class="ac-gf-directory-column-section-link" href="/in/leadership/" data-analytics-title="apple leadership">Apple Leadership</a></li>
-					<li class="ac-gf-directory-column-section-item" role="listitem"><a class="ac-gf-directory-column-section-link" href="/careers/in/" data-analytics-title="career opportunities">Career Opportunities</a></li>
-					<li class="ac-gf-directory-column-section-item" role="listitem"><a class="ac-gf-directory-column-section-link" href="https://investor.apple.com/" data-analytics-title="investors" data-analytics-exit-link>Investors</a></li>
-					<li class="ac-gf-directory-column-section-item" role="listitem"><a class="ac-gf-directory-column-section-link" href="/compliance/" data-analytics-title="ethics and compliance">Ethics &amp; Compliance</a></li>
-					<li class="ac-gf-directory-column-section-item" role="listitem"><a class="ac-gf-directory-column-section-link" href="/in/apple-events/" data-analytics-title="events">Events</a></li>
-					<li class="ac-gf-directory-column-section-item" role="listitem"><a class="ac-gf-directory-column-section-link" href="/in/contact/" data-analytics-title="contact apple">Contact Apple</a></li>
-				</ul>
-			</div>
-		</div>
-		<!--googleon: all-->
-	</nav>
+                    
+                        <div class="row">
+                            
+                                <div class="col-lg-4 col-md-12 col-sm-12 pb-4 box-model-outer">
+                                    <a href="https://www.tcs.com/contact-us/whats-on-your-mind/global-contact-us" class="tcs-section-click">
+                                        <div class="box-model text-center">
+                                            <div class="box-icon vector-business mb-2">
+                                                <div class="heading-icon boxmodel-image business-icon">
+                                                </div>
+                                            </div>
+                                            <div class="boxtext">Request for Services</div>
+                                        </div>
+                                    </a>
+                                </div>
+                            
+                                <div class="col-lg-4 col-md-12 col-sm-12 pb-4 box-model-outer">
+                                    
+                                        <div class="box-model text-center">
+                                            <div class="box-icon vector-business mb-2">
+                                                <div class="heading-icon boxmodel-image investor-icon">
+                                                </div>
+                                            </div>
+                                            <div class="boxtext">Investor information</div>
+                                        </div>
+                                    
+                                </div>
+                            
+                                <div class="col-lg-4 col-md-12 col-sm-12 pb-4 box-model-outer">
+                                    <a href="https://www.tcs.com/contact-us/whats-on-your-mind/media-form" class="tcs-section-click">
+                                        <div class="box-model text-center">
+                                            <div class="box-icon vector-business mb-2">
+                                                <div class="heading-icon boxmodel-image media-icon">
+                                                </div>
+                                            </div>
+                                            <div class="boxtext">Media contacts</div>
+                                        </div>
+                                    </a>
+                                </div>
+                            
+                        </div>
+                    
+                
+                    
+                
+                <div class="row">
+                    <div class="col-lg-12 something-desc">
+                    Looking for something else?
+                    </div>
+                </div>
+                
+                    
+                
+                    
+                        <div class="row various-forms justify-content-between d-flex">
+                            
+                                <div class="welcome-form-version mb-4 d-inline-block">                                       
+                                    <div class="forms-inner w-100">
+                                        <a href="https://www.tcs.com/contact-us/whats-on-your-mind/ar-landing" class="tcs-section-click">                                             
+                                            <div class="box-text d-inline-block">Analyst relations</div> 										             
+                                            <div class="box-arrow d-inline-block position-relative">
+                                                <div class="white-circle">
+                                                    <div class="arrow-right position-absolute"></div>
+                                                </div>
+                                            </div>  
+                                        </a>                                               
+                                    </div>                                                         
+                                </div>
+                            
+                                <div class="welcome-form-version mb-4 d-inline-block">                                       
+                                    <div class="forms-inner w-100">
+                                        <a href="https://www.tcs.com/contact-us/whats-on-your-mind/csr" class="tcs-section-click">                                             
+                                            <div class="box-text d-inline-block">CSR</div> 										             
+                                            <div class="box-arrow d-inline-block position-relative">
+                                                <div class="white-circle">
+                                                    <div class="arrow-right position-absolute"></div>
+                                                </div>
+                                            </div>  
+                                        </a>                                               
+                                    </div>                                                         
+                                </div>
+                            
+                                <div class="welcome-form-version mb-4 d-inline-block">                                       
+                                    <div class="forms-inner w-100">
+                                        <a href="https://www.tcs.com/contact-us/whats-on-your-mind/partnership-form" class="tcs-section-click">                                             
+                                            <div class="box-text d-inline-block">Partnership</div> 										             
+                                            <div class="box-arrow d-inline-block position-relative">
+                                                <div class="white-circle">
+                                                    <div class="arrow-right position-absolute"></div>
+                                                </div>
+                                            </div>  
+                                        </a>                                               
+                                    </div>                                                         
+                                </div>
+                            
+                                <div class="welcome-form-version mb-4 d-inline-block">                                       
+                                    <div class="forms-inner w-100">
+                                        <a href="https://www.tcs.com/contact-us/whats-on-your-mind/website-feedback-form" class="tcs-section-click">                                             
+                                            <div class="box-text d-inline-block">Website feedback</div> 										             
+                                            <div class="box-arrow d-inline-block position-relative">
+                                                <div class="white-circle">
+                                                    <div class="arrow-right position-absolute"></div>
+                                                </div>
+                                            </div>  
+                                        </a>                                               
+                                    </div>                                                         
+                                </div>
+                            
+                        </div>
+                    
+                
+            </div>
+        </div>
+    </section>
+</div>
+</div>
 
-    	<section class="ac-gf-footer">
-		<div class="ac-gf-footer-shop" x-ms-format-detection="none">
-			More ways to shop: <a href="/in/retail/" data-analytics-title="find an apple store">Find an Apple Store</a> or <a href="https://locate.apple.com/in/en/" data-analytics-title="other retailers or resellers" data-analytics-exit-link>other retailer</a> near you. <span class="nowrap">Or call 000800 040 1966.</span>
-		</div>
-		<div class="ac-gf-footer-locale">
-			<a class="ac-gf-footer-locale-link" href="/choose-country-region/" title="Choose your country or region" aria-label="India. Choose your country or region" data-analytics-title="choose your country">India</a>
-		</div>
-		<div class="ac-gf-footer-legal">
-			<div class="ac-gf-footer-legal-copyright">Copyright ©
+    
+</div>
+</div>
+
+    
+</div>
+</div>
+
+    
+</div>
+<div class="experiencefragment aem-GridColumn aem-GridColumn--default--12">
+<div id="experiencefragment-8cfeff894c" class="cmp-experiencefragment cmp-experiencefragment--footer">
+
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="responsivegrid aem-GridColumn aem-GridColumn--default--12">
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="footerContainer aem-GridColumn aem-GridColumn--default--12">
+
+		  
+      
+
+
+    
+<footer class="dark-theme footer  footer-panel" data-dl-title="Footer" id="main-footer" role="contentinfo">
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    <div id="desktopFooter">   
+        <div class="tcs-custom-container">
+            <div class="row">
+                 
+                    
+                    <div class="col">
+                        <div class="footer-link-box">  
+                            <div>
+
+
+
+
+
+
+	
+		<div class="quick-link-box">
+			<div class="footer-title">
+				<a href="https://www.tcs.com/what-we-do#industries" class="desktop-footer-section-title">Industries</a>
 				
-				2024
-				 Apple Inc. All rights reserved.
 			</div>
-			<ul class="ac-gf-footer-legal-links" role="list">
-				<li class="ac-gf-footer-legal-links-item" role="listitem">
-					<a class="ac-gf-footer-legal-link" href="/in/legal/privacy/" data-analytics-title="privacy policy">Privacy Policy</a>
-				</li>
-				<li class="ac-gf-footer-legal-links-item" role="listitem">
-					<a class="ac-gf-footer-legal-link" href="/in/legal/terms/site.html" data-analytics-title="terms of use">Terms of Use</a>
-				</li>
-				<li class="ac-gf-footer-legal-links-item" role="listitem">
-					<a class="ac-gf-footer-legal-link" href="/in/shop/goto/help/sales_refunds" data-analytics-title="sales and refunds">Sales Policy</a>
-				</li>
-				<li class="ac-gf-footer-legal-links-item" role="listitem">
-					<a class="ac-gf-footer-legal-link" href="https://www.apple.com/in/legal/" data-analytics-title="legal">Legal</a>
-				</li>
-				<li class="ac-gf-footer-legal-links-item" role="listitem">
-					<a class="ac-gf-footer-legal-link" href="/in/sitemap/" data-analytics-title="site map">Site Map</a>
-				</li>
+			<ul class="quick-links">
+				
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/industries/banking">Banking</a>
+							</li>
+						
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/industries/capital-markets">Capital Markets</a>
+							</li>
+						
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/industries/consumer-goods-distribution">Consumer Goods and Distribution</a>
+							</li>
+						
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/industries/communications-media-information-services">Communications, Media, and Information Services</a>
+							</li>
+						
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/industries/education">Education</a>
+							</li>
+						
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/industries/energy-resources-utilities">Energy, Resources, and Utilities</a>
+							</li>
+						
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/industries/healthcare">Healthcare</a>
+							</li>
+						
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/industries/high-tech">High Tech</a>
+							</li>
+						
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/industries/insurance">Insurance</a>
+							</li>
+						
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/industries/life-sciences">Life Sciences</a>
+							</li>
+						
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/industries/manufacturing">Manufacturing</a>
+							</li>
+						
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/industries/public-services">Public Services</a>
+							</li>
+						
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/industries/retail">Retail</a>
+							</li>
+						
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/industries/travel-and-logistics">Travel and Logistics</a>
+							</li>
+						
+					
+				
 			</ul>
 		</div>
-	</section>
-
-    <script type="text/javascript" src="/ac/globalfooter/8/en_IN/scripts/ac-globalfooter.built.js"></script>
-
-<script type="application/ld+json">
-	{
-		"@context": "http://schema.org",
-		"@id": "https://www.apple.com/#organization",
-		"@type": "Organization",
-		"name": "Apple",
-		"url": "https://www.apple.com/",
-		"logo": "https://www.apple.com/ac/structured-data/images/knowledge_graph_logo.png?202208080158",
-		"subOrganization": {
-			"@type": "Organization",
-			"name": "Apple Support",
-			"url": "https://support.apple.com",
-	    "@id": "https://support.apple.com/#organization"
-		},
-		"contactPoint": [
-			{
-				"@type": "ContactPoint",
-				"telephone": "+1-800-692-7753",
-				"contactType": "sales",
-				"areaServed": "US"
-			},
-			{
-				"@type": "ContactPoint",
-				"telephone": "+1-800-275-2273",
-				"contactType": "technical support",
-				"areaServed": "US",
-				"availableLanguage": ["EN", "ES"]
-			},
-			{
-				"@type": "ContactPoint",
-				"telephone": "+1-800-275-2273",
-				"contactType": "customer support",
-				"areaServed": "US",
-				"availableLanguage": ["EN", "ES"]
-			}
-		],
-		"sameAs": [
-			"http://www.wikidata.org/entity/Q312",
-			"https://www.youtube.com/user/Apple",
-			"https://www.linkedin.com/company/apple",
-			"https://www.facebook.com/Apple",
-			"https://www.twitter.com/Apple"
-		]
-	}
-</script>
-
-<script type="text/javascript" src="/ac/localeswitcher/4/en_IN/scripts/localeswitcher.built.js"></script>
+	
+	
 
 
 
-        </div>
-    </footer>
-    
-    <script type="application/ld+json">
-	{
-		"@context": "http://schema.org",
-		"@id": "https://www.apple.com/in/#webpage",
-		"@type": "WebPage",
-		"url": "https://www.apple.com/in/",
-		"name": "Apple (India)"
-	}
-</script>
+</div>                            
+                        </div>
+                        
+                        
+                    </div>
 
-    <script src="/v/home/bi/built/scripts/main.built.js" type="text/javascript" charset="utf-8"></script>
-    
-<link rel="stylesheet" href="/ac/ac-films/6.9.0/styles/modal.css" />
-<script src="/ac/ac-films/6.9.0/scripts/autofilms.built.js" type="text/javascript"></script>
-    
-
-<script src="/metrics/data-relay/1.1.4/scripts/data-relay.js" type="text/javascript" charset="utf-8"></script>
-<script src="/metrics/data-relay/1.1.4/scripts/auto-relay.js" type="text/javascript" charset="utf-8"></script>
-
-</body>
-
-</html>
-						
-					
-
-				
+                 
+                    
+                    <div class="col">
+                        <div class="footer-link-box">  
+                            <div>
 
 
-				
+
 
 
 
 	
+		<div class="quick-link-box">
+			<div class="footer-title">
+				<a href="https://www.tcs.com/content/tcs/global/en/what-we-do.html#services" class="desktop-footer-section-title">Services</a>
+				
+			</div>
+			<ul class="quick-links">
+				
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/services/cloud">Cloud</a>
+							</li>
+						
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/services/cognitive-business-operations">Cognitive Business Operations</a>
+							</li>
+						
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/services/consulting">Consulting</a>
+							</li>
+						
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/services/cybersecurity">Cybersecurity</a>
+							</li>
+						
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/services/data-and-analytics">Data and Analytics</a>
+							</li>
+						
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/services/enterprise-solutions">Enterprise Solutions</a>
+							</li>
+						
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/services/iot-digital-engineering">IoT and Digital Engineering</a>
+							</li>
+						
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/services/sustainability-services">Sustainability Services</a>
+							</li>
+						
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/services/tcs-interactive">TCS Interactive</a>
+							</li>
+						
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/services/cloud/aws">TCS and AWS Cloud</a>
+							</li>
+						
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/services/cloud/enterprise">TCS Enterprise Cloud</a>
+							</li>
+						
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/services/cloud/google">TCS and Google Cloud</a>
+							</li>
+						
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/services/cloud/microsoft">TCS and Microsoft Cloud</a>
+							</li>
+						
+					
+				
+			</ul>
+		</div>
+	
+	
+
+
+
+</div>                            
+                        </div>
+                        
+                        
+                    </div>
+
+                 
+                    
+                    <div class="col">
+                        <div class="footer-link-box">  
+                            <div>
+
+
+
+
+
+
+	
+		<div class="quick-link-box">
+			<div class="footer-title">
+				<a href="https://www.tcs.com/what-we-do#products" class="desktop-footer-section-title">Products and Platforms</a>
+				
+			</div>
+			<ul class="quick-links">
+				
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/products-platforms/tcs-add">TCS ADD™</a>
+							</li>
+						
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/products-platforms/tcs-bancs">TCS BaNCS™</a>
+							</li>
+						
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/products-platforms/tcs-bfsi-platforms">TCS BFSI Platforms</a>
+							</li>
+						
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/products-platforms/tcs-chroma">TCS CHROMA™</a>
+							</li>
+						
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/products-platforms/tcs-customer-intelligence-insights">TCS Customer Intelligence &amp; Insights™</a>
+							</li>
+						
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/products-platforms/tcs-erp-on-cloud">TCS ERP on Cloud</a>
+							</li>
+						
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items quick-link-external" href="https://digitate.com/" target="_blank">ignio™</a>
+							</li>
+						
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/products-platforms/tcs-hobs">TCS HOBS™</a>
+							</li>
+						
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/products-platforms/tcs-intelligent-urban-exchange">TCS Intelligent Urban Exchange™</a>
+							</li>
+						
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/products-platforms/tcs-omnistore">TCS OmniStore™</a>
+							</li>
+						
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/products-platforms/tcs-optumera">TCS Optumera™</a>
+							</li>
+						
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/products-platforms/tcs-tap">TCS TAP™</a>
+							</li>
+						
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/products-platforms/quartz">Quartz™ – The Smart Ledgers™</a>
+							</li>
+						
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/products-platforms/tcs-twinx">TCS TwinX™</a>
+							</li>
+						
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/products-platforms/tcs-mastercraft">TCS MasterCraft™</a>
+							</li>
+						
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items quick-link-external" href="https://www.jile.io/" target="_blank">Jile™</a>
+							</li>
+						
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items quick-link-external" href="https://www.tcsion.com/dotcom/TCSSMB/" target="_blank">TCS iON™</a>
+							</li>
+						
+					
+				
+			</ul>
+		</div>
+	
+	
+
+
+
+</div>                            
+                        </div>
+                        
+                        
+                    </div>
+
+                 
+                    
+                    <div class="col">
+                        <div class="footer-link-box">  
+                            <div>
+
+
+
+
+
+
+	
+		<div class="quick-link-box">
+			<div class="footer-title">
+				<a href="https://www.tcs.com/insights" class="desktop-footer-section-title">Insights</a>
+				
+			</div>
+			<ul class="quick-links">
+				
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items " href="https://www.tcs.com/insights/customer-stories">Customer Stories</a>
+							</li>
+						
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items " href="https://www.tcs.com/insights/topics/cloud-topic">Cloud</a>
+							</li>
+						
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items " href="https://www.tcs.com/insights/topics/blockchain-topic">Blockchain</a>
+							</li>
+						
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items " href="https://www.tcs.com/insights/topics/internet-of-things-topic">IoT</a>
+							</li>
+						
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items " href="https://www.tcs.com/insights/topics/metaverse-topic">Metaverse</a>
+							</li>
+						
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items " href="https://www.tcs.com/insights/topics/future-of-work-topic">Future of Work</a>
+							</li>
+						
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items " href="https://www.tcs.com/insights/topics/health-and-wellness-topic">Health and Wellness</a>
+							</li>
+						
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items " href="https://www.tcs.com/insights/topics/sustainability-topic">Sustainability</a>
+							</li>
+						
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items " href="https://www.tcs.com/insights/topics/ai-ml-topic">AI and ML</a>
+							</li>
+						
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items " href="https://www.tcs.com/insights/topics/cybersecurity-topic">Cybersecurity</a>
+							</li>
+						
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items " href="https://www.tcs.com/insights/perspectives">Perspectives</a>
+							</li>
+						
+					
+				
+			</ul>
+		</div>
+	
+	
+
+
+
+</div>                            
+                        </div>
+                        <div class="footer-link-box mt-4">
+
+
+
+
+
+
+	
+		<div class="quick-link-box">
+			<div class="footer-title">
+				<a href="https://www.tcs.com/who-we-are" class="desktop-footer-section-title">More information</a>
+				
+			</div>
+			<ul class="quick-links">
+				
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items " href="https://www.tcs.com/careers">Careers</a>
+							</li>
+						
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items " href="https://www.tcs.com/who-we-are/corporate-social-responsibility">Corporate Social Responsibility</a>
+							</li>
+						
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items " href="https://www.tcs.com/who-we-are/diversity-equity-inclusion">Diversity, Equity, and Inclusion</a>
+							</li>
+						
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items " href="https://www.tcs.com/investor-relations" target="_blank">Investor Relations</a>
+							</li>
+						
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items " href="https://www.tcs.com/who-we-are/sports-sponsorships">Sports Sponsorships</a>
+							</li>
+						
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/pace-innovation">TCS Pace™</a>
+							</li>
+						
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/research">TCS Research</a>
+							</li>
+						
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items " href="https://www.tcs.com/who-we-are/tcs-way">The TCS Way</a>
+							</li>
+						
+					
+						
+							
+							<li class="quick-links-list">
+								<a class="quick-links-list-items " href="https://www.tcs.com/who-we-are">Who we are</a>
+							</li>
+						
+					
+				
+			</ul>
+		</div>
+	
+	
+
+
+
+</div>
+                        
+                    </div>
+
+                 
+                    
+                    
+
+                
+
+            </div>
+            </div>
+        </div>
+        <div id="mobileFooter">
+            <div class="footer-container">
+              <div id="footerAccordion">    
+
+              </div>
+            </div>
+          </div>    
+    </footer>
+
+</div>
+<div class="minimalFooter aem-GridColumn aem-GridColumn--default--12">
+
+	<div id="baseFooter" class="collapse show">
+		<div class="footer-container px-0 tcs-custom-container" data-dl-title="Footer">
+			<div class="row align-items-center">
+				<div class="col-12">
+					<div class="tab-view-b-b"></div>
+				</div>
+				<div class="col-sm-3 col-md-3 order-5 order-sm-1 order-md-1 order-xl-1  col-xl-2 mob-d-none">
+					<a href="https://www.tcs.com"> <img class="img-fluid" src="/content/dam/global-tcs/en/images/discover-tcs/TCS%20logo.svg" alt="Tata consultancy services"/>
+					</a>
+				</div>
+				<div class="col-12 col-sm-3 col-lg-4 order-1 order-sm-2 order-md-2 order-xl-1 col-xl-2">
+					<ul class="social-icn-ul base-footer-pad-MV">
+						
+								<li class="social-icn-ul-list"><a class="social-icn-item" href="https://www.facebook.com/TataConsultancyServices" target="_blank"><img class="social-icn-item-icon" alt="Facebook" src="/etc.clientlibs/tcs/clientlibs/clientlib-site/resources/images/social/Facebook.svg"/><span class="sr-only">Open in New Tab Facebook</span></a>
+								</li>
+						
+								<li class="social-icn-ul-list"><a class="social-icn-item" href="https://www.youtube.com/user/TCSGlobal" target="_blank"><img class="social-icn-item-icon" alt="Youtube" src="/etc.clientlibs/tcs/clientlibs/clientlib-site/resources/images/social/Youtube.svg"/><span class="sr-only">Open in New Tab Youtube</span></a>
+								</li>
+						
+								<li class="social-icn-ul-list"><a class="social-icn-item" href="https://twitter.com/TCS" target="_blank"><img class="social-icn-item-icon" alt="Twitter" src="/etc.clientlibs/tcs/clientlibs/clientlib-site/resources/images/social/Twitter.svg"/><span class="sr-only">Open in New Tab Twitter</span></a>
+								</li>
+						
+								<li class="social-icn-ul-list"><a class="social-icn-item" href="https://www.instagram.com/tcsglobal/" target="_blank"><img class="social-icn-item-icon" alt="Instagram" src="/etc.clientlibs/tcs/clientlibs/clientlib-site/resources/images/social/Instagram.svg"/><span class="sr-only">Open in New Tab Instagram</span></a>
+								</li>
+						
+								<li class="social-icn-ul-list"><a class="social-icn-item" href="https://www.linkedin.com/company/tata-consultancy-services/" target="_blank"><img class="social-icn-item-icon" alt="linkedin" src="/etc.clientlibs/tcs/clientlibs/clientlib-site/resources/images/social/linkedin.svg"/><span class="sr-only">Open in New Tab linkedin</span></a>
+								</li>
+						
+					</ul>
+				</div>
+				<div class="col-12 col-sm-6 col-lg-5 order-5 order-sm-2 order-md-2 order-xl-1 col-xl-3">
+					<div class="base-footer-pad-MV text-left-mob">
+						<span class="link-content"> ©2023 TATA Consultancy Services Limited </span>
+					</div>
+				</div>
+				<div class="col-12 col-sm-9 col-md-9 order-3 order-sm-1 order-md-1 order-xl-1 col-xl-4 footer-tabview">
+					<ul class="base-footer-tcs-lnks-ul">
+						
+							
+                            	
+								<li class="base-footer-tcs-lnks-ul-list">
+									<a class="base-footer-tcs-lnks-ul-list-item" href="https://www.tcs.com/who-we-are/legal/tcs-privacy-notice">Privacy Notice</a>
+								</li>
+							
+						
+							
+                            	
+								<li class="base-footer-tcs-lnks-ul-list">
+									<a class="base-footer-tcs-lnks-ul-list-item" href="https://www.tcs.com/who-we-are/legal/tcs-cookie-policy">Cookie Policy</a>
+								</li>
+							
+						
+							
+                            	
+								<li class="base-footer-tcs-lnks-ul-list">
+									<a class="base-footer-tcs-lnks-ul-list-item" href="https://www.tcs.com/who-we-are/legal/legal-disclaimer">Disclaimer</a>
+								</li>
+							
+						
+							
+                            	
+								<li class="base-footer-tcs-lnks-ul-list">
+									<a class="base-footer-tcs-lnks-ul-list-item" href="https://www.tcs.com/who-we-are/legal/security-policy">Security Policy</a>
+								</li>
+							
+						
+							
+                            	
+								<li class="base-footer-tcs-lnks-ul-list">
+									<a class="base-footer-tcs-lnks-ul-list-item" href="https://www.tcs.com/who-we-are/legal/tcs-privacy-notice/tcs-privacy-policy-usa#CPRA-2023">California Notice at Collection</a>
+								</li>
+							
+						
+						
+							<li class="base-footer-tcs-lnks-ul-list">
+								<a class="base-footer-tcs-lnks-ul-list-item optanon-toggle-display ot-sdk-show-settings" href="javascript:void(0);">Customize Cookies</a>
+							</li>
+						
+					</ul>
+					<a href="javascript:void(0);" class="expand-view" aria-expanded="false" role="button">More</a>
+				</div>
+				<div class="col-12 col-sm-3 col-lg-3 order-4 order-sm-2 order-md-2 order-xl-1 col-xl-1 p-r-l-adjst">
+					<div class="text-sm-right  base-footer-pad-MV">
+						<strong><a class="link-content text-uppercase text-underline"></a></strong>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+    
+</div>
+</div>
+
+    
+</div>
+</div>
+
+    
+</div>
+
+    
+</div>
+</div>
+
+
+            
+    
+    
+
+<script defer src="/content/dam/tcstop/jquery-3.6.0.min.js"></script>
+<script defer src="/content/dam/tcstop/scrollspy-v1.0.1.min.js"></script>
+<script defer src="/content/dam/tcstop/swiper-bundle-8.0.3.min.js" integrity="sha512-+1MtN0rwSlEnZo0agG99mCQChlBtfe8hyHItwWtgiD33mWvaNVZkZB9yX2S92z5HgDg1+EcitjutZejbHUcZAg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script defer src="/content/dam/tcstop/jquery.overlayScrollbars-1.13.1.min.js" integrity="sha512-3Ofi0j25Ar6Hyqk2sdvfuoVCvvN6nE6Dh/eoMc8RQ/bnCvO8wpE+M5KyJz6T08T7pl/x82I/3Y5Amz9n3T9Esw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+  <script defer type="text/javascript" src="https://cdn.storifyme.com/static/web-components/storifyme-elements.min.js?web-components/storifyme-elements-5a91f5d082.min.js"></script>
+
+<script defer src="/content/dam/tcstop/pdf-2.14.305.min.js" integrity="sha512-dw+7hmxlGiOvY3mCnzrPT5yoUwN/MRjVgYV7HGXqsiXnZeqsw1H9n9lsnnPu4kL2nx2bnrjFcuWK+P3lshekwQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script defer src="/content/dam/tcstop/pdf_viewer-2.14.305.min.js" integrity="sha512-x+RmXhJTdSyOC9nVUvKVwtTsfTFtsbWPNeTuI3OlA7kLvyxG39BiWaT5VU5xENbHq25k3KFPdGR5OcO2/LTxOg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<div class="pdf-worker" data-attr="/content/dam/tcstop/pdf.worker-2.14.305.min.js"></div>
+
+    
+  <script defer="true" src="/etc.clientlibs/tcs/clientlibs/clientlib-dependencies.min.ddb7c594c9e2d4270c650aa8831ac405.js" xmlns="http://www.w3.org/1999/xhtml"></script>
+<script defer="true" src="/etc.clientlibs/tcs/clientlibs/clientlib-site.min.0f9dd5ff4db6bbc44649da3cf0b68d1a.js" xmlns="http://www.w3.org/1999/xhtml"></script>
+
+
+
+<script defer src="/content/dam/tcstop/bootstrap.bundle-4.6.1.min.js"></script>
+<script defer src="/content/dam/tcstop/atc.min.js"></script>
+<script defer src="https://unpkg.com/@googlemaps/markerclusterer/dist/index.min.js"></script>
+<script>
+	// Email sign up form validation error messages for different field types.
+	const COMMON_VALIDATION_MESSAGES = {
+		required : "This field is mandatory",
+		checkbox : "Please accept to proceed further.",
+		businessEmail : "Please enter a valid business email.",
+		email : "Please enter a valid email id",
+		maxLength : "Maximum length allowed: ",
+		success : "email got saved",
+		whitelist : "Email entered is not whitelisted.",
+		invalidCaptcha : "Invalid Captcha",
+		firstname : "Please enter a valid first name",
+		lastname: "Please enter a valid last name",
+		nonMandatoryTextField:"Please enter a valid text",
+		nonMandatoryNumberField:"Please enter a valid Number",
+		textfield: "Please enter a valid text",
+		customfield: "Please enter a valid field",
+		number: "Please enter a valid phone number",
+		year: "Please enter a valid year",
+		linkedInUrl: "Enter valid LinkedIn Profile URL ",
+		experienceYears: "Enter valid number",
+		company:"Please enter a valid company",
+		schoolname:"Please enter a valid school name",
+		cgpa:"Enter valid number",
+		percentage:"Enter valid number",
+		freeText:"Use of special characters not allowed.Ex: !#^<})",
+	}
+	
+	// Query form validation error messages for different field types.
+	const MULTIFORM_VALIDATION_MESSAGES = {
+		success : "Multi Form Details got saved",
+	}
+
+	const EMAIL_VALIDATION_MESSAGES = {
+		success : "email got saved",
+	}
+
+
+</script>
+
+    
+
+    
+
+    
+    
+
+            
+
+        
+    </body>
+</html>
