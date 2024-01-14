@@ -1,6433 +1,3591 @@
-
-
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 <html lang="en">
-    <head>
-  <link rel="dns-prefetch" href="https://maps.googleapis.com/"/>
-  <link rel="dns-prefetch" href="https://assets.adobedtm.com/"/>
-  
+<head>
+    <!-- Google tag (gtag.js) --> <script async src="https://www.googletagmanager.com/gtag/js?id=AW-11284634782"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-11284634782'); </script>
 
-  
-<meta charset="utf-8"/>
-<title>Tata Consultancy Services: Driving Innovation and Building on Belief</title>
-<meta name="description" content="TCS, a global leader in IT services, consulting, and business solutions, leverages technology for business transformation and helps catalyze change. Learn more."/>
-<meta name="template" content="Home page"/>
-<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-<meta name="viewport" content="width=device-width, initial-scale=1"/>
-<meta name="robots" content="index, follow"/>
-<link rel="manifest" href="/etc.clientlibs/tcs/clientlibs/clientlib-site/resources/meta/manifest.json"/>
-
-
-<meta name="title" content="Tata Consultancy Services: Driving Innovation and Building on Belief"/>
-<meta name="path" content="/content/tcs/global/en/home-page"/>
-<meta name="tags"/>
-<meta name="google-site-verification" content="YptDqnHnSMV2bjemv7lox5l5MuX9NACcODujGEy5EQg"/>
-<meta name="langCode" content="en"/>
-
-
-
-<meta prefix="og: http://ogp.me/ns#" property="og:title" content="Tata Consultancy Services: Driving Innovation and Building on Belief"/>
-<meta prefix="og: http://ogp.me/ns#" property="og:description" content="TCS, a global leader in IT services, consulting, and business solutions, leverages technology for business transformation and helps catalyze change. Learn more."/>
-<meta prefix="og: http://ogp.me/ns#" property="og:type" content="website"/>
-<meta prefix="og: http://ogp.me/ns#" property="og:url" content="https://www.tcs.com/home-page"/>
-<meta prefix="og: http://ogp.me/ns#" property="og:image"/>
-<meta prefix="og: http://ogp.me/ns#" property="og:snippets" content=""/>
-<link rel="canonical" href="https://www.tcs.com/home-page"/>
-
-<link rel="icon" href="/etc.clientlibs/tcs/clientlibs/clientlib-site/resources/images/favicon-16x16.png" type="image/png" sizes="16x16"/>
-<link rel="icon" href="/etc.clientlibs/tcs/clientlibs/clientlib-site/resources/images/favicon-32x32.png" type="image/png" sizes="32x32"/>
-<link rel="icon" href="/etc.clientlibs/tcs/clientlibs/clientlib-site/resources/images/favicon-48x48.png" type="image/png" sizes="48x48"/>
-
+    <meta charset="UTF-8">
     
-  <link href="/etc.clientlibs/tcs/clientlibs/clientlib-dependencies.min.10537dbe19f577ccd35bfc9664de7cb3.css" rel="stylesheet" type="text/css" xmlns="http://www.w3.org/1999/xhtml">
-<link href="/etc.clientlibs/tcs/clientlibs/clientlib-icons.min.8782b0ca013627ceebf07a3e23c3f32c.css" rel="stylesheet" type="text/css" xmlns="http://www.w3.org/1999/xhtml">
-<link href="/etc.clientlibs/tcs/clientlibs/clientlib-site.min.2937fce74e5f018b35398762aaa6c39b.css" rel="stylesheet" type="text/css" xmlns="http://www.w3.org/1999/xhtml">
+    
+    <title>No 1 Training Institute in Bangalore, Pune - Apponix Technologies</title>
 
+    <meta property="og:title" content="No 1 Training Institute  - Apponix Technologies" />
+    <meta property="og:description" content="Apponix Technologies is the most innovative Training institute located in Bangalore, Pune, Hubli delivering classroom &amp; online training across India, UK &amp; USA" />
+    <meta property="og:image" content="https://www.apponix.com/front/images/head-img.png" />
 
+    <meta name="description" content="Apponix Technologies is the most innovative Training institute located in Bangalore, Pune, Hubli delivering classroom &amp; online training across India, UK &amp; USA">
+    <meta name="keywords" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<link rel="canonical" href="https://www.apponix.com" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://www.apponix.com" />
+    <meta property="og:site_name" content="No 1 Training Institute in Bangalore, Pune - Apponix Technologies" />
+    <meta property="og:image" content="https://www.apponix.com/front/images/head-img.png" />
+    <meta property="og:image:secure_url" content="https://www.apponix.com/front/images/head-img.png" />
+    <meta property="og:image:width" content="1080" />
+    <meta property="og:image:height" content="1080" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:description" content="Apponix Technologies is the most innovative Training institute located in Bangalore, Pune, Hubli delivering classroom &amp; online training across India, UK &amp; USA" />
+    <meta name="twitter:title" content="No 1 Training Institute in Bangalore, Pune - Apponix Technologies" />
+    <meta name="twitter:site" content="@apponix" />
+    <meta name="twitter:image" content="https://www.apponix.com/front/images/head-img.png" />
 
+    <link rel="stylesheet" href="https://www.apponix.com/front/line-awesome/css/line-awesome.min.css">
+    <link rel="stylesheet" href="https://www.apponix.com/front/font-awesome/font-awesome/css/font-awesome.min.css">
+    <!-- <link rel="stylesheet" href="https://www.apponix.com/front/css/font-awesome.min.css"> -->
+    <link rel="icon" href="https://www.apponix.com/front/images/evicon4-36x36.webp" sizes="32x32" />
+    <link rel="stylesheet" href="https://www.apponix.com/front/css/single.min.css">
+    <!-- <link rel="stylesheet" href="https://www.apponix.com/front/css/bootstrap.min.css">
+      <link rel="stylesheet" href="https://www.apponix.com/front/css/bootstrap1.min.css">
+      <link rel="stylesheet" href="https://www.apponix.com/front/css/swiper.min.css">
+      <link rel="stylesheet" href="https://www.apponix.com/front/css/owl.carousel.min.css">
+      <link rel="stylesheet" href="https://www.apponix.com/front/css/slick-theme.css"> -->
 
-  
-  
-      <script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" data-document-language="true" type="text/javascript" charset="UTF-8" data-domain-script="2af66668-d407-488e-9301-c6c63a324e40"></script> 
-<script type="text/javascript"> 
- function OptanonWrapper() { } 
-</script>
-      <script type="text/javascript">
+    <!-- <script src="https://www.apponix.com/front/js/bootstrap.min.js"></script>
+      <script src="https://www.apponix.com/front/js/jquery.min.js"></script>
+      <script src="https://www.apponix.com/front/js/bootstrap.bundle.min.js"></script>
+      <script src="https://www.apponix.com/front/js/jquery1.min.js"></script>
+      <script src="https://www.apponix.com/front/js/slick.min.js"></script>
+      <script src="https://www.apponix.com/front/js/owl.carousel.min.js"></script>
+      <script src="https://www.apponix.com/front/js/slideNav.js"></script> -->
+    <!-- <script src="https://www.apponix.com/front/js/slick.js"></script> -->
+    <!-- <script src="https://www.apponix.com/front/js/custom.js"></script> -->
+    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js" type="text/javascript"></script> -->
+    <!-- <script src="https://www.apponix.com/front/js/modernizr.min.js" type="text/javascript"></script> -->
+	<!--
+	<script src='https://www.google.com/recaptcha/api.js'></script>
+	-->
 
-function OptanonWrapper() { 
-  $("#onetrust-policy-text a").attr("aria-label","Cookie policy link opens in new tab");
-  $("#filter-btn-handler").attr("aria-expanded","false");
-  $("#filter-btn-handler").on("click", function() {
-    var FilterIconExpanded = $(this).attr("aria-expanded");
-    if (FilterIconExpanded === "true") {
-          $(this).attr("aria-expanded", "false");
-        } else {
-          $(this).attr("aria-expanded", "true");
+    <style>
+        .flex-p-div-add {
+            display: flex;
+            align-items: baseline;
         }
+
+		.ohnohoney{
+        opacity: 0;
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 0;
+        width: 0;
+        z-index: -1;
+    }
+
+        /* @media (max-width: 991px) {
+            .main-container-class {
+                position: fixed !important;
+                top: 0 !important;
+                width: 100% !important;
+                z-index: 1 !important;
+                background: #fff !important;
+                left: 0px !important;
+                right: 0px !important;
+            }
+        } */
+
+        .flex-p-div-add i {
+            margin-right: 10px;
+        }
+
+        .freedemo {
+            display: flex;
+            align-content: center;
+            justify-content: flex-end;
+            align-items: center;
+        }
+
+        .login-button {
+            font-size: 13px;
+            font-weight: 700;
+            color: #ffffff !important;
+            border: 1px solid #a1a1a1;
+            background: #005392;
+            padding: 4px 20px;
+            border-radius: 5px;
+            border: navajowhite;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            align-content: center;
+        }
+
+        .login-button:hover {
+            font-size: 13px;
+            font-weight: 700;
+            color: #ffffff !important;
+            border: 1px solid #a1a1a1;
+            background: #005392;
+            padding: 4px 20px;
+            border-radius: 5px;
+            border: navajowhite;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            align-content: center;
+        }
+.topmenuemail{
+    padding: 0px 0px !important;font-weight:600;    font-size: 13px;
+
+    padding: 6px 0 10px 0;
+
+    color: #454c5a;
+}
+.topmenuphoneno{
+    font-size: 13px;
+
+    padding: 6px 0 10px 0;
+
+    color: #454c5a; font-weight:600;
+}
+
+@media  screen and (max-width: 1168px) {
+    #navcust-bg > .row > .col-sm-2 {
+        max-width: 151px;
+    }
+
+    #navcust-bg a.nav-link {
+        white-space: nowrap;
+    }
+}
+
+    </style>
+
+    <!-- Meta Pixel Code -->
+    <script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+    n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t,s)}(window, document,'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '346661501033777');
+    fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none"
+    src="https://www.facebook.com/tr?id=346661501033777&ev=PageView&noscript=1"
+    /></noscript>
+    <!-- End Meta Pixel Code -->
+
+
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-11284634782"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-11284634782');
+</script>
+
+<script>
+    gtag('config', 'AW-11284634782/F9OJCOKIj-0YEJ6594Qq', {
+      'phone_conversion_number': '8792164888'
+    });
+  </script>
+
+<script>
+    function gtag_report_conversion(url) {
+      var callback = function () {
+        if (typeof(url) != 'undefined') {
+          window.location = url;
+        }
+      };
+      gtag('event', 'conversion', {
+          'send_to': 'AW-11284634782/dJRZCISxiu0YEJ6594Qq',
+          'event_callback': callback
       });
-      $(".privacy-notice-link").attr("aria-label","More information on cookie consent link opens in new tab");
-      $(".category-host-list-handler").removeAttr("aria-label");
-      $(".banner_logo").attr("aria-label","Tata consultancy services");
-      $(".banner_logo").attr("role","img");
-      $("#onetrust-pc-btn-handler").on("click",function(){
-        $("#onetrust-pc-sdk #close-pc-btn-handler").focus();
-      });
-
-$(".save-preference-btn-handler,#accept-recommended-btn-handler,.ot-pc-refuse-all-handler,#close-pc-btn-handler,#onetrust-reject-all-handler, #onetrust-accept-btn-handler ").on("click", ()=>{
-    setTimeout(()=>{
-      if(OnetrustActiveGroups!==undefined){
-        if($('.youtube-noCookie-selector').length>0) {
-          if(OnetrustActiveGroups.includes("C0004")) {
-            $(".youtube-noCookie-selector").each(function(index, ele){
-              let youtubeUrl = $(ele).find('.youtubeInput').val();
-              let width= $(ele).find('.youtubeInput').attr("data-width");
-              let height= $(ele).find('.youtubeInput').attr("data-height");
-              let src= $(ele).find('.youtubeInput').attr("data-src");
-              let ariaLabel= $(ele).find('.youtubeInput').attr("data-aria-label");
-      
-              if(youtubeUrl){
-                  let iframeContent = "<iframe width='"+width+"' height='"+height+"' src='"+src+"' frameborder='0' allowfullscreen aria-label='"+ariaLabel+"'></iframe>";
-                  if($(ele).find('iframe').length<1){
-                      $(ele).append(iframeContent);
-                  }
-              }
-            })
-            $('.youtube-noCookie-selector .main-youtube-fallback-text').hide();
-          }
-          else{
-            if($(".youtube-noCookie-selector iframe").length>0){
-              $(".youtube-noCookie-selector iframe").remove();
-            }
-            $('.youtube-noCookie-selector .main-youtube-fallback-text').show();
-          }
-        }
-        if($('.youtube-nid-selector').length>0) {
-        if(OnetrustActiveGroups.includes("C0004")){
-          $(".youtube-nid-selector").each(function(index, ele){
-            let youtubeUrl = $(ele).find(".youtubeInput").val();
-            if(youtubeUrl){
-                let iframeContent = "<iframe width='560' height='315' src='"+youtubeUrl+"' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen='true' title='Youtube Video'></iframe>";
-                if($(ele).find("iframe").length<1){
-                    $(ele).append(iframeContent);
-                }
-            }
-          })
-          $('.youtube-nid-selector .main-youtube-fallback-text').hide();
-        }
-        else{
-          if($(".youtube-nid-selector iframe").length>0){
-            $(".youtube-nid-selector iframe").remove();
-          }
-          $('.youtube-nid-selector .main-youtube-fallback-text').show();
-        }
-        
-      }
-      if(!isEmbedScriptAdded()){
-        addEmbedScript();
-      }
-      window.location.reload();
+      return false;
     }
-  },500)
-});
-function isEmbedScriptAdded(){
-  const scripts = document.querySelectorAll('script');
-  for (const script of scripts){
-    if(script.src === "https://gateway.on24.com/view/orion/engagement-hub/dist/embed/embed.js"){
-      return true;
-    }
-  }
-  return false;
-}
-function addEmbedScript(){
-  var OnetrustActiveGroups = window.OnetrustActiveGroups;
-  if(OnetrustActiveGroups !== undefined && OnetrustActiveGroups.includes("C0003")){
-    let scriptEle = document.createElement("script");
-    scriptEle.setAttribute("src", "https://gateway.on24.com/view/orion/engagement-hub/dist/embed/embed.js");
-    scriptEle.setAttribute("data-width", "100%");
-    scriptEle.setAttribute("data-height", "auto");
-    scriptEle.setAttribute("data-url", "https://gateway.on24.com/");
-    var cmpEmbedElement=document.querySelector(".cmp-embed");
-    if(cmpEmbedElement){
-      cmpEmbedElement.appendChild(scriptEle);
-    }
-  }
-}
-}
-</script>
+    </script>
 
-  
-  
-  
+    <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" defer></script>
 
-
-<script type="text/javascript">
-        var siteSection0;
-        var siteSection1;
-        var siteSection2;
-        var siteSection3;
-        var siteSection4;
-        var childCount = "";
-        var displayLanguage = "English";
-        var pageTitle = document.getElementsByTagName("meta")["title"].getAttribute("content");
-        var pagePath = document.getElementsByTagName("meta")["path"].getAttribute("content");
-        var tags = document.getElementsByTagName("meta")["tags"].getAttribute("content");
-        var langCode = document.getElementsByTagName("meta")["langCode"].getAttribute("content");
-        var pathArray = pagePath.split('/');
-        var langaugeMap = {
-                'ja': 'japanese',
-                'fr': 'french',
-                'de': 'german',
-                'zh': 'chinese'
-        };
-        var languageCode;
-        if(displayLanguage != undefined && displayLanguage != "English"){
-            languageCode = displayLanguage.toLowerCase();
-        }else if(langCode != undefined){
-            languageCode = langaugeMap[langCode];
-        }else if(pathArray[4] != undefined){
-            languageCode = langaugeMap[pathArray[4]];
-        }
-        var langauge = (languageCode != undefined) ? ': '+languageCode : "";
-        pathArray = pathArray.splice(5,pathArray.length);
-         for (var i = 0; i < pathArray.length; i++) {
-          if((i==pathArray.length-1 && childCount >= 1) || i < pathArray.length-1 || i==0 || (pathArray.length == 2 && childCount.length == 0 &&
-          (pathArray[0] == "what-we-do" || pathArray[0] == "who-we-are" || pathArray[0] == "investor-relations" || pathArray[0] == "careers" || pathArray[0]
-           == "insights")) || (pathArray[1] == "industries" || pathArray[1] == "services" || pathArray[1] == "products-platforms")){
-              eval("siteSection" + i + "=pathArray[i] + langauge;");
-          }
-         }
-         var contentUnit;
-         var baseContentUnit;
-         if (siteSection0 == "what-we-do" || siteSection0 == "who-we-are" || siteSection0 == "investor-relations" ||
-         siteSection0 == "careers" || siteSection0 == "insights" ||  siteSection0 == "contact-us" ||
-         (siteSection0 != undefined && siteSection0.includes("home"))) {
-        	if(pathArray[0] == "investor-relations"){
- 				contentUnit = "investor-relations";
-            }else if(siteSection2 !=undefined){
-                contentUnit = (tags != undefined) ? tags : siteSection2;
-            }else if(siteSection1 !=undefined) {
-                contentUnit = (tags != undefined) ? tags : siteSection1;
-            }else if(siteSection0.includes("home")){
-               contentUnit = "home";
-            }else{
-               contentUnit = (tags != undefined) ? tags : siteSection0;
-            }
-         }else {
-          contentUnit = "other";
-         }
-         if(pathArray[0] == "investor-relations"){
-			 baseContentUnit = "investor-relations";
-         }else if(pathArray.length >= 6){
-        	 baseContentUnit = pathArray[2] + ":" + pathArray[3];
-         }else{
-        	 baseContentUnit = siteSection2 || siteSection1 || siteSection0;
-         }
-         var articleType;
-         if(document.getElementById("articleType")){
-            articleType = document.getElementById("articleType").value;
-         }
-         var authorName = [];
-         var authors;
-         if(articleType == "White Paper" || articleType == "Blog" ){
-        	 let elements = document.getElementsByClassName('blog-author')
-        	 for (let i = 0; i < elements.length; i++) {
-        	     authorName.push(elements[i].value) ;
-        	 }
-        	 authors= authorName.join(":");
-         }
-         var contentType;
-         if(articleType != undefined){
-            contentType = "Article Type:" +articleType.toLowerCase();
-         }else if(pathArray[pathArray.length-2] != undefined){
-            contentType = pathArray[pathArray.length-2];
-         } else {
-            contentType = pathArray[pathArray.length-1];
-         }
-
-        var digitalData = {};
-        digitalData.page = {
-            pageInfo: {
-                pageName: pageTitle,
-                pagePath: pagePath,
-                siteSection: siteSection0,
-                siteSection1: siteSection1,
-                siteSection2: siteSection2,
-                siteSection3: siteSection3,
-                siteSection4: siteSection4
-            },
-            category: {
-                contentType: contentType,
-                contentUnit: contentUnit + langauge,
-                baseContentUnit: baseContentUnit
-            }
-        }
-        var content={};
-        if(authorName.length > 0){
-            digitalData.content = {
-               blogAuthor: authors,
-               blogName: pageTitle
-           }
-        }
-</script>
-  <script>
-   //prehiding snippet for Adobe Target with asynchronous tags deployment
-   ;(function(win, doc, style, timeout) {
-   var STYLE_ID = 'at-body-style';
-   function getParent() {
-      return doc.getElementsByTagName('head')[0];
-   }
-   function addStyle(parent, id, def) {
-      if (!parent) {
-      return;
-      }
-      var style = doc.createElement('style');
-      style.id = id;
-      style.innerHTML = def;
-      parent.appendChild(style);
-   }
-   function removeStyle(parent, id) {
-      if (!parent) {
-        return;
-      }
-      var style = doc.getElementById(id);
-      if (!style) {
-        return;
-      }
-      parent.removeChild(style);
-   }
-   addStyle(getParent(), STYLE_ID, style);
-     setTimeout(function() {
-        removeStyle(getParent(), STYLE_ID);
-     }, timeout);
-   }(window, document, "body {opacity: 0 !important}", 3000));
-</script>
-
-  
-  <script src="https://assets.adobedtm.com/54b495b4a932/3085d2f7ae3f/launch-896a39c0a8e2.min.js" async></script>
-  
-    
-    
-
-    
-
-    
-    
-    
-
-  
-  
 </head>
-    <body class="basePage page basicpage body-bg-dark" id="basePage-bc0524455b">
-        
-        
-        
-            
 
-<div class="cmp-page__skiptomaincontent">
-    <a class="cmp-page__skiptomaincontent-link" alt="Skip to main content link" href="#main-content">Skip to main content</a>
-</div>
+<!-- Google Tag Manager -->
+<script>
+    (function(w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+            'gtm.start': new Date().getTime()
+            , event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0]
+            , j = d.createElement(s)
+            , dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src =
+            'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-NT2FH5');
 
+</script>
+<!-- End Google Tag Manager -->
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NT2FH5" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
     
-<link rel="stylesheet" href="/etc.clientlibs/core/wcm/components/page/v2/page/clientlibs/site/skiptomaincontent.min.15c8e6e0e8a432d5ad140592e0b96372.css" type="text/css">
 
 
 
+ <div class="main-container-class pb-0  desktop-header-cls" id="navcust-bg">
 
-            
+        <div class="row" style="display: flex;
 
+            align-content: center;
 
+            align-items: center;font-weight:600">
 
-            <div class="cmp-page__skiptomaincontent" aria-label="Skip Navigation">
-  <a class="cmp-page__skiptomaincontent-link" alt="Skip to footer link" href="#main-footer">Skip to footer</a>
-</div>
-<div class="root responsivegrid">
+            <div class="col-sm-2 col-md-3 col-lg-3 mob-row-menu p-0">
 
+                <a href="tel:80505-80888" class="topmenuemail"><i class="fa fa-phone m-1" aria-hidden="true"></i> +91 8050580888 </a>
 
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
-    
-    <div class="experiencefragment aem-GridColumn aem-GridColumn--default--12">
-<div id="experiencefragment-a157391355" class="cmp-experiencefragment cmp-experiencefragment--header">
+                | <a href="mailto:info@apponix.com" class="m-0 topmenuphoneno"><i class="fa fa-envelope-o m-1" aria-hidden="true"></i> info@apponix.com</a></div>
 
 
 
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
-    
-    <div class="responsivegrid aem-GridColumn aem-GridColumn--default--12">
+            <div class="col-sm-8 col-md-9 col-lg-9">
 
+                <nav class="navbar navbar-expand-md navbar-dark pb-0 pr-0 pl-0 pt-0" id="custom-home-navlink">
 
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
-    
-    <div class="header aem-GridColumn aem-GridColumn--default--12">
+                    <button class="navbar-toggler navbar-toggler-right custom-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
 
+                        <span class="navbar-toggler-icon "></span>
 
-  <section class="w-100 z-index-1 main-header-section" data-dl-title="Header">
-    <header class="d-xl-block d-none position-fixed w-100 tab-header">
-      <nav aria-label="Primary Navigation" class="navbar navbar-expand-lg position-relative py-0">
-        <div class="header_rollover position-fixed __display"></div>
-        <div class="main-header py-0">
-          <a class="navbar-brand position-relative py-0 tcs-right-logo" href="https://www.tcs.com"><img class="brand-logo-img " src="/content/dam/global-tcs/en/images/home/dark-theme.svg" alt="Tata Consultancy Services"/>
-            <span class="sr-only d-none">Tata Consultancy Services</span></a>
-          <span class="seperator"></span>
-          <div class="hamburger-menu">
-            <span></span>
-            <span></span>
-            <span></span>
-          </div>
-        </div>
-        <div class="navbar-collapse navbar_links">
-          
-            <ul class="navbar-nav mr-auto" role="menu">
-              
-                <li class="nav-item nav_item_li d-flex flex-column justify-content-center align-items-center" data-nav="subHeader0" data-nav-link="/content/tcs/global/en/what-we-do.html" role="presentation">
-                  <a class="nav-link" href="https://www.tcs.com/what-we-do" role="menuitem" aria-haspopup="true">What we do</a>
-                  <span class="nav-underline"></span>
-                </li>
-              
-                <li class="nav-item nav_item_li d-flex flex-column justify-content-center align-items-center" data-nav="subHeader1" data-nav-link="https://www.tcs.com/who-we-are" role="presentation">
-                  <a class="nav-link" href="https://www.tcs.com/who-we-are" role="menuitem" aria-haspopup="true">Who we are</a>
-                  <span class="nav-underline"></span>
-                </li>
-              
-                <li class="nav-item nav_item_li d-flex flex-column justify-content-center align-items-center" data-nav="subHeader2" data-nav-link="/content/tcs/global/en/insights.html" role="presentation">
-                  <a class="nav-link" href="https://www.tcs.com/insights" role="menuitem" aria-haspopup="true">Insights</a>
-                  <span class="nav-underline"></span>
-                </li>
-              
-                <li class="nav-item nav_item_li d-flex flex-column justify-content-center align-items-center" data-nav="subHeader3" data-nav-link="/content/tcs/global/en/careers.html" role="presentation">
-                  <a class="nav-link" href="https://www.tcs.com/careers" role="menuitem" aria-haspopup="true">Careers</a>
-                  <span class="nav-underline"></span>
-                </li>
-              
-                <li class="nav-item nav_item_li d-flex flex-column justify-content-center align-items-center" data-nav="subHeader4" data-nav-link="/content/tcs/global/en/who-we-are/newsroom.html" role="presentation">
-                  <a class="nav-link" href="https://www.tcs.com/who-we-are/newsroom" role="menuitem" aria-haspopup="true">New and now</a>
-                  <span class="nav-underline"></span>
-                </li>
-              
-                <li class="nav-item nav_item_li d-flex flex-column justify-content-center align-items-center" data-nav="subHeader5" data-nav-link="https://www.tcs.com/investor-relations" role="presentation">
-                  <a class="nav-link" href="https://www.tcs.com/investor-relations" role="menuitem" aria-haspopup="true">Investors</a>
-                  <span class="nav-underline"></span>
-                </li>
-              
-            </ul>
-          
-          
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-                
-                  <div class="navbar-text">
-                    
-                      
-                      <a tabindex="0" href="https://www.tcs.com/contact-us/whats-on-your-mind">Contact us</a>
-                    
-                  </div>
-                
-                  <div class="navbar-text">
-                    
-                      
-                      <a tabindex="0" href="https://www.tcs.com/who-we-are/worldwide">TCS Worldwide</a>
-                    
-                  </div>
-                
-              
-            
-          
-        </div>
-        <span class="navbar-text d-flex" tabindex="0" data-target="#searchModal" data-toggle="modal" data-backdrop="static" role="button">
-          <span class="search-icon"></span>
-          <span class="sr-only">Search</span>
-        </span>
-        <span class="navbar-text py-0 tcs-white-logo">
-          
-            
-            <a href="https://www.tata.com/" target="_blank"><img src="/content/dam/global-tcs/en/images/home/logo-tata.svg" alt="tata.com"/><span class="sr-only d-none">tata.com</span><span class="sr-only">Open in New Tab</span></a>
-          
-        </span>
-      </nav>
-      
-        <div>
-
-
-
-<div class="mega_menu pt-32 position-absolute" data-nav="subHeader0">
-  <div class="submenu_rollover w-100 position-absolute"></div>
-  <div class="tcs-custom-container px-0 menu_container">
-    <div class="row position-relative position-relative">
-      <div class="col-11 mega_menu_internal_div">
-        <div class="header-inner-left">
-          <ul class="inner-ul position-relative pl-0" role="tablist">
-            <li class="inner-link row" role="presentation"><a href="#" data-nav-id="subHeader0" class="d-flex justify-content-between align-items-center col-3 l2_link overview_link py-3 px-0 position-relative" role="tab">Overview
-             <div class="d-flex align-items-center"><span class="header-right-arrow-icon"></span></div></a><div class="l3_divinder col-1"></div><div class="col-12 col-md-6 row pb-5 sub-header-content sub_header_description position-absolute"><h3 class="font-white main-heading">TCS is here to make a difference through technology.
-             </h3>
-              
-                <p class="normal-content font-grayWhite pb-4">Leading the way in innovation for over 50 years, we build greater futures for businesses across multiple industries and 131 countries. </p>
-              
-              
-              <div class="d-flex align-items-center">
-                
-                  <a href="https://www.tcs.com/what-we-do" class="btn-l3-description  btn-responsive mt-3 mb-2 mr-4">Discover all solutions</a>
-                
-              </div>
-            </div>
-            </li>
-            
-              <li class="inner-link row" data-id="Industries" role="presentation">
-                <a href="https://www.tcs.com/what-we-do.html#industries" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Industries
-                  <div class="d-flex align-items-center">
-                    
-                    <span class="header-right-arrow-icon"></span>
-                    
-                  </div>
-                </a>
-                <div class="l3_divinder col-1"></div>
-                
-                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/industries/banking">Banking</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/industries/capital-markets">Capital Markets</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/industries/consumer-goods-distribution">Consumer Goods and Distribution</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/industries/communications-media-information-services">Communications, Media, and Information Services</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/industries/education">Education</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/industries/energy-resources-utilities">Energy, Resources, and Utilities</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/industries/healthcare">Healthcare</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/industries/high-tech">High Tech</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/industries/insurance">Insurance</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/industries/life-sciences">Life Sciences</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/industries/manufacturing">Manufacturing</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/industries/public-services">Public Services</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/industries/retail">Retail </a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/industries/travel-and-logistics">Travel and Logistics</a></li>
-                    
-                  </ul>
-                
-
-                
-                
-                
-                
-              </li>
-            
-              <li class="inner-link row" data-id="Services" role="presentation">
-                <a href="https://www.tcs.com/what-we-do.html#services" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Services
-                  <div class="d-flex align-items-center">
-                    
-                    <span class="header-right-arrow-icon"></span>
-                    
-                  </div>
-                </a>
-                <div class="l3_divinder col-1"></div>
-                
-                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/services/cloud">Cloud</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/services/cognitive-business-operations">Cognitive Business Operations</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/services/consulting">Consulting</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/services/cybersecurity">Cybersecurity</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/services/data-and-analytics">Data and Analytics</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/services/enterprise-solutions">Enterprise Solutions</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/services/iot-digital-engineering">IoT and Digital Engineering</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/services/network-solutions-and-services">Network Solutions and Services</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/services/tcs-interactive">TCS Interactive</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/services/sustainability-services">Sustainability Services</a></li>
-                    
-                  </ul>
-                
-
-                
-                
-                
-                
-              </li>
-            
-              <li class="inner-link row" data-id="Products and Platforms" role="presentation">
-                <a href="https://www.tcs.com/what-we-do.html#products" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Products and Platforms
-                  <div class="d-flex align-items-center">
-                    
-                    <span class="header-right-arrow-icon"></span>
-                    
-                  </div>
-                </a>
-                <div class="l3_divinder col-1"></div>
-                
-                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-add">TCS ADD™</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-bancs">TCS BANCS™</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-bfsi-platforms">TCS BFSI Platforms</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-chroma">TCS CHROMA™</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-customer-intelligence-insights">TCS Customer Intelligence &amp; Insights™</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-erp-on-cloud">TCS ERP on Cloud</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://digitate.com/">ignio™</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcsion.com/dotcom/TCSSMB/">TCS iON™</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-hobs">TCS HOBS™</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-intelligent-urban-exchange">TCS Intelligent Urban Exchange™</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-omnistore">TCS OmniStore™</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-optumera">TCS Optumera™</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-tap">TCS Tap™</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/products-platforms/quartz">Quartz™ – The Smart Ledgers™</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-twinx">TCS TwinX™</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-mastercraft">TCS MasterCraft™</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.jile.io/">Jile™</a></li>
-                    
-                  </ul>
-                
-
-                
-                
-                
-                
-              </li>
-            
-              <li class="inner-link row" data-id="Research &amp; Innovation" role="presentation">
-                <a href="https://www.tcs.com/what-we-do/research" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Research &amp; Innovation
-                  <div class="d-flex align-items-center">
-                    
-                    <span class="header-right-arrow-icon"></span>
-                    
-                  </div>
-                </a>
-                <div class="l3_divinder col-1"></div>
-                
-                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/research">TCS Research</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/pace-innovation">TCS Pace™</a></li>
-                    
-                  </ul>
-                
-
-                
-                
-                
-                
-              </li>
-            
-
-          </ul>
-        </div>
-      </div>
-
-      <div class="sub-header-right-rollover position-absolute d-none"></div>
-    </div>
-  </div>
-</div>
-
-
-<div id="subHeader0" class="collapse uniques mobile-level2" aria-labelledby="subHeader0" data-parent="#header-accordion">
-  <div class="px-3 d-flex flex-column" id="sub-menu-accordion-subHeader0">
-    <a data-nav-id="subHeader0" href="javascript:void(0);" class="mobile-tab-link py-3 overview-link"><span class="overview-text">Overview</span></a>
-    
-      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader00">
-        <div class="d-flex justify-content-between align-items-center">
-          <a href="https://www.tcs.com/what-we-do#industries" class="mobile-tab-link"><span>Industries</span>
-          </a>
-          
-            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader00" aria-expanded="false" aria-label="Industries" role="button" aria-controls="child-subHeader00" tabindex="0"></span>
-          
-        </div>
-        
-          <div id="child-subHeader00" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader00" data-parent="#sub-menu-accordion-subHeader0">
-            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/industries/banking">Banking</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/industries/capital-markets">Capital Markets</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/industries/consumer-goods-distribution">Consumer Goods and Distribution</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/industries/communications-media-information-services">Communications, Media, and Information Services</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/industries/education">Education</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/industries/energy-resources-utilities">Energy, Resources, and Utilities</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/industries/healthcare">Healthcare</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/industries/high-tech">High Tech</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/industries/insurance">Insurance</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/industries/life-sciences">Life Sciences</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/industries/manufacturing">Manufacturing</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/industries/public-services">Public Services</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/industries/retail">Retail </a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/industries/travel-and-logistics">Travel and Logistics</a></li>
-              
-            </ul>
-          </div>
-        
-      </li>
-    
-      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader01">
-        <div class="d-flex justify-content-between align-items-center">
-          <a href="https://www.tcs.com/what-we-do#services" class="mobile-tab-link"><span>Services</span>
-          </a>
-          
-            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader01" aria-expanded="false" aria-label="Services" role="button" aria-controls="child-subHeader01" tabindex="0"></span>
-          
-        </div>
-        
-          <div id="child-subHeader01" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader01" data-parent="#sub-menu-accordion-subHeader0">
-            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/services/cloud">Cloud</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/services/cognitive-business-operations">Cognitive Business Operations</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/services/consulting">Consulting</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/services/cybersecurity">Cybersecurity</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/services/data-and-analytics">Data and Analytics</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/services/enterprise-solutions">Enterprise Solutions</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/services/iot-digital-engineering">IoT and Digital Engineering</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/services/network-solutions-and-services">Network Solutions and Services</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/services/tcs-interactive">TCS Interactive</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/services/sustainability-services">Sustainability Services</a></li>
-              
-            </ul>
-          </div>
-        
-      </li>
-    
-      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader02">
-        <div class="d-flex justify-content-between align-items-center">
-          <a href="https://www.tcs.com/what-we-do#products" class="mobile-tab-link"><span>Products and Platforms</span>
-          </a>
-          
-            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader02" aria-expanded="false" aria-label="Products and Platforms" role="button" aria-controls="child-subHeader02" tabindex="0"></span>
-          
-        </div>
-        
-          <div id="child-subHeader02" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader02" data-parent="#sub-menu-accordion-subHeader0">
-            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-add">TCS ADD™</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-bancs">TCS BANCS™</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-bfsi-platforms">TCS BFSI Platforms</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-chroma">TCS CHROMA™</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-customer-intelligence-insights">TCS Customer Intelligence &amp; Insights™</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-erp-on-cloud">TCS ERP on Cloud</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://digitate.com/">ignio™</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcsion.com/dotcom/TCSSMB/">TCS iON™</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-hobs">TCS HOBS™</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-intelligent-urban-exchange">TCS Intelligent Urban Exchange™</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-omnistore">TCS OmniStore™</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-optumera">TCS Optumera™</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-tap">TCS Tap™</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/products-platforms/quartz">Quartz™ – The Smart Ledgers™</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-twinx">TCS TwinX™</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-mastercraft">TCS MasterCraft™</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.jile.io/">Jile™</a></li>
-              
-            </ul>
-          </div>
-        
-      </li>
-    
-      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader03">
-        <div class="d-flex justify-content-between align-items-center">
-          <a href="https://www.tcs.com/what-we-do/research" class="mobile-tab-link"><span>Research &amp; Innovation</span>
-          </a>
-          
-            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader03" aria-expanded="false" aria-label="Research &amp; Innovation" role="button" aria-controls="child-subHeader03" tabindex="0"></span>
-          
-        </div>
-        
-          <div id="child-subHeader03" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader03" data-parent="#sub-menu-accordion-subHeader0">
-            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/research">TCS Research</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/pace-innovation">TCS Pace™</a></li>
-              
-            </ul>
-          </div>
-        
-      </li>
-    
-  </div>
-</div></div>
-      
-        <div>
-
-
-
-<div class="mega_menu pt-32 position-absolute" data-nav="subHeader1">
-  <div class="submenu_rollover w-100 position-absolute"></div>
-  <div class="tcs-custom-container px-0 menu_container">
-    <div class="row position-relative position-relative">
-      <div class="col-11 mega_menu_internal_div">
-        <div class="header-inner-left">
-          <ul class="inner-ul position-relative pl-0" role="tablist">
-            <li class="inner-link row" role="presentation"><a href="#" data-nav-id="subHeader1" class="d-flex justify-content-between align-items-center col-3 l2_link overview_link py-3 px-0 position-relative" role="tab">Overview
-             <div class="d-flex align-items-center"><span class="header-right-arrow-icon"></span></div></a><div class="l3_divinder col-1"></div><div class="col-12 col-md-6 row pb-5 sub-header-content sub_header_description position-absolute"><h3 class="font-white main-heading">We’re in it for good, driving positive change for the benefit of all.
-             </h3>
-              
-                <p class="normal-content font-grayWhite pb-4">Our expert, committed team put our shared beliefs into action – every day. Together, we combine innovation and collective knowledge to create the extraordinary. </p>
-              
-              
-              <div class="d-flex align-items-center">
-                
-                  <a href="https://www.tcs.com/who-we-are" class="btn-l3-description  btn-responsive mt-3 mb-2 mr-4">Discover the difference</a>
-                
-              </div>
-            </div>
-            </li>
-            
-              <li class="inner-link row" data-id="About Us" role="presentation">
-                <a href="https://www.tcs.com/who-we-are" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">About Us
-                  <div class="d-flex align-items-center">
-                    
-                    <span class="header-right-arrow-icon"></span>
-                    
-                  </div>
-                </a>
-                <div class="l3_divinder col-1"></div>
-                
-                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/who-we-are/tcs-sustainable-business-carbon-neutrality">Corporate Sustainability</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/who-we-are/diversity-equity-inclusion">Diversity, Equity, and Inclusion</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/who-we-are/corporate-social-responsibility">Corporate Social Responsibility </a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/who-we-are/tcs-way">The TCS Way</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/who-we-are/sports-sponsorships">Sports Sponsorships</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/who-we-are/alliances-partnerships">Alliances</a></li>
-                    
-                  </ul>
-                
-
-                
-                
-                
-                
-              </li>
-            
-              <li class="inner-link row" data-id="Leadership" role="presentation">
-                <a href="https://www.tcs.com/who-we-are/leadership" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Leadership
-                  <div class="d-flex align-items-center">
-                    
-                  </div>
-                </a>
-                <div class="l3_divinder col-1"></div>
-                
-
-                
-                
-                
-                
-              </li>
-            
-              <li class="inner-link row" data-id="Events" role="presentation">
-                <a href="https://www.tcs.com/who-we-are/events" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Events
-                  <div class="d-flex align-items-center">
-                    
-                  </div>
-                </a>
-                <div class="l3_divinder col-1"></div>
-                
-
-                
-                
-                
-                
-              </li>
-            
-
-          </ul>
-        </div>
-      </div>
-
-      <div class="sub-header-right-rollover position-absolute d-none"></div>
-    </div>
-  </div>
-</div>
-
-
-<div id="subHeader1" class="collapse uniques mobile-level2" aria-labelledby="subHeader1" data-parent="#header-accordion">
-  <div class="px-3 d-flex flex-column" id="sub-menu-accordion-subHeader1">
-    <a data-nav-id="subHeader1" href="javascript:void(0);" class="mobile-tab-link py-3 overview-link"><span class="overview-text">Overview</span></a>
-    
-      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader10">
-        <div class="d-flex justify-content-between align-items-center">
-          <a href="https://www.tcs.com/who-we-are" class="mobile-tab-link"><span>About Us</span>
-          </a>
-          
-            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader10" aria-expanded="false" aria-label="About Us" role="button" aria-controls="child-subHeader10" tabindex="0"></span>
-          
-        </div>
-        
-          <div id="child-subHeader10" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader10" data-parent="#sub-menu-accordion-subHeader1">
-            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/who-we-are/tcs-sustainable-business-carbon-neutrality">Corporate Sustainability</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/who-we-are/diversity-equity-inclusion">Diversity, Equity, and Inclusion</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/who-we-are/corporate-social-responsibility">Corporate Social Responsibility </a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/who-we-are/tcs-way">The TCS Way</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/who-we-are/sports-sponsorships">Sports Sponsorships</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/who-we-are/alliances-partnerships">Alliances</a></li>
-              
-            </ul>
-          </div>
-        
-      </li>
-    
-      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader11">
-        <div class="d-flex justify-content-between align-items-center">
-          <a href="https://www.tcs.com/who-we-are/leadership" class="mobile-tab-link"><span>Leadership</span>
-          </a>
-          
-        </div>
-        
-      </li>
-    
-      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader12">
-        <div class="d-flex justify-content-between align-items-center">
-          <a href="https://www.tcs.com/who-we-are/events" class="mobile-tab-link"><span>Events</span>
-          </a>
-          
-        </div>
-        
-      </li>
-    
-  </div>
-</div></div>
-      
-        <div>
-
-
-
-<div class="mega_menu pt-32 position-absolute" data-nav="subHeader2">
-  <div class="submenu_rollover w-100 position-absolute"></div>
-  <div class="tcs-custom-container px-0 menu_container">
-    <div class="row position-relative position-relative">
-      <div class="col-11 mega_menu_internal_div">
-        <div class="header-inner-left">
-          <ul class="inner-ul position-relative pl-0" role="tablist">
-            <li class="inner-link row" role="presentation"><a href="#" data-nav-id="subHeader2" class="d-flex justify-content-between align-items-center col-3 l2_link overview_link py-3 px-0 position-relative" role="tab">Overview
-             <div class="d-flex align-items-center"><span class="header-right-arrow-icon"></span></div></a><div class="l3_divinder col-1"></div><div class="col-12 col-md-6 row pb-5 sub-header-content sub_header_description position-absolute"><h3 class="font-white main-heading">Extraordinary expertise leads to remarkable results.
-             </h3>
-              
-                <p class="normal-content font-grayWhite pb-4">We share news, insights, analysis and research – tailored to your unique interests – to help you deepen your knowledge and impact. </p>
-              
-              
-              <div class="d-flex align-items-center">
-                
-                  <a href="https://www.tcs.com/insights" class="btn-l3-description  btn-responsive mt-3 mb-2 mr-4">Discover Expert Insights</a>
-                
-              </div>
-            </div>
-            </li>
-            
-              <li class="inner-link row" data-id="Customer Stories" role="presentation">
-                <a href="https://www.tcs.com/insights/customer-stories" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Customer Stories
-                  <div class="d-flex align-items-center">
-                    
-                  </div>
-                </a>
-                <div class="l3_divinder col-1"></div>
-                
-
-                
-                
-                
-                
-              </li>
-            
-              <li class="inner-link row" data-id="Perspectives" role="presentation">
-                <a href="https://www.tcs.com/insights/perspectives" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Perspectives
-                  <div class="d-flex align-items-center">
-                    
-                  </div>
-                </a>
-                <div class="l3_divinder col-1"></div>
-                
-
-                
-                
-                
-                
-              </li>
-            
-              <li class="inner-link row" data-id="Global studies" role="presentation">
-                <a href="https://www.tcs.com/insights/global-studies" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Global studies
-                  <div class="d-flex align-items-center">
-                    
-                  </div>
-                </a>
-                <div class="l3_divinder col-1"></div>
-                
-
-                
-                
-                
-                
-              </li>
-            
-              <li class="inner-link row" data-id="Topics" role="presentation">
-                <a href="https://www.tcs.com/insights" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Topics
-                  <div class="d-flex align-items-center">
-                    
-                    <span class="header-right-arrow-icon"></span>
-                    
-                  </div>
-                </a>
-                <div class="l3_divinder col-1"></div>
-                
-                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/insights">Insights</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/insights/topics/metaverse-topic">Metaverse</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/insights/topics/sustainability-topic">Sustainability</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/insights/topics/cybersecurity-topic">Cybersecurity</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/insights/topics/ai-ml-topic">AI &amp; ML</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/insights/topics/blockchain-topic">Blockchain</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/insights/topics/cloud-topic">Cloud</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/insights/topics/future-of-work-topic">Future of Work</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/insights/topics/health-and-wellness-topic">Health &amp; Wellness</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/insights/topics/internet-of-things-topic">IoT</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/insights/topics/data-analytics-storage-topic">Data Analytics and Storage</a></li>
-                    
-                  </ul>
-                
-
-                
-                
-                
-                
-              </li>
-            
-
-          </ul>
-        </div>
-      </div>
-
-      <div class="sub-header-right-rollover position-absolute d-none"></div>
-    </div>
-  </div>
-</div>
-
-
-<div id="subHeader2" class="collapse uniques mobile-level2" aria-labelledby="subHeader2" data-parent="#header-accordion">
-  <div class="px-3 d-flex flex-column" id="sub-menu-accordion-subHeader2">
-    <a data-nav-id="subHeader2" href="javascript:void(0);" class="mobile-tab-link py-3 overview-link"><span class="overview-text">Overview</span></a>
-    
-      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader20">
-        <div class="d-flex justify-content-between align-items-center">
-          <a href="https://www.tcs.com/insights/customer-stories" class="mobile-tab-link"><span>Customer Stories</span>
-          </a>
-          
-        </div>
-        
-      </li>
-    
-      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader21">
-        <div class="d-flex justify-content-between align-items-center">
-          <a href="https://www.tcs.com/insights/perspectives" class="mobile-tab-link"><span>Perspectives</span>
-          </a>
-          
-        </div>
-        
-      </li>
-    
-      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader22">
-        <div class="d-flex justify-content-between align-items-center">
-          <a href="https://www.tcs.com/insights/global-studies" class="mobile-tab-link"><span>Global studies</span>
-          </a>
-          
-        </div>
-        
-      </li>
-    
-      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader23">
-        <div class="d-flex justify-content-between align-items-center">
-          <a href="https://www.tcs.com/insights" class="mobile-tab-link"><span>Topics</span>
-          </a>
-          
-            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader23" aria-expanded="false" aria-label="Topics" role="button" aria-controls="child-subHeader23" tabindex="0"></span>
-          
-        </div>
-        
-          <div id="child-subHeader23" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader23" data-parent="#sub-menu-accordion-subHeader2">
-            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/insights">Insights</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/insights/topics/metaverse-topic">Metaverse</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/insights/topics/sustainability-topic">Sustainability</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/insights/topics/cybersecurity-topic">Cybersecurity</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/insights/topics/ai-ml-topic">AI &amp; ML</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/insights/topics/blockchain-topic">Blockchain</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/insights/topics/cloud-topic">Cloud</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/insights/topics/future-of-work-topic">Future of Work</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/insights/topics/health-and-wellness-topic">Health &amp; Wellness</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/insights/topics/internet-of-things-topic">IoT</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/insights/topics/data-analytics-storage-topic">Data Analytics and Storage</a></li>
-              
-            </ul>
-          </div>
-        
-      </li>
-    
-  </div>
-</div></div>
-      
-        <div>
-
-
-
-<div class="mega_menu pt-32 position-absolute" data-nav="subHeader3">
-  <div class="submenu_rollover w-100 position-absolute"></div>
-  <div class="tcs-custom-container px-0 menu_container">
-    <div class="row position-relative position-relative">
-      <div class="col-11 mega_menu_internal_div">
-        <div class="header-inner-left">
-          <ul class="inner-ul position-relative pl-0" role="tablist">
-            <li class="inner-link row" role="presentation"><a href="#" data-nav-id="subHeader3" class="d-flex justify-content-between align-items-center col-3 l2_link overview_link py-3 px-0 position-relative" role="tab">Overview
-             <div class="d-flex align-items-center"><span class="header-right-arrow-icon"></span></div></a><div class="l3_divinder col-1"></div><div class="col-12 col-md-6 row pb-5 sub-header-content sub_header_description position-absolute"><h3 class="font-white main-heading">Want to be a global change-maker?  Join our team.
-             </h3>
-              
-                <p class="normal-content font-grayWhite pb-4">At TCS, we believe exceptional work begins with hiring, celebrating and nurturing the best people — from all walks of life. </p>
-              
-              
-              <div class="d-flex align-items-center">
-                
-                  <a href="https://www.tcs.com/careers" class="btn-l3-description  btn-responsive mt-3 mb-2 mr-4">Join us</a>
-                
-              </div>
-            </div>
-            </li>
-            
-              <li class="inner-link row" data-id="India" role="presentation">
-                <a href="https://www.tcs.com/careers/india" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">India
-                  <div class="d-flex align-items-center">
-                    
-                    <span class="header-right-arrow-icon"></span>
-                    
-                  </div>
-                </a>
-                <div class="l3_divinder col-1"></div>
-                
-                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/india">India</a></li>
-                    
-                  </ul>
-                
-
-                
-                
-                
-                
-              </li>
-            
-              <li class="inner-link row" data-id="Americas" role="presentation">
-                <a href="https://www.tcs.com/careers" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Americas
-                  <div class="d-flex align-items-center">
-                    
-                    <span class="header-right-arrow-icon"></span>
-                    
-                  </div>
-                </a>
-                <div class="l3_divinder col-1"></div>
-                
-                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/argentina">Argentina</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/brazil">Brazil</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/canada">Canada</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/chile">Chile</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/colombia">Colombia</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/ecuador">Ecuador</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/mexico">Mexico</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/peru">Peru</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/uruguay">Uruguay</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/united-states">USA</a></li>
-                    
-                  </ul>
-                
-
-                
-                
-                
-                
-              </li>
-            
-              <li class="inner-link row" data-id="Asia Pacific" role="presentation">
-                <a href="https://www.tcs.com/careers" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Asia Pacific
-                  <div class="d-flex align-items-center">
-                    
-                    <span class="header-right-arrow-icon"></span>
-                    
-                  </div>
-                </a>
-                <div class="l3_divinder col-1"></div>
-                
-                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/australia">Australia</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/china">Mainland China</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/hongkong">Hong Kong SAR</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/indonesia">Indonesia</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/japan">Japan</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/malaysia">Malaysia</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/newzealand">New Zealand</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/philippines">Philippines</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/republic-of-korea">Republic of Korea</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/singapore">Singapore</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/taiwan">Chinese Taipei</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/thailand">Thailand</a></li>
-                    
-                  </ul>
-                
-
-                
-                
-                
-                
-              </li>
-            
-              <li class="inner-link row" data-id="Europe and UK" role="presentation">
-                <a href="https://www.tcs.com/careers/trainee-program-graduates-europe" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Europe and UK
-                  <div class="d-flex align-items-center">
-                    
-                    <span class="header-right-arrow-icon"></span>
-                    
-                  </div>
-                </a>
-                <div class="l3_divinder col-1"></div>
-                
-                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/belgium">Belgium</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/denmark">Denmark</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/estonia">Estonia</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/finland">Finland</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/france">France</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/germany">Germany</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/hungary">Hungary</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/ireland">Ireland</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/italy">Italy</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/luxembourg">Luxembourg</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/netherlands">Netherlands</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/norway">Norway</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/poland">Poland</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/portugal">Portugal</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/spain">Spain</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/sweden">Sweden</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/switzerland">Switzerland</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/united-kingdom">United Kingdom</a></li>
-                    
-                  </ul>
-                
-
-                
-                
-                
-                
-              </li>
-            
-              <li class="inner-link row" data-id="Middle East and Africa" role="presentation">
-                <a href="https://www.tcs.com/careers" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Middle East and Africa
-                  <div class="d-flex align-items-center">
-                    
-                    <span class="header-right-arrow-icon"></span>
-                    
-                  </div>
-                </a>
-                <div class="l3_divinder col-1"></div>
-                
-                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/bahrain">Bahrain</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/israel">Israel</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/kuwait">Kuwait</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/qatar">Qatar</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/saudi-arabia">Saudi Arabia</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/south-africa">South Africa</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/united-arab-emirates">United Arab Emirates</a></li>
-                    
-                  </ul>
-                
-
-                
-                
-                
-                
-              </li>
-            
-
-          </ul>
-        </div>
-      </div>
-
-      <div class="sub-header-right-rollover position-absolute d-none"></div>
-    </div>
-  </div>
-</div>
-
-
-<div id="subHeader3" class="collapse uniques mobile-level2" aria-labelledby="subHeader3" data-parent="#header-accordion">
-  <div class="px-3 d-flex flex-column" id="sub-menu-accordion-subHeader3">
-    <a data-nav-id="subHeader3" href="javascript:void(0);" class="mobile-tab-link py-3 overview-link"><span class="overview-text">Overview</span></a>
-    
-      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader30">
-        <div class="d-flex justify-content-between align-items-center">
-          <a href="https://www.tcs.com/careers/india" class="mobile-tab-link"><span>India</span>
-          </a>
-          
-            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader30" aria-expanded="false" aria-label="India" role="button" aria-controls="child-subHeader30" tabindex="0"></span>
-          
-        </div>
-        
-          <div id="child-subHeader30" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader30" data-parent="#sub-menu-accordion-subHeader3">
-            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/india">India</a></li>
-              
-            </ul>
-          </div>
-        
-      </li>
-    
-      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader31">
-        <div class="d-flex justify-content-between align-items-center">
-          <a href="https://www.tcs.com/careers" class="mobile-tab-link"><span>Americas</span>
-          </a>
-          
-            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader31" aria-expanded="false" aria-label="Americas" role="button" aria-controls="child-subHeader31" tabindex="0"></span>
-          
-        </div>
-        
-          <div id="child-subHeader31" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader31" data-parent="#sub-menu-accordion-subHeader3">
-            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/argentina">Argentina</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/brazil">Brazil</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/canada">Canada</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/chile">Chile</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/colombia">Colombia</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/ecuador">Ecuador</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/mexico">Mexico</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/peru">Peru</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/uruguay">Uruguay</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/united-states">USA</a></li>
-              
-            </ul>
-          </div>
-        
-      </li>
-    
-      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader32">
-        <div class="d-flex justify-content-between align-items-center">
-          <a href="https://www.tcs.com/careers" class="mobile-tab-link"><span>Asia Pacific</span>
-          </a>
-          
-            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader32" aria-expanded="false" aria-label="Asia Pacific" role="button" aria-controls="child-subHeader32" tabindex="0"></span>
-          
-        </div>
-        
-          <div id="child-subHeader32" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader32" data-parent="#sub-menu-accordion-subHeader3">
-            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/australia">Australia</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/china">Mainland China</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/hongkong">Hong Kong SAR</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/indonesia">Indonesia</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/japan">Japan</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/malaysia">Malaysia</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/newzealand">New Zealand</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/philippines">Philippines</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/republic-of-korea">Republic of Korea</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/singapore">Singapore</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/taiwan">Chinese Taipei</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/thailand">Thailand</a></li>
-              
-            </ul>
-          </div>
-        
-      </li>
-    
-      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader33">
-        <div class="d-flex justify-content-between align-items-center">
-          <a href="https://www.tcs.com/careers/trainee-program-graduates-europe" class="mobile-tab-link"><span>Europe and UK</span>
-          </a>
-          
-            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader33" aria-expanded="false" aria-label="Europe and UK" role="button" aria-controls="child-subHeader33" tabindex="0"></span>
-          
-        </div>
-        
-          <div id="child-subHeader33" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader33" data-parent="#sub-menu-accordion-subHeader3">
-            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/belgium">Belgium</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/denmark">Denmark</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/estonia">Estonia</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/finland">Finland</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/france">France</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/germany">Germany</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/hungary">Hungary</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/ireland">Ireland</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/italy">Italy</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/luxembourg">Luxembourg</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/netherlands">Netherlands</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/norway">Norway</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/poland">Poland</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/portugal">Portugal</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/spain">Spain</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/sweden">Sweden</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/switzerland">Switzerland</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/united-kingdom">United Kingdom</a></li>
-              
-            </ul>
-          </div>
-        
-      </li>
-    
-      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader34">
-        <div class="d-flex justify-content-between align-items-center">
-          <a href="https://www.tcs.com/careers" class="mobile-tab-link"><span>Middle East and Africa</span>
-          </a>
-          
-            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader34" aria-expanded="false" aria-label="Middle East and Africa" role="button" aria-controls="child-subHeader34" tabindex="0"></span>
-          
-        </div>
-        
-          <div id="child-subHeader34" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader34" data-parent="#sub-menu-accordion-subHeader3">
-            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/bahrain">Bahrain</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/israel">Israel</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/kuwait">Kuwait</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/qatar">Qatar</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/saudi-arabia">Saudi Arabia</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/south-africa">South Africa</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/united-arab-emirates">United Arab Emirates</a></li>
-              
-            </ul>
-          </div>
-        
-      </li>
-    
-  </div>
-</div></div>
-      
-        <div>
-
-
-
-<div class="mega_menu pt-32 position-absolute" data-nav="subHeader4">
-  <div class="submenu_rollover w-100 position-absolute"></div>
-  <div class="tcs-custom-container px-0 menu_container">
-    <div class="row position-relative position-relative">
-      <div class="col-11 mega_menu_internal_div">
-        <div class="header-inner-left">
-          <ul class="inner-ul position-relative pl-0" role="tablist">
-            <li class="inner-link row" role="presentation"><a href="#" data-nav-id="subHeader4" class="d-flex justify-content-between align-items-center col-3 l2_link overview_link py-3 px-0 position-relative" role="tab">Overview
-             <div class="d-flex align-items-center"><span class="header-right-arrow-icon"></span></div></a><div class="l3_divinder col-1"></div><div class="col-12 col-md-6 row pb-5 sub-header-content sub_header_description position-absolute"><h3 class="font-white main-heading">
-             </h3>
-              
-                <p class="normal-content font-grayWhite pb-4"> </p>
-              
-              
-              <div class="d-flex align-items-center">
-                
-              </div>
-            </div>
-            </li>
-            
-              <li class="inner-link row" data-id="Newsroom" role="presentation">
-                <a href="https://www.tcs.com/who-we-are/newsroom" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Newsroom
-                  <div class="d-flex align-items-center">
-                    
-                    <span class="header-right-arrow-icon"></span>
-                    
-                  </div>
-                </a>
-                <div class="l3_divinder col-1"></div>
-                
-
-                
-                
-                  <div class="right-submenu-l3 non-list-div row col-8 position-absolute level3_container flex-column">
-                    <h4 class="sub-heading pb-4">Recent News</h4>
-                    
-                      <div class="d-flex flex-column pb-32">
-                          <div class="d-flex">
-                            
-                            <div class="d-flex flex-column ">
-                              <span class="small-content-span">18 Dec 2023</span>
-                              <a href="https://www.tcs.com/who-we-are/newsroom/press-release/class-eight-student-thrissur-kerela-aditya-kb-wins-indias-largest-interschool-quiz-tcs-inquizitive-2023" class="section-content">Class 8 student from Thrissur, Kerela, Aditya KB wins India’s largest Interschool quiz – TCS INQuizitive 2023</a>
-                            </div>
-                          </div>
-                      </div>
-                    
-                      <div class="d-flex flex-column pb-32">
-                          <div class="d-flex">
-                            
-                            <div class="d-flex flex-column ">
-                              <span class="small-content-span">18 Dec 2023</span>
-                              <a href="https://www.tcs.com/who-we-are/newsroom/press-release/six-partners-with-tcs-to-transform-its-swiss-post-trade-market-infrastructure" class="section-content">SIX Partners with TCS to Transform its Swiss Post Trade Market Infrastructure</a>
-                            </div>
-                          </div>
-                      </div>
-                    
-                      <div class="d-flex flex-column pb-32">
-                          <div class="d-flex">
-                            
-                            <div class="d-flex flex-column ">
-                              <span class="small-content-span">14 Dec 2023</span>
-                              <a href="https://www.tcs.com/who-we-are/newsroom/press-release/tcs-recognized-aws-gsi-partner-year-global-2023" class="section-content">TCS Recognized by AWS as GSI Partner of the Year-Global  for 2023</a>
-                            </div>
-                          </div>
-                      </div>
-                    
-                    <a class="cta-anchor-tag"></a>
-                  </div>
-                
-                
-                
-              </li>
-            
-              <li class="inner-link row" data-id="Analyst recognition" role="presentation">
-                <a href="https://www.tcs.com/who-we-are/newsroom/analyst-recognition" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Analyst recognition
-                  <div class="d-flex align-items-center">
-                    
-                    <span class="header-right-arrow-icon"></span>
-                    
-                  </div>
-                </a>
-                <div class="l3_divinder col-1"></div>
-                
-
-                
-                
-                  <div class="right-submenu-l3 non-list-div row col-8 position-absolute level3_container flex-column">
-                    <h4 class="sub-heading pb-4">Recent recognitions</h4>
-                    
-                      <div class="d-flex flex-column pb-32">
-                          <div class="d-flex">
-                            
-                            <div class="d-flex flex-column ">
-                              <span class="small-content-span">26 Sep 2023</span>
-                              <a href="https://www.tcs.com/who-we-are/newsroom/analyst-reports/banking-operations-leader-everest-group" class="section-content"> TCS Named a Leader in Banking Ops Services PEAK Matrix™ Assessment</a>
-                            </div>
-                          </div>
-                      </div>
-                    
-                      <div class="d-flex flex-column pb-32">
-                          <div class="d-flex">
-                            
-                            <div class="d-flex flex-column ">
-                              <span class="small-content-span">06 Sep 2023</span>
-                              <a href="https://www.tcs.com/who-we-are/newsroom/analyst-reports/leader-higher-education-digital-services" class="section-content">TCS a leader in higher education digital services: Avasant Report</a>
-                            </div>
-                          </div>
-                      </div>
-                    
-                      <div class="d-flex flex-column pb-32">
-                          <div class="d-flex">
-                            
-                            <div class="d-flex flex-column ">
-                              <span class="small-content-span">05 Sep 2023</span>
-                              <a href="https://www.tcs.com/who-we-are/newsroom/analyst-reports/asset-wealth-management-leader-everest-group" class="section-content">TCS Named a Leader in Asset and Wealth Management IT services</a>
-                            </div>
-                          </div>
-                      </div>
-                    
-                    <a class="cta-anchor-tag"></a>
-                  </div>
-                
-                
-                
-              </li>
-            
-
-          </ul>
-        </div>
-      </div>
-
-      <div class="sub-header-right-rollover position-absolute d-none"></div>
-    </div>
-  </div>
-</div>
-
-
-<div id="subHeader4" class="collapse uniques mobile-level2" aria-labelledby="subHeader4" data-parent="#header-accordion">
-  <div class="px-3 d-flex flex-column" id="sub-menu-accordion-subHeader4">
-    <a data-nav-id="subHeader4" href="javascript:void(0);" class="mobile-tab-link py-3 overview-link"><span class="overview-text">Overview</span></a>
-    
-      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader40">
-        <div class="d-flex justify-content-between align-items-center">
-          <a href="https://www.tcs.com/who-we-are/newsroom" class="mobile-tab-link"><span>Newsroom</span>
-          </a>
-          
-        </div>
-        
-      </li>
-    
-      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader41">
-        <div class="d-flex justify-content-between align-items-center">
-          <a href="https://www.tcs.com/who-we-are/newsroom/analyst-recognition" class="mobile-tab-link"><span>Analyst recognition</span>
-          </a>
-          
-        </div>
-        
-      </li>
-    
-  </div>
-</div></div>
-      
-        <div>
-
-
-
-<div class="mega_menu pt-32 position-absolute" data-nav="subHeader5">
-  <div class="submenu_rollover w-100 position-absolute"></div>
-  <div class="tcs-custom-container px-0 menu_container">
-    <div class="row position-relative position-relative">
-      <div class="col-11 mega_menu_internal_div">
-        <div class="header-inner-left">
-          <ul class="inner-ul position-relative pl-0" role="tablist">
-            <li class="inner-link row" role="presentation"><a href="#" data-nav-id="subHeader5" class="d-flex justify-content-between align-items-center col-3 l2_link overview_link py-3 px-0 position-relative" role="tab">Overview
-             <div class="d-flex align-items-center"><span class="header-right-arrow-icon"></span></div></a><div class="l3_divinder col-1"></div><div class="col-12 col-md-6 row pb-5 sub-header-content sub_header_description position-absolute"><h3 class="font-white main-heading">TCS works hand in hand with world-leading investors.
-             </h3>
-              
-              
-                <div class="show-stock d-flex border investor-data-table">
-                  <div class="p-4 investor-description">
-                    <div class="investor-brand-name">Tata Consultancy Services Limited</div>
-                    <div class="investor-data-type">NSE:TCS</div>
-                  </div>
-                  <div class="p-4 investor-data">
-                    <div class="nse-price"><span class="nsePrice pr-2"></span>INR</div>
-                    <div class="nse-percentage"><span class="nsePercent"></span></div>
-                  </div>
-                </div>
-              
-              <div class="d-flex align-items-center">
-                
-                  <a href="https://www.tcs.com/investor-relations" class="btn-l3-description  btn-responsive mt-3 mb-2 mr-4">Discover more</a>
-                
-              </div>
-            </div>
-            </li>
-            
-              <li class="inner-link row" data-id="Management Commentary" role="presentation">
-                <a href="https://www.tcs.com/investor-relations.html#management" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Management Commentary
-                  <div class="d-flex align-items-center">
-                    
-                    <span class="header-right-arrow-icon"></span>
-                    
-                  </div>
-                </a>
-                <div class="l3_divinder col-1"></div>
-                
-                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/management-commentary/latest-quarter-commentary">Latest Quarter Commentary</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/management-commentary/annual-report-sections">Annual Report Section</a></li>
-                    
-                  </ul>
-                
-
-                
-                
-                
-                
-              </li>
-            
-              <li class="inner-link row" data-id="Financials" role="presentation">
-                <a href="https://www.tcs.com/investor-relations.html#quarterly" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Financials
-                  <div class="d-flex align-items-center">
-                    
-                    <span class="header-right-arrow-icon"></span>
-                    
-                  </div>
-                </a>
-                <div class="l3_divinder col-1"></div>
-                
-                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/financial-statements">Quarterly Earnings Reports</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/content/dam/tcs/pdf/discover-tcs/investor-relations/tcs-data-sheet/TCS-Data-Sheet-Q1FY24.xlsx">Download TCS Data Sheet</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/cmc-financials">Erstwhile CMC Financials</a></li>
-                    
-                  </ul>
-                
-
-                
-                
-                
-                
-              </li>
-            
-              <li class="inner-link row" data-id="News and Events" role="presentation">
-                <a href="https://www.tcs.com/investor-relations.html#news" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">News and Events
-                  <div class="d-flex align-items-center">
-                    
-                    <span class="header-right-arrow-icon"></span>
-                    
-                  </div>
-                </a>
-                <div class="l3_divinder col-1"></div>
-                
-                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/who-we-are/newsroom/investor-press-release">Press Releases</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/view-all-corporate-actions">Corporate Actions</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/events">Events</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/calendar">Calendar</a></li>
-                    
-                  </ul>
-                
-
-                
-                
-                
-                
-              </li>
-            
-              <li class="inner-link row" data-id="ESG" role="presentation">
-                <a href="https://www.tcs.com/investor-relations.html#esg" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">ESG
-                  <div class="d-flex align-items-center">
-                    
-                    <span class="header-right-arrow-icon"></span>
-                    
-                  </div>
-                </a>
-                <div class="l3_divinder col-1"></div>
-                
-                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/esg/environment">Environment</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/esg/social">Social</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/corporate-governance">Governance</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/corporate-sustainability-investor-relations">Policies and Reports</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/stakeholder-engagement-identification-material-issues">Stakeholder Engagement and Identification of Material Issues</a></li>
-                    
-                  </ul>
-                
-
-                
-                
-                
-                
-              </li>
-            
-              <li class="inner-link row" data-id="Resources" role="presentation">
-                <a href="https://www.tcs.com/investor-relations.html#resource" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Resources
-                  <div class="d-flex align-items-center">
-                    
-                    <span class="header-right-arrow-icon"></span>
-                    
-                  </div>
-                </a>
-                <div class="l3_divinder col-1"></div>
-                
-                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/glossary">Glossary</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/investor-faqs">Investor FAQs</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/stock-information">Stock Information</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/overlays/analyst-coverage">Analyst Coverage</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/subsidiaries">Subsidiaries</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/contact-us/whats-on-your-mind/ir-landing/ir-form">Subscribe to Investor Updates</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://iepfinvestorinfo.tcsapps.com/#/home">Unclaimed Dividend Information</a></li>
-                    
-                  </ul>
-                
-
-                
-                
-                
-                
-              </li>
-            
-
-          </ul>
-        </div>
-      </div>
-
-      <div class="sub-header-right-rollover position-absolute d-none"></div>
-    </div>
-  </div>
-</div>
-
-
-<div id="subHeader5" class="collapse uniques mobile-level2" aria-labelledby="subHeader5" data-parent="#header-accordion">
-  <div class="px-3 d-flex flex-column" id="sub-menu-accordion-subHeader5">
-    <a data-nav-id="subHeader5" href="javascript:void(0);" class="mobile-tab-link py-3 overview-link"><span class="overview-text">Overview</span></a>
-    
-      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader50">
-        <div class="d-flex justify-content-between align-items-center">
-          <a href="https://www.tcs.com/investor-relations#management" class="mobile-tab-link"><span>Management Commentary</span>
-          </a>
-          
-            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader50" aria-expanded="false" aria-label="Management Commentary" role="button" aria-controls="child-subHeader50" tabindex="0"></span>
-          
-        </div>
-        
-          <div id="child-subHeader50" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader50" data-parent="#sub-menu-accordion-subHeader5">
-            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/management-commentary/latest-quarter-commentary">Latest Quarter Commentary</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/management-commentary/annual-report-sections">Annual Report Section</a></li>
-              
-            </ul>
-          </div>
-        
-      </li>
-    
-      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader51">
-        <div class="d-flex justify-content-between align-items-center">
-          <a href="https://www.tcs.com/investor-relations#quarterly" class="mobile-tab-link"><span>Financials</span>
-          </a>
-          
-            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader51" aria-expanded="false" aria-label="Financials" role="button" aria-controls="child-subHeader51" tabindex="0"></span>
-          
-        </div>
-        
-          <div id="child-subHeader51" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader51" data-parent="#sub-menu-accordion-subHeader5">
-            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/financial-statements">Quarterly Earnings Reports</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/content/dam/tcs/pdf/discover-tcs/investor-relations/tcs-data-sheet/TCS-Data-Sheet-Q1FY24.xlsx">Download TCS Data Sheet</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/cmc-financials">Erstwhile CMC Financials</a></li>
-              
-            </ul>
-          </div>
-        
-      </li>
-    
-      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader52">
-        <div class="d-flex justify-content-between align-items-center">
-          <a href="https://www.tcs.com/investor-relations#news" class="mobile-tab-link"><span>News and Events</span>
-          </a>
-          
-            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader52" aria-expanded="false" aria-label="News and Events" role="button" aria-controls="child-subHeader52" tabindex="0"></span>
-          
-        </div>
-        
-          <div id="child-subHeader52" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader52" data-parent="#sub-menu-accordion-subHeader5">
-            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/who-we-are/newsroom/investor-press-release">Press Releases</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/view-all-corporate-actions">Corporate Actions</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/events">Events</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/calendar">Calendar</a></li>
-              
-            </ul>
-          </div>
-        
-      </li>
-    
-      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader53">
-        <div class="d-flex justify-content-between align-items-center">
-          <a href="https://www.tcs.com/investor-relations#esg" class="mobile-tab-link"><span>ESG</span>
-          </a>
-          
-            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader53" aria-expanded="false" aria-label="ESG" role="button" aria-controls="child-subHeader53" tabindex="0"></span>
-          
-        </div>
-        
-          <div id="child-subHeader53" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader53" data-parent="#sub-menu-accordion-subHeader5">
-            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/esg/environment">Environment</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/esg/social">Social</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/corporate-governance">Governance</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/corporate-sustainability-investor-relations">Policies and Reports</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/stakeholder-engagement-identification-material-issues">Stakeholder Engagement and Identification of Material Issues</a></li>
-              
-            </ul>
-          </div>
-        
-      </li>
-    
-      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader54">
-        <div class="d-flex justify-content-between align-items-center">
-          <a href="https://www.tcs.com/investor-relations#resource" class="mobile-tab-link"><span>Resources</span>
-          </a>
-          
-            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader54" aria-expanded="false" aria-label="Resources" role="button" aria-controls="child-subHeader54" tabindex="0"></span>
-          
-        </div>
-        
-          <div id="child-subHeader54" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader54" data-parent="#sub-menu-accordion-subHeader5">
-            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/glossary">Glossary</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/investor-faqs">Investor FAQs</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/stock-information">Stock Information</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/overlays/analyst-coverage">Analyst Coverage</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/subsidiaries">Subsidiaries</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/contact-us/whats-on-your-mind/ir-landing/ir-form">Subscribe to Investor Updates</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://iepfinvestorinfo.tcsapps.com/#/home">Unclaimed Dividend Information</a></li>
-              
-            </ul>
-          </div>
-        
-      </li>
-    
-  </div>
-</div></div>
-      
-    </header>
-    <header class="d-xl-none d-block position-fixed w-100 ">
-      <nav aria-label="Primary Navigation" class="navbar navbar-expand-lg">
-        <div class="main-header">
-          <a class="navbar-brand position-relative py-0 tcs-right-logo" href="https://www.tcs.com"><img class="brand-logo-img" src="/content/dam/global-tcs/en/images/home/dark-theme.svg" alt="Tata Consultancy Services"/><span class="sr-only d-none">Tata Consultancy Services&nbsp;Opens in new tab</span></a>
-          <span class="seperator"></span>
-          
-            
-            <a class="navbar-brand tcs-logo-mobile" href="https://www.tata.com/" target="_blank"><img class="brand-logo-img" src="/content/dam/global-tcs/en/images/home/logo-tata.svg" alt="tata.com"/>
-              <span class="sr-only d-none">tata.com&nbsp;Opens in new tab</span></a>
-          
-          <span tabindex="0" class="navbar-text search-icon-link searchIcon" data-target="#searchModal" data-toggle="modal" data-backdrop="static" role="button" aria-label="Search">
-            <span class="search-icon"></span>
-            <span class="sr-only d-none">Search</span>
-          </span>
-          <div class="hamburger-menu" aria-label="Navigation Menu" role="button" aria-expanded="false" tabindex="0">
-            <span></span>
-            <span></span>
-            <span></span>
-          </div>
-        </div>
-
-        <div class="navbar-collapse overflow-hidden" id="navbarMenu">
-          <div class="mobile-navbar-outer-div d-flex flex-column justify-content-start  h-100">
-            <div class="tab-mob-view">
-              
-                <div id="header-accordion">
-                  
-                    <div class="card-header card-header-new p-0 level2-accordion-card mx-0" data-link="subHeader0" data-href="/content/tcs/global/en/what-we-do.html" id="subHeader0L2">
-                      <h5 class="mb-0 d-flex align-items-center mobile-l1-link">
-                        <button class="btn btn-link main-accordion-btn sub-header-btn-link" tabindex="-1" aria-hidden="true" data-toggle="collapse" data-target="#subHeader0" aria-expanded="false" aria-controls="subHeader0">
-                          What we do
-                        </button>
-                        <span class="header-dropdown-icon"></span>
-                      </h5>
-                    </div>
-                    
-
-
-
-<div class="mega_menu pt-32 position-absolute" data-nav="subHeader0">
-  <div class="submenu_rollover w-100 position-absolute"></div>
-  <div class="tcs-custom-container px-0 menu_container">
-    <div class="row position-relative position-relative">
-      <div class="col-11 mega_menu_internal_div">
-        <div class="header-inner-left">
-          <ul class="inner-ul position-relative pl-0" role="tablist">
-            <li class="inner-link row" role="presentation"><a href="#" data-nav-id="subHeader0" class="d-flex justify-content-between align-items-center col-3 l2_link overview_link py-3 px-0 position-relative" role="tab">Overview
-             <div class="d-flex align-items-center"><span class="header-right-arrow-icon"></span></div></a><div class="l3_divinder col-1"></div><div class="col-12 col-md-6 row pb-5 sub-header-content sub_header_description position-absolute"><h3 class="font-white main-heading">TCS is here to make a difference through technology.
-             </h3>
-              
-                <p class="normal-content font-grayWhite pb-4">Leading the way in innovation for over 50 years, we build greater futures for businesses across multiple industries and 131 countries. </p>
-              
-              
-              <div class="d-flex align-items-center">
-                
-                  <a href="https://www.tcs.com/what-we-do" class="btn-l3-description  btn-responsive mt-3 mb-2 mr-4">Discover all solutions</a>
-                
-              </div>
-            </div>
-            </li>
-            
-              <li class="inner-link row" data-id="Industries" role="presentation">
-                <a href="https://www.tcs.com/what-we-do.html#industries" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Industries
-                  <div class="d-flex align-items-center">
-                    
-                    <span class="header-right-arrow-icon"></span>
-                    
-                  </div>
-                </a>
-                <div class="l3_divinder col-1"></div>
-                
-                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/industries/banking">Banking</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/industries/capital-markets">Capital Markets</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/industries/consumer-goods-distribution">Consumer Goods and Distribution</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/industries/communications-media-information-services">Communications, Media, and Information Services</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/industries/education">Education</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/industries/energy-resources-utilities">Energy, Resources, and Utilities</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/industries/healthcare">Healthcare</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/industries/high-tech">High Tech</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/industries/insurance">Insurance</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/industries/life-sciences">Life Sciences</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/industries/manufacturing">Manufacturing</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/industries/public-services">Public Services</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/industries/retail">Retail </a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/industries/travel-and-logistics">Travel and Logistics</a></li>
-                    
-                  </ul>
-                
-
-                
-                
-                
-                
-              </li>
-            
-              <li class="inner-link row" data-id="Services" role="presentation">
-                <a href="https://www.tcs.com/what-we-do.html#services" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Services
-                  <div class="d-flex align-items-center">
-                    
-                    <span class="header-right-arrow-icon"></span>
-                    
-                  </div>
-                </a>
-                <div class="l3_divinder col-1"></div>
-                
-                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/services/cloud">Cloud</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/services/cognitive-business-operations">Cognitive Business Operations</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/services/consulting">Consulting</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/services/cybersecurity">Cybersecurity</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/services/data-and-analytics">Data and Analytics</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/services/enterprise-solutions">Enterprise Solutions</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/services/iot-digital-engineering">IoT and Digital Engineering</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/services/network-solutions-and-services">Network Solutions and Services</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/services/tcs-interactive">TCS Interactive</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/services/sustainability-services">Sustainability Services</a></li>
-                    
-                  </ul>
-                
-
-                
-                
-                
-                
-              </li>
-            
-              <li class="inner-link row" data-id="Products and Platforms" role="presentation">
-                <a href="https://www.tcs.com/what-we-do.html#products" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Products and Platforms
-                  <div class="d-flex align-items-center">
-                    
-                    <span class="header-right-arrow-icon"></span>
-                    
-                  </div>
-                </a>
-                <div class="l3_divinder col-1"></div>
-                
-                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-add">TCS ADD™</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-bancs">TCS BANCS™</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-bfsi-platforms">TCS BFSI Platforms</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-chroma">TCS CHROMA™</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-customer-intelligence-insights">TCS Customer Intelligence &amp; Insights™</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-erp-on-cloud">TCS ERP on Cloud</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://digitate.com/">ignio™</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcsion.com/dotcom/TCSSMB/">TCS iON™</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-hobs">TCS HOBS™</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-intelligent-urban-exchange">TCS Intelligent Urban Exchange™</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-omnistore">TCS OmniStore™</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-optumera">TCS Optumera™</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-tap">TCS Tap™</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/products-platforms/quartz">Quartz™ – The Smart Ledgers™</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-twinx">TCS TwinX™</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-mastercraft">TCS MasterCraft™</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.jile.io/">Jile™</a></li>
-                    
-                  </ul>
-                
-
-                
-                
-                
-                
-              </li>
-            
-              <li class="inner-link row" data-id="Research &amp; Innovation" role="presentation">
-                <a href="https://www.tcs.com/what-we-do/research" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Research &amp; Innovation
-                  <div class="d-flex align-items-center">
-                    
-                    <span class="header-right-arrow-icon"></span>
-                    
-                  </div>
-                </a>
-                <div class="l3_divinder col-1"></div>
-                
-                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/research">TCS Research</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/what-we-do/pace-innovation">TCS Pace™</a></li>
-                    
-                  </ul>
-                
-
-                
-                
-                
-                
-              </li>
-            
-
-          </ul>
-        </div>
-      </div>
-
-      <div class="sub-header-right-rollover position-absolute d-none"></div>
-    </div>
-  </div>
-</div>
-
-
-<div id="subHeader0" class="collapse uniques mobile-level2" aria-labelledby="subHeader0" data-parent="#header-accordion">
-  <div class="px-3 d-flex flex-column" id="sub-menu-accordion-subHeader0">
-    <a data-nav-id="subHeader0" href="javascript:void(0);" class="mobile-tab-link py-3 overview-link"><span class="overview-text">Overview</span></a>
-    
-      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader00">
-        <div class="d-flex justify-content-between align-items-center">
-          <a href="https://www.tcs.com/what-we-do#industries" class="mobile-tab-link"><span>Industries</span>
-          </a>
-          
-            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader00" aria-expanded="false" aria-label="Industries" role="button" aria-controls="child-subHeader00" tabindex="0"></span>
-          
-        </div>
-        
-          <div id="child-subHeader00" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader00" data-parent="#sub-menu-accordion-subHeader0">
-            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/industries/banking">Banking</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/industries/capital-markets">Capital Markets</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/industries/consumer-goods-distribution">Consumer Goods and Distribution</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/industries/communications-media-information-services">Communications, Media, and Information Services</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/industries/education">Education</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/industries/energy-resources-utilities">Energy, Resources, and Utilities</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/industries/healthcare">Healthcare</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/industries/high-tech">High Tech</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/industries/insurance">Insurance</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/industries/life-sciences">Life Sciences</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/industries/manufacturing">Manufacturing</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/industries/public-services">Public Services</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/industries/retail">Retail </a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/industries/travel-and-logistics">Travel and Logistics</a></li>
-              
-            </ul>
-          </div>
-        
-      </li>
-    
-      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader01">
-        <div class="d-flex justify-content-between align-items-center">
-          <a href="https://www.tcs.com/what-we-do#services" class="mobile-tab-link"><span>Services</span>
-          </a>
-          
-            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader01" aria-expanded="false" aria-label="Services" role="button" aria-controls="child-subHeader01" tabindex="0"></span>
-          
-        </div>
-        
-          <div id="child-subHeader01" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader01" data-parent="#sub-menu-accordion-subHeader0">
-            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/services/cloud">Cloud</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/services/cognitive-business-operations">Cognitive Business Operations</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/services/consulting">Consulting</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/services/cybersecurity">Cybersecurity</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/services/data-and-analytics">Data and Analytics</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/services/enterprise-solutions">Enterprise Solutions</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/services/iot-digital-engineering">IoT and Digital Engineering</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/services/network-solutions-and-services">Network Solutions and Services</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/services/tcs-interactive">TCS Interactive</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/services/sustainability-services">Sustainability Services</a></li>
-              
-            </ul>
-          </div>
-        
-      </li>
-    
-      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader02">
-        <div class="d-flex justify-content-between align-items-center">
-          <a href="https://www.tcs.com/what-we-do#products" class="mobile-tab-link"><span>Products and Platforms</span>
-          </a>
-          
-            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader02" aria-expanded="false" aria-label="Products and Platforms" role="button" aria-controls="child-subHeader02" tabindex="0"></span>
-          
-        </div>
-        
-          <div id="child-subHeader02" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader02" data-parent="#sub-menu-accordion-subHeader0">
-            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-add">TCS ADD™</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-bancs">TCS BANCS™</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-bfsi-platforms">TCS BFSI Platforms</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-chroma">TCS CHROMA™</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-customer-intelligence-insights">TCS Customer Intelligence &amp; Insights™</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-erp-on-cloud">TCS ERP on Cloud</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://digitate.com/">ignio™</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcsion.com/dotcom/TCSSMB/">TCS iON™</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-hobs">TCS HOBS™</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-intelligent-urban-exchange">TCS Intelligent Urban Exchange™</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-omnistore">TCS OmniStore™</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-optumera">TCS Optumera™</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-tap">TCS Tap™</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/products-platforms/quartz">Quartz™ – The Smart Ledgers™</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-twinx">TCS TwinX™</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/products-platforms/tcs-mastercraft">TCS MasterCraft™</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.jile.io/">Jile™</a></li>
-              
-            </ul>
-          </div>
-        
-      </li>
-    
-      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader03">
-        <div class="d-flex justify-content-between align-items-center">
-          <a href="https://www.tcs.com/what-we-do/research" class="mobile-tab-link"><span>Research &amp; Innovation</span>
-          </a>
-          
-            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader03" aria-expanded="false" aria-label="Research &amp; Innovation" role="button" aria-controls="child-subHeader03" tabindex="0"></span>
-          
-        </div>
-        
-          <div id="child-subHeader03" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader03" data-parent="#sub-menu-accordion-subHeader0">
-            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/research">TCS Research</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/what-we-do/pace-innovation">TCS Pace™</a></li>
-              
-            </ul>
-          </div>
-        
-      </li>
-    
-  </div>
-</div>
-                  
-                    <div class="card-header card-header-new p-0 level2-accordion-card mx-0" data-link="subHeader1" data-href="https://www.tcs.com/who-we-are" id="subHeader1L2">
-                      <h5 class="mb-0 d-flex align-items-center mobile-l1-link">
-                        <button class="btn btn-link main-accordion-btn sub-header-btn-link" tabindex="-1" aria-hidden="true" data-toggle="collapse" data-target="#subHeader1" aria-expanded="false" aria-controls="subHeader1">
-                          Who we are
-                        </button>
-                        <span class="header-dropdown-icon"></span>
-                      </h5>
-                    </div>
-                    
-
-
-
-<div class="mega_menu pt-32 position-absolute" data-nav="subHeader1">
-  <div class="submenu_rollover w-100 position-absolute"></div>
-  <div class="tcs-custom-container px-0 menu_container">
-    <div class="row position-relative position-relative">
-      <div class="col-11 mega_menu_internal_div">
-        <div class="header-inner-left">
-          <ul class="inner-ul position-relative pl-0" role="tablist">
-            <li class="inner-link row" role="presentation"><a href="#" data-nav-id="subHeader1" class="d-flex justify-content-between align-items-center col-3 l2_link overview_link py-3 px-0 position-relative" role="tab">Overview
-             <div class="d-flex align-items-center"><span class="header-right-arrow-icon"></span></div></a><div class="l3_divinder col-1"></div><div class="col-12 col-md-6 row pb-5 sub-header-content sub_header_description position-absolute"><h3 class="font-white main-heading">We’re in it for good, driving positive change for the benefit of all.
-             </h3>
-              
-                <p class="normal-content font-grayWhite pb-4">Our expert, committed team put our shared beliefs into action – every day. Together, we combine innovation and collective knowledge to create the extraordinary. </p>
-              
-              
-              <div class="d-flex align-items-center">
-                
-                  <a href="https://www.tcs.com/who-we-are" class="btn-l3-description  btn-responsive mt-3 mb-2 mr-4">Discover the difference</a>
-                
-              </div>
-            </div>
-            </li>
-            
-              <li class="inner-link row" data-id="About Us" role="presentation">
-                <a href="https://www.tcs.com/who-we-are" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">About Us
-                  <div class="d-flex align-items-center">
-                    
-                    <span class="header-right-arrow-icon"></span>
-                    
-                  </div>
-                </a>
-                <div class="l3_divinder col-1"></div>
-                
-                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/who-we-are/tcs-sustainable-business-carbon-neutrality">Corporate Sustainability</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/who-we-are/diversity-equity-inclusion">Diversity, Equity, and Inclusion</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/who-we-are/corporate-social-responsibility">Corporate Social Responsibility </a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/who-we-are/tcs-way">The TCS Way</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/who-we-are/sports-sponsorships">Sports Sponsorships</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/who-we-are/alliances-partnerships">Alliances</a></li>
-                    
-                  </ul>
-                
-
-                
-                
-                
-                
-              </li>
-            
-              <li class="inner-link row" data-id="Leadership" role="presentation">
-                <a href="https://www.tcs.com/who-we-are/leadership" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Leadership
-                  <div class="d-flex align-items-center">
-                    
-                  </div>
-                </a>
-                <div class="l3_divinder col-1"></div>
-                
-
-                
-                
-                
-                
-              </li>
-            
-              <li class="inner-link row" data-id="Events" role="presentation">
-                <a href="https://www.tcs.com/who-we-are/events" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Events
-                  <div class="d-flex align-items-center">
-                    
-                  </div>
-                </a>
-                <div class="l3_divinder col-1"></div>
-                
-
-                
-                
-                
-                
-              </li>
-            
-
-          </ul>
-        </div>
-      </div>
-
-      <div class="sub-header-right-rollover position-absolute d-none"></div>
-    </div>
-  </div>
-</div>
-
-
-<div id="subHeader1" class="collapse uniques mobile-level2" aria-labelledby="subHeader1" data-parent="#header-accordion">
-  <div class="px-3 d-flex flex-column" id="sub-menu-accordion-subHeader1">
-    <a data-nav-id="subHeader1" href="javascript:void(0);" class="mobile-tab-link py-3 overview-link"><span class="overview-text">Overview</span></a>
-    
-      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader10">
-        <div class="d-flex justify-content-between align-items-center">
-          <a href="https://www.tcs.com/who-we-are" class="mobile-tab-link"><span>About Us</span>
-          </a>
-          
-            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader10" aria-expanded="false" aria-label="About Us" role="button" aria-controls="child-subHeader10" tabindex="0"></span>
-          
-        </div>
-        
-          <div id="child-subHeader10" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader10" data-parent="#sub-menu-accordion-subHeader1">
-            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/who-we-are/tcs-sustainable-business-carbon-neutrality">Corporate Sustainability</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/who-we-are/diversity-equity-inclusion">Diversity, Equity, and Inclusion</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/who-we-are/corporate-social-responsibility">Corporate Social Responsibility </a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/who-we-are/tcs-way">The TCS Way</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/who-we-are/sports-sponsorships">Sports Sponsorships</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/who-we-are/alliances-partnerships">Alliances</a></li>
-              
-            </ul>
-          </div>
-        
-      </li>
-    
-      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader11">
-        <div class="d-flex justify-content-between align-items-center">
-          <a href="https://www.tcs.com/who-we-are/leadership" class="mobile-tab-link"><span>Leadership</span>
-          </a>
-          
-        </div>
-        
-      </li>
-    
-      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader12">
-        <div class="d-flex justify-content-between align-items-center">
-          <a href="https://www.tcs.com/who-we-are/events" class="mobile-tab-link"><span>Events</span>
-          </a>
-          
-        </div>
-        
-      </li>
-    
-  </div>
-</div>
-                  
-                    <div class="card-header card-header-new p-0 level2-accordion-card mx-0" data-link="subHeader2" data-href="/content/tcs/global/en/insights.html" id="subHeader2L2">
-                      <h5 class="mb-0 d-flex align-items-center mobile-l1-link">
-                        <button class="btn btn-link main-accordion-btn sub-header-btn-link" tabindex="-1" aria-hidden="true" data-toggle="collapse" data-target="#subHeader2" aria-expanded="false" aria-controls="subHeader2">
-                          Insights
-                        </button>
-                        <span class="header-dropdown-icon"></span>
-                      </h5>
-                    </div>
-                    
-
-
-
-<div class="mega_menu pt-32 position-absolute" data-nav="subHeader2">
-  <div class="submenu_rollover w-100 position-absolute"></div>
-  <div class="tcs-custom-container px-0 menu_container">
-    <div class="row position-relative position-relative">
-      <div class="col-11 mega_menu_internal_div">
-        <div class="header-inner-left">
-          <ul class="inner-ul position-relative pl-0" role="tablist">
-            <li class="inner-link row" role="presentation"><a href="#" data-nav-id="subHeader2" class="d-flex justify-content-between align-items-center col-3 l2_link overview_link py-3 px-0 position-relative" role="tab">Overview
-             <div class="d-flex align-items-center"><span class="header-right-arrow-icon"></span></div></a><div class="l3_divinder col-1"></div><div class="col-12 col-md-6 row pb-5 sub-header-content sub_header_description position-absolute"><h3 class="font-white main-heading">Extraordinary expertise leads to remarkable results.
-             </h3>
-              
-                <p class="normal-content font-grayWhite pb-4">We share news, insights, analysis and research – tailored to your unique interests – to help you deepen your knowledge and impact. </p>
-              
-              
-              <div class="d-flex align-items-center">
-                
-                  <a href="https://www.tcs.com/insights" class="btn-l3-description  btn-responsive mt-3 mb-2 mr-4">Discover Expert Insights</a>
-                
-              </div>
-            </div>
-            </li>
-            
-              <li class="inner-link row" data-id="Customer Stories" role="presentation">
-                <a href="https://www.tcs.com/insights/customer-stories" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Customer Stories
-                  <div class="d-flex align-items-center">
-                    
-                  </div>
-                </a>
-                <div class="l3_divinder col-1"></div>
-                
-
-                
-                
-                
-                
-              </li>
-            
-              <li class="inner-link row" data-id="Perspectives" role="presentation">
-                <a href="https://www.tcs.com/insights/perspectives" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Perspectives
-                  <div class="d-flex align-items-center">
-                    
-                  </div>
-                </a>
-                <div class="l3_divinder col-1"></div>
-                
-
-                
-                
-                
-                
-              </li>
-            
-              <li class="inner-link row" data-id="Global studies" role="presentation">
-                <a href="https://www.tcs.com/insights/global-studies" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Global studies
-                  <div class="d-flex align-items-center">
-                    
-                  </div>
-                </a>
-                <div class="l3_divinder col-1"></div>
-                
-
-                
-                
-                
-                
-              </li>
-            
-              <li class="inner-link row" data-id="Topics" role="presentation">
-                <a href="https://www.tcs.com/insights" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Topics
-                  <div class="d-flex align-items-center">
-                    
-                    <span class="header-right-arrow-icon"></span>
-                    
-                  </div>
-                </a>
-                <div class="l3_divinder col-1"></div>
-                
-                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/insights">Insights</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/insights/topics/metaverse-topic">Metaverse</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/insights/topics/sustainability-topic">Sustainability</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/insights/topics/cybersecurity-topic">Cybersecurity</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/insights/topics/ai-ml-topic">AI &amp; ML</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/insights/topics/blockchain-topic">Blockchain</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/insights/topics/cloud-topic">Cloud</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/insights/topics/future-of-work-topic">Future of Work</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/insights/topics/health-and-wellness-topic">Health &amp; Wellness</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/insights/topics/internet-of-things-topic">IoT</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/insights/topics/data-analytics-storage-topic">Data Analytics and Storage</a></li>
-                    
-                  </ul>
-                
-
-                
-                
-                
-                
-              </li>
-            
-
-          </ul>
-        </div>
-      </div>
-
-      <div class="sub-header-right-rollover position-absolute d-none"></div>
-    </div>
-  </div>
-</div>
-
-
-<div id="subHeader2" class="collapse uniques mobile-level2" aria-labelledby="subHeader2" data-parent="#header-accordion">
-  <div class="px-3 d-flex flex-column" id="sub-menu-accordion-subHeader2">
-    <a data-nav-id="subHeader2" href="javascript:void(0);" class="mobile-tab-link py-3 overview-link"><span class="overview-text">Overview</span></a>
-    
-      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader20">
-        <div class="d-flex justify-content-between align-items-center">
-          <a href="https://www.tcs.com/insights/customer-stories" class="mobile-tab-link"><span>Customer Stories</span>
-          </a>
-          
-        </div>
-        
-      </li>
-    
-      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader21">
-        <div class="d-flex justify-content-between align-items-center">
-          <a href="https://www.tcs.com/insights/perspectives" class="mobile-tab-link"><span>Perspectives</span>
-          </a>
-          
-        </div>
-        
-      </li>
-    
-      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader22">
-        <div class="d-flex justify-content-between align-items-center">
-          <a href="https://www.tcs.com/insights/global-studies" class="mobile-tab-link"><span>Global studies</span>
-          </a>
-          
-        </div>
-        
-      </li>
-    
-      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader23">
-        <div class="d-flex justify-content-between align-items-center">
-          <a href="https://www.tcs.com/insights" class="mobile-tab-link"><span>Topics</span>
-          </a>
-          
-            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader23" aria-expanded="false" aria-label="Topics" role="button" aria-controls="child-subHeader23" tabindex="0"></span>
-          
-        </div>
-        
-          <div id="child-subHeader23" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader23" data-parent="#sub-menu-accordion-subHeader2">
-            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/insights">Insights</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/insights/topics/metaverse-topic">Metaverse</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/insights/topics/sustainability-topic">Sustainability</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/insights/topics/cybersecurity-topic">Cybersecurity</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/insights/topics/ai-ml-topic">AI &amp; ML</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/insights/topics/blockchain-topic">Blockchain</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/insights/topics/cloud-topic">Cloud</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/insights/topics/future-of-work-topic">Future of Work</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/insights/topics/health-and-wellness-topic">Health &amp; Wellness</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/insights/topics/internet-of-things-topic">IoT</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/insights/topics/data-analytics-storage-topic">Data Analytics and Storage</a></li>
-              
-            </ul>
-          </div>
-        
-      </li>
-    
-  </div>
-</div>
-                  
-                    <div class="card-header card-header-new p-0 level2-accordion-card mx-0" data-link="subHeader3" data-href="/content/tcs/global/en/careers.html" id="subHeader3L2">
-                      <h5 class="mb-0 d-flex align-items-center mobile-l1-link">
-                        <button class="btn btn-link main-accordion-btn sub-header-btn-link" tabindex="-1" aria-hidden="true" data-toggle="collapse" data-target="#subHeader3" aria-expanded="false" aria-controls="subHeader3">
-                          Careers
-                        </button>
-                        <span class="header-dropdown-icon"></span>
-                      </h5>
-                    </div>
-                    
-
-
-
-<div class="mega_menu pt-32 position-absolute" data-nav="subHeader3">
-  <div class="submenu_rollover w-100 position-absolute"></div>
-  <div class="tcs-custom-container px-0 menu_container">
-    <div class="row position-relative position-relative">
-      <div class="col-11 mega_menu_internal_div">
-        <div class="header-inner-left">
-          <ul class="inner-ul position-relative pl-0" role="tablist">
-            <li class="inner-link row" role="presentation"><a href="#" data-nav-id="subHeader3" class="d-flex justify-content-between align-items-center col-3 l2_link overview_link py-3 px-0 position-relative" role="tab">Overview
-             <div class="d-flex align-items-center"><span class="header-right-arrow-icon"></span></div></a><div class="l3_divinder col-1"></div><div class="col-12 col-md-6 row pb-5 sub-header-content sub_header_description position-absolute"><h3 class="font-white main-heading">Want to be a global change-maker?  Join our team.
-             </h3>
-              
-                <p class="normal-content font-grayWhite pb-4">At TCS, we believe exceptional work begins with hiring, celebrating and nurturing the best people — from all walks of life. </p>
-              
-              
-              <div class="d-flex align-items-center">
-                
-                  <a href="https://www.tcs.com/careers" class="btn-l3-description  btn-responsive mt-3 mb-2 mr-4">Join us</a>
-                
-              </div>
-            </div>
-            </li>
-            
-              <li class="inner-link row" data-id="India" role="presentation">
-                <a href="https://www.tcs.com/careers/india" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">India
-                  <div class="d-flex align-items-center">
-                    
-                    <span class="header-right-arrow-icon"></span>
-                    
-                  </div>
-                </a>
-                <div class="l3_divinder col-1"></div>
-                
-                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/india">India</a></li>
-                    
-                  </ul>
-                
-
-                
-                
-                
-                
-              </li>
-            
-              <li class="inner-link row" data-id="Americas" role="presentation">
-                <a href="https://www.tcs.com/careers" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Americas
-                  <div class="d-flex align-items-center">
-                    
-                    <span class="header-right-arrow-icon"></span>
-                    
-                  </div>
-                </a>
-                <div class="l3_divinder col-1"></div>
-                
-                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/argentina">Argentina</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/brazil">Brazil</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/canada">Canada</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/chile">Chile</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/colombia">Colombia</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/ecuador">Ecuador</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/mexico">Mexico</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/peru">Peru</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/uruguay">Uruguay</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/united-states">USA</a></li>
-                    
-                  </ul>
-                
-
-                
-                
-                
-                
-              </li>
-            
-              <li class="inner-link row" data-id="Asia Pacific" role="presentation">
-                <a href="https://www.tcs.com/careers" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Asia Pacific
-                  <div class="d-flex align-items-center">
-                    
-                    <span class="header-right-arrow-icon"></span>
-                    
-                  </div>
-                </a>
-                <div class="l3_divinder col-1"></div>
-                
-                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/australia">Australia</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/china">Mainland China</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/hongkong">Hong Kong SAR</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/indonesia">Indonesia</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/japan">Japan</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/malaysia">Malaysia</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/newzealand">New Zealand</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/philippines">Philippines</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/republic-of-korea">Republic of Korea</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/singapore">Singapore</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/taiwan">Chinese Taipei</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/thailand">Thailand</a></li>
-                    
-                  </ul>
-                
-
-                
-                
-                
-                
-              </li>
-            
-              <li class="inner-link row" data-id="Europe and UK" role="presentation">
-                <a href="https://www.tcs.com/careers/trainee-program-graduates-europe" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Europe and UK
-                  <div class="d-flex align-items-center">
-                    
-                    <span class="header-right-arrow-icon"></span>
-                    
-                  </div>
-                </a>
-                <div class="l3_divinder col-1"></div>
-                
-                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/belgium">Belgium</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/denmark">Denmark</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/estonia">Estonia</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/finland">Finland</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/france">France</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/germany">Germany</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/hungary">Hungary</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/ireland">Ireland</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/italy">Italy</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/luxembourg">Luxembourg</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/netherlands">Netherlands</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/norway">Norway</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/poland">Poland</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/portugal">Portugal</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/spain">Spain</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/sweden">Sweden</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/switzerland">Switzerland</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/united-kingdom">United Kingdom</a></li>
-                    
-                  </ul>
-                
-
-                
-                
-                
-                
-              </li>
-            
-              <li class="inner-link row" data-id="Middle East and Africa" role="presentation">
-                <a href="https://www.tcs.com/careers" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Middle East and Africa
-                  <div class="d-flex align-items-center">
-                    
-                    <span class="header-right-arrow-icon"></span>
-                    
-                  </div>
-                </a>
-                <div class="l3_divinder col-1"></div>
-                
-                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/bahrain">Bahrain</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/israel">Israel</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/kuwait">Kuwait</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/qatar">Qatar</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/saudi-arabia">Saudi Arabia</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/south-africa">South Africa</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/careers/united-arab-emirates">United Arab Emirates</a></li>
-                    
-                  </ul>
-                
-
-                
-                
-                
-                
-              </li>
-            
-
-          </ul>
-        </div>
-      </div>
-
-      <div class="sub-header-right-rollover position-absolute d-none"></div>
-    </div>
-  </div>
-</div>
-
-
-<div id="subHeader3" class="collapse uniques mobile-level2" aria-labelledby="subHeader3" data-parent="#header-accordion">
-  <div class="px-3 d-flex flex-column" id="sub-menu-accordion-subHeader3">
-    <a data-nav-id="subHeader3" href="javascript:void(0);" class="mobile-tab-link py-3 overview-link"><span class="overview-text">Overview</span></a>
-    
-      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader30">
-        <div class="d-flex justify-content-between align-items-center">
-          <a href="https://www.tcs.com/careers/india" class="mobile-tab-link"><span>India</span>
-          </a>
-          
-            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader30" aria-expanded="false" aria-label="India" role="button" aria-controls="child-subHeader30" tabindex="0"></span>
-          
-        </div>
-        
-          <div id="child-subHeader30" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader30" data-parent="#sub-menu-accordion-subHeader3">
-            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/india">India</a></li>
-              
-            </ul>
-          </div>
-        
-      </li>
-    
-      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader31">
-        <div class="d-flex justify-content-between align-items-center">
-          <a href="https://www.tcs.com/careers" class="mobile-tab-link"><span>Americas</span>
-          </a>
-          
-            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader31" aria-expanded="false" aria-label="Americas" role="button" aria-controls="child-subHeader31" tabindex="0"></span>
-          
-        </div>
-        
-          <div id="child-subHeader31" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader31" data-parent="#sub-menu-accordion-subHeader3">
-            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/argentina">Argentina</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/brazil">Brazil</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/canada">Canada</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/chile">Chile</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/colombia">Colombia</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/ecuador">Ecuador</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/mexico">Mexico</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/peru">Peru</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/uruguay">Uruguay</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/united-states">USA</a></li>
-              
-            </ul>
-          </div>
-        
-      </li>
-    
-      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader32">
-        <div class="d-flex justify-content-between align-items-center">
-          <a href="https://www.tcs.com/careers" class="mobile-tab-link"><span>Asia Pacific</span>
-          </a>
-          
-            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader32" aria-expanded="false" aria-label="Asia Pacific" role="button" aria-controls="child-subHeader32" tabindex="0"></span>
-          
-        </div>
-        
-          <div id="child-subHeader32" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader32" data-parent="#sub-menu-accordion-subHeader3">
-            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/australia">Australia</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/china">Mainland China</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/hongkong">Hong Kong SAR</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/indonesia">Indonesia</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/japan">Japan</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/malaysia">Malaysia</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/newzealand">New Zealand</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/philippines">Philippines</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/republic-of-korea">Republic of Korea</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/singapore">Singapore</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/taiwan">Chinese Taipei</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/thailand">Thailand</a></li>
-              
-            </ul>
-          </div>
-        
-      </li>
-    
-      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader33">
-        <div class="d-flex justify-content-between align-items-center">
-          <a href="https://www.tcs.com/careers/trainee-program-graduates-europe" class="mobile-tab-link"><span>Europe and UK</span>
-          </a>
-          
-            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader33" aria-expanded="false" aria-label="Europe and UK" role="button" aria-controls="child-subHeader33" tabindex="0"></span>
-          
-        </div>
-        
-          <div id="child-subHeader33" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader33" data-parent="#sub-menu-accordion-subHeader3">
-            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/belgium">Belgium</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/denmark">Denmark</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/estonia">Estonia</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/finland">Finland</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/france">France</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/germany">Germany</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/hungary">Hungary</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/ireland">Ireland</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/italy">Italy</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/luxembourg">Luxembourg</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/netherlands">Netherlands</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/norway">Norway</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/poland">Poland</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/portugal">Portugal</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/spain">Spain</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/sweden">Sweden</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/switzerland">Switzerland</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/united-kingdom">United Kingdom</a></li>
-              
-            </ul>
-          </div>
-        
-      </li>
-    
-      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader34">
-        <div class="d-flex justify-content-between align-items-center">
-          <a href="https://www.tcs.com/careers" class="mobile-tab-link"><span>Middle East and Africa</span>
-          </a>
-          
-            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader34" aria-expanded="false" aria-label="Middle East and Africa" role="button" aria-controls="child-subHeader34" tabindex="0"></span>
-          
-        </div>
-        
-          <div id="child-subHeader34" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader34" data-parent="#sub-menu-accordion-subHeader3">
-            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/bahrain">Bahrain</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/israel">Israel</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/kuwait">Kuwait</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/qatar">Qatar</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/saudi-arabia">Saudi Arabia</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/south-africa">South Africa</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/careers/united-arab-emirates">United Arab Emirates</a></li>
-              
-            </ul>
-          </div>
-        
-      </li>
-    
-  </div>
-</div>
-                  
-                    <div class="card-header card-header-new p-0 level2-accordion-card mx-0" data-link="subHeader4" data-href="/content/tcs/global/en/who-we-are/newsroom.html" id="subHeader4L2">
-                      <h5 class="mb-0 d-flex align-items-center mobile-l1-link">
-                        <button class="btn btn-link main-accordion-btn sub-header-btn-link" tabindex="-1" aria-hidden="true" data-toggle="collapse" data-target="#subHeader4" aria-expanded="false" aria-controls="subHeader4">
-                          New and now
-                        </button>
-                        <span class="header-dropdown-icon"></span>
-                      </h5>
-                    </div>
-                    
-
-
-
-<div class="mega_menu pt-32 position-absolute" data-nav="subHeader4">
-  <div class="submenu_rollover w-100 position-absolute"></div>
-  <div class="tcs-custom-container px-0 menu_container">
-    <div class="row position-relative position-relative">
-      <div class="col-11 mega_menu_internal_div">
-        <div class="header-inner-left">
-          <ul class="inner-ul position-relative pl-0" role="tablist">
-            <li class="inner-link row" role="presentation"><a href="#" data-nav-id="subHeader4" class="d-flex justify-content-between align-items-center col-3 l2_link overview_link py-3 px-0 position-relative" role="tab">Overview
-             <div class="d-flex align-items-center"><span class="header-right-arrow-icon"></span></div></a><div class="l3_divinder col-1"></div><div class="col-12 col-md-6 row pb-5 sub-header-content sub_header_description position-absolute"><h3 class="font-white main-heading">
-             </h3>
-              
-                <p class="normal-content font-grayWhite pb-4"> </p>
-              
-              
-              <div class="d-flex align-items-center">
-                
-              </div>
-            </div>
-            </li>
-            
-              <li class="inner-link row" data-id="Newsroom" role="presentation">
-                <a href="https://www.tcs.com/who-we-are/newsroom" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Newsroom
-                  <div class="d-flex align-items-center">
-                    
-                    <span class="header-right-arrow-icon"></span>
-                    
-                  </div>
-                </a>
-                <div class="l3_divinder col-1"></div>
-                
-
-                
-                
-                  <div class="right-submenu-l3 non-list-div row col-8 position-absolute level3_container flex-column">
-                    <h4 class="sub-heading pb-4">Recent News</h4>
-                    
-                      <div class="d-flex flex-column pb-32">
-                          <div class="d-flex">
-                            
-                            <div class="d-flex flex-column ">
-                              <span class="small-content-span">18 Dec 2023</span>
-                              <a href="https://www.tcs.com/who-we-are/newsroom/press-release/class-eight-student-thrissur-kerela-aditya-kb-wins-indias-largest-interschool-quiz-tcs-inquizitive-2023" class="section-content">Class 8 student from Thrissur, Kerela, Aditya KB wins India’s largest Interschool quiz – TCS INQuizitive 2023</a>
-                            </div>
-                          </div>
-                      </div>
-                    
-                      <div class="d-flex flex-column pb-32">
-                          <div class="d-flex">
-                            
-                            <div class="d-flex flex-column ">
-                              <span class="small-content-span">18 Dec 2023</span>
-                              <a href="https://www.tcs.com/who-we-are/newsroom/press-release/six-partners-with-tcs-to-transform-its-swiss-post-trade-market-infrastructure" class="section-content">SIX Partners with TCS to Transform its Swiss Post Trade Market Infrastructure</a>
-                            </div>
-                          </div>
-                      </div>
-                    
-                      <div class="d-flex flex-column pb-32">
-                          <div class="d-flex">
-                            
-                            <div class="d-flex flex-column ">
-                              <span class="small-content-span">14 Dec 2023</span>
-                              <a href="https://www.tcs.com/who-we-are/newsroom/press-release/tcs-recognized-aws-gsi-partner-year-global-2023" class="section-content">TCS Recognized by AWS as GSI Partner of the Year-Global  for 2023</a>
-                            </div>
-                          </div>
-                      </div>
-                    
-                    <a class="cta-anchor-tag"></a>
-                  </div>
-                
-                
-                
-              </li>
-            
-              <li class="inner-link row" data-id="Analyst recognition" role="presentation">
-                <a href="https://www.tcs.com/who-we-are/newsroom/analyst-recognition" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Analyst recognition
-                  <div class="d-flex align-items-center">
-                    
-                    <span class="header-right-arrow-icon"></span>
-                    
-                  </div>
-                </a>
-                <div class="l3_divinder col-1"></div>
-                
-
-                
-                
-                  <div class="right-submenu-l3 non-list-div row col-8 position-absolute level3_container flex-column">
-                    <h4 class="sub-heading pb-4">Recent recognitions</h4>
-                    
-                      <div class="d-flex flex-column pb-32">
-                          <div class="d-flex">
-                            
-                            <div class="d-flex flex-column ">
-                              <span class="small-content-span">26 Sep 2023</span>
-                              <a href="https://www.tcs.com/who-we-are/newsroom/analyst-reports/banking-operations-leader-everest-group" class="section-content"> TCS Named a Leader in Banking Ops Services PEAK Matrix™ Assessment</a>
-                            </div>
-                          </div>
-                      </div>
-                    
-                      <div class="d-flex flex-column pb-32">
-                          <div class="d-flex">
-                            
-                            <div class="d-flex flex-column ">
-                              <span class="small-content-span">06 Sep 2023</span>
-                              <a href="https://www.tcs.com/who-we-are/newsroom/analyst-reports/leader-higher-education-digital-services" class="section-content">TCS a leader in higher education digital services: Avasant Report</a>
-                            </div>
-                          </div>
-                      </div>
-                    
-                      <div class="d-flex flex-column pb-32">
-                          <div class="d-flex">
-                            
-                            <div class="d-flex flex-column ">
-                              <span class="small-content-span">05 Sep 2023</span>
-                              <a href="https://www.tcs.com/who-we-are/newsroom/analyst-reports/asset-wealth-management-leader-everest-group" class="section-content">TCS Named a Leader in Asset and Wealth Management IT services</a>
-                            </div>
-                          </div>
-                      </div>
-                    
-                    <a class="cta-anchor-tag"></a>
-                  </div>
-                
-                
-                
-              </li>
-            
-
-          </ul>
-        </div>
-      </div>
-
-      <div class="sub-header-right-rollover position-absolute d-none"></div>
-    </div>
-  </div>
-</div>
-
-
-<div id="subHeader4" class="collapse uniques mobile-level2" aria-labelledby="subHeader4" data-parent="#header-accordion">
-  <div class="px-3 d-flex flex-column" id="sub-menu-accordion-subHeader4">
-    <a data-nav-id="subHeader4" href="javascript:void(0);" class="mobile-tab-link py-3 overview-link"><span class="overview-text">Overview</span></a>
-    
-      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader40">
-        <div class="d-flex justify-content-between align-items-center">
-          <a href="https://www.tcs.com/who-we-are/newsroom" class="mobile-tab-link"><span>Newsroom</span>
-          </a>
-          
-        </div>
-        
-      </li>
-    
-      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader41">
-        <div class="d-flex justify-content-between align-items-center">
-          <a href="https://www.tcs.com/who-we-are/newsroom/analyst-recognition" class="mobile-tab-link"><span>Analyst recognition</span>
-          </a>
-          
-        </div>
-        
-      </li>
-    
-  </div>
-</div>
-                  
-                    <div class="card-header card-header-new p-0 level2-accordion-card mx-0" data-link="subHeader5" data-href="https://www.tcs.com/investor-relations" id="subHeader5L2">
-                      <h5 class="mb-0 d-flex align-items-center mobile-l1-link">
-                        <button class="btn btn-link main-accordion-btn sub-header-btn-link" tabindex="-1" aria-hidden="true" data-toggle="collapse" data-target="#subHeader5" aria-expanded="false" aria-controls="subHeader5">
-                          Investors
-                        </button>
-                        <span class="header-dropdown-icon"></span>
-                      </h5>
-                    </div>
-                    
-
-
-
-<div class="mega_menu pt-32 position-absolute" data-nav="subHeader5">
-  <div class="submenu_rollover w-100 position-absolute"></div>
-  <div class="tcs-custom-container px-0 menu_container">
-    <div class="row position-relative position-relative">
-      <div class="col-11 mega_menu_internal_div">
-        <div class="header-inner-left">
-          <ul class="inner-ul position-relative pl-0" role="tablist">
-            <li class="inner-link row" role="presentation"><a href="#" data-nav-id="subHeader5" class="d-flex justify-content-between align-items-center col-3 l2_link overview_link py-3 px-0 position-relative" role="tab">Overview
-             <div class="d-flex align-items-center"><span class="header-right-arrow-icon"></span></div></a><div class="l3_divinder col-1"></div><div class="col-12 col-md-6 row pb-5 sub-header-content sub_header_description position-absolute"><h3 class="font-white main-heading">TCS works hand in hand with world-leading investors.
-             </h3>
-              
-              
-                <div class="show-stock d-flex border investor-data-table">
-                  <div class="p-4 investor-description">
-                    <div class="investor-brand-name">Tata Consultancy Services Limited</div>
-                    <div class="investor-data-type">NSE:TCS</div>
-                  </div>
-                  <div class="p-4 investor-data">
-                    <div class="nse-price"><span class="nsePrice pr-2"></span>INR</div>
-                    <div class="nse-percentage"><span class="nsePercent"></span></div>
-                  </div>
-                </div>
-              
-              <div class="d-flex align-items-center">
-                
-                  <a href="https://www.tcs.com/investor-relations" class="btn-l3-description  btn-responsive mt-3 mb-2 mr-4">Discover more</a>
-                
-              </div>
-            </div>
-            </li>
-            
-              <li class="inner-link row" data-id="Management Commentary" role="presentation">
-                <a href="https://www.tcs.com/investor-relations.html#management" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Management Commentary
-                  <div class="d-flex align-items-center">
-                    
-                    <span class="header-right-arrow-icon"></span>
-                    
-                  </div>
-                </a>
-                <div class="l3_divinder col-1"></div>
-                
-                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/management-commentary/latest-quarter-commentary">Latest Quarter Commentary</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/management-commentary/annual-report-sections">Annual Report Section</a></li>
-                    
-                  </ul>
-                
-
-                
-                
-                
-                
-              </li>
-            
-              <li class="inner-link row" data-id="Financials" role="presentation">
-                <a href="https://www.tcs.com/investor-relations.html#quarterly" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Financials
-                  <div class="d-flex align-items-center">
-                    
-                    <span class="header-right-arrow-icon"></span>
-                    
-                  </div>
-                </a>
-                <div class="l3_divinder col-1"></div>
-                
-                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/financial-statements">Quarterly Earnings Reports</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/content/dam/tcs/pdf/discover-tcs/investor-relations/tcs-data-sheet/TCS-Data-Sheet-Q1FY24.xlsx">Download TCS Data Sheet</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/cmc-financials">Erstwhile CMC Financials</a></li>
-                    
-                  </ul>
-                
-
-                
-                
-                
-                
-              </li>
-            
-              <li class="inner-link row" data-id="News and Events" role="presentation">
-                <a href="https://www.tcs.com/investor-relations.html#news" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">News and Events
-                  <div class="d-flex align-items-center">
-                    
-                    <span class="header-right-arrow-icon"></span>
-                    
-                  </div>
-                </a>
-                <div class="l3_divinder col-1"></div>
-                
-                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/who-we-are/newsroom/investor-press-release">Press Releases</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/view-all-corporate-actions">Corporate Actions</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/events">Events</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/calendar">Calendar</a></li>
-                    
-                  </ul>
-                
-
-                
-                
-                
-                
-              </li>
-            
-              <li class="inner-link row" data-id="ESG" role="presentation">
-                <a href="https://www.tcs.com/investor-relations.html#esg" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">ESG
-                  <div class="d-flex align-items-center">
-                    
-                    <span class="header-right-arrow-icon"></span>
-                    
-                  </div>
-                </a>
-                <div class="l3_divinder col-1"></div>
-                
-                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/esg/environment">Environment</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/esg/social">Social</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/corporate-governance">Governance</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/corporate-sustainability-investor-relations">Policies and Reports</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/stakeholder-engagement-identification-material-issues">Stakeholder Engagement and Identification of Material Issues</a></li>
-                    
-                  </ul>
-                
-
-                
-                
-                
-                
-              </li>
-            
-              <li class="inner-link row" data-id="Resources" role="presentation">
-                <a href="https://www.tcs.com/investor-relations.html#resource" class="d-flex justify-content-between align-items-center col-3 l2_link non-overview_link py-3 px-0 position-relative" role="tab">Resources
-                  <div class="d-flex align-items-center">
-                    
-                    <span class="header-right-arrow-icon"></span>
-                    
-                  </div>
-                </a>
-                <div class="l3_divinder col-1"></div>
-                
-                  <ul class="right-submenu-l3 sub-header-content-link-ul row col-8 position-absolute">
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/glossary">Glossary</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/investor-faqs">Investor FAQs</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/stock-information">Stock Information</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/overlays/analyst-coverage">Analyst Coverage</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/investor-relations/subsidiaries">Subsidiaries</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://www.tcs.com/contact-us/whats-on-your-mind/ir-landing/ir-form">Subscribe to Investor Updates</a></li>
-                    
-                      <li class="l3-li-list"><a class="l3-li-link" href="https://iepfinvestorinfo.tcsapps.com/#/home">Unclaimed Dividend Information</a></li>
-                    
-                  </ul>
-                
-
-                
-                
-                
-                
-              </li>
-            
-
-          </ul>
-        </div>
-      </div>
-
-      <div class="sub-header-right-rollover position-absolute d-none"></div>
-    </div>
-  </div>
-</div>
-
-
-<div id="subHeader5" class="collapse uniques mobile-level2" aria-labelledby="subHeader5" data-parent="#header-accordion">
-  <div class="px-3 d-flex flex-column" id="sub-menu-accordion-subHeader5">
-    <a data-nav-id="subHeader5" href="javascript:void(0);" class="mobile-tab-link py-3 overview-link"><span class="overview-text">Overview</span></a>
-    
-      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader50">
-        <div class="d-flex justify-content-between align-items-center">
-          <a href="https://www.tcs.com/investor-relations#management" class="mobile-tab-link"><span>Management Commentary</span>
-          </a>
-          
-            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader50" aria-expanded="false" aria-label="Management Commentary" role="button" aria-controls="child-subHeader50" tabindex="0"></span>
-          
-        </div>
-        
-          <div id="child-subHeader50" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader50" data-parent="#sub-menu-accordion-subHeader5">
-            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/management-commentary/latest-quarter-commentary">Latest Quarter Commentary</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/management-commentary/annual-report-sections">Annual Report Section</a></li>
-              
-            </ul>
-          </div>
-        
-      </li>
-    
-      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader51">
-        <div class="d-flex justify-content-between align-items-center">
-          <a href="https://www.tcs.com/investor-relations#quarterly" class="mobile-tab-link"><span>Financials</span>
-          </a>
-          
-            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader51" aria-expanded="false" aria-label="Financials" role="button" aria-controls="child-subHeader51" tabindex="0"></span>
-          
-        </div>
-        
-          <div id="child-subHeader51" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader51" data-parent="#sub-menu-accordion-subHeader5">
-            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/financial-statements">Quarterly Earnings Reports</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/content/dam/tcs/pdf/discover-tcs/investor-relations/tcs-data-sheet/TCS-Data-Sheet-Q1FY24.xlsx">Download TCS Data Sheet</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/cmc-financials">Erstwhile CMC Financials</a></li>
-              
-            </ul>
-          </div>
-        
-      </li>
-    
-      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader52">
-        <div class="d-flex justify-content-between align-items-center">
-          <a href="https://www.tcs.com/investor-relations#news" class="mobile-tab-link"><span>News and Events</span>
-          </a>
-          
-            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader52" aria-expanded="false" aria-label="News and Events" role="button" aria-controls="child-subHeader52" tabindex="0"></span>
-          
-        </div>
-        
-          <div id="child-subHeader52" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader52" data-parent="#sub-menu-accordion-subHeader5">
-            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/who-we-are/newsroom/investor-press-release">Press Releases</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/view-all-corporate-actions">Corporate Actions</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/events">Events</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/calendar">Calendar</a></li>
-              
-            </ul>
-          </div>
-        
-      </li>
-    
-      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader53">
-        <div class="d-flex justify-content-between align-items-center">
-          <a href="https://www.tcs.com/investor-relations#esg" class="mobile-tab-link"><span>ESG</span>
-          </a>
-          
-            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader53" aria-expanded="false" aria-label="ESG" role="button" aria-controls="child-subHeader53" tabindex="0"></span>
-          
-        </div>
-        
-          <div id="child-subHeader53" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader53" data-parent="#sub-menu-accordion-subHeader5">
-            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/esg/environment">Environment</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/esg/social">Social</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/corporate-governance">Governance</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/corporate-sustainability-investor-relations">Policies and Reports</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/stakeholder-engagement-identification-material-issues">Stakeholder Engagement and Identification of Material Issues</a></li>
-              
-            </ul>
-          </div>
-        
-      </li>
-    
-      <li type="button" class="d-flex flex-column inner-link inner-link-mobile py-3" id="parent-subHeader54">
-        <div class="d-flex justify-content-between align-items-center">
-          <a href="https://www.tcs.com/investor-relations#resource" class="mobile-tab-link"><span>Resources</span>
-          </a>
-          
-            <span class="header-plus-icon l3-expand-icon" data-toggle="collapse" data-target="#child-subHeader54" aria-expanded="false" aria-label="Resources" role="button" aria-controls="child-subHeader54" tabindex="0"></span>
-          
-        </div>
-        
-          <div id="child-subHeader54" class="collapse inner-link-mobilel3" aria-labelledby="child-subHeader54" data-parent="#sub-menu-accordion-subHeader5">
-            <ul class="l3-ul-list-mobile list-group px-3 pt-3 pb-2">
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/glossary">Glossary</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/investor-faqs">Investor FAQs</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/stock-information">Stock Information</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/overlays/analyst-coverage">Analyst Coverage</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/investor-relations/subsidiaries">Subsidiaries</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://www.tcs.com/contact-us/whats-on-your-mind/ir-landing/ir-form">Subscribe to Investor Updates</a></li>
-              
-                <li class="l3-li-list-mobile pb-3">
-                  <a class="l3-li-list-mobile-link" href="https://iepfinvestorinfo.tcsapps.com/#/home">Unclaimed Dividend Information</a></li>
-              
-            </ul>
-          </div>
-        
-      </li>
-    
-  </div>
-</div>
-                  
-                </div>
-              
-            </div>
-            <div class="d-flex flex-column pt-3">
-            
-              
-                
-              
-                
-              
-                
-              
-                
-              
-                
-              
-                
-              
-                
-              
-                
-                  
-                      <div class="navbar-text d-block mobile-contact-text pt-32">
-                        
-                          
-                          <a class="contact-text" href="https://www.tcs.com/contact-us/whats-on-your-mind" tabindex="-1" aria-hidden="true">Contact us</a>
-                        
-                      </div>
-                  
-                      <div class="navbar-text d-block mobile-contact-text pt-32">
-                        
-                          
-                          <a class="contact-text" href="https://www.tcs.com/who-we-are/worldwide" tabindex="-1" aria-hidden="true">TCS Worldwide</a>
-                        
-                      </div>
-                  
-                
-              
-            
-            </div>
-          </div>
-        </div>
-
-        <span class="navbar-text py-0 tcs-white-logo">
-          
-            
-            <a href="https://www.tata.com/" target="_blank"><img src="/content/dam/global-tcs/en/images/home/logo-tata.svg" alt="tata.com"/><span class="sr-only d-none">tata.com&nbsp;Opens in new tab</span></a>
-          
-        </span>
-      </nav>
-    </header>
-    <button class="tigger-click-btn d-none" type="button">
-      <span class="sr-only">Mute</span>
-    </button>
-    <div class="nav_rollover position-fixed"></div>
-    <div class="nav_rollover_transparent position-fixed"></div>
-    <div class="body_rollover position-fixed"></div>
-  </section>
-  <div class="sticky-header-padding lg-sticky-padding"></div>
-
-  <div class="modal fade search-overlay-panel p-0" id="searchModal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
-    <div class="modal-dialog search-modal-dialog">
-      <div class="modal-content search-modal-content border-0">
-        <input type="hidden" name="search-page-url" class="search-page-url" value="/content/tcs/global/en/home-page"/>
-        <div class="modal-header search-modal-header border-0 pt-0 px-0 pb-0">
-          <div class="tcs-custom-container w-100 position-relative">
-            <div class="search-bar w-100 position-relative autocomplete">
-              <span class="search-updates" role="status" aria-live="polite" aria-atomic="true"></span>
-              <label class="sr-only" for="search-input">What are you looking for?</label>
-              <input type="text" placeholder="What are you looking for?" aria-controls="search-inputautocomplete-list" aria-expanded="false" aria-autocomplete="list" class="search-input d-block" aria-owns="search-inputautocomplete-list" id="search-input" role="combobox"/>
-              <div id="search-inputautocomplete-list"></div>
-            </div>
-            <button type="button" class="close-search position-absolute border-0" title="Close"></button>
-          </div>
-        </div>
-        <div class="modal-body search-modal-body">
-          <div class="search-list">
-            <div class="tcs-custom-container">
-              <div class="search-no-result" role="status" aria-live="polite" aria-atomic="true">
-
-              </div>
-            </div>
-            <div class="search-list-top">
-              <div class="tcs-custom-container position-relative">
-                <div class="top-list-container">
-                  <h5 class="section-heading color-white text-uppercase mb-4">Top Results</h5>
-                  <div class="swiper search-list-carousel position-relative">
-
-                    <div class="swiper-wrapper">
-
-
-
-
-
-
-                    </div>
-
-                  
-
-                  </div>
-                </div>
-                <div class="search-list-slider-button search-list-slider-button-prev position-absolute z-index-1" title="Previous">
-                </div>
-                <div class="search-list-slider-button search-list-slider-button-next position-absolute z-index-1" title="Next">
-                </div>
-              </div>
-            </div>
-            <div class="search-list-tag-list tcs-custom-container position-relative">
-              <div class="search-sorting-dropdown position-relative">
-                <button class="search-sort-button btn w-100 text-left position-relative" role="combobox" aria-controls="search-sort-options" aria-expanded="false" data-sort="relevant">Most Relevant</button>
-                <div class="search-sort-options position-absolute" id="search-sort-options">
-                  <button class="sort-options-button btn w-100 text-left position-relative active" role="option" data-sort="relevant">Most Relevant</button>
-                  <button class="sort-options-button btn w-100 text-left position-relative" role="option" data-sort="latest">Latest first</button>
-                  <button class="sort-options-button btn w-100 text-left position-relative" role="option" data-sort="oldest">Oldest first</button>
-                </div>
-              </div>
-              <div class="search-list-slider-button search-list-tagslider-button-prev position-absolute z-index-1" title="Previous" tabindex="0" role="button">
-              </div>
-              <div class="swiper tag-list-carousel position-relative overflow-hidden">
-
-                <div class="swiper-wrapper">
-
-                </div>
-
-
-
-              </div>
-             
-              <div class=" search-list-slider-button search-list-tagslider-button-next position-absolute z-index-1" title="Next" tabindex="0" role="button">
-              </div>
-
-            </div>
-            <div class="search-list-result container">
-
-
-
-
-
-
-
-            </div>
-            <div class="search-list-pagination tcs-custom-container">
-              <div class="row align-items-center">
-                <div class="col-md-6 d-none d-md-block">
-                  <div class="text-left">
-                    <span>Showing</span>
-                    <div class="pagination-dropdown search-list-count-dropdown d-inline-block position-relative text-center cursor-pointer" role="combobox" tabindex="0" aria-controls="paginationListBox-1" aria-expanded="false" title="Click here to toggle dropdown">
-                      <div class="page-selected per-page-count d-block" role="button"><span class="text-uppercase color-white page-number selected-number">10</span></div>
-                          <div id="paginationListBox-1" class="pagination-pages position-absolute page-list-count" role="listbox">
-                        <button class="position-relative d-block pagination-number text-left w-100 selected" data-pageno="20">20 </button>
-                        <button class="position-relative d-block pagination-number text-left w-100" data-pageno="30">30
-                        </button>
-                        <button class="position-relative d-block text-left pagination-number w-100" data-pageno="40">40
-                        </button>
-
-                      </div>
-                      <span class="dropdown-arrow position-absolute">
-                      </span>
-                    </div>
-                    <span class="search-result-count"></span>
-                  </div>
-                </div>
-                <div class="col-12 col-md-6">
-                  <div class="text-center text-md-right">
-                    <button class="pagination-button pagination-prev-button" disabled>
-                      <span class="sr-only">Previous</span>
                     </button>
-                    <div class="pagination-dropdown d-inline-block position-relative text-center cursor-pointer" tabindex="0" role="combobox" aria-controls="paginationListBox-2" aria-expanded="false" title="Click here to toggle dropdown">
-                      <div class="page-selected pages-list-selected d-block" role="button"><span class="text-uppercase color-white page-number selected-number">01</span> - <span class="text-uppercase page-number">07</span></div>
-                          <div id="paginationListBox-2" class="pagination-pages position-absolute pages-list" role="listbox">
-                        <button class="position-relative d-block pagination-number w-100 selected text-left" data-pageno="02">02 </button>
-                        <button class="position-relative  d-block pagination-number w-100 text-left" data-pageno="03">03
-                        </button>
-                        <button class="position-relative d-block pagination-number w-100 text-left" data-pageno="04">04
-                        </button>
 
-                      </div>
-                      <span class="dropdown-arrow position-absolute">
-                      </span>
+                    <div class="collapse navbar-collapse " id="collapsibleNavbar">
+
+                        <ul class="navbar-nav ml-auto ">
+
+                            
+                            
+                            
+                            
+                            <li class="nav-item">
+
+                                <a href="https://www.apponix.com/placements.html" class="nav-link">Placements</a>
+
+                            </li>
+
+                            
+                            <li class="nav-item">
+
+                                <a href="https://www.apponix.com/corporate-training.html" class="nav-link">Corporate Training</a>
+
+                            </li>
+
+                            
+                            <li class="nav-item">
+
+                                <a href="https://www.apponix.com/Job-oriented-courses" class="nav-link">Job Oriented Courses</a>
+
+                            </li>
+
+                            
+                            <li class="nav-item">
+
+                                <a href="https://www.apponix.com/trainers.html" class="nav-link">Our Instructors</a>
+
+                            </li>
+
+                            
+                            <li class="nav-item">
+
+                                <a href="https://www.apponix.com/contact.html" class="nav-link">Contact Us</a>
+
+                            </li>
+
+                            
+                            <li class="nav-item">
+
+                                <a href="https://www.apponix.com/about.html" class="nav-link">About Us</a>
+
+                            </li>
+
+                            
+                            <li class="nav-item">
+
+                                <a href="https://www.apponix.com/our-team.html" class="nav-link">Our Team</a>
+
+                            </li>
+
+                            
+                            <li class="nav-item">
+
+                                <a href="https://www.apponix.com/blog" class="nav-link">Blog</a>
+
+                            </li>
+
+                            
+                            
+                            
+
+
+
+
+                        </ul>
+
                     </div>
-                    <button class="pagination-button pagination-next-button">
-                      <span class="sr-only">Next</span>
-                    </button>
-                  </div>
-                </div>
-              </div>
+
+                </nav>
+
             </div>
-          </div>
+
         </div>
 
+    </div>
+    <hr class="m-0">
+    <!-- Navbar - Mobile -->
+    <div id="navbar-mobile" class="bg-dark d-none">
+        <div class="main-container-class">
+            <div class="text-right mt-4">
+                <button onclick="toggleMenu()" class="btn btn-custom-close rounded-0">Close X</button>
+            </div>
+            <div id="accordion">
+                <div class="accordion-item">
+                    <button data-toggle="collapse" data-target="#development-mobile" class="btn btn-secondary btn-block rounded-0 text-left">All Courses <i class="fa fa-caret-down"></i></button>
+                    <div id="development-mobile" data-parent="#accordion" class="collapse accordion-item-content">
+                                                                        <div class="accordion-item-content-item">
+                            <div class="text-main h5"><a class="mob-a-menu" href="https://www.apponix.com/web-designing-course">Web designing &amp; Development</a></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                                <div class="accordion-item-content-item">
+                            <div class="text-main h5"><a class="mob-a-menu" href="https://www.apponix.com/hr-course">HR Management Training</a></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                                <div class="accordion-item-content-item">
+                            <div class="text-main h5"><a class="mob-a-menu" href="https://www.apponix.com/cyber-security-certification">Cyber Security</a></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                                <div class="accordion-item-content-item">
+                            <div class="text-main h5"><a class="mob-a-menu" href="https://www.apponix.com/powershell-training-course">PowerShell Training</a></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                                <div class="accordion-item-content-item">
+                            <div class="text-main h5"><a class="mob-a-menu" href="https://www.apponix.com/python-courses">Python Programming</a></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                                <div class="accordion-item-content-item">
+                            <div class="text-main h5"><a class="mob-a-menu" href="https://www.apponix.com/python-with-django-training">Python with Django</a></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                                <div class="accordion-item-content-item">
+                            <div class="text-main h5"><a class="mob-a-menu" href="https://www.apponix.com/sap-certification-training-course">SAP Training</a></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                                <div class="accordion-item-content-item">
+                            <div class="text-main h5"><a class="mob-a-menu" href="https://www.apponix.com/aws-certification-training">AWS Solution Architect Associate</a></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                                <div class="accordion-item-content-item">
+                            <div class="text-main h5"><a class="mob-a-menu" href="https://www.apponix.com/artificial-Intelligence-course">Artificial Intelligence</a></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                                <div class="accordion-item-content-item">
+                            <div class="text-main h5"><a class="mob-a-menu" href="https://www.apponix.com/android-development-course">Android App Development</a></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                                <div class="accordion-item-content-item">
+                            <div class="text-main h5"><a class="mob-a-menu" href="https://www.apponix.com/courses-for-business-analyst">Business Analyst</a></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                                <div class="accordion-item-content-item">
+                            <div class="text-main h5"><a class="mob-a-menu" href="https://www.apponix.com/big-data-courses">Big Data Hadoop</a></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                                <div class="accordion-item-content-item">
+                            <div class="text-main h5"><a class="mob-a-menu" href="https://www.apponix.com/graphic-design-training">Graphic Designing</a></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                                <div class="accordion-item-content-item">
+                            <div class="text-main h5"><a class="mob-a-menu" href="https://www.apponix.com/digital-marketing-courses">Digital marketing</a></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                                <div class="accordion-item-content-item">
+                            <div class="text-main h5"><a class="mob-a-menu" href="https://www.apponix.com/blockchain-course">Blockchain Technology</a></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                                <div class="accordion-item-content-item">
+                            <div class="text-main h5"><a class="mob-a-menu" href="https://www.apponix.com/cloud-computing-training-course">Cloud Computing</a></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                                <div class="accordion-item-content-item">
+                            <div class="text-main h5"><a class="mob-a-menu" href="https://www.apponix.com/corporate-training.html">Corporate Training</a></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                                <div class="accordion-item-content-item">
+                            <div class="text-main h5"><a class="mob-a-menu" href="https://www.apponix.com/data-science-courses">Data Science with Python</a></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                                <div class="accordion-item-content-item">
+                            <div class="text-main h5"><a class="mob-a-menu" href="https://www.apponix.com/devops-certification-training">DevOps Training</a></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                                <div class="accordion-item-content-item">
+                            <div class="text-main h5"><a class="mob-a-menu" href="https://www.apponix.com/ethical-hacking-certification">Ethical Hacking</a></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                                <div class="accordion-item-content-item">
+                            <div class="text-main h5"><a class="mob-a-menu" href="https://www.apponix.com/">Full Stack Java Development</a></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                                <div class="accordion-item-content-item">
+                            <div class="text-main h5"><a class="mob-a-menu" href="https://www.apponix.com/java-training">Java programming</a></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                                <div class="accordion-item-content-item">
+                            <div class="text-main h5"><a class="mob-a-menu" href="https://www.apponix.com/linux-training">Linux Administration</a></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                                <div class="accordion-item-content-item">
+                            <div class="text-main h5"><a class="mob-a-menu" href="https://www.apponix.com/machine-learning-course">Machine Learning</a></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                                <div class="accordion-item-content-item">
+                            <div class="text-main h5"><a class="mob-a-menu" href="https://www.apponix.com/mcsa-training">Microsoft Server</a></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                                <div class="accordion-item-content-item">
+                            <div class="text-main h5"><a class="mob-a-menu" href="https://www.apponix.com/certification-on-azure">MS Azure Architect AZ 305</a></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                                <div class="accordion-item-content-item">
+                            <div class="text-main h5"><a class="mob-a-menu" href="https://www.apponix.com/salesforce-certification">Salesforce Training</a></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                                <div class="accordion-item-content-item">
+                            <div class="text-main h5"><a class="mob-a-menu" href="https://www.apponix.com/seo-training">SEO</a></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                                <div class="accordion-item-content-item">
+                            <div class="text-main h5"><a class="mob-a-menu" href="https://www.apponix.com/six-sigma-certification">Six Sigma Administration</a></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                                <div class="accordion-item-content-item">
+                            <div class="text-main h5"><a class="mob-a-menu" href="https://www.apponix.com/software-testing-course.html">Software Testing</a></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                                <div class="accordion-item-content-item">
+                            <div class="text-main h5"><a class="mob-a-menu" href="https://www.apponix.com/tableau-certification">Tableau and Data Visualization</a></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                                <div class="accordion-item-content-item">
+                            <div class="text-main h5"><a class="mob-a-menu" href="https://www.apponix.com/vmware-training">VMware Certification</a></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                                <div class="accordion-item-content-item">
+                            <div class="text-main h5"><a class="mob-a-menu" href="https://www.apponix.com/pmp-certification">PMP Certification</a></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                                <div class="accordion-item-content-item">
+                            <div class="text-main h5"><a class="mob-a-menu" href="https://www.apponix.com/java-full-stack-developer-course">Full Stack Java Development</a></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                                <div class="accordion-item-content-item">
+                            <div class="text-main h5"><a class="mob-a-menu" href="https://www.apponix.com/itil-certification">ITIL Foundation</a></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                                <div class="accordion-item-content-item">
+                            <div class="text-main h5"><a class="mob-a-menu" href="https://www.apponix.com/sccm-training">Microsoft SCCM Current Branch</a></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                                <div class="accordion-item-content-item">
+                            <div class="text-main h5"><a class="mob-a-menu" href="https://www.apponix.com/master-program-in-full-stack-web-developer">Master Program in Full Stack Web Development</a></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                                <div class="accordion-item-content-item">
+                            <div class="text-main h5"><a class="mob-a-menu" href="https://www.apponix.com/master-program-in-digital-marketing">Master Program in Digital Marketing</a></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                                <div class="accordion-item-content-item">
+                            <div class="text-main h5"><a class="mob-a-menu" href="https://www.apponix.com/master-program-in-data-science">Master Program in Data Science</a></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                                <div class="accordion-item-content-item">
+                            <div class="text-main h5"><a class="mob-a-menu" href="https://www.apponix.com/master-program-in-aws-cloud-devops">Master Program in AWS Cloud-Devops</a></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                                <div class="accordion-item-content-item">
+                            <div class="text-main h5"><a class="mob-a-menu" href="https://www.apponix.com/ios-app-development">iOS App Development</a></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                                <div class="accordion-item-content-item">
+                            <div class="text-main h5"><a class="mob-a-menu" href="https://www.apponix.com/digital-marketing-courses-online">Digital Marketing Online</a></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                                <div class="accordion-item-content-item">
+                            <div class="text-main h5"><a class="mob-a-menu" href="https://www.apponix.com/google-cloud-certification">GCP Certification Training</a></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                                <div class="accordion-item-content-item">
+                            <div class="text-main h5"><a class="mob-a-menu" href="https://www.apponix.com/full-stack-developer-course">Python Full Stack development</a></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                                <div class="accordion-item-content-item">
+                            <div class="text-main h5"><a class="mob-a-menu" href="https://www.apponix.com/microsoft-azure-training">MS Azure Cloud AZ 104</a></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                                <div class="accordion-item-content-item">
+                            <div class="text-main h5"><a class="mob-a-menu" href="https://www.apponix.com/full-stack-software-testing-course">Full Stack SoftwareTesting</a></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                                <div class="accordion-item-content-item">
+                            <div class="text-main h5"><a class="mob-a-menu" href="https://www.apponix.com/Job-oriented-courses">Job oriented courses</a></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                                <div class="accordion-item-content-item">
+                            <div class="text-main h5"><a class="mob-a-menu" href="https://www.apponix.com/resume/resume-writing-services.html">Resume Writing Services</a></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                                <div class="accordion-item-content-item">
+                            <div class="text-main h5"><a class="mob-a-menu" href="https://www.apponix.com/service/digital-marketing-services">Digital Marketing Company</a></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                                <div class="accordion-item-content-item">
+                            <div class="text-main h5"><a class="mob-a-menu" href="https://www.apponix.com/serviceppc-company-in-bangalorehtml">PPC Company in Bangalore</a></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                                <div class="accordion-item-content-item">
+                            <div class="text-main h5"><a class="mob-a-menu" href="https://www.apponix.com/service/seo-company-in-bangalore.html">Most Prominent SEO Company in Bangalore</a></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                                <div class="accordion-item-content-item">
+                            <div class="text-main h5"><a class="mob-a-menu" href="https://www.apponix.com/service/social-media-marketing-company-in-bangalore.html">Best Social Media Marketing Company in Bangalore</a></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                                <div class="accordion-item-content-item">
+                            <div class="text-main h5"><a class="mob-a-menu" href="https://www.apponix.com/servicesocial-media-optimization-company-in-bangalorehtml">Social Media Optimization in Bangalore</a></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                                <div class="accordion-item-content-item">
+                            <div class="text-main h5"><a class="mob-a-menu" href="https://www.apponix.com/service/website-designing-company-in-bangalore.html">Website Designing Company in Bangalore</a></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                                <div class="accordion-item-content-item">
+                            <div class="text-main h5"><a class="mob-a-menu" href="https://www.apponix.com/service/digital-marketing-company-in-bangalore.html">Digital Marketing Company in Bangalore</a></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                                <div class="accordion-item-content-item">
+                            <div class="text-main h5"><a class="mob-a-menu" href="https://www.apponix.com/hubli/interior-design-courses-in-hubli-dharwad.html">Mechanical Designing Courses</a></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                                <div class="accordion-item-content-item">
+                            <div class="text-main h5"><a class="mob-a-menu" href="https://www.apponix.com/stock-market-training-institute">STOCK MARKET COURSE</a></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                                <div class="accordion-item-content-item">
+                            <div class="text-main h5"><a class="mob-a-menu" href="https://www.apponix.com/hubli/hotel-management-course-in-hubli.html">Hotel Management Training</a></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                                <div class="accordion-item-content-item">
+                            <div class="text-main h5"><a class="mob-a-menu" href="https://www.apponix.com/microsoft-azure/azure-devops-az-400-training">Azure Devops AZ-400</a></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                                <div class="accordion-item-content-item">
+                            <div class="text-main h5"><a class="mob-a-menu" href="https://www.apponix.com/super-30-cloud-computing-master-program">Cloud Computing  Career In 2023</a></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                                <div class="accordion-item-content-item">
+                            <div class="text-main h5"><a class="mob-a-menu" href="https://www.apponix.com/super-30-full-stack-development-program">Full Stack Development Career In 2024</a></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                                <div class="accordion-item-content-item">
+                            <div class="text-main h5"><a class="mob-a-menu" href="https://www.apponix.com/super-30-software-testing-master-Program">Software Testing Master Program</a></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                                                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="main-container-class pt-1 pb-1 desktop-header-cls secondary" id="">
+        <div class="row">
+            <div class="col-sm-4 col-md-3 mob-row-menu mr-md-5 mr-0">
+                                                <a href="https://www.apponix.com"><img src="https://www.apponix.com/storage/logoimage/CEg4WyxID25SrmEpnCulCX1at24hGPmKlov2CLsy.svg" alt="Apponix Technologies" title="Apponix Technologies" width="220" height="55" class="logo-custom pt-2"></a>
+                                            </div>
+            <div class="col-sm-12 col-md-2 p-0 mr-md-3 mr-0" style=" width: auto;">
+                <button class="all-course mt-4 shop-class"><i class="fa fa-th"></i> &nbsp;All Courses</button>
+                <div class="my-1 d-lg-none d-md-block d-block">
+                    <div class="main-container-class p-0">
+                        <div class="text-right py-2">
+                            <button onclick="toggleMenu()" class="btn btn-custom-close rounded-0 p-2">Courses <i class="fa fa-bars"></i></button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 col-lg-4 col-md-8 mt-4">
+                <form action="https://www.apponix.com/search" method="GET">
+                    <input type="hidden" name="_token" value="mvISyDHQp0aEyxBTqDTRJPQKdxtHYxncRKIEjFD5">                    <input type="text" id="myInput" placeholder="Find The Courses" title="Type in a name" name="course">
+                </form>
+            </div>
+            <div class="col-md-2 mt-2 freedemo">
 
+                <a class="float-right login-button" id="Contact-Form9" data-toggle="modal" data-target="#exampleModal">GET FREE DEMO</a>
+
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-8">
+                <div class="light-brown features" id="features">
+                    <section class="">
+                        <div class="row v-tabs box-vm">
+                            <div class="col-md-4 v-tab-head hidden-xs categories-left-sec">
+                                <div class="vm-h pb-2 pl-3">COURSE CATEGORIES</div>
+                                                                                                <a href="#" class="v-tab-link  active " data-target="#1-tab">Cloud Computing</a>
+                                                                <a href="#" class="v-tab-link " data-target="#6-tab">Cyber Security</a>
+                                                                <a href="#" class="v-tab-link " data-target="#7-tab">Data Science and Big Data</a>
+                                                                <a href="#" class="v-tab-link " data-target="#14-tab">Digital Marketing</a>
+                                                                <a href="#" class="v-tab-link " data-target="#15-tab">Software Programming</a>
+                                                                <a href="#" class="v-tab-link " data-target="#16-tab">Web Design &amp; Development</a>
+                                                                <a href="#" class="v-tab-link " data-target="#17-tab">Mobile App Development</a>
+                                                                <a href="#" class="v-tab-link " data-target="#20-tab">Human Resources</a>
+                                                                <a href="#" class="v-tab-link " data-target="#21-tab">Software Testing</a>
+                                                                <a href="#" class="v-tab-link " data-target="#23-tab">Master Programs</a>
+                                                                <a href="#" class="v-tab-link " data-target="#26-tab">Professional Courses</a>
+                                                                <a href="#" class="v-tab-link " data-target="#27-tab">Super 30 Master Programs</a>
+                                                                                            </div>
+                            <div class="col-md-5 v-tab-pane">
+                                <div class="vm-h pb-2 pt-4">POPULAR COURSES</div>
+                                                                                                <div id="1-tab" class="menu-children">
+                                    <div class="row ">
+                                        <div class="col-md-12">
+
+                                            <ul>
+                                                                                                                                                <li><a href="https://www.apponix.com/aws-certification-training" class="coursechild-a">AWS Solution Architect Associate</a></li>
+                                                                                                <li><a href="https://www.apponix.com/blockchain-course" class="coursechild-a">Blockchain Technology</a></li>
+                                                                                                <li><a href="https://www.apponix.com/cloud-computing-training-course" class="coursechild-a">Cloud Computing</a></li>
+                                                                                                <li><a href="https://www.apponix.com/devops-certification-training" class="coursechild-a">DevOps Training</a></li>
+                                                                                                <li><a href="https://www.apponix.com/linux-training" class="coursechild-a">Linux Administration</a></li>
+                                                                                                <li><a href="https://www.apponix.com/certification-on-azure" class="coursechild-a">MS Azure Architect AZ 305</a></li>
+                                                                                                <li><a href="https://www.apponix.com/google-cloud-certification" class="coursechild-a">GCP Certification Training</a></li>
+                                                                                                <li><a href="https://www.apponix.com/microsoft-azure-training" class="coursechild-a">MS Azure Cloud AZ 104</a></li>
+                                                                                                <li><a href="https://www.apponix.com/microsoft-azure/azure-devops-az-400-training" class="coursechild-a">Azure Devops AZ-400</a></li>
+                                                                                                                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                                                <div id="6-tab" class="menu-children">
+                                    <div class="row ">
+                                        <div class="col-md-12">
+
+                                            <ul>
+                                                                                                                                                <li><a href="https://www.apponix.com/cyber-security-certification" class="coursechild-a">Cyber Security</a></li>
+                                                                                                <li><a href="https://www.apponix.com/ethical-hacking-certification" class="coursechild-a">Ethical Hacking</a></li>
+                                                                                                                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                                                <div id="7-tab" class="menu-children">
+                                    <div class="row ">
+                                        <div class="col-md-12">
+
+                                            <ul>
+                                                                                                                                                <li><a href="https://www.apponix.com/artificial-Intelligence-course" class="coursechild-a">Artificial Intelligence</a></li>
+                                                                                                <li><a href="https://www.apponix.com/big-data-courses" class="coursechild-a">Big Data Hadoop</a></li>
+                                                                                                <li><a href="https://www.apponix.com/data-science-courses" class="coursechild-a">Data Science with Python</a></li>
+                                                                                                <li><a href="https://www.apponix.com/machine-learning-course" class="coursechild-a">Machine Learning</a></li>
+                                                                                                                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                                                <div id="14-tab" class="menu-children">
+                                    <div class="row ">
+                                        <div class="col-md-12">
+
+                                            <ul>
+                                                                                                                                                <li><a href="https://www.apponix.com/digital-marketing-courses" class="coursechild-a">Digital marketing</a></li>
+                                                                                                <li><a href="https://www.apponix.com/seo-training" class="coursechild-a">SEO</a></li>
+                                                                                                                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                                                <div id="15-tab" class="menu-children">
+                                    <div class="row ">
+                                        <div class="col-md-12">
+
+                                            <ul>
+                                                                                                                                                <li><a href="https://www.apponix.com/python-courses" class="coursechild-a">Python Programming</a></li>
+                                                                                                <li><a href="https://www.apponix.com/python-with-django-training" class="coursechild-a">Python with Django</a></li>
+                                                                                                <li><a href="https://www.apponix.com/java-training" class="coursechild-a">Java programming</a></li>
+                                                                                                <li><a href="https://www.apponix.com/java-full-stack-developer-course" class="coursechild-a">Full Stack Java Development</a></li>
+                                                                                                <li><a href="https://www.apponix.com/full-stack-developer-course" class="coursechild-a">Python Full Stack development</a></li>
+                                                                                                                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                                                <div id="16-tab" class="menu-children">
+                                    <div class="row ">
+                                        <div class="col-md-12">
+
+                                            <ul>
+                                                                                                                                                <li><a href="https://www.apponix.com/web-designing-course" class="coursechild-a">Web designing &amp; Development</a></li>
+                                                                                                <li><a href="https://www.apponix.com/graphic-design-training" class="coursechild-a">Graphic Designing</a></li>
+                                                                                                                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                                                <div id="17-tab" class="menu-children">
+                                    <div class="row ">
+                                        <div class="col-md-12">
+
+                                            <ul>
+                                                                                                                                                <li><a href="https://www.apponix.com/android-development-course" class="coursechild-a">Android App Development</a></li>
+                                                                                                <li><a href="https://www.apponix.com/ios-app-development" class="coursechild-a">iOS App Development</a></li>
+                                                                                                                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                                                <div id="20-tab" class="menu-children">
+                                    <div class="row ">
+                                        <div class="col-md-12">
+
+                                            <ul>
+                                                                                                                                                <li><a href="https://www.apponix.com/hr-course" class="coursechild-a">HR Management Training</a></li>
+                                                                                                                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                                                <div id="21-tab" class="menu-children">
+                                    <div class="row ">
+                                        <div class="col-md-12">
+
+                                            <ul>
+                                                                                                                                                <li><a href="https://www.apponix.com/software-testing-course.html" class="coursechild-a">Software Testing</a></li>
+                                                                                                <li><a href="https://www.apponix.com/full-stack-software-testing-course" class="coursechild-a">Full Stack SoftwareTesting</a></li>
+                                                                                                                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                                                <div id="23-tab" class="menu-children">
+                                    <div class="row ">
+                                        <div class="col-md-12">
+
+                                            <ul>
+                                                                                                                                                <li><a href="https://www.apponix.com/master-program-in-full-stack-web-developer" class="coursechild-a">Master Program in Full Stack Web Development</a></li>
+                                                                                                <li><a href="https://www.apponix.com/master-program-in-digital-marketing" class="coursechild-a">Master Program in Digital Marketing</a></li>
+                                                                                                <li><a href="https://www.apponix.com/master-program-in-data-science" class="coursechild-a">Master Program in Data Science</a></li>
+                                                                                                <li><a href="https://www.apponix.com/master-program-in-aws-cloud-devops" class="coursechild-a">Master Program in AWS Cloud-Devops</a></li>
+                                                                                                <li><a href="https://www.apponix.com/Job-oriented-courses" class="coursechild-a">Job oriented courses</a></li>
+                                                                                                                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                                                <div id="26-tab" class="menu-children">
+                                    <div class="row ">
+                                        <div class="col-md-12">
+
+                                            <ul>
+                                                                                                                                                <li><a href="https://www.apponix.com/powershell-training-course" class="coursechild-a">PowerShell Training</a></li>
+                                                                                                <li><a href="https://www.apponix.com/sap-certification-training-course" class="coursechild-a">SAP Training</a></li>
+                                                                                                <li><a href="https://www.apponix.com/courses-for-business-analyst" class="coursechild-a">Business Analyst</a></li>
+                                                                                                <li><a href="https://www.apponix.com/mcsa-training" class="coursechild-a">Microsoft Server</a></li>
+                                                                                                <li><a href="https://www.apponix.com/salesforce-certification" class="coursechild-a">Salesforce Training</a></li>
+                                                                                                <li><a href="https://www.apponix.com/six-sigma-certification" class="coursechild-a">Six Sigma Administration</a></li>
+                                                                                                <li><a href="https://www.apponix.com/tableau-certification" class="coursechild-a">Tableau and Data Visualization</a></li>
+                                                                                                <li><a href="https://www.apponix.com/vmware-training" class="coursechild-a">VMware Certification</a></li>
+                                                                                                <li><a href="https://www.apponix.com/pmp-certification" class="coursechild-a">PMP Certification</a></li>
+                                                                                                <li><a href="https://www.apponix.com/itil-certification" class="coursechild-a">ITIL Foundation</a></li>
+                                                                                                <li><a href="https://www.apponix.com/sccm-training" class="coursechild-a">Microsoft SCCM Current Branch</a></li>
+                                                                                                                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                                                <div id="27-tab" class="menu-children">
+                                    <div class="row ">
+                                        <div class="col-md-12">
+
+                                            <ul>
+                                                                                                                                                <li><a href="https://www.apponix.com/super-30-cloud-computing-master-program" class="coursechild-a">Cloud Computing  Career In 2023</a></li>
+                                                                                                <li><a href="https://www.apponix.com/super-30-full-stack-development-program" class="coursechild-a">Full Stack Development Career In 2024</a></li>
+                                                                                                <li><a href="https://www.apponix.com/super-30-software-testing-master-Program" class="coursechild-a">Software Testing Master Program</a></li>
+                                                                                                                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                                                                            </div>
+                            <div class="col-md-3 ">
+                                <div class="vm-h pb-2 pt-4">
+                                                                        Master Programs
+                                                                    </div>
+                                                                                                <a href="https://apponix.com/master-program-in-full-stack-web-developer"><img src="https://www.apponix.com/university_programs/1645520028.fu.png" alt="Career" class="w-100 pb-2 menu-side-img"></a>
+                                                                                                <a href="https://apponix.com/master-program-in-data-science"><img src="https://www.apponix.com/university_programs/1645856475.What-is-data-science-2.jpg" alt="Career" class="w-100 pb-2 menu-side-img"></a>
+                                                                                                <a href="https://www.apponix.com/master-program-in-cyber-security"><img src="https://www.apponix.com/university_programs/1644482086.Cyber.webp" alt="Career" class="w-100 pb-2 menu-side-img"></a>
+                                                                                                <a href="https://apponix.com/master-program-in-aws-cloud-devops"><img src="https://www.apponix.com/university_programs/1645519507.cloud.png" alt="Career" class="w-100 pb-2 menu-side-img"></a>
+                                                                                            </div>
+                    </section>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="main-container-class mobile-header-cls" style="margin-bottom: 6rem;">
+        <div style="position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+    background: #fff;
+    left: 0px;
+    right: 0px;
+	padding:0px 20px 20px 20px">
+            <div class="row" style="    align-items: center;
+    align-content: center;">
+                <a class="float-right login-button mt-2 " style="width: 100%;" data-toggle="modal" data-target="#exampleModal"> GET FREE DEMO</a>
+            </div>
+            <div class="row" style="align-items: center;
+    align-content: center;">
+                                                <a class="mobile-logo" href="https://www.apponix.com"><img src="https://www.apponix.com/storage/logoimage/CEg4WyxID25SrmEpnCulCX1at24hGPmKlov2CLsy.svg" alt="Apponix Technologies" title="Apponix Technologies" class="logo-custom pt-2"></a>
+
+                                                <div class="link-left">
+                    <nav id="dl-menu" class="dl-menuwrapper nav-main mobile-menu">
+                        <button class="dl-trigger nav-handle"><span>Menu</span></button>
+                        <ul class="dl-menu nav-main-list">
+                            <li class="nav-main-item">
+                                <a href="#">All courses</a>
+                                <ul class="dl-submenu nav-sub-list">
+                                                                                                            <li class="nav-sub-item">
+                                        <a href="#">Cloud Computing</a>
+                                        <ul class="dl-submenu nav-sub-sub">
+                                            <li class="nav-sub-item nav-sub-sec">
+                                                <div class="sub-menu-inner-title">POPULAR COURSES</div>
+                                                <ul class="master-prog-menu">
+                                                                                                                                                                                                                                                                                                                        <li class="sub-menu-item"><a href="https://www.apponix.com/aws-certification-training" style="    margin: 9px;" class="coursechild-a">AWS Solution Architect Associate</a></li>
+                                                                                                        <li class="sub-menu-item"><a href="https://www.apponix.com/blockchain-course" style="    margin: 9px;" class="coursechild-a">Blockchain Technology</a></li>
+                                                                                                        <li class="sub-menu-item"><a href="https://www.apponix.com/cloud-computing-training-course" style="    margin: 9px;" class="coursechild-a">Cloud Computing</a></li>
+                                                                                                        <li class="sub-menu-item"><a href="https://www.apponix.com/devops-certification-training" style="    margin: 9px;" class="coursechild-a">DevOps Training</a></li>
+                                                                                                        <li class="sub-menu-item"><a href="https://www.apponix.com/linux-training" style="    margin: 9px;" class="coursechild-a">Linux Administration</a></li>
+                                                                                                        <li class="sub-menu-item"><a href="https://www.apponix.com/certification-on-azure" style="    margin: 9px;" class="coursechild-a">MS Azure Architect AZ 305</a></li>
+                                                                                                        <li class="sub-menu-item"><a href="https://www.apponix.com/google-cloud-certification" style="    margin: 9px;" class="coursechild-a">GCP Certification Training</a></li>
+                                                                                                        <li class="sub-menu-item"><a href="https://www.apponix.com/microsoft-azure-training" style="    margin: 9px;" class="coursechild-a">MS Azure Cloud AZ 104</a></li>
+                                                                                                        <li class="sub-menu-item"><a href="https://www.apponix.com/microsoft-azure/azure-devops-az-400-training" style="    margin: 9px;" class="coursechild-a">Azure Devops AZ-400</a></li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </ul>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                                                        <li class="nav-sub-item">
+                                        <a href="#">Cyber Security</a>
+                                        <ul class="dl-submenu nav-sub-sub">
+                                            <li class="nav-sub-item nav-sub-sec">
+                                                <div class="sub-menu-inner-title">POPULAR COURSES</div>
+                                                <ul class="master-prog-menu">
+                                                                                                                                                                                                                                                                                                                                                                                                                                <li class="sub-menu-item"><a href="https://www.apponix.com/cyber-security-certification" style="    margin: 9px;" class="coursechild-a">Cyber Security</a></li>
+                                                                                                        <li class="sub-menu-item"><a href="https://www.apponix.com/ethical-hacking-certification" style="    margin: 9px;" class="coursechild-a">Ethical Hacking</a></li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </ul>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                                                        <li class="nav-sub-item">
+                                        <a href="#">Data Science and Big Data</a>
+                                        <ul class="dl-submenu nav-sub-sub">
+                                            <li class="nav-sub-item nav-sub-sec">
+                                                <div class="sub-menu-inner-title">POPULAR COURSES</div>
+                                                <ul class="master-prog-menu">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <li class="sub-menu-item"><a href="https://www.apponix.com/artificial-Intelligence-course" style="    margin: 9px;" class="coursechild-a">Artificial Intelligence</a></li>
+                                                                                                        <li class="sub-menu-item"><a href="https://www.apponix.com/big-data-courses" style="    margin: 9px;" class="coursechild-a">Big Data Hadoop</a></li>
+                                                                                                        <li class="sub-menu-item"><a href="https://www.apponix.com/data-science-courses" style="    margin: 9px;" class="coursechild-a">Data Science with Python</a></li>
+                                                                                                        <li class="sub-menu-item"><a href="https://www.apponix.com/machine-learning-course" style="    margin: 9px;" class="coursechild-a">Machine Learning</a></li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </ul>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                                                        <li class="nav-sub-item">
+                                        <a href="#">Digital Marketing</a>
+                                        <ul class="dl-submenu nav-sub-sub">
+                                            <li class="nav-sub-item nav-sub-sec">
+                                                <div class="sub-menu-inner-title">POPULAR COURSES</div>
+                                                <ul class="master-prog-menu">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li class="sub-menu-item"><a href="https://www.apponix.com/digital-marketing-courses" style="    margin: 9px;" class="coursechild-a">Digital marketing</a></li>
+                                                                                                        <li class="sub-menu-item"><a href="https://www.apponix.com/seo-training" style="    margin: 9px;" class="coursechild-a">SEO</a></li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </ul>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                                                        <li class="nav-sub-item">
+                                        <a href="#">Software Programming</a>
+                                        <ul class="dl-submenu nav-sub-sub">
+                                            <li class="nav-sub-item nav-sub-sec">
+                                                <div class="sub-menu-inner-title">POPULAR COURSES</div>
+                                                <ul class="master-prog-menu">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <li class="sub-menu-item"><a href="https://www.apponix.com/python-courses" style="    margin: 9px;" class="coursechild-a">Python Programming</a></li>
+                                                                                                        <li class="sub-menu-item"><a href="https://www.apponix.com/python-with-django-training" style="    margin: 9px;" class="coursechild-a">Python with Django</a></li>
+                                                                                                        <li class="sub-menu-item"><a href="https://www.apponix.com/java-training" style="    margin: 9px;" class="coursechild-a">Java programming</a></li>
+                                                                                                        <li class="sub-menu-item"><a href="https://www.apponix.com/java-full-stack-developer-course" style="    margin: 9px;" class="coursechild-a">Full Stack Java Development</a></li>
+                                                                                                        <li class="sub-menu-item"><a href="https://www.apponix.com/full-stack-developer-course" style="    margin: 9px;" class="coursechild-a">Python Full Stack development</a></li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </ul>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                                                        <li class="nav-sub-item">
+                                        <a href="#">Web Design &amp; Development</a>
+                                        <ul class="dl-submenu nav-sub-sub">
+                                            <li class="nav-sub-item nav-sub-sec">
+                                                <div class="sub-menu-inner-title">POPULAR COURSES</div>
+                                                <ul class="master-prog-menu">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li class="sub-menu-item"><a href="https://www.apponix.com/web-designing-course" style="    margin: 9px;" class="coursechild-a">Web designing &amp; Development</a></li>
+                                                                                                        <li class="sub-menu-item"><a href="https://www.apponix.com/graphic-design-training" style="    margin: 9px;" class="coursechild-a">Graphic Designing</a></li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </ul>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                                                        <li class="nav-sub-item">
+                                        <a href="#">Mobile App Development</a>
+                                        <ul class="dl-submenu nav-sub-sub">
+                                            <li class="nav-sub-item nav-sub-sec">
+                                                <div class="sub-menu-inner-title">POPULAR COURSES</div>
+                                                <ul class="master-prog-menu">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <li class="sub-menu-item"><a href="https://www.apponix.com/android-development-course" style="    margin: 9px;" class="coursechild-a">Android App Development</a></li>
+                                                                                                        <li class="sub-menu-item"><a href="https://www.apponix.com/ios-app-development" style="    margin: 9px;" class="coursechild-a">iOS App Development</a></li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </ul>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                                                        <li class="nav-sub-item">
+                                        <a href="#">Human Resources</a>
+                                        <ul class="dl-submenu nav-sub-sub">
+                                            <li class="nav-sub-item nav-sub-sec">
+                                                <div class="sub-menu-inner-title">POPULAR COURSES</div>
+                                                <ul class="master-prog-menu">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li class="sub-menu-item"><a href="https://www.apponix.com/hr-course" style="    margin: 9px;" class="coursechild-a">HR Management Training</a></li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </ul>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                                                        <li class="nav-sub-item">
+                                        <a href="#">Software Testing</a>
+                                        <ul class="dl-submenu nav-sub-sub">
+                                            <li class="nav-sub-item nav-sub-sec">
+                                                <div class="sub-menu-inner-title">POPULAR COURSES</div>
+                                                <ul class="master-prog-menu">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <li class="sub-menu-item"><a href="https://www.apponix.com/software-testing-course.html" style="    margin: 9px;" class="coursechild-a">Software Testing</a></li>
+                                                                                                        <li class="sub-menu-item"><a href="https://www.apponix.com/full-stack-software-testing-course" style="    margin: 9px;" class="coursechild-a">Full Stack SoftwareTesting</a></li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </ul>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                                                        <li class="nav-sub-item">
+                                        <a href="#">Master Programs</a>
+                                        <ul class="dl-submenu nav-sub-sub">
+                                            <li class="nav-sub-item nav-sub-sec">
+                                                <div class="sub-menu-inner-title">POPULAR COURSES</div>
+                                                <ul class="master-prog-menu">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li class="sub-menu-item"><a href="https://www.apponix.com/master-program-in-full-stack-web-developer" style="    margin: 9px;" class="coursechild-a">Master Program in Full Stack Web Development</a></li>
+                                                                                                        <li class="sub-menu-item"><a href="https://www.apponix.com/master-program-in-digital-marketing" style="    margin: 9px;" class="coursechild-a">Master Program in Digital Marketing</a></li>
+                                                                                                        <li class="sub-menu-item"><a href="https://www.apponix.com/master-program-in-data-science" style="    margin: 9px;" class="coursechild-a">Master Program in Data Science</a></li>
+                                                                                                        <li class="sub-menu-item"><a href="https://www.apponix.com/master-program-in-aws-cloud-devops" style="    margin: 9px;" class="coursechild-a">Master Program in AWS Cloud-Devops</a></li>
+                                                                                                        <li class="sub-menu-item"><a href="https://www.apponix.com/Job-oriented-courses" style="    margin: 9px;" class="coursechild-a">Job oriented courses</a></li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </ul>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                                                        <li class="nav-sub-item">
+                                        <a href="#">Professional Courses</a>
+                                        <ul class="dl-submenu nav-sub-sub">
+                                            <li class="nav-sub-item nav-sub-sec">
+                                                <div class="sub-menu-inner-title">POPULAR COURSES</div>
+                                                <ul class="master-prog-menu">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <li class="sub-menu-item"><a href="https://www.apponix.com/powershell-training-course" style="    margin: 9px;" class="coursechild-a">PowerShell Training</a></li>
+                                                                                                        <li class="sub-menu-item"><a href="https://www.apponix.com/sap-certification-training-course" style="    margin: 9px;" class="coursechild-a">SAP Training</a></li>
+                                                                                                        <li class="sub-menu-item"><a href="https://www.apponix.com/courses-for-business-analyst" style="    margin: 9px;" class="coursechild-a">Business Analyst</a></li>
+                                                                                                        <li class="sub-menu-item"><a href="https://www.apponix.com/mcsa-training" style="    margin: 9px;" class="coursechild-a">Microsoft Server</a></li>
+                                                                                                        <li class="sub-menu-item"><a href="https://www.apponix.com/salesforce-certification" style="    margin: 9px;" class="coursechild-a">Salesforce Training</a></li>
+                                                                                                        <li class="sub-menu-item"><a href="https://www.apponix.com/six-sigma-certification" style="    margin: 9px;" class="coursechild-a">Six Sigma Administration</a></li>
+                                                                                                        <li class="sub-menu-item"><a href="https://www.apponix.com/tableau-certification" style="    margin: 9px;" class="coursechild-a">Tableau and Data Visualization</a></li>
+                                                                                                        <li class="sub-menu-item"><a href="https://www.apponix.com/vmware-training" style="    margin: 9px;" class="coursechild-a">VMware Certification</a></li>
+                                                                                                        <li class="sub-menu-item"><a href="https://www.apponix.com/pmp-certification" style="    margin: 9px;" class="coursechild-a">PMP Certification</a></li>
+                                                                                                        <li class="sub-menu-item"><a href="https://www.apponix.com/itil-certification" style="    margin: 9px;" class="coursechild-a">ITIL Foundation</a></li>
+                                                                                                        <li class="sub-menu-item"><a href="https://www.apponix.com/sccm-training" style="    margin: 9px;" class="coursechild-a">Microsoft SCCM Current Branch</a></li>
+                                                                                                                                                                                                                                                                                                                                                                                                                            </ul>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                                                        <li class="nav-sub-item">
+                                        <a href="#">Super 30 Master Programs</a>
+                                        <ul class="dl-submenu nav-sub-sub">
+                                            <li class="nav-sub-item nav-sub-sec">
+                                                <div class="sub-menu-inner-title">POPULAR COURSES</div>
+                                                <ul class="master-prog-menu">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li class="sub-menu-item"><a href="https://www.apponix.com/super-30-cloud-computing-master-program" style="    margin: 9px;" class="coursechild-a">Cloud Computing  Career In 2023</a></li>
+                                                                                                        <li class="sub-menu-item"><a href="https://www.apponix.com/super-30-full-stack-development-program" style="    margin: 9px;" class="coursechild-a">Full Stack Development Career In 2024</a></li>
+                                                                                                        <li class="sub-menu-item"><a href="https://www.apponix.com/super-30-software-testing-master-Program" style="    margin: 9px;" class="coursechild-a">Software Testing Master Program</a></li>
+                                                                                                                                                                                                                                                                                                                    </ul>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                                                                                        </ul>
+                            </li>
+                                                                                                                                            <li class="nav-main-item">
+                                <a href="https://www.apponix.com/placements.html">Placements</a>
+                            </li>
+                                                        <li class="nav-main-item">
+                                <a href="https://www.apponix.com/corporate-training.html">Corporate Training</a>
+                            </li>
+                                                        <li class="nav-main-item">
+                                <a href="https://www.apponix.com/Job-oriented-courses">Job Oriented Courses</a>
+                            </li>
+                                                        <li class="nav-main-item">
+                                <a href="https://www.apponix.com/trainers.html">Our Instructors</a>
+                            </li>
+                                                        <li class="nav-main-item">
+                                <a href="https://www.apponix.com/contact.html">Contact Us</a>
+                            </li>
+                                                        <li class="nav-main-item">
+                                <a href="https://www.apponix.com/about.html">About Us</a>
+                            </li>
+                                                        <li class="nav-main-item">
+                                <a href="https://www.apponix.com/our-team.html">Our Team</a>
+                            </li>
+                                                        <li class="nav-main-item">
+                                <a href="https://www.apponix.com/blog">Blog</a>
+                            </li>
+                                                                                    
+                        </ul>
+
+                    </nav>
+
+                    <div class="mobile-search">
+                        <div class="search-wrapper">
+                            <span class="close" onclick="searchToggle(this, event);"><i class="fa fa-times" aria-hidden="true"></i></span>
+                            <div class="input-holder">
+                                <form action="https://www.apponix.com/search" method="GET">
+                                    <input type="hidden" name="_token" value="mvISyDHQp0aEyxBTqDTRJPQKdxtHYxncRKIEjFD5">                                    <input type="text" class="search-input inputsearch" id="myInputmobiles" placeholder="Find The Courses" title="Type in a name" name="course">
+                                </form>
+                                <button class="search-icon" onclick="searchToggle(this, event);"><i class="fa fa-search" aria-hidden="true"></i></button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+
+    <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content" style="
+      padding: 0.75rem;">
+
+                <div class="modal-header" style="border-bottom: none;    padding: 1rem 1rem 0rem 1rem;">
+                    <button type="button" style="position: absolute;
+    right: 18px;
+    top: 2px;" data-dismiss="modal" class="close p-0 m-0" aria-label="Close">
+                        <span aria-hidden="true" style="font-size:28px">&times;</span>
+                    </button>
+                    <h2 class="main-heading">Request Free Demo</h2>
+
+                </div>
+                <div class="col-md-12" id="Contact-Form1">
+
+                    <main class="container-contact">
+                        <!-- Box -->
+                        <div class="box row">
+                            <!-- form container -->
+                            <div class="col-md-12 digital-mar-row p-0">
+                                <div class="contact-right-cls p-md-3 p-3 contact-right-clshome" id="contact-home">
+                                                                                                             <form action="https://www.apponix.com/contactusubmit" onsubmit="exampleModal()" method="POST" id="myForm">
+                                                                             <input type="hidden" name="_token" value="mvISyDHQp0aEyxBTqDTRJPQKdxtHYxncRKIEjFD5">                                        <!-- <input type="hidden" name="recaptcha" id="recaptcha"> -->
+                                        
+                                        <input type="hidden" name="country" value="india">
+                                        <input type="hidden" name="location" value=" null">
+										<input type="hidden" name="ipaddress" value="157.45.60.206">
+                                        <input type="hidden" name="suburl" value="https://www.apponix.com">
+
+
+                                        <div class="row pt-2">
+                                            <div class="name col-md-6 mb-1">
+                                                <input type="text" id="name" autocomplete="off" name="name" required="" maxlength="40" placeholder="Name">
+                                            </div>
+                                            <div class="email col-md-6 mb-1">
+                                                <input type="email" id="email" autocomplete="off" name="email" required="" maxlength="50" placeholder="Email">
+                                            </div>
+
+                                            <div class="tele col-md-6 mb-1">
+                                                <input type="tel" id="phone" autocomplete="off" name="phone" required="" maxlength="10" placeholder="Phone Number">
+                                            </div>
+                                            <div class="message tele col-md-6 mb-1">
+                                                <textarea id="message" name="message" autocomplete="off" placeholder="Message" minlength="50" required></textarea>
+                                            </div>
+                                            <div class="mode-top col-md-12 mt-2">
+                                                <label class="mode-of-tra">Mode Of Training</label>
+                                                <input type="radio" id="radio01-01" name="mode" value="Classroom"><label for="radio01-01" class="contact-input-radio" required>Classroom</label>
+                                                <input type="radio" id="radio01-02" name="mode" value="Online"><label for="radio01-02" class="contact-input-radio" required>Online</label>
+                                            </div>
+                                            <div class="cf-turnstile" data-sitekey="0x4AAAAAAAMmYpxAik0dIYVd"></div>
+                                        </div>
+									  	
+                                        <input type="hidden" name="source2" id="source1" value="" />
+                                        
+                                        <div class="mode-top col-md-12">
+                                            <div class="submit" id="submitbtn-home">
+                                                <input type="submit" value="SUBMIT">
+                                            </div>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </main>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+	
+        
+
+    <script src="https://www.apponix.com/front/js/single.min.js" type="text/javascript"></script>
+    
+
+
+
+
+
+
+<section class="banner-sliderarrow" id="rc-arrow-pos">
+   <div class="banner-slider owl-carousel ">
+                  <img src="https://www.apponix.com/storage/homepagebanner/m3TGatG93SUJ5aajd66kpfxmMYa6fnf5Z5y2OA9i.webp" alt="Banner">
+               </div>
+</section>
+<div class="bg-ind-mob">
+   <div class="main-container-class section-spacing-top">
+      <h1 class="h1-homenew pb-4">Instructor Led Professional &amp; Job Guaranteed Online, Classroom Training Courses</h1>
+   </div>
+</div>
+<div class="main-container-class section-spacing-bottom">
+   <h2 class="main-heading">Popular Job Guaranteed &amp; Professional Courses</h2>
+   <p class=" pt-3 pb-4 mb-4 traning-option-p">These are the top short term job-oriented Courses &amp; certification courses which are In high Demand in 2024</p>
+   <div class="my-carousel">
+                  <a href="https://www.apponix.com/web/full-stack-web-development-course-in-bangalore.html" style="text-decoration:none">
+         <div>
+            <div class="col-md-12 p-0">
+               <div class="boxshadow-home-pop">
+                  <h3 class="pop-class-h col-red hof-masterc">Full Stack Development Training</h3>
+                  <div class="p-m-pop">
+                     <div class="containershape">
+                        <img src="https://www.apponix.com/front/images/Shape.webp" alt="Shape">
+                        <div class="centeredshape">
+                           <span><i class="fa fa-calendar-o" aria-hidden="true"></i></span>
+                           <span class="ml-2">100+ hours</span>
+                        </div>
+                     </div>
+                     <p>
+                        <span>
+                        <i class="star-cls fa fa-star"></i>
+                        </span>
+                        <span>
+                        10+ Guaranteed Interviews
+                        </span>
+                        <span>|</span>
+                        <span><img src="https://www.apponix.com/front/images/coursescopy.webp" alt="Course"></span>
+                        <span></span>
+                     </p>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </a>
+            <a href="https://www.apponix.com/cloud-computing-training-course" style="text-decoration:none">
+         <div>
+            <div class="col-md-12 p-0">
+               <div class="boxshadow-home-pop">
+                  <h3 class="pop-class-h col-red hof-masterc">Cloud Computing Training</h3>
+                  <div class="p-m-pop">
+                     <div class="containershape">
+                        <img src="https://www.apponix.com/front/images/Shape.webp" alt="Shape">
+                        <div class="centeredshape">
+                           <span><i class="fa fa-calendar-o" aria-hidden="true"></i></span>
+                           <span class="ml-2">120+ hours</span>
+                        </div>
+                     </div>
+                     <p>
+                        <span>
+                        <i class="star-cls fa fa-star"></i>
+                        </span>
+                        <span>
+                        5+ Guaranteed Interviews
+                        </span>
+                        <span>|</span>
+                        <span><img src="https://www.apponix.com/front/images/coursescopy.webp" alt="Course"></span>
+                        <span></span>
+                     </p>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </a>
+            <a href="https://www.apponix.com/data-science-training-in-bangalore.html" style="text-decoration:none">
+         <div>
+            <div class="col-md-12 p-0">
+               <div class="boxshadow-home-pop">
+                  <h3 class="pop-class-h col-red hof-masterc">Data Science Training</h3>
+                  <div class="p-m-pop">
+                     <div class="containershape">
+                        <img src="https://www.apponix.com/front/images/Shape.webp" alt="Shape">
+                        <div class="centeredshape">
+                           <span><i class="fa fa-calendar-o" aria-hidden="true"></i></span>
+                           <span class="ml-2">2 Months</span>
+                        </div>
+                     </div>
+                     <p>
+                        <span>
+                        <i class="star-cls fa fa-star"></i>
+                        </span>
+                        <span>
+                        IABAC Certified Data Scientist Course
+                        </span>
+                        <span>|</span>
+                        <span><img src="https://www.apponix.com/front/images/coursescopy.webp" alt="Course"></span>
+                        <span></span>
+                     </p>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </a>
+            <a href="https://www.apponix.com/Digital-Marketing-Institute/Digital-Marketing-Training-in-Bangalore.html" style="text-decoration:none">
+         <div>
+            <div class="col-md-12 p-0">
+               <div class="boxshadow-home-pop">
+                  <h3 class="pop-class-h col-red hof-masterc">Digital Marketing Training</h3>
+                  <div class="p-m-pop">
+                     <div class="containershape">
+                        <img src="https://www.apponix.com/front/images/Shape.webp" alt="Shape">
+                        <div class="centeredshape">
+                           <span><i class="fa fa-calendar-o" aria-hidden="true"></i></span>
+                           <span class="ml-2">2 Months</span>
+                        </div>
+                     </div>
+                     <p>
+                        <span>
+                        <i class="star-cls fa fa-star"></i>
+                        </span>
+                        <span>
+                        4.9 Ratings
+                        </span>
+                        <span>|</span>
+                        <span><img src="https://www.apponix.com/front/images/coursescopy.webp" alt="Course"></span>
+                        <span>5+ Guaranteed Interviews</span>
+                     </p>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </a>
+            <a href="https://www.apponix.com/AWS-Essentials-Solutions-Architect/AWS-solution-arcchitect-training-in-bangalore.html" style="text-decoration:none">
+         <div>
+            <div class="col-md-12 p-0">
+               <div class="boxshadow-home-pop">
+                  <h3 class="pop-class-h col-red hof-masterc">AWS Solutions Architect Certification Training</h3>
+                  <div class="p-m-pop">
+                     <div class="containershape">
+                        <img src="https://www.apponix.com/front/images/Shape.webp" alt="Shape">
+                        <div class="centeredshape">
+                           <span><i class="fa fa-calendar-o" aria-hidden="true"></i></span>
+                           <span class="ml-2">40 Hrs</span>
+                        </div>
+                     </div>
+                     <p>
+                        <span>
+                        <i class="star-cls fa fa-star"></i>
+                        </span>
+                        <span>
+                        AWS Certification Program
+                        </span>
+                        <span>|</span>
+                        <span><img src="https://www.apponix.com/front/images/coursescopy.webp" alt="Course"></span>
+                        <span></span>
+                     </p>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </a>
+            <a href="https://www.apponix.com/Microsoft-Azure/Microsoft-Azure-Training-in-Bangalore.html" style="text-decoration:none">
+         <div>
+            <div class="col-md-12 p-0">
+               <div class="boxshadow-home-pop">
+                  <h3 class="pop-class-h col-red hof-masterc">Azure Certification Training</h3>
+                  <div class="p-m-pop">
+                     <div class="containershape">
+                        <img src="https://www.apponix.com/front/images/Shape.webp" alt="Shape">
+                        <div class="centeredshape">
+                           <span><i class="fa fa-calendar-o" aria-hidden="true"></i></span>
+                           <span class="ml-2">40 Hrs</span>
+                        </div>
+                     </div>
+                     <p>
+                        <span>
+                        <i class="star-cls fa fa-star"></i>
+                        </span>
+                        <span>
+                        4.9 Rating
+                        </span>
+                        <span>|</span>
+                        <span><img src="https://www.apponix.com/front/images/coursescopy.webp" alt="Course"></span>
+                        <span>1000+ Learners</span>
+                     </p>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </a>
+            <a href="https://www.apponix.com/devops-certification/devops-training-institutes-in-bangalore.html" style="text-decoration:none">
+         <div>
+            <div class="col-md-12 p-0">
+               <div class="boxshadow-home-pop">
+                  <h3 class="pop-class-h col-red hof-masterc">DevOps Training</h3>
+                  <div class="p-m-pop">
+                     <div class="containershape">
+                        <img src="https://www.apponix.com/front/images/Shape.webp" alt="Shape">
+                        <div class="centeredshape">
+                           <span><i class="fa fa-calendar-o" aria-hidden="true"></i></span>
+                           <span class="ml-2">40 Hrs</span>
+                        </div>
+                     </div>
+                     <p>
+                        <span>
+                        <i class="star-cls fa fa-star"></i>
+                        </span>
+                        <span>
+                        Advanced Topics Covered
+                        </span>
+                        <span>|</span>
+                        <span><img src="https://www.apponix.com/front/images/coursescopy.webp" alt="Course"></span>
+                        <span></span>
+                     </p>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </a>
+            <a href="https://www.apponix.com/Vmware-Institute/Vmware-Training-in-Bangalore.html" style="text-decoration:none">
+         <div>
+            <div class="col-md-12 p-0">
+               <div class="boxshadow-home-pop">
+                  <h3 class="pop-class-h col-red hof-masterc">VMware Certification Training</h3>
+                  <div class="p-m-pop">
+                     <div class="containershape">
+                        <img src="https://www.apponix.com/front/images/Shape.webp" alt="Shape">
+                        <div class="centeredshape">
+                           <span><i class="fa fa-calendar-o" aria-hidden="true"></i></span>
+                           <span class="ml-2">40 Hrs</span>
+                        </div>
+                     </div>
+                     <p>
+                        <span>
+                        <i class="star-cls fa fa-star"></i>
+                        </span>
+                        <span>
+                        Free Exam Voucher
+                        </span>
+                        <span>|</span>
+                        <span><img src="https://www.apponix.com/front/images/coursescopy.webp" alt="Course"></span>
+                        <span>Official Labs</span>
+                     </p>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </a>
+            <a href="https://apponix.com/AWS-Essentials-Solutions-Architect/AWS-training-in-Pune.html" style="text-decoration:none">
+         <div>
+            <div class="col-md-12 p-0">
+               <div class="boxshadow-home-pop">
+                  <h3 class="pop-class-h col-red hof-masterc">AWS Training in Pune</h3>
+                  <div class="p-m-pop">
+                     <div class="containershape">
+                        <img src="https://www.apponix.com/front/images/Shape.webp" alt="Shape">
+                        <div class="centeredshape">
+                           <span><i class="fa fa-calendar-o" aria-hidden="true"></i></span>
+                           <span class="ml-2">40 Hrs</span>
+                        </div>
+                     </div>
+                     <p>
+                        <span>
+                        <i class="star-cls fa fa-star"></i>
+                        </span>
+                        <span>
+                        Guaranteed Interview arrangements
+                        </span>
+                        <span>|</span>
+                        <span><img src="https://www.apponix.com/front/images/coursescopy.webp" alt="Course"></span>
+                        <span></span>
+                     </p>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </a>
+            <a href="https://www.apponix.com/devops-certification/DevOps-Training-in-Pune.html" style="text-decoration:none">
+         <div>
+            <div class="col-md-12 p-0">
+               <div class="boxshadow-home-pop">
+                  <h3 class="pop-class-h col-red hof-masterc">DevOps Training Pune</h3>
+                  <div class="p-m-pop">
+                     <div class="containershape">
+                        <img src="https://www.apponix.com/front/images/Shape.webp" alt="Shape">
+                        <div class="centeredshape">
+                           <span><i class="fa fa-calendar-o" aria-hidden="true"></i></span>
+                           <span class="ml-2">40 Hrs</span>
+                        </div>
+                     </div>
+                     <p>
+                        <span>
+                        <i class="star-cls fa fa-star"></i>
+                        </span>
+                        <span>
+                        Guaranteed Interview arrangements
+                        </span>
+                        <span>|</span>
+                        <span><img src="https://www.apponix.com/front/images/coursescopy.webp" alt="Course"></span>
+                        <span></span>
+                     </p>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </a>
+            <a href="https://www.apponix.com/Cyber-Security-Training-in-Bangalore.html" style="text-decoration:none">
+         <div>
+            <div class="col-md-12 p-0">
+               <div class="boxshadow-home-pop">
+                  <h3 class="pop-class-h col-red hof-masterc">Cyber Security Training</h3>
+                  <div class="p-m-pop">
+                     <div class="containershape">
+                        <img src="https://www.apponix.com/front/images/Shape.webp" alt="Shape">
+                        <div class="centeredshape">
+                           <span><i class="fa fa-calendar-o" aria-hidden="true"></i></span>
+                           <span class="ml-2">70 Hrs</span>
+                        </div>
+                     </div>
+                     <p>
+                        <span>
+                        <i class="star-cls fa fa-star"></i>
+                        </span>
+                        <span>
+                        EC Council Certification Assistance
+                        </span>
+                        <span>|</span>
+                        <span><img src="https://www.apponix.com/front/images/coursescopy.webp" alt="Course"></span>
+                        <span></span>
+                     </p>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </a>
+            <a href="https://www.apponix.com/web/index.html" style="text-decoration:none">
+         <div>
+            <div class="col-md-12 p-0">
+               <div class="boxshadow-home-pop">
+                  <h3 class="pop-class-h col-red hof-masterc">Web Design and Development</h3>
+                  <div class="p-m-pop">
+                     <div class="containershape">
+                        <img src="https://www.apponix.com/front/images/Shape.webp" alt="Shape">
+                        <div class="centeredshape">
+                           <span><i class="fa fa-calendar-o" aria-hidden="true"></i></span>
+                           <span class="ml-2">2 Months</span>
+                        </div>
+                     </div>
+                     <p>
+                        <span>
+                        <i class="star-cls fa fa-star"></i>
+                        </span>
+                        <span>
+                        10+ Guaranteed Interview Schedule
+                        </span>
+                        <span>|</span>
+                        <span><img src="https://www.apponix.com/front/images/coursescopy.webp" alt="Course"></span>
+                        <span></span>
+                     </p>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </a>
+            <a href="https://www.apponix.com/Software-Testing/Software-Testing-Training-in-Bangalore.html" style="text-decoration:none">
+         <div>
+            <div class="col-md-12 p-0">
+               <div class="boxshadow-home-pop">
+                  <h3 class="pop-class-h col-red hof-masterc">Software Testing Training</h3>
+                  <div class="p-m-pop">
+                     <div class="containershape">
+                        <img src="https://www.apponix.com/front/images/Shape.webp" alt="Shape">
+                        <div class="centeredshape">
+                           <span><i class="fa fa-calendar-o" aria-hidden="true"></i></span>
+                           <span class="ml-2">3 Months</span>
+                        </div>
+                     </div>
+                     <p>
+                        <span>
+                        <i class="star-cls fa fa-star"></i>
+                        </span>
+                        <span>
+                        10+ Guaranteed Interview Schedule
+                        </span>
+                        <span>|</span>
+                        <span><img src="https://www.apponix.com/front/images/coursescopy.webp" alt="Course"></span>
+                        <span></span>
+                     </p>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </a>
+            <a href="https://www.apponix.com/Microsoft-Azure/Microsoft-Azure-Training-in-Bangalore.html" style="text-decoration:none">
+         <div>
+            <div class="col-md-12 p-0">
+               <div class="boxshadow-home-pop">
+                  <h3 class="pop-class-h col-red hof-masterc">Microsoft Azure Cloud Administration AZ-104</h3>
+                  <div class="p-m-pop">
+                     <div class="containershape">
+                        <img src="https://www.apponix.com/front/images/Shape.webp" alt="Shape">
+                        <div class="centeredshape">
+                           <span><i class="fa fa-calendar-o" aria-hidden="true"></i></span>
+                           <span class="ml-2">40 Hrs</span>
+                        </div>
+                     </div>
+                     <p>
+                        <span>
+                        <i class="star-cls fa fa-star"></i>
+                        </span>
+                        <span>
+                        10+ Guaranteed Interview Schedule
+                        </span>
+                        <span>|</span>
+                        <span><img src="https://www.apponix.com/front/images/coursescopy.webp" alt="Course"></span>
+                        <span></span>
+                     </p>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </a>
+            <a href="https://www.apponix.com/Active-Directory-Tutorial/Mcsa-Training-in-Bangalore.html" style="text-decoration:none">
+         <div>
+            <div class="col-md-12 p-0">
+               <div class="boxshadow-home-pop">
+                  <h3 class="pop-class-h col-red hof-masterc">Microsoft Server 2012/2016</h3>
+                  <div class="p-m-pop">
+                     <div class="containershape">
+                        <img src="https://www.apponix.com/front/images/Shape.webp" alt="Shape">
+                        <div class="centeredshape">
+                           <span><i class="fa fa-calendar-o" aria-hidden="true"></i></span>
+                           <span class="ml-2">40 Hrs</span>
+                        </div>
+                     </div>
+                     <p>
+                        <span>
+                        <i class="star-cls fa fa-star"></i>
+                        </span>
+                        <span>
+                        4.9 Rating
+                        </span>
+                        <span>|</span>
+                        <span><img src="https://www.apponix.com/front/images/coursescopy.webp" alt="Course"></span>
+                        <span></span>
+                     </p>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </a>
+            <a href="https://www.apponix.com/Sccm-Institute/Sccm-Training-in-Bangalore.html" style="text-decoration:none">
+         <div>
+            <div class="col-md-12 p-0">
+               <div class="boxshadow-home-pop">
+                  <h3 class="pop-class-h col-red hof-masterc">Microsoft SCCM</h3>
+                  <div class="p-m-pop">
+                     <div class="containershape">
+                        <img src="https://www.apponix.com/front/images/Shape.webp" alt="Shape">
+                        <div class="centeredshape">
+                           <span><i class="fa fa-calendar-o" aria-hidden="true"></i></span>
+                           <span class="ml-2">40 Hrs</span>
+                        </div>
+                     </div>
+                     <p>
+                        <span>
+                        <i class="star-cls fa fa-star"></i>
+                        </span>
+                        <span>
+                        4.9 Rating
+                        </span>
+                        <span>|</span>
+                        <span><img src="https://www.apponix.com/front/images/coursescopy.webp" alt="Course"></span>
+                        <span>1000+ Learners</span>
+                     </p>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </a>
+            <a href="https://apponix.com/cyber-security/cyber-security-course-in-pune.html" style="text-decoration:none">
+         <div>
+            <div class="col-md-12 p-0">
+               <div class="boxshadow-home-pop">
+                  <h3 class="pop-class-h col-red hof-masterc">Cyber Security Training Pune</h3>
+                  <div class="p-m-pop">
+                     <div class="containershape">
+                        <img src="https://www.apponix.com/front/images/Shape.webp" alt="Shape">
+                        <div class="centeredshape">
+                           <span><i class="fa fa-calendar-o" aria-hidden="true"></i></span>
+                           <span class="ml-2">60 hrs</span>
+                        </div>
+                     </div>
+                     <p>
+                        <span>
+                        <i class="star-cls fa fa-star"></i>
+                        </span>
+                        <span>
+                        4.9 Rating
+                        </span>
+                        <span>|</span>
+                        <span><img src="https://www.apponix.com/front/images/coursescopy.webp" alt="Course"></span>
+                        <span>1000+ Learners</span>
+                     </p>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </a>
+            <a href="https://www.apponix.com/Linux-Unix-Institute/Linux-and-Unix-Training-in-Bangalore.html" style="text-decoration:none">
+         <div>
+            <div class="col-md-12 p-0">
+               <div class="boxshadow-home-pop">
+                  <h3 class="pop-class-h col-red hof-masterc">Red Hat Linux</h3>
+                  <div class="p-m-pop">
+                     <div class="containershape">
+                        <img src="https://www.apponix.com/front/images/Shape.webp" alt="Shape">
+                        <div class="centeredshape">
+                           <span><i class="fa fa-calendar-o" aria-hidden="true"></i></span>
+                           <span class="ml-2">40 Hrs</span>
+                        </div>
+                     </div>
+                     <p>
+                        <span>
+                        <i class="star-cls fa fa-star"></i>
+                        </span>
+                        <span>
+                        Guaranteed Interview Schedule
+                        </span>
+                        <span>|</span>
+                        <span><img src="https://www.apponix.com/front/images/coursescopy.webp" alt="Course"></span>
+                        <span></span>
+                     </p>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </a>
+            <a href="https://www.apponix.com/Python-Institute/Python-Training-in-Bangalore.html" style="text-decoration:none">
+         <div>
+            <div class="col-md-12 p-0">
+               <div class="boxshadow-home-pop">
+                  <h3 class="pop-class-h col-red hof-masterc">Python Programming</h3>
+                  <div class="p-m-pop">
+                     <div class="containershape">
+                        <img src="https://www.apponix.com/front/images/Shape.webp" alt="Shape">
+                        <div class="centeredshape">
+                           <span><i class="fa fa-calendar-o" aria-hidden="true"></i></span>
+                           <span class="ml-2">40 Hrs</span>
+                        </div>
+                     </div>
+                     <p>
+                        <span>
+                        <i class="star-cls fa fa-star"></i>
+                        </span>
+                        <span>
+                        4.9 Rating
+                        </span>
+                        <span>|</span>
+                        <span><img src="https://www.apponix.com/front/images/coursescopy.webp" alt="Course"></span>
+                        <span>3+ Guaranteed Interviews</span>
+                     </p>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </a>
+            <a href="https://www.apponix.com/data-science-training-in-bangalore.html" style="text-decoration:none">
+         <div>
+            <div class="col-md-12 p-0">
+               <div class="boxshadow-home-pop">
+                  <h3 class="pop-class-h col-red hof-masterc">Data Science with Python</h3>
+                  <div class="p-m-pop">
+                     <div class="containershape">
+                        <img src="https://www.apponix.com/front/images/Shape.webp" alt="Shape">
+                        <div class="centeredshape">
+                           <span><i class="fa fa-calendar-o" aria-hidden="true"></i></span>
+                           <span class="ml-2">40 Hrs</span>
+                        </div>
+                     </div>
+                     <p>
+                        <span>
+                        <i class="star-cls fa fa-star"></i>
+                        </span>
+                        <span>
+                        IABAC Certified Program
+                        </span>
+                        <span>|</span>
+                        <span><img src="https://www.apponix.com/front/images/coursescopy.webp" alt="Course"></span>
+                        <span></span>
+                     </p>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </a>
+            <a href="https://www.apponix.com/Python-Institute/Python-Django-Training-in-Bangalore.html" style="text-decoration:none">
+         <div>
+            <div class="col-md-12 p-0">
+               <div class="boxshadow-home-pop">
+                  <h3 class="pop-class-h col-red hof-masterc">Dijango with Python</h3>
+                  <div class="p-m-pop">
+                     <div class="containershape">
+                        <img src="https://www.apponix.com/front/images/Shape.webp" alt="Shape">
+                        <div class="centeredshape">
+                           <span><i class="fa fa-calendar-o" aria-hidden="true"></i></span>
+                           <span class="ml-2">40 Hrs</span>
+                        </div>
+                     </div>
+                     <p>
+                        <span>
+                        <i class="star-cls fa fa-star"></i>
+                        </span>
+                        <span>
+                        10+ Guaranteed Interview Schedule
+                        </span>
+                        <span>|</span>
+                        <span><img src="https://www.apponix.com/front/images/coursescopy.webp" alt="Course"></span>
+                        <span></span>
+                     </p>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </a>
+            <a href="https://www.apponix.com/HR-courses-in-Bangalore.html" style="text-decoration:none">
+         <div>
+            <div class="col-md-12 p-0">
+               <div class="boxshadow-home-pop">
+                  <h3 class="pop-class-h col-red hof-masterc">Human Resourse</h3>
+                  <div class="p-m-pop">
+                     <div class="containershape">
+                        <img src="https://www.apponix.com/front/images/Shape.webp" alt="Shape">
+                        <div class="centeredshape">
+                           <span><i class="fa fa-calendar-o" aria-hidden="true"></i></span>
+                           <span class="ml-2">40 Hrs</span>
+                        </div>
+                     </div>
+                     <p>
+                        <span>
+                        <i class="star-cls fa fa-star"></i>
+                        </span>
+                        <span>
+                        10+ Guaranteed Interview Schedule
+                        </span>
+                        <span>|</span>
+                        <span><img src="https://www.apponix.com/front/images/coursescopy.webp" alt="Course"></span>
+                        <span></span>
+                     </p>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </a>
+            <a href="https://apponix.com/hr-training/HR-Training-in-Pune.html" style="text-decoration:none">
+         <div>
+            <div class="col-md-12 p-0">
+               <div class="boxshadow-home-pop">
+                  <h3 class="pop-class-h col-red hof-masterc">Human Resources</h3>
+                  <div class="p-m-pop">
+                     <div class="containershape">
+                        <img src="https://www.apponix.com/front/images/Shape.webp" alt="Shape">
+                        <div class="centeredshape">
+                           <span><i class="fa fa-calendar-o" aria-hidden="true"></i></span>
+                           <span class="ml-2">40 Hrs</span>
+                        </div>
+                     </div>
+                     <p>
+                        <span>
+                        <i class="star-cls fa fa-star"></i>
+                        </span>
+                        <span>
+                        Guaranteed Interview Schedule
+                        </span>
+                        <span>|</span>
+                        <span><img src="https://www.apponix.com/front/images/coursescopy.webp" alt="Course"></span>
+                        <span></span>
+                     </p>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </a>
+            <a href="https://www.apponix.com/Java-Institute/Java-Training-Institute-in-Bangalore.html" style="text-decoration:none">
+         <div>
+            <div class="col-md-12 p-0">
+               <div class="boxshadow-home-pop">
+                  <h3 class="pop-class-h col-red hof-masterc">Java &amp; J2EE</h3>
+                  <div class="p-m-pop">
+                     <div class="containershape">
+                        <img src="https://www.apponix.com/front/images/Shape.webp" alt="Shape">
+                        <div class="centeredshape">
+                           <span><i class="fa fa-calendar-o" aria-hidden="true"></i></span>
+                           <span class="ml-2"></span>
+                        </div>
+                     </div>
+                     <p>
+                        <span>
+                        <i class="star-cls fa fa-star"></i>
+                        </span>
+                        <span>
+                        10+ Guaranteed Interview Schedule
+                        </span>
+                        <span>|</span>
+                        <span><img src="https://www.apponix.com/front/images/coursescopy.webp" alt="Course"></span>
+                        <span></span>
+                     </p>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </a>
+            <a href="https://apponix.com/web/full-stack-java-development-course-in-pune.html" style="text-decoration:none">
+         <div>
+            <div class="col-md-12 p-0">
+               <div class="boxshadow-home-pop">
+                  <h3 class="pop-class-h col-red hof-masterc">Full Stack Development Pune</h3>
+                  <div class="p-m-pop">
+                     <div class="containershape">
+                        <img src="https://www.apponix.com/front/images/Shape.webp" alt="Shape">
+                        <div class="centeredshape">
+                           <span><i class="fa fa-calendar-o" aria-hidden="true"></i></span>
+                           <span class="ml-2">100 Hrs</span>
+                        </div>
+                     </div>
+                     <p>
+                        <span>
+                        <i class="star-cls fa fa-star"></i>
+                        </span>
+                        <span>
+                        10+ Guaranteed Interview Schedule
+                        </span>
+                        <span>|</span>
+                        <span><img src="https://www.apponix.com/front/images/coursescopy.webp" alt="Course"></span>
+                        <span></span>
+                     </p>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </a>
+            <a href="https://apponix.com/cloud-computing-training-course-in-Pune" style="text-decoration:none">
+         <div>
+            <div class="col-md-12 p-0">
+               <div class="boxshadow-home-pop">
+                  <h3 class="pop-class-h col-red hof-masterc">Cloud Computing</h3>
+                  <div class="p-m-pop">
+                     <div class="containershape">
+                        <img src="https://www.apponix.com/front/images/Shape.webp" alt="Shape">
+                        <div class="centeredshape">
+                           <span><i class="fa fa-calendar-o" aria-hidden="true"></i></span>
+                           <span class="ml-2">120 Hrs</span>
+                        </div>
+                     </div>
+                     <p>
+                        <span>
+                        <i class="star-cls fa fa-star"></i>
+                        </span>
+                        <span>
+                        10+ Guaranteed Interview Schedule
+                        </span>
+                        <span>|</span>
+                        <span><img src="https://www.apponix.com/front/images/coursescopy.webp" alt="Course"></span>
+                        <span></span>
+                     </p>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </a>
+            <a href="https://apponix.com/python-institute-python-training-in-pune.html" style="text-decoration:none">
+         <div>
+            <div class="col-md-12 p-0">
+               <div class="boxshadow-home-pop">
+                  <h3 class="pop-class-h col-red hof-masterc">Python Full Stack</h3>
+                  <div class="p-m-pop">
+                     <div class="containershape">
+                        <img src="https://www.apponix.com/front/images/Shape.webp" alt="Shape">
+                        <div class="centeredshape">
+                           <span><i class="fa fa-calendar-o" aria-hidden="true"></i></span>
+                           <span class="ml-2">100 Hrs</span>
+                        </div>
+                     </div>
+                     <p>
+                        <span>
+                        <i class="star-cls fa fa-star"></i>
+                        </span>
+                        <span>
+                        Certification
+                        </span>
+                        <span>|</span>
+                        <span><img src="https://www.apponix.com/front/images/coursescopy.webp" alt="Course"></span>
+                        <span></span>
+                     </p>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </a>
+            <a href="https://www.apponix.com/corporate-training-in-bangalore.html" style="text-decoration:none">
+         <div>
+            <div class="col-md-12 p-0">
+               <div class="boxshadow-home-pop">
+                  <h3 class="pop-class-h col-red hof-masterc">Corporate Training</h3>
+                  <div class="p-m-pop">
+                     <div class="containershape">
+                        <img src="https://www.apponix.com/front/images/Shape.webp" alt="Shape">
+                        <div class="centeredshape">
+                           <span><i class="fa fa-calendar-o" aria-hidden="true"></i></span>
+                           <span class="ml-2">40 Hrs</span>
+                        </div>
+                     </div>
+                     <p>
+                        <span>
+                        <i class="star-cls fa fa-star"></i>
+                        </span>
+                        <span>
+                        
+                        </span>
+                        <span>|</span>
+                        <span><img src="https://www.apponix.com/front/images/coursescopy.webp" alt="Course"></span>
+                        <span>Certification</span>
+                     </p>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </a>
+               </div>
+</div>
+<div class="main-container-class section-spacing bg-ind">
+   <h2 class="main-heading">Job Guaranteed Master Programs</h2>
+   <div class="pt-3 pb-4 mb-4 traning-option-p"> A Professional Master program is ideal for any graduates who wants to start their career in below technologies</div>
+   <section class="bg-none testimonial-area1" id="rc-arrow-pos">
+      <div class="testimonial-content-m owl-carousel">
+                           <div class="single-testimonial no-border no-padding-pro h-100">
+            <div class="client-info col-blue-bg client-info-master">
+               <div class="client-video">
+                  <a href="#"><img src="https://www.apponix.com/front/images/master-top-img.webp" alt="Full stack development" class="test-img master-top-img"></a>
+               </div>
+            </div>
+            <div class="master-text-box pb-0">
+               <div>
+                  <h3 class="master-h pb-3">Full Stack Web Development</h3>
+                  <div class="justifyclass pb-3">
+                     <span>
+                     <i class="fa fa-calendar-o small-tick-slider" aria-hidden="true"></i>
+                     </span>
+                     <span class="mr-2">6 Months  </span>
+                     <span>|</span>
+                     <span><img src="https://www.apponix.com/front/images/coursescopy.webp" alt="Course" class="small-tick-slider ml-2"></span>
+                     <span>500+ Learners</span>
+                  </div>
+               </div>
+               <div class="div-flex-custom1">
+                  
+                  <div class="skill-coverd-p pl-2 pb-2 custompdata" id="mastercourse-ul"><ul>
+	<li>Minimum 20&nbsp;Guaranteed Interviews</li>
+	<li>6 months of Practical Learning</li>
+	<li>Job Placement Assistance</li>
+	<li>EMI starts from Rs 4500</li>
+</ul>
+                  </div>
+               </div>
+            </div>
+            <a href="https://apponix.com/master-program-in-full-stack-web-developer" class="view-more-master">Enroll Now</a>
+         </div>
+                  <div class="single-testimonial no-border no-padding-pro h-100">
+            <div class="client-info col-blue-bg client-info-master">
+               <div class="client-video">
+                  <a href="#"><img src="https://www.apponix.com/front/images/master-top-img.webp" alt="Full stack development" class="test-img master-top-img"></a>
+               </div>
+            </div>
+            <div class="master-text-box pb-0">
+               <div>
+                  <h3 class="master-h pb-3">Master Program in Data Science</h3>
+                  <div class="justifyclass pb-3">
+                     <span>
+                     <i class="fa fa-calendar-o small-tick-slider" aria-hidden="true"></i>
+                     </span>
+                     <span class="mr-2">5 Months  </span>
+                     <span>|</span>
+                     <span><img src="https://www.apponix.com/front/images/coursescopy.webp" alt="Course" class="small-tick-slider ml-2"></span>
+                     <span>1000+ Learners</span>
+                  </div>
+               </div>
+               <div class="div-flex-custom1">
+                  
+                  <div class="skill-coverd-p pl-2 pb-2 custompdata" id="mastercourse-ul"><ul>
+	<li>Guaranteed Placement Assurance</li>
+	<li>12 Months LinkedIn Learning Access</li>
+	<li>Google &amp; Hubspot Certifications</li>
+	<li>5 months of Practical Learning</li>
+</ul>
+                  </div>
+               </div>
+            </div>
+            <a href="https://www.apponix.com/master-program-in-data-science" class="view-more-master">Enroll Now</a>
+         </div>
+                  <div class="single-testimonial no-border no-padding-pro h-100">
+            <div class="client-info col-blue-bg client-info-master">
+               <div class="client-video">
+                  <a href="#"><img src="https://www.apponix.com/front/images/master-top-img.webp" alt="Full stack development" class="test-img master-top-img"></a>
+               </div>
+            </div>
+            <div class="master-text-box pb-0">
+               <div>
+                  <h3 class="master-h pb-3">Master Program in AWS Cloud Devops</h3>
+                  <div class="justifyclass pb-3">
+                     <span>
+                     <i class="fa fa-calendar-o small-tick-slider" aria-hidden="true"></i>
+                     </span>
+                     <span class="mr-2">6 Months  </span>
+                     <span>|</span>
+                     <span><img src="https://www.apponix.com/front/images/coursescopy.webp" alt="Course" class="small-tick-slider ml-2"></span>
+                     <span>800+ Learners</span>
+                  </div>
+               </div>
+               <div class="div-flex-custom1">
+                  
+                  <div class="skill-coverd-p pl-2 pb-2 custompdata" id="mastercourse-ul"><ul>
+	<li>20 Guaranteed Interviews</li>
+	<li>12 Months LinkedIn Learning Access</li>
+	<li>6 months of Practical Learning</li>
+	<li>Job Placement Assurance</li>
+</ul>
+                  </div>
+               </div>
+            </div>
+            <a href="https://www.apponix.com/master-program-in-cloud-computing/" class="view-more-master">Enroll Now</a>
+         </div>
+                  <div class="single-testimonial no-border no-padding-pro h-100">
+            <div class="client-info col-blue-bg client-info-master">
+               <div class="client-video">
+                  <a href="#"><img src="https://www.apponix.com/front/images/master-top-img.webp" alt="Full stack development" class="test-img master-top-img"></a>
+               </div>
+            </div>
+            <div class="master-text-box pb-0">
+               <div>
+                  <h3 class="master-h pb-3">Master Program in Digital Marketing</h3>
+                  <div class="justifyclass pb-3">
+                     <span>
+                     <i class="fa fa-calendar-o small-tick-slider" aria-hidden="true"></i>
+                     </span>
+                     <span class="mr-2">6 Months  </span>
+                     <span>|</span>
+                     <span><img src="https://www.apponix.com/front/images/coursescopy.webp" alt="Course" class="small-tick-slider ml-2"></span>
+                     <span>700+ Learners</span>
+                  </div>
+               </div>
+               <div class="div-flex-custom1">
+                  
+                  <div class="skill-coverd-p pl-2 pb-2 custompdata" id="mastercourse-ul"><ul>
+	<li>15 Guaranteed Interviews</li>
+	<li>12 Months LinkedIn Learning Access</li>
+	<li>5 Hrs of Practical Learning</li>
+	<li>Job Placement Assurance</li>
+</ul>
+                  </div>
+               </div>
+            </div>
+            <a href="https://apponix.com/master-program-in-digital-marketing" class="view-more-master">Enroll Now</a>
+         </div>
+                        </div>
+   </section>
+</div>
+<div class="main-container-class section-spacing-top ">
+   <h2 class="main-heading">Authorized Partners &amp; Accreditations</h2>
+   <section class="bg-none testimonial-area1" id="rc-arrow-pos">
+      <div class="testimonial-content-m owl-carousel">
+                                    <div class="col-md-12 recent-box maxwidthrecentclassromm traning-card-img-home">
+            <a href="https://www.apponix.com/">
+               <div>
+                  <img src="https://www.apponix.com/storage/homepage/Cvndn1wjAfa5tK8wqm01NAonLzBdKof2GbYCdXV0.webp" alt="Classroom" class="w-100 classroom-img">
+                  <div class="card-box-home">
+                     <div class="traning-card-h">IABAC Authorized Partner</div>
+                  </div>
+               </div>
+            </a>
+         </div>
+                  <div class="col-md-12 recent-box maxwidthrecentclassromm traning-card-img-home">
+            <a href="https://apponix.com/">
+               <div>
+                  <img src="https://www.apponix.com/storage/homepage/52loIieEk7ff9Fcqa6H4cOrj8jkgXfo9c1DCAslw.png" alt="Classroom" class="w-100 classroom-img">
+                  <div class="card-box-home">
+                     <div class="traning-card-h">ISO 9001:2015 Certified</div>
+                  </div>
+               </div>
+            </a>
+         </div>
+                  <div class="col-md-12 recent-box maxwidthrecentclassromm traning-card-img-home">
+            <a href="https://apponix.com/">
+               <div>
+                  <img src="https://www.apponix.com/storage/homepage/yflmedllnLA9Zhz0otLtkNYVSiBlVo3eNxw9R0q4.png" alt="Classroom" class="w-100 classroom-img">
+                  <div class="card-box-home">
+                     <div class="traning-card-h">Vmware</div>
+                  </div>
+               </div>
+            </a>
+         </div>
+                        </div>
+   </section>
+</div>
+<div class="col-md-12 p-0 ">
+   <div class="bg-about ">
+      <div class="row main-container-class section-spacing"  id="blockContainer">
+         <div class="col-md-6 pt-md-1 pt-4 mt-5">
+            <img src="https://www.apponix.com/storage/aboutimage/Zg1uyX1AzTxPX6CLmXaFFVhBBJqqmLU26DbaUQck.png" alt="About" class="w-100 ">
+         </div>
+         <div class="col-md-6 mb-md-5 mb-0  about-p-18">
+            <h2 class="main-heading pt-0 mb-3">About US</h2>
+            <p>Apponix Academy is an online and offline training institute that provides high in demand professional courses to students and professionals. We offer courses in a wide range of technologies such as Cloud Computing, DevOps, Cyber Security, Full stack development, Data Science, Digital Marketing, Web Development, and more.</p>
+
+<p>Apponix Academy was founded in 2013 &amp; has branches in&nbsp;Bangalore,Pune, Hubli, Mumbai,Aurangabad and has since expanded to other cities in India as well as abroad. We offer both online and classroom-based training options, and our courses are designed to be practical and job-oriented, with a focus on hands-on learning and real-world scenarios.</p>
+            <a href="https://www.apponix.com/about.html" class="mt-4 home-learn-more mb-0">More About Us</a>
+         </div>
       </div>
-    </div>
-  </div>
-
-
-
+   </div>
 </div>
-
-    
-</div>
-</div>
-
-    
-</div>
-</div>
-
-    
-</div>
-<div class="homeHeroCarousel aem-GridColumn aem-GridColumn--default--12">
-  
-  
-  
-  
-    <section class="home-banner ">
-      <input type="hidden" class="banner-slide-duration" value="7"/>
-      <div class="swiper home-banner-carousel" id="main-content" role="main">
-        <div class="swiper-wrapper">
-          
-            
-          
-            
-          
-            
-          
-            
-              <div class="swiper-slide home-banner-slide">
-                <div class="home-banner-box">                                  
-                  <div class="home-banner-content text-left position-absolute z-index-2" data-dl-title="TCS to Announce Q3 FY 2024 Results on Jan 11, 2024">
-                    
-                      <h1 class="home-banner-title">TCS to Announce Q3 FY 2024 Results on Jan 11, 2024</h1>
-                    
-                    
-                    <div class="home-banner-links">
-                      <div>
-                      
-                      	
-                        <a href="https://www.tcs.com/content/dam/tcs/pdf/discover-tcs/investor-relations/corporate-actions/2023-24/schedule-of-events-Q3-2023-24.pdf" target="_blank" class="tcs-primary-btn d-inline-block tcs-section-click">Learn more
-                          <span class="sr-only">&nbsp about &nbsp TCS to Announce Q3 FY 2024 Results on Jan 11, 2024</span>
-                        </a>
-                      
-                      
-                     </div>
-                    </div>
-                  </div>
-                  
-                  
-                  
-                  <div class="image-video-box position-relative z-index-1 image-gradient-bg non-svg-image orange-yellow ">  
-					         <div class="hero-home-gradient position-relative w-100 h-100"></div>
-                    
-  
-    
-    
-  <script defer="true" src="/libs/dam/components/scene7/common/clientlibs/viewer.min.4618b42d2de5cb16b5ebca7fdf77812d.js" xmlns="http://www.w3.org/1999/xhtml"></script>
-<script defer="true" src="/etc.clientlibs/clientlibs/granite/jquery.min.cee8557e8779d371fe722bbcdd3b3eb7.js" xmlns="http://www.w3.org/1999/xhtml"></script>
-<script defer="true" src="/etc.clientlibs/clientlibs/granite/utils.min.4a192b590a2c2926fb000264370c0588.js" xmlns="http://www.w3.org/1999/xhtml"></script>
-<script defer="true" src="/libs/dam/components/scene7/dynamicmedia/clientlibs/dynamicmedia.min.7e6c319ddfaae25b587068f944783174.js" xmlns="http://www.w3.org/1999/xhtml"></script>
-<script defer="true" src="/libs/dam/components/scene7/common/clientlibs/i18n.min.729cff467445a61264e4f0ffb2261059.js" xmlns="http://www.w3.org/1999/xhtml"></script>
-<link href="/libs/dam/components/scene7/dynamicmedia/clientlibs/dynamicmedia.min.a97e0418f0d0d6fe2eea57c7dc5e8804.css" rel="stylesheet" type="text/css" xmlns="http://www.w3.org/1999/xhtml">
-
-
-
-    <div id="dynamicmedia_262769362" data-current-page="/content/tcs/global/en/home-page" data-page-locale="en" data-asset-path="TCSCOMprod/ir-annocement" data-asset-name="ir-annocement.png" data-asset-type="image" data-viewer-path="https://s7ap1.scene7.com/s7viewers/" data-imageserver="https://s7ap1.scene7.com/is/image/" data-videoserver="https://s7ap1.scene7.com/is/content/" data-contenturl="https://s7ap1.scene7.com/is/content/" data-wcmdisabled data-dms7 data-mode="smartcrop" data-alt="TCS to Announce Q3 FY 2024 Results on Jan 11, 2024" class="s7dm-dynamic-media" data-custom-class="fit-cover dynamic-media-image">
-    </div>
-  
-
-					  
-                
-                    <div class="home-banner-progress-bar position-absolute"></div>
-                  </div>
-                </div>
-              </div>
-            
-              <div class="swiper-slide home-banner-slide">
-                <div class="home-banner-box">                                  
-                  <div class="home-banner-content text-left position-absolute z-index-2" data-dl-title="The TCS Global Cloud Study for Retailers">
-                    
-                      <h1 class="home-banner-title">The TCS Global Cloud Study for Retailers</h1>
-                    
-                    
-                      <div class="home-banner-desc d-none d-lg-block">Cloud is front and center in the changing landscape of retail</div>
-                    
-                    <div class="home-banner-links">
-                      <div>
-                      
-                      	
-                        <a href="https://www.tcs.com/insights/global-studies/tcs-global-cloud-study/global-cloud-study-retailers" class="tcs-primary-btn d-inline-block tcs-section-click">Learn more
-                          <span class="sr-only">&nbsp about &nbsp The TCS Global Cloud Study for Retailers</span>
-                        </a>
-                      
-                      
-                     </div>
-                    </div>
-                  </div>
-                  
-                  
-                  
-                  <div class="image-video-box position-relative z-index-1 image-gradient-bg non-svg-image  ">  
-					         <div class="hero-home-gradient position-relative w-100 h-100"></div>
-                    
-  
-    
-    
-  
-
-
-    <div id="dynamicmedia_66743920" data-current-page="/content/tcs/global/en/home-page" data-page-locale="en" data-asset-path="TCSCOMprod/tcs-global-cloud-study-retailers" data-asset-name="tcs-global-cloud-study-retailers.jpg" data-asset-type="image" data-viewer-path="https://s7ap1.scene7.com/s7viewers/" data-imageserver="https://s7ap1.scene7.com/is/image/" data-videoserver="https://s7ap1.scene7.com/is/content/" data-contenturl="https://s7ap1.scene7.com/is/content/" data-wcmdisabled data-dms7 data-mode="smartcrop" data-alt="The TCS Global Cloud Study for Retailers" class="s7dm-dynamic-media" data-custom-class="fit-cover dynamic-media-image">
-    </div>
-  
-
-					  
-                
-                    <div class="home-banner-progress-bar position-absolute"></div>
-                  </div>
-                </div>
-              </div>
-            
-              <div class="swiper-slide home-banner-slide">
-                <div class="home-banner-box">                                  
-                  <div class="home-banner-content text-left position-absolute z-index-2" data-dl-title="The formative future of the factory ">
-                    
-                      <h1 class="home-banner-title">The formative future of the factory </h1>
-                    
-                    
-                      <div class="home-banner-desc d-none d-lg-block">Neural manufacturing transforms enterprise value chains into ecosystems that sense, learn, and adapt</div>
-                    
-                    <div class="home-banner-links">
-                      <div>
-                      
-                      	
-                        <a href="https://www.tcs.com/what-we-do/industries/manufacturing" class="tcs-primary-btn d-inline-block tcs-section-click">Learn more
-                          <span class="sr-only">&nbsp about &nbsp The formative future of the factory </span>
-                        </a>
-                      
-                      
-                     </div>
-                    </div>
-                  </div>
-                  
-                  
-                  
-                  <div class="image-video-box position-relative z-index-1 image-gradient-bg non-svg-image  ">  
-					         <div class="hero-home-gradient position-relative w-100 h-100"></div>
-                    
-  
-    
-    
-  
-
-
-    <div id="dynamicmedia_32067424" data-current-page="/content/tcs/global/en/home-page" data-page-locale="en" data-asset-path="TCSCOMprod/formative-future-factory" data-asset-name="formative-future-factory .jpg" data-asset-type="image" data-viewer-path="https://s7ap1.scene7.com/s7viewers/" data-imageserver="https://s7ap1.scene7.com/is/image/" data-videoserver="https://s7ap1.scene7.com/is/content/" data-contenturl="https://s7ap1.scene7.com/is/content/" data-wcmdisabled data-dms7 data-mode="smartcrop" data-alt="The formative future of the factory " class="s7dm-dynamic-media" data-custom-class="fit-cover dynamic-media-image">
-    </div>
-  
-
-					  
-                
-                    <div class="home-banner-progress-bar position-absolute"></div>
-                  </div>
-                </div>
-              </div>
-            
-              <div class="swiper-slide home-banner-slide">
-                <div class="home-banner-box">                                  
-                  <div class="home-banner-content text-left position-absolute z-index-2" data-dl-title="Building on ambition and optimism">
-                    
-                      <h1 class="home-banner-title">Building on ambition and optimism</h1>
-                    
-                    
-                      <div class="home-banner-desc d-none d-lg-block">Defining new pathways of growth to foster an inclusive culture</div>
-                    
-                    <div class="home-banner-links">
-                      <div>
-                      
-                      	
-                        <a href="https://www.tcs.com/who-we-are/diversity-equity-inclusion" class="tcs-primary-btn d-inline-block tcs-section-click">Discover more
-                          <span class="sr-only">&nbsp about &nbsp Building on ambition and optimism</span>
-                        </a>
-                      
-                      
-                     </div>
-                    </div>
-                  </div>
-                  
-                  
-                  
-                  <div class="image-video-box position-relative z-index-1 image-gradient-bg non-svg-image  ">  
-					         <div class="hero-home-gradient position-relative w-100 h-100"></div>
-                    
-  
-    
-    
-  
-
-
-    <div id="dynamicmedia_125389396" data-current-page="/content/tcs/global/en/home-page" data-page-locale="en" data-asset-path="TCSCOMprod/building-ambition-optimism" data-asset-name="building-ambition-optimism.jpg" data-asset-type="image" data-viewer-path="https://s7ap1.scene7.com/s7viewers/" data-imageserver="https://s7ap1.scene7.com/is/image/" data-videoserver="https://s7ap1.scene7.com/is/content/" data-contenturl="https://s7ap1.scene7.com/is/content/" data-wcmdisabled data-dms7 data-mode="smartcrop" data-alt="Building on ambition and optimism" class="s7dm-dynamic-media" data-custom-class="fit-cover dynamic-media-image">
-    </div>
-  
-
-					  
-                
-                    <div class="home-banner-progress-bar position-absolute"></div>
-                  </div>
-                </div>
-              </div>
-            
-              <div class="swiper-slide home-banner-slide">
-                <div class="home-banner-box">                                  
-                  <div class="home-banner-content text-left position-absolute z-index-2" data-dl-title="Make net-negative the new benchmark">
-                    
-                      <h1 class="home-banner-title">Make net-negative the new benchmark</h1>
-                    
-                    
-                      <div class="home-banner-desc d-none d-lg-block">Create a cleaner and greener future by adopting an ecosystem approach for energy and utilities businesses.</div>
-                    
-                    <div class="home-banner-links">
-                      <div>
-                      
-                      	
-                        <a href="https://www.tcs.com/what-we-do/industries/energy-resources-utilities" class="tcs-primary-btn d-inline-block tcs-section-click">Read more
-                          <span class="sr-only">&nbsp about &nbsp Make net-negative the new benchmark</span>
-                        </a>
-                      
-                      
-                     </div>
-                    </div>
-                  </div>
-                  
-                  
-                  
-                  <div class="image-video-box position-relative z-index-1 image-gradient-bg non-svg-image  ">  
-					         <div class="hero-home-gradient position-relative w-100 h-100"></div>
-                    
-  
-    
-    
-  
-
-
-    <div id="dynamicmedia_104549342" data-current-page="/content/tcs/global/en/home-page" data-page-locale="en" data-asset-path="TCSCOMprod/make-net-negative-new-benchmark" data-asset-name="make-net-negative-new-benchmark.jpg" data-asset-type="image" data-viewer-path="https://s7ap1.scene7.com/s7viewers/" data-imageserver="https://s7ap1.scene7.com/is/image/" data-videoserver="https://s7ap1.scene7.com/is/content/" data-contenturl="https://s7ap1.scene7.com/is/content/" data-wcmdisabled data-dms7 data-mode="smartcrop" data-alt="Make net-negative the new benchmark" class="s7dm-dynamic-media" data-custom-class="fit-cover dynamic-media-image">
-    </div>
-  
-
-					  
-                
-                    <div class="home-banner-progress-bar position-absolute"></div>
-                  </div>
-                </div>
-              </div>
-            
-          
-        </div>
-        <div class="swiper-pagination"></div>
-        <div class="home-banner-play-pause playing home-banner-button position-absolute" tabindex="0" title="pause"></div>
-        <div class="home-banner-button-next home-banner-button position-absolute" title="Next"></div>
-        <div class="home-banner-button-prev home-banner-button position-absolute" title="Previous"></div>
-        
-          <span class="sr-only">Play Pause Button</span>
-        </div>
-        <div class="circle-box homer-banner-timer position-absolute z-index-1 d-none">
-          <span class="icon home-banner-counter position-absolute text-center"></span>
-          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 70 70" preserveAspectRatio="none">
-            <circle cx="165" cy="36" r="32" class="white-halo" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-dasharray="360, 20000" transform="rotate(-90,100,100)"></circle>
-            <circle cx="165" cy="36" r="32" class="gradient-halo" fill="none" stroke="#DC0916" stroke-width="2" stroke-dasharray="0, 20000" transform="rotate(-90,100,100)"></circle>
-          </svg>
-        </div>
+<div class="main-container-class section-spacing bg-ind why-choose-us-sec ">
+   <h2 class="main-heading mb-5 pb-3">Why Choose Us ?</h2>
+   <!-- <h3 class="pt-2 pb-4 mb-5 traning-option-p">Achieve your career goals with industry-recognized learning paths</h3> -->
+   <div class="row">
+                  <div class="col-lg-3 col-md-6 col-sm-12 customcol-md-3 p-1">
+         <div class="y-chhose-card-box card-box1-choose custom-hf-16">
+            <img src="https://www.apponix.com/storage/homepage/MUU1a6SyRbivS8pE31JrzCoL52bVs5dlK3oNHnCK.webp" alt="Expert Trainers" class="y-choose-logos card-img-top1">
+            <h3 class="y-choose-h">Expert Trainers</h3>
+            <p>All our trainers are working professional with more than 6 years of experience in the industry. Since the birth of Apponix Technologies,we have 15000+ satisfied learners.</p>
+         </div>
       </div>
-      
-        
-        
-        
-          
-      
-        
-        
-        
-          
-            
-            
+            <div class="col-lg-3 col-md-6 col-sm-12 customcol-md-3 p-1">
+         <div class="y-chhose-card-box card-box1-choose custom-hf-16">
+            <img src="https://www.apponix.com/storage/homepage/r8KZbss6CqZR2KHmjQ8vgThPP9MNGwWvXVg1AtwZ.webp" alt="100% Practical Based Learning" class="y-choose-logos card-img-top1">
+            <h3 class="y-choose-h">100% Practical Based Learning</h3>
+            <p>All our training programs are 100&nbsp;practical, Trainers provide industry based practical scenarios as part of courses as part of courses</p>
+         </div>
+      </div>
+            <div class="col-lg-3 col-md-6 col-sm-12 customcol-md-3 p-1">
+         <div class="y-chhose-card-box card-box1-choose custom-hf-16">
+            <img src="https://www.apponix.com/storage/homepage/2ldQpjAUwptjJAo5e7rbCU2wVziwa9Mz1Ahd8SQG.webp" alt="Flexible Batch Times" class="y-choose-logos card-img-top1">
+            <h3 class="y-choose-h">Flexible Batch Times</h3>
+            <p>Our training programs are arranged in a more flexible manner, you can choose your own training schedule. The batches start from Morning 7 AM and end at 9 PM</p>
+         </div>
+      </div>
+            <div class="col-lg-3 col-md-6 col-sm-12 customcol-md-3 p-1">
+         <div class="y-chhose-card-box card-box1-choose custom-hf-16">
+            <img src="https://www.apponix.com/storage/homepage/jkiDRKE0ZkIrW8E5Dhm20ExHdU11tBOCXl0gXjHw.webp" alt="Affordable Fees" class="y-choose-logos card-img-top1">
+            <h3 class="y-choose-h">Affordable Fees</h3>
+            <p>No Training institute can beat us in fee structure We provide at the lowest possible fees, We don&rsquo;t mind if you ask for even lower fees and its always negotiable</p>
+         </div>
+      </div>
+            <div class="col-lg-3 col-md-6 col-sm-12 customcol-md-3 p-1">
+         <div class="y-chhose-card-box card-box1-choose custom-hf-16">
+            <img src="https://www.apponix.com/storage/homepage/NZP3ZnQkg3atFuMNOurOV3TanBAsgXCUEwpo4HVV.webp" alt="Standard Lab Access" class="y-choose-logos card-img-top1">
+            <h3 class="y-choose-h">Standard Lab Access</h3>
+            <p>For most of the courses you can access our labs anywhere from the world. These labs are available 24/7 without any downtime, This will give you more flexibility on your learning schedule</p>
+         </div>
+      </div>
+            <div class="col-lg-3 col-md-6 col-sm-12 customcol-md-3 p-1">
+         <div class="y-chhose-card-box card-box1-choose custom-hf-16">
+            <img src="https://www.apponix.com/storage/homepage/NETVyNNIuS4ci2og09Gdmt6Hi0BJBHZUDYtcKj2j.webp" alt="Placement Assured" class="y-choose-logos card-img-top1">
+            <h3 class="y-choose-h">Placement Assured</h3>
+            <p>Whether you are a fresher or a experienced professional, We always provide 100% placement assistance. We have tied with many recruitment consultancies &amp; companies to help you get the job.</p>
+         </div>
+      </div>
+            <div class="col-lg-3 col-md-6 col-sm-12 customcol-md-3 p-1">
+         <div class="y-chhose-card-box card-box1-choose custom-hf-16">
+            <img src="https://www.apponix.com/storage/homepage/XQeNXrInoNZrl4umVuUrJDzvXnORevszfpaJvPNN.webp" alt="Trust" class="y-choose-logos card-img-top1">
+            <h3 class="y-choose-h">Trust</h3>
+            <p>We have 100% student satisfactory rate since 9&nbsp;years,it means that the students trust quality of the training we provide and the trainers.</p>
+         </div>
+      </div>
+            <div class="col-lg-3 col-md-6 col-sm-12 customcol-md-3 p-1">
+         <div class="y-chhose-card-box card-box1-choose custom-hf-16">
+            <img src="https://www.apponix.com/storage/homepage/KUwuSUTN4jBBmdJaR7Acwy98umj5vC64JldvXsK1.webp" alt="Interview Assistance" class="y-choose-logos card-img-top1">
+            <h3 class="y-choose-h">Interview Assistance</h3>
+            <p>We are official partner of India&#39;s Most Favourite job portal Talentsarena.com, At the end of each training,our training instructor will go through the possible technical questions you may be asked.</p>
+         </div>
+      </div>
+               </div>
+</div>
+<div id="" class="section section-spacing">
+   <div class="main-container-class pb-0">
+      <div id="" class="section">
+         <h2 class="main-heading pb-3">Student Reviews</h2>
+         <section class="testimonial-area1 bg-none" id="rc-arrow-pos">
+            <div class="testimonial-content owl-carousel">
+                                             <div class="single-testimonial no-border single-testimonial-custom" id="new-h-review-box">
+                  <div class="client-info">
+                     <div class="client-video">
+                        <a href="#"><img src="https://www.apponix.com/storage/profileimage/2Yl6glnVzfU2q4zT44Fn18gEOqi9UHL2lRiKXd0z.webp" alt="Client" class="test-img"></a>
+                     </div>
+                     <div class="client-details">
+                        <h6>Abhishek</h6>
+                        <span>AWS</span>
+                        <div id="full-stars-example">
+                           <div class="rating-group">
+                              <label aria-label="1 star" class="rating__label" for="rating-1"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                              <input class="rating__input" name="rating" id="rating-1" value="1" type="radio">
+                              <label aria-label="2 stars" class="rating__label" for="rating-2"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                              <input class="rating__input" name="rating" id="rating-2" value="2" type="radio">
+                              <label aria-label="3 stars" class="rating__label" for="rating-3"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                              <input class="rating__input" name="rating" id="rating-3" value="3" type="radio" >
+                              <label aria-label="4 stars" class="rating__label" for="rating-4"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                              <input class="rating__input" name="rating" id="rating-4" value="4" type="radio">
+                              <label aria-label="5 stars" class="rating__label" for="rating-5"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                              <input class="rating__input" name="rating" id="rating-5" value="5" type="radio" checked>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <p>It&#39;s a great AWS training first i would like thank to Subrat the trainer did a wonderful job by teaching the platform in a simpler way instead of making a complex way.AWS training helps and boosts to switch over to Cloud platform</p>
+               </div>
+                              <div class="single-testimonial no-border single-testimonial-custom" id="new-h-review-box">
+                  <div class="client-info">
+                     <div class="client-video">
+                        <a href="#"><img src="https://www.apponix.com/storage/profileimage/sovikyWch7UuMu9jC7mS0lFNY7DTOQHf2XWCN2GH.webp" alt="Client" class="test-img"></a>
+                     </div>
+                     <div class="client-details">
+                        <h6>Utham</h6>
+                        <span>Aws</span>
+                        <div id="full-stars-example">
+                           <div class="rating-group">
+                              <label aria-label="1 star" class="rating__label" for="rating-1"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                              <input class="rating__input" name="rating" id="rating-1" value="1" type="radio">
+                              <label aria-label="2 stars" class="rating__label" for="rating-2"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                              <input class="rating__input" name="rating" id="rating-2" value="2" type="radio">
+                              <label aria-label="3 stars" class="rating__label" for="rating-3"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                              <input class="rating__input" name="rating" id="rating-3" value="3" type="radio" >
+                              <label aria-label="4 stars" class="rating__label" for="rating-4"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                              <input class="rating__input" name="rating" id="rating-4" value="4" type="radio">
+                              <label aria-label="5 stars" class="rating__label" for="rating-5"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                              <input class="rating__input" name="rating" id="rating-5" value="5" type="radio" checked>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <p>I did the right choice to join apponix for the AWS course, I recommend others to do AWS&nbsp;course&nbsp;here, compare to other institutes AWS course content is good and the faculty Vishwa sir is more knowledgeable.....</p>
+               </div>
+                              <div class="single-testimonial no-border single-testimonial-custom" id="new-h-review-box">
+                  <div class="client-info">
+                     <div class="client-video">
+                        <a href="#"><img src="https://www.apponix.com/storage/profileimage/Sm9MlY063bg0MLWVlT44MSiIfqn1qnDFqXSm8oRO.webp" alt="Client" class="test-img"></a>
+                     </div>
+                     <div class="client-details">
+                        <h6>Archana</h6>
+                        <span>Powershell Scripting</span>
+                        <div id="full-stars-example">
+                           <div class="rating-group">
+                              <label aria-label="1 star" class="rating__label" for="rating-1"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                              <input class="rating__input" name="rating" id="rating-1" value="1" type="radio">
+                              <label aria-label="2 stars" class="rating__label" for="rating-2"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                              <input class="rating__input" name="rating" id="rating-2" value="2" type="radio">
+                              <label aria-label="3 stars" class="rating__label" for="rating-3"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                              <input class="rating__input" name="rating" id="rating-3" value="3" type="radio" >
+                              <label aria-label="4 stars" class="rating__label" for="rating-4"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                              <input class="rating__input" name="rating" id="rating-4" value="4" type="radio">
+                              <label aria-label="5 stars" class="rating__label" for="rating-5"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                              <input class="rating__input" name="rating" id="rating-5" value="5" type="radio" checked>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <p>Hi guys, The facilities from apponix are very good. You get a dedicated lab system. The management is open to reaching out to them for any queries. Trainer teachings are completely practical based.</p>
+               </div>
+                              <div class="single-testimonial no-border single-testimonial-custom" id="new-h-review-box">
+                  <div class="client-info">
+                     <div class="client-video">
+                        <a href="#"><img src="https://www.apponix.com/storage/profileimage/4sdYgfDHlpO0FXh8JfaO5aKeoj5dLnPioHjLPzB9.webp" alt="Client" class="test-img"></a>
+                     </div>
+                     <div class="client-details">
+                        <h6>Priyanka</h6>
+                        <span>IOS</span>
+                        <div id="full-stars-example">
+                           <div class="rating-group">
+                              <label aria-label="1 star" class="rating__label" for="rating-1"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                              <input class="rating__input" name="rating" id="rating-1" value="1" type="radio">
+                              <label aria-label="2 stars" class="rating__label" for="rating-2"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                              <input class="rating__input" name="rating" id="rating-2" value="2" type="radio">
+                              <label aria-label="3 stars" class="rating__label" for="rating-3"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                              <input class="rating__input" name="rating" id="rating-3" value="3" type="radio" >
+                              <label aria-label="4 stars" class="rating__label" for="rating-4"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                              <input class="rating__input" name="rating" id="rating-4" value="4" type="radio">
+                              <label aria-label="5 stars" class="rating__label" for="rating-5"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                              <input class="rating__input" name="rating" id="rating-5" value="5" type="radio" checked>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <p>This is the institute for learning the courses properly. You will get full knowledge about the courses. The way of teaching is best. Thank you apponix</p>
+               </div>
+                              <div class="single-testimonial no-border single-testimonial-custom" id="new-h-review-box">
+                  <div class="client-info">
+                     <div class="client-video">
+                        <a href="#"><img src="https://www.apponix.com/storage/profileimage/wVQDNqbN4D5bDzvxXzP2GRy1EjM0SSHAR3AHCeZp.png" alt="Client" class="test-img"></a>
+                     </div>
+                     <div class="client-details">
+                        <h6>Muktar</h6>
+                        <span>Digital Marketer</span>
+                        <div id="full-stars-example">
+                           <div class="rating-group">
+                              <label aria-label="1 star" class="rating__label" for="rating-1"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                              <input class="rating__input" name="rating" id="rating-1" value="1" type="radio">
+                              <label aria-label="2 stars" class="rating__label" for="rating-2"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                              <input class="rating__input" name="rating" id="rating-2" value="2" type="radio">
+                              <label aria-label="3 stars" class="rating__label" for="rating-3"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                              <input class="rating__input" name="rating" id="rating-3" value="3" type="radio" >
+                              <label aria-label="4 stars" class="rating__label" for="rating-4"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                              <input class="rating__input" name="rating" id="rating-4" value="4" type="radio">
+                              <label aria-label="5 stars" class="rating__label" for="rating-5"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                              <input class="rating__input" name="rating" id="rating-5" value="5" type="radio" checked>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <p>Excellent teaching. The trainer is very friendly and kind to us. Class is really well organized and the tutor holds very well knowledge on the subject and explains in-depth with good examples. Best training for Digital Marketing</p>
+               </div>
+                              <div class="single-testimonial no-border single-testimonial-custom" id="new-h-review-box">
+                  <div class="client-info">
+                     <div class="client-video">
+                        <a href="#"><img src="https://www.apponix.com/storage/profileimage/S1bu5d5IaonzIBkB1sFojkvYmc6KXxL8MEtQuhpZ.png" alt="Client" class="test-img"></a>
+                     </div>
+                     <div class="client-details">
+                        <h6>Soumya Cheelad</h6>
+                        <span>Web Developer</span>
+                        <div id="full-stars-example">
+                           <div class="rating-group">
+                              <label aria-label="1 star" class="rating__label" for="rating-1"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                              <input class="rating__input" name="rating" id="rating-1" value="1" type="radio">
+                              <label aria-label="2 stars" class="rating__label" for="rating-2"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                              <input class="rating__input" name="rating" id="rating-2" value="2" type="radio">
+                              <label aria-label="3 stars" class="rating__label" for="rating-3"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                              <input class="rating__input" name="rating" id="rating-3" value="3" type="radio" >
+                              <label aria-label="4 stars" class="rating__label" for="rating-4"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                              <input class="rating__input" name="rating" id="rating-4" value="4" type="radio">
+                              <label aria-label="5 stars" class="rating__label" for="rating-5"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                              <input class="rating__input" name="rating" id="rating-5" value="5" type="radio" checked>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <p>This is the institute for learning the courses properly. You will get full knowledge about the courses. The way of teaching is best. Thank you apponix</p>
+               </div>
+                              <div class="single-testimonial no-border single-testimonial-custom" id="new-h-review-box">
+                  <div class="client-info">
+                     <div class="client-video">
+                        <a href="#"><img src="https://www.apponix.com/storage/profileimage/o1MEpLRyjvsJLPNODx5lLwi5W6VukdrKDi7Tm9Ex.png" alt="Client" class="test-img"></a>
+                     </div>
+                     <div class="client-details">
+                        <h6>Akshay</h6>
+                        <span>Digital Marketing</span>
+                        <div id="full-stars-example">
+                           <div class="rating-group">
+                              <label aria-label="1 star" class="rating__label" for="rating-1"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                              <input class="rating__input" name="rating" id="rating-1" value="1" type="radio">
+                              <label aria-label="2 stars" class="rating__label" for="rating-2"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                              <input class="rating__input" name="rating" id="rating-2" value="2" type="radio">
+                              <label aria-label="3 stars" class="rating__label" for="rating-3"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                              <input class="rating__input" name="rating" id="rating-3" value="3" type="radio" >
+                              <label aria-label="4 stars" class="rating__label" for="rating-4"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                              <input class="rating__input" name="rating" id="rating-4" value="4" type="radio">
+                              <label aria-label="5 stars" class="rating__label" for="rating-5"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                              <input class="rating__input" name="rating" id="rating-5" value="5" type="radio" checked>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <p>I have completed my DIGITAL MARKETING Training the Trainer thought me very well about Digital Marketing. Thanks to APPONIX for very good training</p>
+               </div>
+                              <div class="single-testimonial no-border single-testimonial-custom" id="new-h-review-box">
+                  <div class="client-info">
+                     <div class="client-video">
+                        <a href="#"><img src="https://www.apponix.com/storage/profileimage/3Crl4oL9IUZa14v5nypW2ByHyNZgnrAwPKnvrorh.png" alt="Client" class="test-img"></a>
+                     </div>
+                     <div class="client-details">
+                        <h6>HARSHA S</h6>
+                        <span>Software Engineer</span>
+                        <div id="full-stars-example">
+                           <div class="rating-group">
+                              <label aria-label="1 star" class="rating__label" for="rating-1"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                              <input class="rating__input" name="rating" id="rating-1" value="1" type="radio">
+                              <label aria-label="2 stars" class="rating__label" for="rating-2"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                              <input class="rating__input" name="rating" id="rating-2" value="2" type="radio">
+                              <label aria-label="3 stars" class="rating__label" for="rating-3"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                              <input class="rating__input" name="rating" id="rating-3" value="3" type="radio" >
+                              <label aria-label="4 stars" class="rating__label" for="rating-4"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                              <input class="rating__input" name="rating" id="rating-4" value="4" type="radio">
+                              <label aria-label="5 stars" class="rating__label" for="rating-5"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                              <input class="rating__input" name="rating" id="rating-5" value="5" type="radio" checked>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <p>Trainers are very good and friendly. Excellent opportunity to get training under them. Flexible in teaching and clearing questions. Perfect training institute.</p>
+               </div>
+                              <div class="single-testimonial no-border single-testimonial-custom" id="new-h-review-box">
+                  <div class="client-info">
+                     <div class="client-video">
+                        <a href="#"><img src="https://www.apponix.com/storage/profileimage/yklwYDqMGfEEGpdiSzn7PJTYPzK6y1UCR6fXfi3A.png" alt="Client" class="test-img"></a>
+                     </div>
+                     <div class="client-details">
+                        <h6>Rachana</h6>
+                        <span>Digital Marketing</span>
+                        <div id="full-stars-example">
+                           <div class="rating-group">
+                              <label aria-label="1 star" class="rating__label" for="rating-1"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                              <input class="rating__input" name="rating" id="rating-1" value="1" type="radio">
+                              <label aria-label="2 stars" class="rating__label" for="rating-2"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                              <input class="rating__input" name="rating" id="rating-2" value="2" type="radio">
+                              <label aria-label="3 stars" class="rating__label" for="rating-3"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                              <input class="rating__input" name="rating" id="rating-3" value="3" type="radio" >
+                              <label aria-label="4 stars" class="rating__label" for="rating-4"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                              <input class="rating__input" name="rating" id="rating-4" value="4" type="radio">
+                              <label aria-label="5 stars" class="rating__label" for="rating-5"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                              <input class="rating__input" name="rating" id="rating-5" value="5" type="radio" checked>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <p>Great place to acquire knowledge, Trainers have good knowledge about the subject. They also showed us real-time scenarios which helped us to get a good experience.</p>
+               </div>
+                              <div class="single-testimonial no-border single-testimonial-custom" id="new-h-review-box">
+                  <div class="client-info">
+                     <div class="client-video">
+                        <a href="#"><img src="https://www.apponix.com/storage/profileimage/AgfAmljNqu3aes8DBtt7IiKr9uqfDlNXQiWUZkjB.png" alt="Client" class="test-img"></a>
+                     </div>
+                     <div class="client-details">
+                        <h6>Chinmayanand Pattar</h6>
+                        <span>Associate Software Developer</span>
+                        <div id="full-stars-example">
+                           <div class="rating-group">
+                              <label aria-label="1 star" class="rating__label" for="rating-1"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                              <input class="rating__input" name="rating" id="rating-1" value="1" type="radio">
+                              <label aria-label="2 stars" class="rating__label" for="rating-2"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                              <input class="rating__input" name="rating" id="rating-2" value="2" type="radio">
+                              <label aria-label="3 stars" class="rating__label" for="rating-3"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                              <input class="rating__input" name="rating" id="rating-3" value="3" type="radio" >
+                              <label aria-label="4 stars" class="rating__label" for="rating-4"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                              <input class="rating__input" name="rating" id="rating-4" value="4" type="radio">
+                              <label aria-label="5 stars" class="rating__label" for="rating-5"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                              <input class="rating__input" name="rating" id="rating-5" value="5" type="radio" checked>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <p>It was a very good experience to complete DevOps Training in apponix. Trainer clarifies all the doubts on time. He has hands-on experience. Fully satisfied to join here.</p>
+               </div>
+                                          </div>
+         </section>
+      </div>
+   </div>
+</div>
+<div id="" class="section">
+   <div class="main-container-class bg-ind section-spacing">
+      <div id="" class="section">
+         <h2 class="main-heading">Recent Placements</h2>
+         <section class="testimonial-area1" id="rc-arrow-pos">
+            <div class="testimonial-content1 owl-carousel">
+                                                            <div class="col-md-4 recent-box maxwidthrecentclassromm">
+                  <div class="card related-box" id="cardfrstreletedbx">
+                     <img class="img-fluid related-persons" alt="Students" src="https://www.apponix.com/storage/homepage/yU1kxCmSkMv1ds3oBGUdU3Q46e9VXuJWFvBtpsvm.webp">
+                     <div class="card-body related-border-bottom">
+                        <h3 class="card-title text-center recent-h pb-4">Sunil Ishwar Nagaur</h3>
+                        <p class="card-text text-center recent-p-d">VR Infra Solutions</p>
+                        <p class="card-text text-center recent-p-d1">Digital Marketing Intern</p>
+                     </div>
+                  </div>
+               </div>
+                              <div class="col-md-4 recent-box maxwidthrecentclassromm">
+                  <div class="card related-box" id="cardfrstreletedbx">
+                     <img class="img-fluid related-persons" alt="Students" src="https://www.apponix.com/storage/homepage/WaSRuUcZJVbCnZGqgV9WdYwTDoWfAf0XzeCWhIZY.webp">
+                     <div class="card-body related-border-bottom">
+                        <h3 class="card-title text-center recent-h pb-4">Amrutha Pujer</h3>
+                        <p class="card-text text-center recent-p-d">TCS</p>
+                        <p class="card-text text-center recent-p-d1">Assistant System Engineer</p>
+                     </div>
+                  </div>
+               </div>
+                              <div class="col-md-4 recent-box maxwidthrecentclassromm">
+                  <div class="card related-box" id="cardfrstreletedbx">
+                     <img class="img-fluid related-persons" alt="Students" src="https://www.apponix.com/storage/homepage/bYzMqWgT1H8t7ZLAvnSgwPNnCl3G4tBUS9sI5ynS.webp">
+                     <div class="card-body related-border-bottom">
+                        <h3 class="card-title text-center recent-h pb-4">Yogesh Gowda GR</h3>
+                        <p class="card-text text-center recent-p-d">Netzary Infodynamics</p>
+                        <p class="card-text text-center recent-p-d1">Linux  Engineer</p>
+                     </div>
+                  </div>
+               </div>
+                              <div class="col-md-4 recent-box maxwidthrecentclassromm">
+                  <div class="card related-box" id="cardfrstreletedbx">
+                     <img class="img-fluid related-persons" alt="Students" src="https://www.apponix.com/storage/homepage/lYr2ckszmQ1WE0It0ZObcYzLzm2xXx5vsiRsSI6v.webp">
+                     <div class="card-body related-border-bottom">
+                        <h3 class="card-title text-center recent-h pb-4">Krishna Chaitanya</h3>
+                        <p class="card-text text-center recent-p-d">C Council Consultants</p>
+                        <p class="card-text text-center recent-p-d1">Research Associate</p>
+                     </div>
+                  </div>
+               </div>
+                              <div class="col-md-4 recent-box maxwidthrecentclassromm">
+                  <div class="card related-box" id="cardfrstreletedbx">
+                     <img class="img-fluid related-persons" alt="Students" src="https://www.apponix.com/storage/homepage/4ZdLOHDXMQ0X80VVmsyGRrk1HhYFACre2jPO5zMt.webp">
+                     <div class="card-body related-border-bottom">
+                        <h3 class="card-title text-center recent-h pb-4">Soumya Cheelad</h3>
+                        <p class="card-text text-center recent-p-d">BluNet Ventures</p>
+                        <p class="card-text text-center recent-p-d1">Web Developer</p>
+                     </div>
+                  </div>
+               </div>
+                              <div class="col-md-4 recent-box maxwidthrecentclassromm">
+                  <div class="card related-box" id="cardfrstreletedbx">
+                     <img class="img-fluid related-persons" alt="Students" src="https://www.apponix.com/storage/homepage/5LiUPt3bm5uz99Ss3K0hPDrED2UIp14UpbWvejBl.webp">
+                     <div class="card-body related-border-bottom">
+                        <h3 class="card-title text-center recent-h pb-4">Sunil Basavaraj</h3>
+                        <p class="card-text text-center recent-p-d">Integra Micro Systems</p>
+                        <p class="card-text text-center recent-p-d1">Linux Support Engineer</p>
+                     </div>
+                  </div>
+               </div>
+                              <div class="col-md-4 recent-box maxwidthrecentclassromm">
+                  <div class="card related-box" id="cardfrstreletedbx">
+                     <img class="img-fluid related-persons" alt="Students" src="https://www.apponix.com/storage/homepage/C1t67iLMEngFZDPlhORMjoEVU5c7YGcnmvIGknIv.webp">
+                     <div class="card-body related-border-bottom">
+                        <h3 class="card-title text-center recent-h pb-4">Anshul Bansad</h3>
+                        <p class="card-text text-center recent-p-d">Integra Micro Systems</p>
+                        <p class="card-text text-center recent-p-d1">Linux Support Engineer</p>
+                     </div>
+                  </div>
+               </div>
+                              <div class="col-md-4 recent-box maxwidthrecentclassromm">
+                  <div class="card related-box" id="cardfrstreletedbx">
+                     <img class="img-fluid related-persons" alt="Students" src="https://www.apponix.com/storage/homepage/18UXcfZQ7XZdEAXb8xiXKxDg2P6Gy22I4LuZ7nlP.png">
+                     <div class="card-body related-border-bottom">
+                        <h3 class="card-title text-center recent-h pb-4">Sukanya</h3>
+                        <p class="card-text text-center recent-p-d">IIFA Lancaster Degree Clg</p>
+                        <p class="card-text text-center recent-p-d1">Digital Marketing Executive</p>
+                     </div>
+                  </div>
+               </div>
+                              <div class="col-md-4 recent-box maxwidthrecentclassromm">
+                  <div class="card related-box" id="cardfrstreletedbx">
+                     <img class="img-fluid related-persons" alt="Students" src="https://www.apponix.com/storage/homepage/Vt00UYTRSsQ9qEnx8RapKQnanC41Icel8gqXama2.png">
+                     <div class="card-body related-border-bottom">
+                        <h3 class="card-title text-center recent-h pb-4">Lingaraj Kurahatti</h3>
+                        <p class="card-text text-center recent-p-d">Suvarna Tech Solutions</p>
+                        <p class="card-text text-center recent-p-d1">Full Stack Web Developer</p>
+                     </div>
+                  </div>
+               </div>
+                              <div class="col-md-4 recent-box maxwidthrecentclassromm">
+                  <div class="card related-box" id="cardfrstreletedbx">
+                     <img class="img-fluid related-persons" alt="Students" src="https://www.apponix.com/storage/homepage/yEbjo312c1WibiX5qIWYlj7jdh1oijPOEnWuqC8j.png">
+                     <div class="card-body related-border-bottom">
+                        <h3 class="card-title text-center recent-h pb-4">Parvati Marati</h3>
+                        <p class="card-text text-center recent-p-d">Linnet Hospitality</p>
+                        <p class="card-text text-center recent-p-d1">Assistant Manager</p>
+                     </div>
+                  </div>
+               </div>
+                              <div class="col-md-4 recent-box maxwidthrecentclassromm">
+                  <div class="card related-box" id="cardfrstreletedbx">
+                     <img class="img-fluid related-persons" alt="Students" src="https://www.apponix.com/storage/homepage/VpId9Vtbti5F7vSF4HMECuqlPUQXyC559PD7StBp.png">
+                     <div class="card-body related-border-bottom">
+                        <h3 class="card-title text-center recent-h pb-4">Priya Darshini</h3>
+                        <p class="card-text text-center recent-p-d">Accenture</p>
+                        <p class="card-text text-center recent-p-d1">Desktop Support</p>
+                     </div>
+                  </div>
+               </div>
+                              <div class="col-md-4 recent-box maxwidthrecentclassromm">
+                  <div class="card related-box" id="cardfrstreletedbx">
+                     <img class="img-fluid related-persons" alt="Students" src="https://www.apponix.com/storage/homepage/Q3lpuLx7e5UTAepsoNRVWC0VWqQj2PhP8euVg0dP.png">
+                     <div class="card-body related-border-bottom">
+                        <h3 class="card-title text-center recent-h pb-4">Vinayak B Muchandi</h3>
+                        <p class="card-text text-center recent-p-d">Bloomvista Digital (OPC)</p>
+                        <p class="card-text text-center recent-p-d1">Digital Marketing Intern</p>
+                     </div>
+                  </div>
+               </div>
+                              <div class="col-md-4 recent-box maxwidthrecentclassromm">
+                  <div class="card related-box" id="cardfrstreletedbx">
+                     <img class="img-fluid related-persons" alt="Students" src="https://www.apponix.com/storage/homepage/nECuUBsGvLZ7eQIWrU1LlGv1wHHSwG5fD0jCk8R2.png">
+                     <div class="card-body related-border-bottom">
+                        <h3 class="card-title text-center recent-h pb-4">Shwetarani Malladad</h3>
+                        <p class="card-text text-center recent-p-d">Vmoksha Technology</p>
+                        <p class="card-text text-center recent-p-d1">HR Executive</p>
+                     </div>
+                  </div>
+               </div>
+                              <div class="col-md-4 recent-box maxwidthrecentclassromm">
+                  <div class="card related-box" id="cardfrstreletedbx">
+                     <img class="img-fluid related-persons" alt="Students" src="https://www.apponix.com/storage/homepage/7kix5l71OkaGP4sThVlAjaQwQkrFplF0XcvG6xg0.png">
+                     <div class="card-body related-border-bottom">
+                        <h3 class="card-title text-center recent-h pb-4">Pooja Khode</h3>
+                        <p class="card-text text-center recent-p-d">Agrotech Ltd</p>
+                        <p class="card-text text-center recent-p-d1">Dispatching Manager</p>
+                     </div>
+                  </div>
+               </div>
+                              <div class="col-md-4 recent-box maxwidthrecentclassromm">
+                  <div class="card related-box" id="cardfrstreletedbx">
+                     <img class="img-fluid related-persons" alt="Students" src="https://www.apponix.com/storage/homepage/tGiSCUW8b1FxoAXrqvZDxS6V30MhmUhcHa8WtmLM.png">
+                     <div class="card-body related-border-bottom">
+                        <h3 class="card-title text-center recent-h pb-4">Shivani Murai</h3>
+                        <p class="card-text text-center recent-p-d">AutoBrix</p>
+                        <p class="card-text text-center recent-p-d1">UI Developer</p>
+                     </div>
+                  </div>
+               </div>
+                                          </div>
+         </section>
+      </div>
+   </div>
+</div>
+
+
+<div class="main-container-class section-spacing">
+   <h2 class="main-heading">Our Alumni works at</h2>
+   <div class="row margin-alumini">
+                  <div class="col-md-2 p-0">
+         <a href="#" target="_blank"><img src="https://www.apponix.com/storage/homepage/xJxhnNVRz7wLFXSyPPnoj769sVEzrcmUADNj1GIB.png" alt="Alumnni" class="w-100 mb-1 alumini-images"></a>
+      </div>
+            <div class="col-md-2 p-0">
+         <a href="#" target="_blank"><img src="https://www.apponix.com/storage/homepage/DiiHnlOmqT02rv0xUi8l5jsGVMub8agelfQsfvxx.png" alt="Alumnni" class="w-100 mb-1 alumini-images"></a>
+      </div>
+            <div class="col-md-2 p-0">
+         <a href="#" target="_blank"><img src="https://www.apponix.com/storage/homepage/LfL8k99y2u3lX9v9VjTBuDvKvcvUFWGUy21n3IvJ.png" alt="Alumnni" class="w-100 mb-1 alumini-images"></a>
+      </div>
+            <div class="col-md-2 p-0">
+         <a href="#" target="_blank"><img src="https://www.apponix.com/storage/homepage/FkGAY9Ge6iZr0nAMnsUvrgqSa74CQ7K6a5Q9pbxp.png" alt="Alumnni" class="w-100 mb-1 alumini-images"></a>
+      </div>
+            <div class="col-md-2 p-0">
+         <a href="#" target="_blank"><img src="https://www.apponix.com/storage/homepage/xBXrv2edereJe6qivyCgZJe6wYoWpLEQ3BhmsI0R.png" alt="Alumnni" class="w-100 mb-1 alumini-images"></a>
+      </div>
+            <div class="col-md-2 p-0">
+         <a href="#" target="_blank"><img src="https://www.apponix.com/storage/homepage/w4YEj6e3FhsTlaCVF9m84IWf3jAprOkaB2R1hFmi.png" alt="Alumnni" class="w-100 mb-1 alumini-images"></a>
+      </div>
+            <div class="col-md-2 p-0">
+         <a href="#" target="_blank"><img src="https://www.apponix.com/storage/homepage/DElOrzIx0mbrxAF4YzSshPZ5yGnnVXw9g0BumfcP.png" alt="Alumnni" class="w-100 mb-1 alumini-images"></a>
+      </div>
+            <div class="col-md-2 p-0">
+         <a href="#" target="_blank"><img src="https://www.apponix.com/storage/homepage/lpxq18SaxVDLGMurL2qrpSxXNpB2cgqmpUmwV6sd.png" alt="Alumnni" class="w-100 mb-1 alumini-images"></a>
+      </div>
+            <div class="col-md-2 p-0">
+         <a href="#" target="_blank"><img src="https://www.apponix.com/storage/homepage/k8l7mUgumfH7Zlictybo7kuIDFy6zKkLWKWvIUJJ.png" alt="Alumnni" class="w-100 mb-1 alumini-images"></a>
+      </div>
+            <div class="col-md-2 p-0">
+         <a href="#" target="_blank"><img src="https://www.apponix.com/storage/homepage/q6ceINkJ3RLS6fF9heu5wfh4Tkm9YpabCebct7vM.png" alt="Alumnni" class="w-100 mb-1 alumini-images"></a>
+      </div>
+            <div class="col-md-2 p-0">
+         <a href="#" target="_blank"><img src="https://www.apponix.com/storage/homepage/mSvVRNWsmAqBGqVL8TcI3yKe5Vbpk6KZavH4RyU5.png" alt="Alumnni" class="w-100 mb-1 alumini-images"></a>
+      </div>
+            <div class="col-md-2 p-0">
+         <a href="#" target="_blank"><img src="https://www.apponix.com/storage/homepage/WZqZa09lGK5AKwYZx4Zg83oeSRgIWpm9EOXzB7A1.webp" alt="Alumnni" class="w-100 mb-1 alumini-images"></a>
+      </div>
+            <div class="col-md-2 p-0">
+         <a href="#" target="_blank"><img src="https://www.apponix.com/storage/homepage/MkOSwuhEha4VQGPD1XaNd5a3EDmz8v7e2j0XsZAj.webp" alt="Alumnni" class="w-100 mb-1 alumini-images"></a>
+      </div>
+            <div class="col-md-2 p-0">
+         <a href="#" target="_blank"><img src="https://www.apponix.com/storage/homepage/kMHewjWeh3h2TuMG302RDdb1HahsLr6QZ6T943vw.png" alt="Alumnni" class="w-100 mb-1 alumini-images"></a>
+      </div>
+            <div class="col-md-2 p-0">
+         <a href="#" target="_blank"><img src="https://www.apponix.com/storage/homepage/c7koEfdWpa0vh0a0QwqLAId0JUddPwBSU7laF2XA.png" alt="Alumnni" class="w-100 mb-1 alumini-images"></a>
+      </div>
+            <div class="col-md-2 p-0">
+         <a href="#" target="_blank"><img src="https://www.apponix.com/storage/homepage/lDlLzx2RBSIEQhejIuksMa9SU4kOXEEGrWVtitsN.png" alt="Alumnni" class="w-100 mb-1 alumini-images"></a>
+      </div>
+               </div>
+</div>
+<div class="main-container-class section-spacing-top training-row  pb-0 bg-ind">
+   <h2 class="main-heading">Training Options</h2>
+   <p class="pt-3 mb-4 traning-option-p">Learn from global experts and get certified by the world&#039;s leading universities</p>
+   <div class="row">
+      <div class="col-md-1"></div>
+                  <div class="col-md-3 traininglinks-col-3">
+         <a href="#" class="traininglinks">
+            <div>
+               <img src="https://www.apponix.com/storage/homepage/Jx2omRu5i6XiaOrFjVveOWl60Ma1kQwAhq6BOIzz.webp" alt="Classroom" class="w-100 classroom-img">
+               <div class="card-box-home">
+                  <h3 class="traning-card-h">ONLINE TRAINING</h3>
+               </div>
+            </div>
+         </a>
+      </div>
+            <div class="col-md-3 traininglinks-col-3">
+         <a href="#" class="traininglinks">
+            <div>
+               <img src="https://www.apponix.com/storage/homepage/7hiP73kjxD8s7OjK7qROgfcmMRAZFumuvq9GHM87.png" alt="Classroom" class="w-100 classroom-img">
+               <div class="card-box-home">
+                  <h3 class="traning-card-h">CLASS ROOM TRAINING</h3>
+               </div>
+            </div>
+         </a>
+      </div>
+            <div class="col-md-3 traininglinks-col-3">
+         <a href="#" class="traininglinks">
+            <div>
+               <img src="https://www.apponix.com/storage/homepage/jHVlXoy2p8RatWySJOkY03zVOEyRJv1UAdGcZfxW.png" alt="Classroom" class="w-100 classroom-img">
+               <div class="card-box-home">
+                  <h3 class="traning-card-h">Job Guaranteed courses</h3>
+               </div>
+            </div>
+         </a>
+      </div>
+                  <div class="col-md-1"></div>
+   </div>
+</div>
+<div class="row brown-bg">
+   <div class="col-md-6 padding-custom ">
+      <div class="main-container-class text-whitecus section-spacing">
+         <h2 class="main-heading text-white"><span class="edu-h text-white ">Apponix  Academy Job Oriented Courses</h2>
          
-            <div class="dm-video-control"> 
-                                                              
-                  <a data-asset="false" class="video-ts-download z-index-2" data-title="Download transcript" target="_blank" download>
-                  <span class="video-ts-msg video-message-wrapper video-ts-downloading d-none">Transcript downloading</span>
-                  <span class="sr-only">Download transcript</span>
-                </a>
-              </div>
-           
-          
-      
-        
-        
-        
-          
-      
-        
-        
-        
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-      
-    </section>
-    
-  
+         </h2>
+         <p>Job oriented training&nbsp;courses helps&nbsp; students to start their career after their graduation quickly.</p>
 
+<p>some times it will help them to enhance their skills in their present job. Through job oriented programs, students will have an insight into the technologies used by the corporates.</p>
 
-</div>
-<div class="rowContainer aem-GridColumn aem-GridColumn--default--12">
-
-  
-  
-  <div style="background-color:#000000">
-    
-  </div>
-
-
-  
-  
-  <div style="background-color:#000000">
-    <div class="container-fluid tcs-custom-container px-0 false row-container-darkbg">
-      <div class="row mx-0 custom-container px-0  dark-theme-container">
-        
-          <div class="w-100 px-0
-          px-0
-          ">
-
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
-    
-    <div class="richText aem-GridColumn aem-GridColumn--default--12">
-
-
-
-<h6><span class="color-white">Snapshots<br />
-</span></h6>
-
-</div>
-<div class="embed aem-GridColumn aem-GridColumn--default--12">
-<div id="embed-a4539aa4f2" class="cmp-embed">
-    
-    
-    <storifyme-collection url="https://storifyme.com/widgets/tcs/widget/custom/7238"></storifyme-collection>
-</div>
-
-    
-
-</div>
-
-    
-</div>
-</div>
-        
+<p>Apponix job oriented courses in pune,&nbsp;bangalore, Hubli&nbsp; lead you to get a job within a month. due to heavy competition in the job market, many job seekers are aware of the fact that just a degree alone will not help them secure a job, but they have to get a professional training by industry experts.</p>
+         <a href="https://www.apponix.com/job-oriented-course-in-bangalore" class="mt-5 home-learn-more">Learn More</a>
       </div>
-    </div>
-  </div>
-
-
-
+   </div>
+   <div class="col-md-6 padding-custom ">
+      <img src="https://www.apponix.com/storage/edurekaimage/5N7mYQVFOsr2HQg26FbQKIwfSpkzblnDrn2ekYBP.png" alt="edureka" class="w-100 edureka-img">
+   </div>
 </div>
-<div class="interactiveQuiz aem-GridColumn aem-GridColumn--default--12">
-
-
-  <div class="interactive-quiz-outer-container position-relative interactive-quiz-outer-container-height">
-    <div class="quiz-restart-btn-div d-none tcs-custom-container justify-content-end">
-      <div class="quiz-restart-btn position-absolute">
-      <span class="refresh-btn-text d-flex align-items-center" tabindex="0"><span class="refresh-btn"></span>
-        <span class="refresh-btn-text-span text-capitalize">restart</span></span>
+<div id="" class="section">
+   <div class="main-container-class bg-ind section-spacing">
+      <div id="" class="section">
+         <h2 class="main-heading">Our  Top Instructors</h2>
+         <section class="testimonial-area1" id="rc-arrow-pos">
+            <div id="our-Trainers" class=" testimonial-content1 owl-carousel" >
+                                                            <div class="col-md-4 recent-box maxwidthrecentclassromm">
+                  <div class="card related-box" id="cardfrstreletedbx">
+                     <img class="img-fluid related-persons" alt="Students" src="https://www.apponix.com/storage/homepage/08wjirXeUHJOCmPbOWNbe63P91ulAicmi1GjuIfG.png">
+                     <div class="card-body related-border-bottom">
+                        <h3 class="card-title text-center recent-h pb-4">Mr. Sreedhar</h3>
+                        <p class="card-text text-center recent-p-d">Data Science &amp; Python Trainer</p>
+                        <p class="card-text text-center recent-p-d1">10+ Years Of Working Experience In MNC.</p>
+                     </div>
+                  </div>
+               </div>
+                              <div class="col-md-4 recent-box maxwidthrecentclassromm">
+                  <div class="card related-box" id="cardfrstreletedbx">
+                     <img class="img-fluid related-persons" alt="Students" src="https://www.apponix.com/storage/homepage/Z1Zzg4L2RZxlRzeOr8PkgZNfupO4PK9OKRzlsYUB.png">
+                     <div class="card-body related-border-bottom">
+                        <h3 class="card-title text-center recent-h pb-4">Mr. Akash</h3>
+                        <p class="card-text text-center recent-p-d">Digital Marketing Expert</p>
+                        <p class="card-text text-center recent-p-d1">8+ years of Experience in Digital Marketing and GTM.</p>
+                     </div>
+                  </div>
+               </div>
+                              <div class="col-md-4 recent-box maxwidthrecentclassromm">
+                  <div class="card related-box" id="cardfrstreletedbx">
+                     <img class="img-fluid related-persons" alt="Students" src="https://www.apponix.com/storage/homepage/eNmd6c9z0oKi8MkNGVChNQdeB1e4p5XlIc8Tch9e.png">
+                     <div class="card-body related-border-bottom">
+                        <h3 class="card-title text-center recent-h pb-4">Mr. Gowrishankar</h3>
+                        <p class="card-text text-center recent-p-d">Web Development and Python Trainer</p>
+                        <p class="card-text text-center recent-p-d1">10+ Years Of Working Experience In MNC.</p>
+                     </div>
+                  </div>
+               </div>
+                              <div class="col-md-4 recent-box maxwidthrecentclassromm">
+                  <div class="card related-box" id="cardfrstreletedbx">
+                     <img class="img-fluid related-persons" alt="Students" src="https://www.apponix.com/storage/homepage/u6bmnet770RzQ8HEw7xJVU1c6MmHvRFLDdhnR0s8.png">
+                     <div class="card-body related-border-bottom">
+                        <h3 class="card-title text-center recent-h pb-4">Mr. Gurudatta</h3>
+                        <p class="card-text text-center recent-p-d">SCCM Trainer</p>
+                        <p class="card-text text-center recent-p-d1">15+ Years Experience In Microsoft Technologies</p>
+                     </div>
+                  </div>
+               </div>
+                              <div class="col-md-4 recent-box maxwidthrecentclassromm">
+                  <div class="card related-box" id="cardfrstreletedbx">
+                     <img class="img-fluid related-persons" alt="Students" src="https://www.apponix.com/storage/homepage/6Jr6eriZqLfJ89y9USX3Jh31xXzvxfium9XMwfrG.png">
+                     <div class="card-body related-border-bottom">
+                        <h3 class="card-title text-center recent-h pb-4">Mr. Hasit</h3>
+                        <p class="card-text text-center recent-p-d">Cyber Security Instructor</p>
+                        <p class="card-text text-center recent-p-d1">20+ Years Experience In Cyber Security</p>
+                     </div>
+                  </div>
+               </div>
+                              <div class="col-md-4 recent-box maxwidthrecentclassromm">
+                  <div class="card related-box" id="cardfrstreletedbx">
+                     <img class="img-fluid related-persons" alt="Students" src="https://www.apponix.com/storage/homepage/jRRw4OEra6pxJcE555WeTPjzWgmnIZxUikrAHvaz.png">
+                     <div class="card-body related-border-bottom">
+                        <h3 class="card-title text-center recent-h pb-4">Mr. Krishna Swamy</h3>
+                        <p class="card-text text-center recent-p-d">Data Science Instructor</p>
+                        <p class="card-text text-center recent-p-d1">Mtech - IIT Bombay</p>
+                     </div>
+                  </div>
+               </div>
+                              <div class="col-md-4 recent-box maxwidthrecentclassromm">
+                  <div class="card related-box" id="cardfrstreletedbx">
+                     <img class="img-fluid related-persons" alt="Students" src="https://www.apponix.com/storage/homepage/eqYxoMZLNhMGK2qCEyXVLsFT1MYp3kpJJImOnt1v.png">
+                     <div class="card-body related-border-bottom">
+                        <h3 class="card-title text-center recent-h pb-4">Mr. Loganathan</h3>
+                        <p class="card-text text-center recent-p-d">AWS and Linux Trainer</p>
+                        <p class="card-text text-center recent-p-d1">12+ Years Of Working Experience In MNC.</p>
+                     </div>
+                  </div>
+               </div>
+                              <div class="col-md-4 recent-box maxwidthrecentclassromm">
+                  <div class="card related-box" id="cardfrstreletedbx">
+                     <img class="img-fluid related-persons" alt="Students" src="https://www.apponix.com/storage/homepage/BOb5d998J46fJYlOAcoJki9DT7pIT6JAN9mD0Ec1.png">
+                     <div class="card-body related-border-bottom">
+                        <h3 class="card-title text-center recent-h pb-4">Mr. Selvam</h3>
+                        <p class="card-text text-center recent-p-d">Vmware Trainer</p>
+                        <p class="card-text text-center recent-p-d1">Working At MNC With 10+ Years Of Experience.</p>
+                     </div>
+                  </div>
+               </div>
+                              <div class="col-md-4 recent-box maxwidthrecentclassromm">
+                  <div class="card related-box" id="cardfrstreletedbx">
+                     <img class="img-fluid related-persons" alt="Students" src="https://www.apponix.com/storage/homepage/Us6iihxoScH8J5pltJWn9zU4YxQoPTNwGeVysMZf.png">
+                     <div class="card-body related-border-bottom">
+                        <h3 class="card-title text-center recent-h pb-4">Mr. sheikh</h3>
+                        <p class="card-text text-center recent-p-d">Digital Marketing Trainer</p>
+                        <p class="card-text text-center recent-p-d1">Digital Marketing Trainer, Working At MNC With 10+ Years Of Experience.</p>
+                     </div>
+                  </div>
+               </div>
+                              <div class="col-md-4 recent-box maxwidthrecentclassromm">
+                  <div class="card related-box" id="cardfrstreletedbx">
+                     <img class="img-fluid related-persons" alt="Students" src="https://www.apponix.com/storage/homepage/AM2WqUSGmqO9pI781vGdbKbgJgAVyzyz2nrYu2Gp.png">
+                     <div class="card-body related-border-bottom">
+                        <h3 class="card-title text-center recent-h pb-4">Mr. Shubhojit</h3>
+                        <p class="card-text text-center recent-p-d">Data Science &amp; Machine Learning Trainer</p>
+                        <p class="card-text text-center recent-p-d1">Senior Data Scientist at TCS</p>
+                     </div>
+                  </div>
+               </div>
+                              <div class="col-md-4 recent-box maxwidthrecentclassromm">
+                  <div class="card related-box" id="cardfrstreletedbx">
+                     <img class="img-fluid related-persons" alt="Students" src="https://www.apponix.com/storage/homepage/PT8mKdRxlKgVI86FwM7clOgh1ockOH8uCZnWZuzE.png">
+                     <div class="card-body related-border-bottom">
+                        <h3 class="card-title text-center recent-h pb-4">Mr. Subrat Kumar</h3>
+                        <p class="card-text text-center recent-p-d">AWS &amp; DevOps Trainer</p>
+                        <p class="card-text text-center recent-p-d1">AWS Certified Trainer, Working At MNC With 7+ Years Of Experience.</p>
+                     </div>
+                  </div>
+               </div>
+                              <div class="col-md-4 recent-box maxwidthrecentclassromm">
+                  <div class="card related-box" id="cardfrstreletedbx">
+                     <img class="img-fluid related-persons" alt="Students" src="https://www.apponix.com/storage/homepage/yTBhoVDGEU6v3LoNCDmoqtpckKTwXBZujLZgqk2z.png">
+                     <div class="card-body related-border-bottom">
+                        <h3 class="card-title text-center recent-h pb-4">Mr. Sunil</h3>
+                        <p class="card-text text-center recent-p-d">Microsoft Azure Trainer</p>
+                        <p class="card-text text-center recent-p-d1">Working At MNC With 10+ Years Of Experience.</p>
+                     </div>
+                  </div>
+               </div>
+                              <div class="col-md-4 recent-box maxwidthrecentclassromm">
+                  <div class="card related-box" id="cardfrstreletedbx">
+                     <img class="img-fluid related-persons" alt="Students" src="https://www.apponix.com/storage/homepage/Rephc19rkyeR2KstcJr6vS8ICn8YI8Nzld1iOqo4.png">
+                     <div class="card-body related-border-bottom">
+                        <h3 class="card-title text-center recent-h pb-4">Mr. Vishwa</h3>
+                        <p class="card-text text-center recent-p-d">AWS &amp; DevOps Trainer</p>
+                        <p class="card-text text-center recent-p-d1">AWS Certified Trainer, Working At MNC With 7+ Years Of Experience.</p>
+                     </div>
+                  </div>
+               </div>
+                              <div class="col-md-4 recent-box maxwidthrecentclassromm">
+                  <div class="card related-box" id="cardfrstreletedbx">
+                     <img class="img-fluid related-persons" alt="Students" src="https://www.apponix.com/storage/homepage/BSnGkikLOhrshY05Zv8armDXBAZIsLJq0BBJ2tai.png">
+                     <div class="card-body related-border-bottom">
+                        <h3 class="card-title text-center recent-h pb-4">Ms. Anita</h3>
+                        <p class="card-text text-center recent-p-d">HR Instructor</p>
+                        <p class="card-text text-center recent-p-d1">Senior HR Manager at MNC</p>
+                     </div>
+                  </div>
+               </div>
+                              <div class="col-md-4 recent-box maxwidthrecentclassromm">
+                  <div class="card related-box" id="cardfrstreletedbx">
+                     <img class="img-fluid related-persons" alt="Students" src="https://www.apponix.com/storage/homepage/smnfGAntZCJxFrfH185vq3Vmw7rvK2wQIFgR7O1N.png">
+                     <div class="card-body related-border-bottom">
+                        <h3 class="card-title text-center recent-h pb-4">Ms. Sandhya</h3>
+                        <p class="card-text text-center recent-p-d">Python and Mobile App Development Instructor</p>
+                        <p class="card-text text-center recent-p-d1">Full Stack Developer</p>
+                     </div>
+                  </div>
+               </div>
+                              <div class="col-md-4 recent-box maxwidthrecentclassromm">
+                  <div class="card related-box" id="cardfrstreletedbx">
+                     <img class="img-fluid related-persons" alt="Students" src="https://www.apponix.com/storage/homepage/Xuvucl4S1BFgjXbH41MPnJIPfIdLxR6FrEgVqZCY.png">
+                     <div class="card-body related-border-bottom">
+                        <h3 class="card-title text-center recent-h pb-4">Mr. Amit Kumar</h3>
+                        <p class="card-text text-center recent-p-d">HR Trainer</p>
+                        <p class="card-text text-center recent-p-d1">Senior HR Manager</p>
+                     </div>
+                  </div>
+               </div>
+                              <div class="col-md-4 recent-box maxwidthrecentclassromm">
+                  <div class="card related-box" id="cardfrstreletedbx">
+                     <img class="img-fluid related-persons" alt="Students" src="https://www.apponix.com/storage/homepage/Q1Q1ePdRdKQGKGNLWgO7Ut856vglyOGlgV7MgmQL.png">
+                     <div class="card-body related-border-bottom">
+                        <h3 class="card-title text-center recent-h pb-4">Mr. Ganesh Hegde</h3>
+                        <p class="card-text text-center recent-p-d">Python Programming Trainer</p>
+                        <p class="card-text text-center recent-p-d1">10+ Senior Web Developer</p>
+                     </div>
+                  </div>
+               </div>
+                              <div class="col-md-4 recent-box maxwidthrecentclassromm">
+                  <div class="card related-box" id="cardfrstreletedbx">
+                     <img class="img-fluid related-persons" alt="Students" src="https://www.apponix.com/storage/homepage/IwAeDnzmyhoqkqXosA7RMRTsVS7TcWwOxkrAPePf.png">
+                     <div class="card-body related-border-bottom">
+                        <h3 class="card-title text-center recent-h pb-4">Mr. Thalib</h3>
+                        <p class="card-text text-center recent-p-d">Sccm and PowerShell Trainer</p>
+                        <p class="card-text text-center recent-p-d1">10+ Years Of Working Experience In MNC.</p>
+                     </div>
+                  </div>
+               </div>
+                              <div class="col-md-4 recent-box maxwidthrecentclassromm">
+                  <div class="card related-box" id="cardfrstreletedbx">
+                     <img class="img-fluid related-persons" alt="Students" src="https://www.apponix.com/storage/homepage/Skbap1SzOoLDagqBZzBpxJX1NvRaOFMjoSrc6YIr.png">
+                     <div class="card-body related-border-bottom">
+                        <h3 class="card-title text-center recent-h pb-4">Sunil Joshi</h3>
+                        <p class="card-text text-center recent-p-d">Stock Marketing Trainer</p>
+                        <p class="card-text text-center recent-p-d1">25+ Years Of Trading Experience</p>
+                     </div>
+                  </div>
+               </div>
+                                          </div>
+         </section>
       </div>
-    </div>
-    <div class="tcs-custom-container">
-      <div class="interactive-quiz-inner-container container-fluid px-0" data-dl-title="Global Thought Leadership Study ">
-        <div class="d-none question-count">3</div>
-        <div class="quiz-solution-screen"></div>
-        <div class="row d-flex justify-content-end qna-card-detail-div">
-          <div class="col-lg-6 col-md-6 col-12 quiz-question-title align-items-center">
-            <div class="quiz-question-title-inner-div" tabindex="0">
-              <div class="interactive-quiz-desc text-uppercase" id="quiz-title" role="term">Global Thought Leadership Study </div>
-              <div class="interactive-quiz-title" role="definition" aria-labelledby="quiz-title">Answer a few questions to unlock insights into innovation with cloud</div>
+   </div>
+</div>
+
+<div class="main-container-class section-spacing">
+   <div class="row">
+      <div class="col-md-6">
+         <h2 class="main-heading">Rating</h2>
+         <p class="pt-3 pb-4 mb-4 traning-option-p">Learn from global experts and get certified by the world&#039;s leading universities</p>
+                  <div class="col-lg-12 col-md-12 col-sm-12">
+            <div class="row mb-md-4 mb-1">
+               <div class="col-md-2">
+                  <h4 class="font-rating-review">4.5</h4>
+               </div>
+               <div class="col-md-2">
+                  <label aria-label="1 star" class="rating__label" for="rating-1"><i class="rating__icon rating__icon--star fa fa-star i-review"></i></label>
+                  <input class="rating__input" name="rating" id="rating-1" value="1" type="radio" tabindex="0">
+               </div>
+               <div class="col-md-2">
+                                    <img src="https://www.apponix.com/storage/homepage/k9pa0YxqFvc0ZOaJabZLUJQdzbKWegMdJz3h7vHB.webp" alt="Facebook" class=" alumini-images">
+                                 </div>
             </div>
-          </div>
-          <div class="col-12 col-lg-1 d-lg-block d-none"></div>
-          <div class="col-lg-5 col-md-6 col-12 position-relative quiz-question-box">
-            <div class="quiz-question-card-container">
-              <div class="quiz-card-counts-div d-flex"></div>
-              <div class="position-relative quiz-card-div-parent">
-                
-                  
-                  <div class="position-absolute qna-card-outer-div" data-exp-path="/content/experience-fragments/tcs/global/en/interactive-quiz-cloud-study/question-1">
-                    <div class="quiz-box quiz-card-div d-flex flex-column justify-content-between" data-card-type="questionCard">
-  <div class="quiz-card-question">
-    Are you leveraging your competitive advantage with cloud?
-  </div>
-  <div class="d-flex justify-content-between pt-5 pb-3">
-    <div class="response-text d-flex flex-lg-row flex-column justify-content-start justify-content-md-start justify-content-lg-center align-items-lg-center align-items-md-start align-items-start ml-4 ml-md-4 ml-lg-0">
-      <button class="btn solution-card left-solution-btn btn-responsive cta-gradient-btn quiz-nav-btn d-flex align-items-center justify-content-center p-0 tcs-section-click" data-answer-path="/content/experience-fragments/tcs/global/en/interactive-quiz-cloud-study/question-2" data-card-type="questionCard" aria-label="Yes">
-        <span class="quiz-back-btn-icon"></span>
-      </button>
-      <span class="quiz-btn-text ml-lg-3 ml-md-0">Yes</span>
-    </div>
-    <div class="response-text d-flex flex-lg-row flex-column justify-content-end justify-content-md-end justify-content-lg-center align-items-lg-center align-items-end align-items-md-end mr-4 mr-md-4 mr-lg-0">
-      <span class="quiz-btn-text mr-lg-3 mr-md-0">No</span>
-      <button class="btn solution-card right-solution-btn btn-responsive cta-gradient-btn quiz-nav-btn d-flex align-items-center justify-content-center p-0 tcs-section-click" data-answer-path="/content/experience-fragments/tcs/global/en/interactive-quiz-cloud-study/question-4" data-card-type="questionCard" aria-label="No">
-        <span class="quiz-next-btn-icon"></span>
-      </button>
-    </div>
-  </div>
-</div>
-
-                  </div>
-                
-                  
-                  <div class="position-absolute qna-card-outer-div" data-exp-path="/content/experience-fragments/tcs/global/en/interactive-quiz-cloud-study/question-2">
-                    <div class="quiz-box quiz-card-div d-flex flex-column justify-content-between" data-card-type="questionCard">
-  <div class="quiz-card-question">
-    Where do you hope to turn cloud investments into innovation?
-  </div>
-  <div class="d-flex justify-content-between pt-5 pb-3">
-    <div class="response-text d-flex flex-lg-row flex-column justify-content-start justify-content-md-start justify-content-lg-center align-items-lg-center align-items-md-start align-items-start ml-4 ml-md-4 ml-lg-0">
-      <button class="btn solution-card left-solution-btn btn-responsive cta-gradient-btn quiz-nav-btn d-flex align-items-center justify-content-center p-0 tcs-section-click" data-answer-path="/content/experience-fragments/tcs/global/en/interactive-quiz-cloud-study/question-3" data-card-type="questionCard" aria-label="AI">
-        <span class="quiz-back-btn-icon"></span>
-      </button>
-      <span class="quiz-btn-text ml-lg-3 ml-md-0">AI</span>
-    </div>
-    <div class="response-text d-flex flex-lg-row flex-column justify-content-end justify-content-md-end justify-content-lg-center align-items-lg-center align-items-end align-items-md-end mr-4 mr-md-4 mr-lg-0">
-      <span class="quiz-btn-text mr-lg-3 mr-md-0">Ecosystems</span>
-      <button class="btn solution-card right-solution-btn btn-responsive cta-gradient-btn quiz-nav-btn d-flex align-items-center justify-content-center p-0 tcs-section-click" data-answer-path="/content/experience-fragments/tcs/global/en/interactive-quiz-cloud-study/question-3" data-card-type="questionCard" aria-label="Ecosystems">
-        <span class="quiz-next-btn-icon"></span>
-      </button>
-    </div>
-  </div>
-</div>
-
-                  </div>
-                
-                  
-                  <div class="position-absolute qna-card-outer-div" data-exp-path="/content/experience-fragments/tcs/global/en/interactive-quiz-cloud-study/question-3">
-                    <div class="quiz-box quiz-card-div d-flex flex-column justify-content-between" data-card-type="solutionCard">
-  <div class="quiz-card-question">
-    What is standing in the way of cloud-enabled innovation? 
-  </div>
-  <div class="d-flex justify-content-between pt-5 pb-3">
-    <div class="response-text d-flex flex-lg-row flex-column justify-content-start justify-content-md-start justify-content-lg-center align-items-lg-center align-items-md-start align-items-start ml-4 ml-md-4 ml-lg-0">
-      <button class="btn solution-card left-solution-btn btn-responsive cta-gradient-btn quiz-nav-btn d-flex align-items-center justify-content-center p-0 tcs-section-click" data-answer-path="/content/experience-fragments/tcs/global/en/interactive-quiz-cloud-study/solution-yes" data-card-type="solutionCard" aria-label="Cost">
-        <span class="quiz-back-btn-icon"></span>
-      </button>
-      <span class="quiz-btn-text ml-lg-3 ml-md-0">Cost</span>
-    </div>
-    <div class="response-text d-flex flex-lg-row flex-column justify-content-end justify-content-md-end justify-content-lg-center align-items-lg-center align-items-end align-items-md-end mr-4 mr-md-4 mr-lg-0">
-      <span class="quiz-btn-text mr-lg-3 mr-md-0">Complexity</span>
-      <button class="btn solution-card right-solution-btn btn-responsive cta-gradient-btn quiz-nav-btn d-flex align-items-center justify-content-center p-0 tcs-section-click" data-answer-path="/content/experience-fragments/tcs/global/en/interactive-quiz-cloud-study/solution-yes" data-card-type="solutionCard" aria-label="Complexity">
-        <span class="quiz-next-btn-icon"></span>
-      </button>
-    </div>
-  </div>
-</div>
-
-                  </div>
-                
-                  
-                  <div class="position-absolute qna-card-outer-div" data-exp-path="/content/experience-fragments/tcs/global/en/interactive-quiz-cloud-study/question-4">
-                    <div class="quiz-box quiz-card-div d-flex flex-column justify-content-between" data-card-type="questionCard">
-  <div class="quiz-card-question">
-    Where do you hope to turn cloud investments into innovation? 
-  </div>
-  <div class="d-flex justify-content-between pt-5 pb-3">
-    <div class="response-text d-flex flex-lg-row flex-column justify-content-start justify-content-md-start justify-content-lg-center align-items-lg-center align-items-md-start align-items-start ml-4 ml-md-4 ml-lg-0">
-      <button class="btn solution-card left-solution-btn btn-responsive cta-gradient-btn quiz-nav-btn d-flex align-items-center justify-content-center p-0 tcs-section-click" data-answer-path="/content/experience-fragments/tcs/global/en/interactive-quiz-cloud-study/question-5" data-card-type="questionCard" aria-label="AI">
-        <span class="quiz-back-btn-icon"></span>
-      </button>
-      <span class="quiz-btn-text ml-lg-3 ml-md-0">AI</span>
-    </div>
-    <div class="response-text d-flex flex-lg-row flex-column justify-content-end justify-content-md-end justify-content-lg-center align-items-lg-center align-items-end align-items-md-end mr-4 mr-md-4 mr-lg-0">
-      <span class="quiz-btn-text mr-lg-3 mr-md-0">Ecosystems </span>
-      <button class="btn solution-card right-solution-btn btn-responsive cta-gradient-btn quiz-nav-btn d-flex align-items-center justify-content-center p-0 tcs-section-click" data-answer-path="/content/experience-fragments/tcs/global/en/interactive-quiz-cloud-study/question-5" data-card-type="questionCard" aria-label="Ecosystems ">
-        <span class="quiz-next-btn-icon"></span>
-      </button>
-    </div>
-  </div>
-</div>
-
-                  </div>
-                
-                  
-                  <div class="position-absolute qna-card-outer-div" data-exp-path="/content/experience-fragments/tcs/global/en/interactive-quiz-cloud-study/question-5">
-                    <div class="quiz-box quiz-card-div d-flex flex-column justify-content-between" data-card-type="solutionCard">
-  <div class="quiz-card-question">
-    What is standing in the way of cloud-enabled innovation? 
-  </div>
-  <div class="d-flex justify-content-between pt-5 pb-3">
-    <div class="response-text d-flex flex-lg-row flex-column justify-content-start justify-content-md-start justify-content-lg-center align-items-lg-center align-items-md-start align-items-start ml-4 ml-md-4 ml-lg-0">
-      <button class="btn solution-card left-solution-btn btn-responsive cta-gradient-btn quiz-nav-btn d-flex align-items-center justify-content-center p-0 tcs-section-click" data-answer-path="/content/experience-fragments/tcs/global/en/interactive-quiz-cloud-study/solution-no" data-card-type="solutionCard" aria-label="Cost">
-        <span class="quiz-back-btn-icon"></span>
-      </button>
-      <span class="quiz-btn-text ml-lg-3 ml-md-0">Cost</span>
-    </div>
-    <div class="response-text d-flex flex-lg-row flex-column justify-content-end justify-content-md-end justify-content-lg-center align-items-lg-center align-items-end align-items-md-end mr-4 mr-md-4 mr-lg-0">
-      <span class="quiz-btn-text mr-lg-3 mr-md-0">Complexity </span>
-      <button class="btn solution-card right-solution-btn btn-responsive cta-gradient-btn quiz-nav-btn d-flex align-items-center justify-content-center p-0 tcs-section-click" data-answer-path="/content/experience-fragments/tcs/global/en/interactive-quiz-cloud-study/solution-no" data-card-type="solutionCard" aria-label="Complexity ">
-        <span class="quiz-next-btn-icon"></span>
-      </button>
-    </div>
-  </div>
-</div>
-
-                  </div>
-                
-              </div>
+         </div>
+                           <div class="col-lg-12 col-md-12 col-sm-12">
+            <div class="row mb-md-4 mb-1">
+               <div class="col-md-2">
+                  <h4 class="font-rating-review">4.6</h4>
+               </div>
+               <div class="col-md-2">
+                  <label aria-label="1 star" class="rating__label" for="rating-1"><i class="rating__icon rating__icon--star fa fa-star i-review"></i></label>
+                  <input class="rating__input" name="rating" id="rating-1" value="1" type="radio" tabindex="0">
+               </div>
+               <div class="col-md-2">
+                                    <img src="https://www.apponix.com/storage/homepage/2d6Q8Wb6VQkV8x3d6xVyWU0YEtvvaeHZoYE15YMK.webp" alt="Google" class="alumini-images">
+                                 </div>
             </div>
-            <div class="quiz-question-cover d-none position-absolute"></div>
-            <div class="quiz-question-cover-mob d-none position-absolute"></div>
-          </div>
-        </div>
-        <div class="qna-loader-screen container d-none justify-content-center align-items-center" tabindex="0" aria-live="polite">
-          <div class="container px-0 mt-1">
+         </div>
+                           <div class="col-lg-12 col-md-12 col-sm-12">
             <div class="row">
-              <div class="col d-flex flex-column justify-content-center align-items-center">
-                <span class="loader d-flex justify-content-center align-items-center"><span class="sr-only">loading </span><span class="loader-text-span"><span class="loader-count">100</span>%</span></span>
-                <div class="loader-text pt-3">
-                  <div class="loader-text-title">Ignite your transformation</div>
-                  <div class="loader-text-desc">We&#39;re matching your answers with the latest TCS insights and expertise.</div>
-                </div>
-
-              </div>
+               <div class="col-md-2">
+                  <h4 class="font-rating-review">4.4</h4>
+               </div>
+               <div class="col-md-2">
+                  <label aria-label="1 star" class="rating__label" for="rating-1"><i class="rating__icon rating__icon--star fa fa-star i-review"></i></label>
+                  <input class="rating__input" name="rating" id="rating-1" value="1" type="radio" tabindex="0">
+               </div>
+               <div class="col-md-2">
+                                    <img src="https://www.apponix.com/storage/homepage/juGpbaBoSCsPe5iidRdNxWZq48Waodr402dFoR7x.webp" alt="Trustpilot" class="alumini-images">
+                                 </div>
             </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-
-
-</div>
-<div class="whatsHotCard aem-GridColumn aem-GridColumn--default--12">
-
-<section class=" whats-hot-dark-panel whats-hot-panel overflow-hidden  ">
-<div class="tcs-custom-container" data-dl-title="Spotlight on sustainability">
-	<div class="whats-hot-card-title">
-		<div class="row align-items-center">
-			<div class="col-6">
-				<h2 class="whats-hot-section-heading">Spotlight on sustainability</h2>
-			</div>
-			<div class="col-6 text-right align-self-start">
-				
-				<a href="https://www.tcs.com/what-we-do/services/sustainability-services" class="view-all-link border-bottom pb-1 text-decoration-none"> View all</a>
-			</div>
-		</div>
-	</div>
-	
-	
-	
-	
-	<div class="whats-hot-slider swiper position-relative">
-
-		<div class="swiper-wrapper">
-
-			
-			
-				
-					
-						
-							<div class="swiper-slide hot-slide-item">
-								
-								<a href="https://www.tcs.com/what-we-do/industries/education/white-paper/sustainability-education-better-future" class="cta-link-focus tcs-card-click">
-									<div class="hot-card position-relative">
-										<div class="whats-hot-card-img" data-device-bg-src="/content/dam/global-tcs/en/images/home/insights-by-interest/collegiate-collaborations-climate.png" data-lazy-load></div>
-										<div class="hot-card-tags position-absolute p-4 w-100">
-											<span class="tag-list  rounded-pill text-decoration-none">Education</span>
-										</div>
-										
-										
-										<div class="hot-card-body position-absolute px-4 w-100">
-											<p class="hot-card-text">Collegiate collaborations for climate</p>
-											<div class="hot-card-link-box">
-												<span class="hot-card-cta-link read-more-cta position-relative text-uppercase article-ico  pl-4">Read More </span>
-											</div>
-										</div>
-									</div>
-								</a>
-								
-							</div>
-						
-							<div class="swiper-slide hot-slide-item">
-								
-								<a href="https://www.tcs.com/what-we-do/services/sustainability-services/article/sustainable-business-transformation-european-organizations" class="cta-link-focus tcs-card-click">
-									<div class="hot-card position-relative">
-										<div class="whats-hot-card-img" data-device-bg-src="/content/dam/global-tcs/en/images/home/insights-by-interest/businesses-balance-green-goals.png" data-lazy-load></div>
-										<div class="hot-card-tags position-absolute p-4 w-100">
-											<span class="tag-list  rounded-pill text-decoration-none">Enterprise</span>
-										</div>
-										
-										
-										<div class="hot-card-body position-absolute px-4 w-100">
-											<p class="hot-card-text">Businesses balance green goals </p>
-											<div class="hot-card-link-box">
-												<span class="hot-card-cta-link read-more-cta position-relative text-uppercase article-ico  pl-4">Read More </span>
-											</div>
-										</div>
-									</div>
-								</a>
-								
-							</div>
-						
-							<div class="swiper-slide hot-slide-item">
-								
-								<a href="https://www.tcs.com/who-we-are/tcs-way/article/achieve-sustainable-development-goals-tcs-solutions" class="cta-link-focus tcs-card-click">
-									<div class="hot-card position-relative">
-										<div class="whats-hot-card-img" data-device-bg-src="/content/dam/global-tcs/en/images/home/insights-by-interest/path-planet-people-prosperity.png" data-lazy-load></div>
-										<div class="hot-card-tags position-absolute p-4 w-100">
-											<span class="tag-list  rounded-pill text-decoration-none">TCS Way</span>
-										</div>
-										
-										
-										<div class="hot-card-body position-absolute px-4 w-100">
-											<p class="hot-card-text">Path to planet, people, prosperity</p>
-											<div class="hot-card-link-box">
-												<span class="hot-card-cta-link read-more-cta position-relative text-uppercase article-ico  pl-4">Read More </span>
-											</div>
-										</div>
-									</div>
-								</a>
-								
-							</div>
-						
-					
-				
-			
-		</div>
-
-		<div class="swiper-button-prev whats-hot-slider-nav-button position-absolute rounded-circle whats-hot-slider-prev z-index-1">
-			<span class="sr-only">Swipe Left</span>
-		</div>
-		<div class="swiper-button-next whats-hot-slider-nav-button position-absolute rounded-circle whats-hot-slider-next z-index-1">
-			<span class="sr-only">Swipe Right</span>
-		</div>
-	</div>
-	
-
-</div>
-
-</section>
-</div>
-<div class="cardContainer aem-GridColumn aem-GridColumn--default--12">
-
-    
-    
-    
-        <section class="news-card-section   dark-theme-panel">
-            <div class="our-people-section card-panel news-panel news-panel-image position-relative " data-dl-title="Discover the TCS difference ">
-            <div class="tcs-custom-container col-lg-10 mx-auto px-0">
-                <h4 class="news-title card-panel">Discover the TCS difference </h4>
-            </div>
-            <div class="tcs-custom-container news-banner-container col-lg-10 mx-auto px-lg-0">
-                <div class="news-banner-list position-relative  ">
-
-                    
-                        <div id="card-banner-0" class="active  news-banner-box   " role="tabpanel" aria-labelledby="mini-card-0">
-<div data-card-title="Art &amp; AI " data-card-desc="A TCS partnership for interactive and inclusive art" class="news-card-box text-linear-bg-left  align-items-sm-center align-items-end image-gradient-bg ">
-    
-  
-    
-    
-  
-
-
-    <div id="dynamicmedia_66617584" data-current-page="/content/tcs/global/en/home-page" data-page-locale="en" data-asset-path="TCSCOMprod/munch-museum" data-asset-name="munch-museum.png" data-asset-type="image" data-viewer-path="https://s7ap1.scene7.com/s7viewers/" data-imageserver="https://s7ap1.scene7.com/is/image/" data-videoserver="https://s7ap1.scene7.com/is/content/" data-contenturl="https://s7ap1.scene7.com/is/content/" data-wcmdisabled data-dms7 data-mode="smartcrop" data-alt="AI-powered immersive art experiences at the Munch Museum " class="s7dm-dynamic-media" data-custom-class="dynamic-media-image fit-cover" data-lazy-load>
-    </div>
-  
-
-  <div class="container">
-    <div class="news-content-box position-relative z-index-2 offset-lg-1">
-      
-      <h5 class="news-banner-title">AI-powered immersive art experiences at the Munch Museum </h5>
-      <div class="news-banner-button">
-      	
-        <a href="https://www.tcs.com/who-we-are/newsroom/press-release/munch-museum-partners-tcs-create-pioneering-immersive-ai-driven-drawing-experience" class="tcs-secondary-btn color-white tcs-card-click d-inline-block">Learn more
-        <span class="sr-only">&nbsp about &nbsp AI-powered immersive art experiences at the Munch Museum </span></a>
-      </div>
-    </div>
-  </div>
-</div>
-</div>
-                    
-                        <div id="card-banner-1" class="  news-banner-box   " role="tabpanel" aria-labelledby="mini-card-1">
-<div data-card-title=" TCS Pace " data-card-desc="Operationalize the disruptive potential of Gen AI " class="news-card-box text-linear-bg-left  align-items-sm-center align-items-end image-gradient-bg ">
-    
-  
-    
-    
-  
-
-
-    <div id="dynamicmedia_57361396" data-current-page="/content/tcs/global/en/home-page" data-page-locale="en" data-asset-path="TCSCOMprod/gen-ai-gives-rise-knowledge-driven-enterprise" data-asset-name="gen-ai-gives-rise-knowledge-driven-enterprise.jpg" data-asset-type="image" data-viewer-path="https://s7ap1.scene7.com/s7viewers/" data-imageserver="https://s7ap1.scene7.com/is/image/" data-videoserver="https://s7ap1.scene7.com/is/content/" data-contenturl="https://s7ap1.scene7.com/is/content/" data-wcmdisabled data-dms7 data-mode="smartcrop" data-alt="Gen AI gives rise to the knowledge-driven enterprise" class="s7dm-dynamic-media" data-custom-class="dynamic-media-image fit-cover" data-lazy-load>
-    </div>
-  
-
-  <div class="container">
-    <div class="news-content-box position-relative z-index-2 offset-lg-1">
-      
-      <h5 class="news-banner-title">Gen AI gives rise to the knowledge-driven enterprise</h5>
-      <div class="news-banner-button">
-      	
-        <a href="https://www.tcs.com/what-we-do/pace-innovation/article/genai-tools-knowledge-driven-enterprise" class="tcs-secondary-btn color-white tcs-card-click d-inline-block">Read more
-        <span class="sr-only">&nbsp about &nbsp Gen AI gives rise to the knowledge-driven enterprise</span></a>
-      </div>
-    </div>
-  </div>
-</div>
-</div>
-                    
-                        <div id="card-banner-2" class="  news-banner-box   " role="tabpanel" aria-labelledby="mini-card-2">
-<div data-card-title="TCS + AWS " data-card-desc="Responsible frameworks and PacePort innovation hubs" class="news-card-box text-linear-bg-left  align-items-sm-center align-items-end image-gradient-bg ">
-    
-  
-    
-    
-  
-
-
-    <div id="dynamicmedia_57388276" data-current-page="/content/tcs/global/en/home-page" data-page-locale="en" data-asset-path="TCSCOMprod/tcs-launches-new-gen-ai-practice" data-asset-name="tcs-launches-new-gen-ai-practice.jpg" data-asset-type="image" data-viewer-path="https://s7ap1.scene7.com/s7viewers/" data-imageserver="https://s7ap1.scene7.com/is/image/" data-videoserver="https://s7ap1.scene7.com/is/content/" data-contenturl="https://s7ap1.scene7.com/is/content/" data-wcmdisabled data-dms7 data-mode="smartcrop" data-alt="TCS launches new Gen AI practice in collaboration with Amazon Web Services" class="s7dm-dynamic-media" data-custom-class="dynamic-media-image fit-cover" data-lazy-load>
-    </div>
-  
-
-  <div class="container">
-    <div class="news-content-box position-relative z-index-2 offset-lg-1">
-      
-      <h5 class="news-banner-title">TCS launches new Gen AI practice in collaboration with Amazon Web Services</h5>
-      <div class="news-banner-button">
-      	
-        <a href="https://www.tcs.com/who-we-are/newsroom/press-release/tcs-launches-new-generative-ai-practice-partnership-with-aws" class="tcs-secondary-btn color-white tcs-card-click d-inline-block">Read more
-        <span class="sr-only">&nbsp about &nbsp TCS launches new Gen AI practice in collaboration with Amazon Web Services</span></a>
-      </div>
-    </div>
-  </div>
-</div>
-</div>
-                    
-                        <div id="card-banner-3" class="  news-banner-box   " role="tabpanel" aria-labelledby="mini-card-3">
-<div data-card-title="Healthcare &amp; AI" data-card-desc="Data-backed initiatives for improved health outcomes" class="news-card-box text-linear-bg-left  align-items-sm-center align-items-end image-gradient-bg ">
-    
-  
-    
-    
-  
-
-
-    <div id="dynamicmedia_61359986" data-current-page="/content/tcs/global/en/home-page" data-page-locale="en" data-asset-path="TCSCOMprod/ai-wellness-world-work" data-asset-name="ai-wellness-world-work.jpg" data-asset-type="image" data-viewer-path="https://s7ap1.scene7.com/s7viewers/" data-imageserver="https://s7ap1.scene7.com/is/image/" data-videoserver="https://s7ap1.scene7.com/is/content/" data-contenturl="https://s7ap1.scene7.com/is/content/" data-wcmdisabled data-dms7 data-mode="smartcrop" data-alt="AI and wellness in the world of work " class="s7dm-dynamic-media" data-custom-class="dynamic-media-image fit-cover" data-lazy-load>
-    </div>
-  
-
-  <div class="container">
-    <div class="news-content-box position-relative z-index-2 offset-lg-1">
-      
-      <h5 class="news-banner-title">AI and wellness in the world of work </h5>
-      <div class="news-banner-button">
-      	
-        <a href="https://www.tcs.com/who-we-are/tcs-way/article/employee-wellness-creating-future-workplace" class="tcs-secondary-btn color-white tcs-card-click d-inline-block">Read more
-        <span class="sr-only">&nbsp about &nbsp AI and wellness in the world of work </span></a>
-      </div>
-    </div>
-  </div>
-</div>
-</div>
-                    
-
-                </div>
-            </div>
-
-
-            <div class="container position-relative col-lg-10 mx-auto px-lg-0">
-                <div class=" our-people-slider position-absolute swiper offset-lg-1">
-                    <div class="swiper-wrapper news-card-wrapper d-none d-xl-flex" data-wcmmode="false" role="tablist"></div>
-                    <div class="swiper-pagination news-swiper-pagination news-swiper-pagination-image position-absolute w-100"></div>
-
-                </div>
-            </div>
-            <div class="tcs-custom-container position-relative news-swiper-button col-lg-10 mx-auto">
-            <div class="our-people-slider-button-prev position-absolute z-index-2 rounded-circle ">
-                <span class="sr-only">Swipe Left</span>
-            </div>
-            <div class="our-people-slider-button-prev-lg position-absolute z-index-2 rounded-circle ">
-                <span class="sr-only">Swipe Left</span>
-            </div>
-            <div class="our-people-slider-button-next position-absolute z-index-2 rounded-circle ">
-                <span class="sr-only">Swipe Right</span>
-            </div>
-            <div class="our-people-slider-button-next-lg position-absolute z-index-2 rounded-circle ">
-                <span class="sr-only">Swipe Right</span>
-            </div>
-            </div>
-        </div>
-        </section>
-    
-
-
-
-
-
-
-
-
-
-
-</div>
-<div class="storiesSection aem-GridColumn aem-GridColumn--default--12">
-
-<div class="story-section-padding" data-wcmmode="DISABLED">
-	<section class="text-image-banner-section publish-height">
-		<div class=" text-bg-image-banner w-100 bg-image 
-		 position-relative image-gradient-bg text-linear-bg-left left-image-gradient-bg position-left-bg-image">
-			
-  
-    
-    
-  
-
-
-    <div id="dynamicmedia_261129939" data-current-page="/content/tcs/global/en/home-page" data-page-locale="en" data-asset-path="TCSCOMprod/who-we-are-story-home" data-asset-name="who-we-are-story-home.jpg" data-asset-type="image" data-viewer-path="https://s7ap1.scene7.com/s7viewers/" data-imageserver="https://s7ap1.scene7.com/is/image/" data-videoserver="https://s7ap1.scene7.com/is/content/" data-contenturl="https://s7ap1.scene7.com/is/content/" data-wcmdisabled data-dms7 data-mode="smartcrop" data-alt="Who we are" class="s7dm-dynamic-media" data-custom-class="dynamic-media-image fit-cover" data-lazy-load>
-    </div>
-  
-
-			<div class="container-fluid tcs-custom-container px-0">
-				<div class="row" data-dl-title="Who we are">
-					<div class="col-12 col-md-3 col-lg-3 col-xl-5 z-index-2 d-none d-md-block"></div>
-					<div class="col-11 col-md-9 col-lg-9  col-xl-7 z-index-2 mobile-view-padding-0">
-						<div class="text-image-banner-content-div">
-							<div>
-								<h2 class="text-image-banner-heading text-uppercase">Who we are</h2>
-								<h3 class="text-image-banner-title">We build greater futures through innovation and collective knowledge. </h3>
-								<div class="text-image-banner-rte-description rte-links-div"><p><p>TCS is an IT services, consulting and business solutions organization that has been partnering with many of the world’s largest businesses in their transformation journeys for over 50 years. </p>
-</p></div>
-								
-								<div class="position-relative banner-cta-margin">
-									<a class="text-image-banner-cta-link cta-link-focus tcs-section-click" href="https://www.tcs.com/who-we-are">Get to know us</a>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>	
-	</section>
-</div></div>
-<div class="solutionCard aem-GridColumn aem-GridColumn--default--12">
-
-
-
-
-
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-    <div>
-    <section class="solution-card-main-section  " data-dl-title="Belief in action">
-        <div class="container-fluid tcs-custom-container px-0 overflow-hidden-large-screen">        
-            <div class="row">
-                <div class="col-12">
-                    <h2 class="solution-card-section-title ">Belief in action</h2>
-                    
-                        <div class="position-relative">
-                            <div class="swiper swiper-container solution-card-swiper-container   solution-cards-swiper-container-width-4cards ">
-                                <div class="swiper-wrapper solution-card-wrapper">
-                                    
-                                        
-                                        <div class="swiper-slide solution-card-swiper-slide">
-	                                        
-		                                        <a href="https://www.tcs.com/what-we-do/industries/energy-resources-utilities/case-study/nwc-erp-platform-transformation-supply-chain" class="d-block card solution-card-swiper-card border-0 h-100 tcs-card-click tcs-section-click cta-link-focus"> 
-			                                            <div class="w-100 h-100 position-relative text-linear-bg-left" aria-hidden="true">
-                                                    
-  
-    
-    
-  
-
-
-    <div id="dynamicmedia_93892419" data-current-page="/content/tcs/global/en/home-page" data-page-locale="en" data-asset-path="TCSCOMprod/nwc-erp-platform-transformation-supply-card-1" data-asset-name="nwc-erp-platform-transformation-supply-card.jpg" data-asset-type="image" data-viewer-path="https://s7ap1.scene7.com/s7viewers/" data-imageserver="https://s7ap1.scene7.com/is/image/" data-videoserver="https://s7ap1.scene7.com/is/content/" data-contenturl="https://s7ap1.scene7.com/is/content/" data-wcmdisabled data-dms7 data-mode="smartcrop" data-alt="Saudi Arabia’s National Water Company consolidates and transforms comprehensively " class="s7dm-dynamic-media" data-custom-class="solution-card-img dynamic-media-image" data-lazy-load>
-    </div>
-  
-
-                                                  </div>
-			                                            <div class="solution-card-inner-section position-absolute   text-left ">
-			                                                <div class="solution-card-inner-content-div">
-			                                                    
-			                                                    
-			                                                        <h3 class="solution-card-inner-heading-text color-white inner-heading-medium-text">A new, nimble NWC</h3>
-			                                                    
-			                                                    <p class="solution-card-inner-description color-white">Saudi Arabia’s National Water Company consolidates and transforms comprehensively </p>
-			                                                    <span class="solution-card-read-more-text read-more-cta text-uppercase position-relative pl-4 read-more-icon">Read more</span>
-                                                                
-			                                                </div>
-			                                            </div>
-		                                        </a>
-		                                    
-                                        </div>
-                                    
-                                        
-                                        <div class="swiper-slide solution-card-swiper-slide">
-	                                        
-		                                        <a href="https://www.tcs.com/what-we-do/industries/insurance/case-study/reimagining-client-experience-conversational-ai" class="d-block card solution-card-swiper-card border-0 h-100 tcs-card-click tcs-section-click cta-link-focus"> 
-			                                            <div class="w-100 h-100 position-relative text-linear-bg-left" aria-hidden="true">
-                                                    
-  
-    
-    
-  
-
-
-    <div id="dynamicmedia_28352738" data-current-page="/content/tcs/global/en/home-page" data-page-locale="en" data-asset-path="TCSCOMprod/ai-hero-2" data-asset-name="ai-hero.jpg" data-asset-type="image" data-viewer-path="https://s7ap1.scene7.com/s7viewers/" data-imageserver="https://s7ap1.scene7.com/is/image/" data-videoserver="https://s7ap1.scene7.com/is/content/" data-contenturl="https://s7ap1.scene7.com/is/content/" data-wcmdisabled data-dms7 data-mode="smartcrop" data-alt="Gaining Momentum with AI" class="s7dm-dynamic-media" data-custom-class="solution-card-img dynamic-media-image" data-lazy-load>
-    </div>
-  
-
-                                                  </div>
-			                                            <div class="solution-card-inner-section position-absolute   text-left ">
-			                                                <div class="solution-card-inner-content-div">
-			                                                    
-			                                                    
-			                                                        <h3 class="solution-card-inner-heading-text color-white inner-heading-medium-text">Gaining Momentum with AI</h3>
-			                                                    
-			                                                    <p class="solution-card-inner-description color-white">South-African insurer Momentum Metropolitan delivers chatbot service automation and better CX</p>
-			                                                    <span class="solution-card-read-more-text read-more-cta text-uppercase position-relative pl-4 read-more-icon">Read more</span>
-                                                                
-			                                                </div>
-			                                            </div>
-		                                        </a>
-		                                    
-                                        </div>
-                                    
-                                        
-                                        <div class="swiper-slide solution-card-swiper-slide">
-	                                        
-		                                        <a href="https://www.tcs.com/what-we-do/services/iot-digital-engineering/case-study/kautex-accelerates-digitalization-sustainable-mobility" class="d-block card solution-card-swiper-card border-0 h-100 tcs-card-click tcs-section-click cta-link-focus"> 
-			                                            <div class="w-100 h-100 position-relative text-linear-bg-left" aria-hidden="true">
-                                                    
-  
-    
-    
-  
-
-
-    <div id="dynamicmedia_24872164" data-current-page="/content/tcs/global/en/home-page" data-page-locale="en" data-asset-path="TCSCOMprod/kautex-accelerates-digitalization-sustainable-mobility-card" data-asset-name="kautex-accelerates-digitalization-sustainable-mobility-card.jpg" data-asset-type="image" data-viewer-path="https://s7ap1.scene7.com/s7viewers/" data-imageserver="https://s7ap1.scene7.com/is/image/" data-videoserver="https://s7ap1.scene7.com/is/content/" data-contenturl="https://s7ap1.scene7.com/is/content/" data-wcmdisabled data-dms7 data-mode="smartcrop" data-alt="German automotive supplier develops end-to-end software capability" class="s7dm-dynamic-media" data-custom-class="solution-card-img dynamic-media-image" data-lazy-load>
-    </div>
-  
-
-                                                  </div>
-			                                            <div class="solution-card-inner-section position-absolute   text-left ">
-			                                                <div class="solution-card-inner-content-div">
-			                                                    
-			                                                    
-			                                                        <h3 class="solution-card-inner-heading-text color-white inner-heading-medium-text">Kautex kickstarts automation</h3>
-			                                                    
-			                                                    <p class="solution-card-inner-description color-white">German automotive supplier develops end-to-end software capability</p>
-			                                                    <span class="solution-card-read-more-text read-more-cta text-uppercase position-relative pl-4 read-more-icon">Read more</span>
-                                                                
-			                                                </div>
-			                                            </div>
-		                                        </a>
-		                                    
-                                        </div>
-                                    
-                                        
-                                        <div class="swiper-slide solution-card-swiper-slide">
-	                                        
-		                                        <a href="https://www.tcs.com/what-we-do/industries/retail/case-study/colruyts-algorithmic-pricing-advantage" class="d-block card solution-card-swiper-card border-0 h-100 tcs-card-click tcs-section-click cta-link-focus"> 
-			                                            <div class="w-100 h-100 position-relative text-linear-bg-left" aria-hidden="true">
-                                                    
-  
-    
-    
-  
-
-
-    <div id="dynamicmedia_24233956" data-current-page="/content/tcs/global/en/home-page" data-page-locale="en" data-asset-path="TCSCOMprod/colruyt-algo-pricing-1" data-asset-name="colruyt-algo-pricing.jpg" data-asset-type="image" data-viewer-path="https://s7ap1.scene7.com/s7viewers/" data-imageserver="https://s7ap1.scene7.com/is/image/" data-videoserver="https://s7ap1.scene7.com/is/content/" data-contenturl="https://s7ap1.scene7.com/is/content/" data-wcmdisabled data-dms7 data-mode="smartcrop" data-alt="retail" class="s7dm-dynamic-media" data-custom-class="solution-card-img dynamic-media-image" data-lazy-load>
-    </div>
-  
-
-                                                  </div>
-			                                            <div class="solution-card-inner-section position-absolute   text-left ">
-			                                                <div class="solution-card-inner-content-div">
-			                                                    
-			                                                    
-			                                                        <h3 class="solution-card-inner-heading-text color-white inner-heading-medium-text">Colruyt&#39;s retail revitalized</h3>
-			                                                    
-			                                                    <p class="solution-card-inner-description color-white">TCS helps deliver on brand promise with next-gen pricing engine</p>
-			                                                    <span class="solution-card-read-more-text read-more-cta text-uppercase position-relative pl-4 read-more-icon">Read more</span>
-                                                                
-			                                                </div>
-			                                            </div>
-		                                        </a>
-		                                    
-                                        </div>
-                                    
-                                        
-                                        <div class="swiper-slide solution-card-swiper-slide">
-	                                        
-		                                        <a href="https://www.tcs.com/what-we-do/pace-innovation/case-study/takeda-digital-transformation-innovation-at-scale" class="d-block card solution-card-swiper-card border-0 h-100 tcs-card-click tcs-section-click cta-link-focus"> 
-			                                            <div class="w-100 h-100 position-relative text-linear-bg-left" aria-hidden="true">
-                                                    
-  
-    
-    
-  
-
-
-    <div id="dynamicmedia_94489282" data-current-page="/content/tcs/global/en/home-page" data-page-locale="en" data-asset-path="TCSCOMprod/takeda-Card-1330x1270-1" data-asset-name="takeda-Card-1330x1270.jpg" data-asset-type="image" data-viewer-path="https://s7ap1.scene7.com/s7viewers/" data-imageserver="https://s7ap1.scene7.com/is/image/" data-videoserver="https://s7ap1.scene7.com/is/content/" data-contenturl="https://s7ap1.scene7.com/is/content/" data-wcmdisabled data-dms7 data-mode="smartcrop" data-alt="takeda" class="s7dm-dynamic-media" data-custom-class="solution-card-img dynamic-media-image" data-lazy-load>
-    </div>
-  
-
-                                                  </div>
-			                                            <div class="solution-card-inner-section position-absolute   text-left ">
-			                                                <div class="solution-card-inner-content-div">
-			                                                    
-			                                                    
-			                                                        <h3 class="solution-card-inner-heading-text color-white inner-heading-medium-text">Tackling Takeda&#39;s revamp</h3>
-			                                                    
-			                                                    <p class="solution-card-inner-description color-white">Progressive pharma for patients, providers, payers</p>
-			                                                    <span class="solution-card-read-more-text read-more-cta text-uppercase position-relative pl-4 read-more-icon">Read more</span>
-                                                                
-			                                                </div>
-			                                            </div>
-		                                        </a>
-		                                    
-                                        </div>
-                                                            
-                                </div>
-                                <div class="swiper-button-prev solution-swiper-pagination-btn solution-card-swiper-button-prev ">
-                                    <i class="arrow-icon"><span class="sr-only">Swipe Left</span></i>
-                                </div>
-                                <div class="swiper-button-next solution-swiper-pagination-btn solution-card-swiper-button-next ">
-                                    <i class="arrow-icon"><span class="sr-only">Swipe Right</span></i>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    
-                </div>
-            </div>
-        </div>
-    </section>
-    </div>
-
-</div>
-<div class="storiesSection aem-GridColumn aem-GridColumn--default--12">
-
-<div class="story-section-padding" data-wcmmode="DISABLED">
-	<section class="text-image-banner-section publish-height">
-		<div class=" text-bg-image-banner w-100 bg-image 
-		 position-relative image-gradient-bg text-linear-bg-right right-image-gradient-bg position-right-bg-image">
-			
-  
-    
-    
-  
-
-
-    <div id="dynamicmedia_122728149" data-current-page="/content/tcs/global/en/home-page" data-page-locale="en" data-asset-path="TCSCOMprod/what-we-do-story-home" data-asset-name="what-we-do-story-home.jpg" data-asset-type="image" data-viewer-path="https://s7ap1.scene7.com/s7viewers/" data-imageserver="https://s7ap1.scene7.com/is/image/" data-videoserver="https://s7ap1.scene7.com/is/content/" data-contenturl="https://s7ap1.scene7.com/is/content/" data-wcmdisabled data-dms7 data-mode="smartcrop" data-alt="What we do" class="s7dm-dynamic-media" data-custom-class="dynamic-media-image fit-cover" data-lazy-load>
-    </div>
-  
-
-			<div class="container-fluid tcs-custom-container px-0">
-				<div class="row" data-dl-title="What we do">
-					<div class="col-12 col-md-3 col-lg-3 col-xl-5 z-index-2 d-none d-xl-none"></div>
-					<div class="col-11 col-md-9 col-lg-9  col-xl-7 z-index-2 mobile-view-padding-0">
-						<div class="text-image-banner-content-div">
-							<div>
-								<h2 class="text-image-banner-heading text-uppercase">What we do</h2>
-								<h3 class="text-image-banner-title">TCS transforms businesses through technology.</h3>
-								<div class="text-image-banner-rte-description rte-links-div"><p><p>We help businesses successfully navigate digital transformation and drive real growth, drawing on the combined power of experience and contextual knowledge, across a vast ecosystem of expertise.</p>
-</p></div>
-								
-								<div class="position-relative banner-cta-margin">
-									<a class="text-image-banner-cta-link cta-link-focus tcs-section-click" href="https://www.tcs.com/what-we-do">Get to know us</a>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>	
-	</section>
-</div></div>
-<div class="rowContainer aem-GridColumn--default--none aem-GridColumn aem-GridColumn--default--12 aem-GridColumn--offset--default--0">
-
-  
-  
-    
-  
-
-
-  
-  
-    
-  
-
-
-  
-  
-    <div class="container px-lg-0  px-0 false ">
-      <div class="row mx-0 custom-container px-0  ">
-        
-          <div class="w-100 px-0
-          px-0
-          ">
-
-
-<div class="aem-Grid aem-Grid--0 ">
-    
-    
-    
-</div>
-</div>
-        
-      </div>
-    </div>
-  
-
-
-
-</div>
-<div class="footerCTA aem-GridColumn aem-GridColumn--default--12">
-
-
-</div>
-<div class="experiencefragment aem-GridColumn aem-GridColumn--default--12">
-<div id="experiencefragment-dd48c931ac" class="cmp-experiencefragment cmp-experiencefragment--sticky-nav-contact-us">
-
-
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
-    
-    <div class="responsivegrid aem-GridColumn aem-GridColumn--default--12">
-
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
-    
-    <div class="stickyContactUs aem-GridColumn aem-GridColumn--default--12">
-
-
-<section class="sticky-contact-us">
-    <div id="sticky-outer-wrapper">
-        <div class="contact-sticky  published_height">
-            <a href="javascript:void(0);" class="contact-sticky-icon position-relative" role="button">Contact</a>
-            <span class="tooltiptext position-absolute text-center d-none">Contact</span>
-            <span class="sr-only">Press Enter to open an overlay</span>
-        </div>
-    </div>
-</section>
-
-<!-- overlay -->
-
-<div class="page-overlay-welcomepage d-none w-100 h-100" role="dialog" aria-labelledby="What’s on your mind?">
-    <section class="welcome-page-overlay-wrapper position-relative w-100 published_height">
-        <div class="form-close-button justify-content-between px-4 py-3 py-md-4 flex-row w-100 float-right">
-            <button type="button" class="form-right-icon overlay-close-welcomepage d-flex justify-content-center align-items-center position-relative float-right">
-                <span class="close-icon"><span class="sr-only">close</span></span>
-            </button>
-        </div>
-        <div class="row" data-dl-title="What’s on your mind?">
-            <div class="container welcome-form-page mx-auto px-4 col-lg-10 col-md-11 col-sm-11 col-11 h-100">
-                <div class="row mb-4">
-                    <div class="welcome-main-heading col-lg-7 col-md-12 pb-4" role="heading" aria-level="2">
-                        What’s on your mind?
-                    </div>
-                    <div class="welcome-sub-heading col-lg-5 col-md-12 pt-lg-4">
-                        We’re here to help! Tell us what you’re looking for and we’ll get you connected to the right people.
-                    </div>
-                </div>
-                
-                    
+         </div>
+               </div>
+      <div class="col-md-6">
+         <h2 class="main-heading">Contact Form</h2>
+         <main class="container-contact">
+            <!-- Box -->
+            <div class="box row">
+               <!-- form container -->
+               <div class="col-md-12 digital-mar-row">
+                  <div class="contact-right-cls p-md-4 p-md-5 p-3 contact-right-clshome" id="contact-home">
+                     <form action="https://www.apponix.com/contact.html" method="POST">
+                        <input type="hidden" name="_token" value="mvISyDHQp0aEyxBTqDTRJPQKdxtHYxncRKIEjFD5">                        <input type="hidden" name="recaptcha" id="recaptcha">
+                                                <input type="hidden" name="country" value="India">
+						<input type="hidden" name="ipaddress" value="157.45.60.206">
                         <div class="row">
-                            
-                                <div class="col-lg-4 col-md-12 col-sm-12 pb-4 box-model-outer">
-                                    <a href="https://www.tcs.com/contact-us/whats-on-your-mind/global-contact-us" class="tcs-section-click">
-                                        <div class="box-model text-center">
-                                            <div class="box-icon vector-business mb-2">
-                                                <div class="heading-icon boxmodel-image business-icon">
-                                                </div>
-                                            </div>
-                                            <div class="boxtext">Request for Services</div>
-                                        </div>
-                                    </a>
-                                </div>
-                            
-                                <div class="col-lg-4 col-md-12 col-sm-12 pb-4 box-model-outer">
-                                    
-                                        <div class="box-model text-center">
-                                            <div class="box-icon vector-business mb-2">
-                                                <div class="heading-icon boxmodel-image investor-icon">
-                                                </div>
-                                            </div>
-                                            <div class="boxtext">Investor information</div>
-                                        </div>
-                                    
-                                </div>
-                            
-                                <div class="col-lg-4 col-md-12 col-sm-12 pb-4 box-model-outer">
-                                    <a href="https://www.tcs.com/contact-us/whats-on-your-mind/media-form" class="tcs-section-click">
-                                        <div class="box-model text-center">
-                                            <div class="box-icon vector-business mb-2">
-                                                <div class="heading-icon boxmodel-image media-icon">
-                                                </div>
-                                            </div>
-                                            <div class="boxtext">Media contacts</div>
-                                        </div>
-                                    </a>
-                                </div>
-                            
+                           <div class="name col-md-6 mb-1">
+                              <input type="text" id="name" name="name" autocomplete="off" required="" maxlength="40" placeholder="Name">
+                           </div>
+                           <div class="email col-md-6 mb-1">
+                              <input type="email" id="email" name="email" autocomplete="off" required="" maxlength="50" placeholder="Email">
+                           </div>
+                           <div class="company col-md-6 mb-md-1 mb-4">
+                              
+                              <select name="course" id="course" class="contactus-select">
+                                                                                                   <option value="Web designing &amp; Development">Web designing &amp; Development</option>
+                                                                  <option value="HR Management Training">HR Management Training</option>
+                                                                  <option value="Cyber Security">Cyber Security</option>
+                                                                  <option value="PowerShell Training">PowerShell Training</option>
+                                                                  <option value="Python Programming">Python Programming</option>
+                                                                  <option value="Python with Django">Python with Django</option>
+                                                                  <option value="SAP Training">SAP Training</option>
+                                                                  <option value="AWS Solution Architect Associate">AWS Solution Architect Associate</option>
+                                                                  <option value="Artificial Intelligence">Artificial Intelligence</option>
+                                                                  <option value="Android App Development">Android App Development</option>
+                                                                  <option value="Business Analyst">Business Analyst</option>
+                                                                  <option value="Big Data Hadoop">Big Data Hadoop</option>
+                                                                  <option value="Graphic Designing">Graphic Designing</option>
+                                                                  <option value="Digital marketing">Digital marketing</option>
+                                                                  <option value="Blockchain Technology">Blockchain Technology</option>
+                                                                  <option value="Cloud Computing">Cloud Computing</option>
+                                                                  <option value="Corporate Training">Corporate Training</option>
+                                                                  <option value="Data Science with Python">Data Science with Python</option>
+                                                                  <option value="DevOps Training">DevOps Training</option>
+                                                                  <option value="Ethical Hacking">Ethical Hacking</option>
+                                                                  <option value="Full Stack Java Development">Full Stack Java Development</option>
+                                                                  <option value="Java programming">Java programming</option>
+                                                                  <option value="Linux Administration">Linux Administration</option>
+                                                                  <option value="Machine Learning">Machine Learning</option>
+                                                                  <option value="Microsoft Server">Microsoft Server</option>
+                                                                  <option value="MS Azure Architect AZ 305">MS Azure Architect AZ 305</option>
+                                                                  <option value="Salesforce Training">Salesforce Training</option>
+                                                                  <option value="SEO">SEO</option>
+                                                                  <option value="Six Sigma Administration">Six Sigma Administration</option>
+                                                                  <option value="Software Testing">Software Testing</option>
+                                                                  <option value="Tableau and Data Visualization">Tableau and Data Visualization</option>
+                                                                  <option value="VMware Certification">VMware Certification</option>
+                                                                  <option value="PMP Certification">PMP Certification</option>
+                                                                  <option value="Full Stack Java Development">Full Stack Java Development</option>
+                                                                  <option value="ITIL Foundation">ITIL Foundation</option>
+                                                                  <option value="Microsoft SCCM Current Branch">Microsoft SCCM Current Branch</option>
+                                                                  <option value="Master Program in Full Stack Web Development">Master Program in Full Stack Web Development</option>
+                                                                  <option value="Master Program in Digital Marketing">Master Program in Digital Marketing</option>
+                                                                  <option value="Master Program in Data Science">Master Program in Data Science</option>
+                                                                  <option value="Master Program in AWS Cloud-Devops">Master Program in AWS Cloud-Devops</option>
+                                                                  <option value="iOS App Development">iOS App Development</option>
+                                                                  <option value="Digital Marketing Online">Digital Marketing Online</option>
+                                                                  <option value="GCP Certification Training">GCP Certification Training</option>
+                                                                  <option value="Python Full Stack development">Python Full Stack development</option>
+                                                                  <option value="MS Azure Cloud AZ 104">MS Azure Cloud AZ 104</option>
+                                                                  <option value="Full Stack SoftwareTesting">Full Stack SoftwareTesting</option>
+                                                                  <option value="Job oriented courses">Job oriented courses</option>
+                                                                  <option value="Resume Writing Services">Resume Writing Services</option>
+                                                                  <option value="Digital Marketing Company">Digital Marketing Company</option>
+                                                                  <option value="PPC Company in Bangalore">PPC Company in Bangalore</option>
+                                                                  <option value="Most Prominent SEO Company in Bangalore">Most Prominent SEO Company in Bangalore</option>
+                                                                  <option value="Best Social Media Marketing Company in Bangalore">Best Social Media Marketing Company in Bangalore</option>
+                                                                  <option value="Social Media Optimization in Bangalore">Social Media Optimization in Bangalore</option>
+                                                                  <option value="Website Designing Company in Bangalore">Website Designing Company in Bangalore</option>
+                                                                  <option value="Digital Marketing Company in Bangalore">Digital Marketing Company in Bangalore</option>
+                                                                  <option value="Mechanical Designing Courses">Mechanical Designing Courses</option>
+                                                                  <option value="STOCK MARKET COURSE">STOCK MARKET COURSE</option>
+                                                                  <option value="Hotel Management Training">Hotel Management Training</option>
+                                                                  <option value="Azure Devops AZ-400">Azure Devops AZ-400</option>
+                                                                  <option value="Cloud Computing  Career In 2023">Cloud Computing  Career In 2023</option>
+                                                                  <option value="Full Stack Development Career In 2024">Full Stack Development Career In 2024</option>
+                                                                  <option value="Software Testing Master Program">Software Testing Master Program</option>
+                                                                                                </select>
+                           </div>
+                           <div class="tele col-md-6 mb-1">
+                              <input type="tel" id="phone" name="phone" autocomplete="off" required="" maxlength="10" placeholder="Phone Number">
+                           </div>
+                           <div class="message tele col-md-6 mb-1">
+                              <textarea id="message" name="message" autocomplete="off" placeholder="Message" minlength="50" required></textarea>
+                           </div>
+                           <div class="mode-top col-md-6 mt-2">
+                              <label class="mode-of-tra">Mode Of Training</label>
+                              <input type="radio" id="radio01-01" name="mode" value="Classroom"><label for="radio01-01" class="contact-input-radio" required>Classroom</label>
+                              <input type="radio" id="radio01-02" name="mode" value="Online"><label for="radio01-02" class="contact-input-radio" required>Online</label>
+                           </div>
+                            <div class="cf-turnstile" data-sitekey="0x4AAAAAAAMmYpxAik0dIYVd"></div>
                         </div>
-                    
-                
-                    
-                
-                <div class="row">
-                    <div class="col-lg-12 something-desc">
-                    Looking for something else?
-                    </div>
+                        <div class="mode-top col-md-12">
+                           <div class="submit" id="submitbtn-home">
+                              <input type="submit" value="SUBMIT">
+                           </div>
+                        </div>
+                     </form>
+                  </div>
+               </div>
+            </div>
+         </main>
+      </div>
+   </div>
+</div>
+<script>
+   $("#our-Trainers").owlCarousel({loop:!0,items:3,margin:0,dots:!1,nav:!0,navText:["<i class='las la-arrow-left rc-arrow-img'></i>","<i class='las la-arrow-right rc-arrow-img'></i>"],mouseDrag:!0,autoplay:!1,autoplayTimeout:4e3,smartSpeed:800,responsive:{0:{margin:20,items:1},480:{margin:20,items:1},767:{margin:20,items:2},1025:{margin:0,items:3}}}),$(".testimonial-content1").owlCarousel({loop:!0,items:3,margin:0,dots:!1,nav:!0,navText:["<i class='las la-arrow-left rc-arrow-img'></i>","<i class='las la-arrow-right rc-arrow-img'></i>"],mouseDrag:!0,autoplay:!1,autoplayTimeout:4e3,smartSpeed:800,responsive:{0:{margin:20,items:1},480:{margin:20,items:1},767:{margin:20,items:2},1025:{margin:0,items:4}}}),$(".banner-slider").owlCarousel({loop:!0,items:1,margin:0,dots:!1,nav:!0,navText:["<i class='las la-arrow-left nav-btn-banner rc-arrow-img'></i>","<i class='las la-arrow-right nav-btn-banner rc-arrow-img'></i>"],mouseDrag:!0,autoplay:!0,autoplayTimeout:4e3,smartSpeed:800,responsive:{0:{margin:20,items:1},480:{margin:20,items:1},767:{margin:20,items:1},1025:{margin:0,items:1}}}),$(".testimonial-content").owlCarousel({loop:!0,items:3,margin:50,dots:!1,nav:!0,navText:["<i class='las la-arrow-left rc-arrow-img'></i>","<i class='las la-arrow-right rc-arrow-img'></i>"],mouseDrag:!0,autoplay:!1,autoplayTimeout:4e3,smartSpeed:800,responsive:{0:{margin:20,items:1},480:{margin:20,items:1},767:{margin:20,items:2},1025:{margin:50,items:3}}}),$(".testimonial-content-m").owlCarousel({loop:!0,items:3,margin:50,dots:!1,nav:!0,navText:["<i class='las la-arrow-left rc-arrow-img'></i>","<i class='las la-arrow-right rc-arrow-img'></i>"],mouseDrag:!0,autoplay:!1,autoplayTimeout:4e3,smartSpeed:800,responsive:{0:{margin:20,items:1},480:{margin:20,items:1},767:{margin:20,items:2},1025:{margin:50,items:3}}});var myCarousel=$(".my-carousel").slick({arrows:!1,dots:!0,slidesPerRow:3,rows:3,responsive:[{breakpoint:768,settings:{slidesPerRow:1}},{breakpoint:520,settings:{slidesPerRow:1}}]});myCarousel.slick("slickSetOption",{slidesPerRow:2,rows:3},!0),console.log("slidesPerRow = "+myCarousel.slick("slickGetOption","slidesPerRow")),console.log("rows = "+myCarousel.slick("slickGetOption","rows"));
+</script>
+
+
+
+
+
+
+<a id="back-to-top" href="#">
+    <svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M450-122v-484L332-488l-42-42 190-190 190 190-42 42-118-118v484h-60ZM160-780v-60h640v60H160Z"></path></svg>
+    <p>TOP</p>
+</a>
+<style>
+    #back-to-top {
+        padding: 8px;
+        height: 50px;
+        width: 50px;
+        bottom: 21px;
+        position: fixed;
+        right: 22px;
+        z-index: 9999;
+        text-align: center;
+        border-radius: 999px;
+        display: none;
+        align-items: center;
+        flex-direction: column;
+        background-color: #005392;
+        color: #fff;
+        font-size: 12px;
+    }
+    #back-to-top > svg {
+        fill: currentColor;
+        flex-grow: 1;
+        flex-shrink: 0;
+        flex-basis: 60%;
+    }
+    #back-to-top > p {
+        flex-shrink: 1;
+        flex-grow: 0;
+        font-size: 12px;
+        color: inherit;
+    }
+</style>
+<script>
+    window.onscroll = function() {
+        const backToTopButton = document.getElementById("back-to-top")
+        if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+            backToTopButton.style.display = "flex";
+        } else {
+            backToTopButton.style.display = "none";
+        }
+    }
+</script>
+
+
+
+
+	
+        
+
+    
+        
+
+
+    <footer>
+        <div class="main-container-class">
+            <div class="row pt-5">
+                <div class="col-md-2 custom-col-width">
+                    <div class="footer-heading pb-3">Follow us on:</div>
+                    <a href="https://www.facebook.com/apponix" class="fa fa-facebook fa-social-links"></a>
+                    <a href="https://twitter.com/apponix" class="fa fa-twitter fa-social-links"></a>
+                    <a href="https://www.youtube.com/apponix" class="fa fa-youtube fa-social-links"></a>
+                    <a href="https://www.instagram.com/apponix_technologies" class="fa fa-instagram fa-social-links"></a>
+                    <a href="https://www.linkedin.com/company/apponix/" class="fa fa-linkedin fa-social-links"></a>
                 </div>
-                
-                    
-                
-                    
-                        <div class="row various-forms justify-content-between d-flex">
-                            
-                                <div class="welcome-form-version mb-4 d-inline-block">                                       
-                                    <div class="forms-inner w-100">
-                                        <a href="https://www.tcs.com/contact-us/whats-on-your-mind/ar-landing" class="tcs-section-click">                                             
-                                            <div class="box-text d-inline-block">Analyst relations</div> 										             
-                                            <div class="box-arrow d-inline-block position-relative">
-                                                <div class="white-circle">
-                                                    <div class="arrow-right position-absolute"></div>
-                                                </div>
-                                            </div>  
-                                        </a>                                               
-                                    </div>                                                         
-                                </div>
-                            
-                                <div class="welcome-form-version mb-4 d-inline-block">                                       
-                                    <div class="forms-inner w-100">
-                                        <a href="https://www.tcs.com/contact-us/whats-on-your-mind/csr" class="tcs-section-click">                                             
-                                            <div class="box-text d-inline-block">CSR</div> 										             
-                                            <div class="box-arrow d-inline-block position-relative">
-                                                <div class="white-circle">
-                                                    <div class="arrow-right position-absolute"></div>
-                                                </div>
-                                            </div>  
-                                        </a>                                               
-                                    </div>                                                         
-                                </div>
-                            
-                                <div class="welcome-form-version mb-4 d-inline-block">                                       
-                                    <div class="forms-inner w-100">
-                                        <a href="https://www.tcs.com/contact-us/whats-on-your-mind/partnership-form" class="tcs-section-click">                                             
-                                            <div class="box-text d-inline-block">Partnership</div> 										             
-                                            <div class="box-arrow d-inline-block position-relative">
-                                                <div class="white-circle">
-                                                    <div class="arrow-right position-absolute"></div>
-                                                </div>
-                                            </div>  
-                                        </a>                                               
-                                    </div>                                                         
-                                </div>
-                            
-                                <div class="welcome-form-version mb-4 d-inline-block">                                       
-                                    <div class="forms-inner w-100">
-                                        <a href="https://www.tcs.com/contact-us/whats-on-your-mind/website-feedback-form" class="tcs-section-click">                                             
-                                            <div class="box-text d-inline-block">Website feedback</div> 										             
-                                            <div class="box-arrow d-inline-block position-relative">
-                                                <div class="white-circle">
-                                                    <div class="arrow-right position-absolute"></div>
-                                                </div>
-                                            </div>  
-                                        </a>                                               
-                                    </div>                                                         
-                                </div>
-                            
-                        </div>
-                    
-                
-            </div>
-        </div>
-    </section>
-</div>
-</div>
-
-    
-</div>
-</div>
-
-    
-</div>
-</div>
-
-    
-</div>
-<div class="experiencefragment aem-GridColumn aem-GridColumn--default--12">
-<div id="experiencefragment-8cfeff894c" class="cmp-experiencefragment cmp-experiencefragment--footer">
-
-
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
-    
-    <div class="responsivegrid aem-GridColumn aem-GridColumn--default--12">
-
-
-<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
-    
-    <div class="footerContainer aem-GridColumn aem-GridColumn--default--12">
-
-		  
-      
-
-
-    
-<footer class="dark-theme footer  footer-panel" data-dl-title="Footer" id="main-footer" role="contentinfo">
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-    <div id="desktopFooter">   
-        <div class="tcs-custom-container">
+                                <div class="col-md-2 custom-col-width">
+                    <div class="footer-heading  pb-3">Master Courses</div>
+                                        <ul class="footerul">
+                                                                        <li><a href="https://www.apponix.com/master-program-in-digital-marketing">Digital Marketing</a></li>
+                                                <li><a href="https://www.apponix.com/master-program-in-full-stack-web-developer">Full-stack development</a></li>
+                                                <li><a href="https://www.apponix.com/master-program-in-aws-cloud-devops">Cloud computing</a></li>
+                                                <li><a href="https://www.apponix.com/master-program-in-data-science">Data Science</a></li>
+                                                <li><a href="https://www.apponix.com/master-program-in-cloud-and-virtulization">Cloud &amp; Virtualization</a></li>
+                                                <li><a href="https://www.apponix.com/master-program-in-cyber-security">Cyber Security</a></li>
+                                                <li><a href="https://apponix.com/master-program-in-cloud-devops">Cloud DevOps</a></li>
+                                                                    </ul>
+                </div>
+                <div class="col-md-2 custom-col-width">
+                    <div class="footer-heading  pb-3">Trending Courses</div>
+                                        <ul class="footerul">
+                                                                        <li><a href="https://www.apponix.com/devops-certification-training">DevOps Training</a></li>
+                                                <li><a href="https://www.apponix.com/aws-certification-training">AWS Certification</a></li>
+                                                <li><a href="https://www.apponix.com/machine-learning-course">Machine learning</a></li>
+                                                <li><a href="https://www.apponix.com/web-designing-course">Web designing</a></li>
+                                                <li><a href="https://www.apponix.com/courses-for-business-analyst">Business Analytics</a></li>
+                                                <li><a href="https://www.apponix.com/hr-course">Human Resource</a></li>
+                                                <li><a href="https://www.apponix.com/digital-marketing-courses">Digital Marketing</a></li>
+                                                                    </ul>
+                </div>
+                <div class="col-md-2 custom-col-width">
+                    <div class="footer-heading pb-3">Certification Courses</div>
+                                        <ul class="footerul">
+                                                                        <li> <a href="https://www.apponix.com/big-data-courses">Hadoop bigdata</a></li>
+                                                <li> <a href="https://www.apponix.com/tableau-certification">Tableau Certification</a></li>
+                                                <li> <a href="https://www.apponix.com/aws-certification-training">AWS Certification</a></li>
+                                                <li> <a href="https://www.apponix.com/certification-on-azure">Azure Certification</a></li>
+                                                <li> <a href="https://www.apponix.com/vmware-training">Vmware Certification</a></li>
+                                                <li> <a href="https://www.apponix.com/cyber-security-certification">Cyber Security</a></li>
+                                                <li> <a href="https://www.apponix.com/ethical-hacking-certification">Ethical Hacking</a></li>
+                                                                    </ul>
+                </div>
+                <div class="col-md-2 custom-col-width">
+                    <div class="footer-heading pb-3">Useful Links</div>
+                                        <ul class="footerul">
+                                                                        <li> <a href="https://www.apponix.com/digital-marketing-courses">Digital Marketing</a></li>
+                                                <li> <a href="https://www.apponix.com/python-courses">Python Programming</a></li>
+                                                <li> <a href="https://www.apponix.com/software-testing-course.html">Software Testing</a></li>
+                                                <li> <a href="https://www.apponix.com/java-training">Java Development</a></li>
+                                                <li> <a href="https://www.apponix.com/graphic-design-training">Graphic Design</a></li>
+                                                <li> <a href="https://www.apponix.com/artificial-Intelligence-course">Artificial Intelligence</a></li>
+                                                <li> <a href="https://www.apponix.com/data-science-courses">Data Science</a></li>
+                                                                    </ul>
+                </div>
+                            </div>
+            <hr>
+            <div class="row pt-4">
+                                                                                <div class="col-md-3 footer-address">
+                    <div class="footer-heading">Head Office - Bangalore </div>
+                    <div class="flex-p-div-add">
+                        <i class="fa fa-map-marker" aria-hidden="true"></i>
+                        <p>306, 10th Main, 46th Cross, 4th Block Rajajinagar, Bangalore - 560010</p>
+                    </div>
+                                        <p> <i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:80505-80888">80505-80888</a>
+                    </p>
+                                                            <p><i class="fa fa-envelope-o" aria-hidden="true"></i> <a href="mailto:info@apponix.com">info@apponix.com</a>
+                    </p>
+                                    </div>
+                                <div class="col-md-3 footer-address">
+                    <div class="footer-heading">Rajajinagar Branch </div>
+                    <div class="flex-p-div-add">
+                        <i class="fa fa-map-marker" aria-hidden="true"></i>
+                        <p>Second floor, Eshwari Complex, Dr. Rajkumar road, Prakashnagar, Bangalore 560021</p>
+                    </div>
+                                        <p> <i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:80505-80888">80505-80888</a>
+                    </p>
+                                                        </div>
+                                <div class="col-md-3 footer-address">
+                    <div class="footer-heading">Marathahalli Branch </div>
+                    <div class="flex-p-div-add">
+                        <i class="fa fa-map-marker" aria-hidden="true"></i>
+                        <p>505/2, Marathahalli Bridge, HAL Old Airport Road, Ashwath Nagar, Opp to MAX Showroom Marathahalli, Bangalore-560 037</p>
+                    </div>
+                                        <p> <i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:80505-80888">80505-80888</a>
+                    </p>
+                                                        </div>
+                                <div class="col-md-3 footer-address">
+                    <div class="footer-heading">Banasawadi Branch </div>
+                    <div class="flex-p-div-add">
+                        <i class="fa fa-map-marker" aria-hidden="true"></i>
+                        <p>705/707.3rd Floor, Reliance digital building, OMBR layout. Near Rammurthy nagar signal. Dodda Banaswadi Bangalore &ndash; 560043.</p>
+                    </div>
+                                        <p> <i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:80505-80888">80505-80888</a>
+                    </p>
+                                                        </div>
+                                <div class="col-md-3 footer-address">
+                    <div class="footer-heading">Hubli Branch </div>
+                    <div class="flex-p-div-add">
+                        <i class="fa fa-map-marker" aria-hidden="true"></i>
+                        <p>2nd floor, Virupaksha Krupa building P.B. Road, Vidyanagar, Above Airtel store, Opp KMC Main Gate Hubli - 580021</p>
+                    </div>
+                                        <p> <i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:90699-80888">90699-80888</a>
+                    </p>
+                                                        </div>
+                                <div class="col-md-3 footer-address">
+                    <div class="footer-heading">Pune Branch </div>
+                    <div class="flex-p-div-add">
+                        <i class="fa fa-map-marker" aria-hidden="true"></i>
+                        <p>2nd Floor, Shanti Plaza Society, FC Road, Deccan Gymkhana Venus Traders Lane, Behind Rupali Hotel Pune - 411004</p>
+                    </div>
+                                        <p> <i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:8792164888">8792164888</a>
+                    </p>
+                                                        </div>
+                                                            </div>
+            <hr>
             <div class="row">
-                 
-                    
-                    <div class="col">
-                        <div class="footer-link-box">  
-                            <div>
-
-
-
-
-
-
-	
-		<div class="quick-link-box">
-			<div class="footer-title">
-				<a href="https://www.tcs.com/what-we-do#industries" class="desktop-footer-section-title">Industries</a>
-				
-			</div>
-			<ul class="quick-links">
-				
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/industries/banking">Banking</a>
-							</li>
-						
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/industries/capital-markets">Capital Markets</a>
-							</li>
-						
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/industries/consumer-goods-distribution">Consumer Goods and Distribution</a>
-							</li>
-						
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/industries/communications-media-information-services">Communications, Media, and Information Services</a>
-							</li>
-						
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/industries/education">Education</a>
-							</li>
-						
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/industries/energy-resources-utilities">Energy, Resources, and Utilities</a>
-							</li>
-						
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/industries/healthcare">Healthcare</a>
-							</li>
-						
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/industries/high-tech">High Tech</a>
-							</li>
-						
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/industries/insurance">Insurance</a>
-							</li>
-						
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/industries/life-sciences">Life Sciences</a>
-							</li>
-						
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/industries/manufacturing">Manufacturing</a>
-							</li>
-						
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/industries/public-services">Public Services</a>
-							</li>
-						
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/industries/retail">Retail</a>
-							</li>
-						
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/industries/travel-and-logistics">Travel and Logistics</a>
-							</li>
-						
-					
-				
-			</ul>
-		</div>
-	
-	
-
-
-
-</div>                            
-                        </div>
-                        
-                        
-                    </div>
-
-                 
-                    
-                    <div class="col">
-                        <div class="footer-link-box">  
-                            <div>
-
-
-
-
-
-
-	
-		<div class="quick-link-box">
-			<div class="footer-title">
-				<a href="https://www.tcs.com/content/tcs/global/en/what-we-do.html#services" class="desktop-footer-section-title">Services</a>
-				
-			</div>
-			<ul class="quick-links">
-				
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/services/cloud">Cloud</a>
-							</li>
-						
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/services/cognitive-business-operations">Cognitive Business Operations</a>
-							</li>
-						
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/services/consulting">Consulting</a>
-							</li>
-						
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/services/cybersecurity">Cybersecurity</a>
-							</li>
-						
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/services/data-and-analytics">Data and Analytics</a>
-							</li>
-						
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/services/enterprise-solutions">Enterprise Solutions</a>
-							</li>
-						
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/services/iot-digital-engineering">IoT and Digital Engineering</a>
-							</li>
-						
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/services/sustainability-services">Sustainability Services</a>
-							</li>
-						
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/services/tcs-interactive">TCS Interactive</a>
-							</li>
-						
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/services/cloud/aws">TCS and AWS Cloud</a>
-							</li>
-						
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/services/cloud/enterprise">TCS Enterprise Cloud</a>
-							</li>
-						
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/services/cloud/google">TCS and Google Cloud</a>
-							</li>
-						
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/services/cloud/microsoft">TCS and Microsoft Cloud</a>
-							</li>
-						
-					
-				
-			</ul>
-		</div>
-	
-	
-
-
-
-</div>                            
-                        </div>
-                        
-                        
-                    </div>
-
-                 
-                    
-                    <div class="col">
-                        <div class="footer-link-box">  
-                            <div>
-
-
-
-
-
-
-	
-		<div class="quick-link-box">
-			<div class="footer-title">
-				<a href="https://www.tcs.com/what-we-do#products" class="desktop-footer-section-title">Products and Platforms</a>
-				
-			</div>
-			<ul class="quick-links">
-				
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/products-platforms/tcs-add">TCS ADD™</a>
-							</li>
-						
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/products-platforms/tcs-bancs">TCS BaNCS™</a>
-							</li>
-						
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/products-platforms/tcs-bfsi-platforms">TCS BFSI Platforms</a>
-							</li>
-						
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/products-platforms/tcs-chroma">TCS CHROMA™</a>
-							</li>
-						
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/products-platforms/tcs-customer-intelligence-insights">TCS Customer Intelligence &amp; Insights™</a>
-							</li>
-						
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/products-platforms/tcs-erp-on-cloud">TCS ERP on Cloud</a>
-							</li>
-						
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items quick-link-external" href="https://digitate.com/" target="_blank">ignio™</a>
-							</li>
-						
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/products-platforms/tcs-hobs">TCS HOBS™</a>
-							</li>
-						
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/products-platforms/tcs-intelligent-urban-exchange">TCS Intelligent Urban Exchange™</a>
-							</li>
-						
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/products-platforms/tcs-omnistore">TCS OmniStore™</a>
-							</li>
-						
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/products-platforms/tcs-optumera">TCS Optumera™</a>
-							</li>
-						
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/products-platforms/tcs-tap">TCS TAP™</a>
-							</li>
-						
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/products-platforms/quartz">Quartz™ – The Smart Ledgers™</a>
-							</li>
-						
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/products-platforms/tcs-twinx">TCS TwinX™</a>
-							</li>
-						
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/products-platforms/tcs-mastercraft">TCS MasterCraft™</a>
-							</li>
-						
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items quick-link-external" href="https://www.jile.io/" target="_blank">Jile™</a>
-							</li>
-						
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items quick-link-external" href="https://www.tcsion.com/dotcom/TCSSMB/" target="_blank">TCS iON™</a>
-							</li>
-						
-					
-				
-			</ul>
-		</div>
-	
-	
-
-
-
-</div>                            
-                        </div>
-                        
-                        
-                    </div>
-
-                 
-                    
-                    <div class="col">
-                        <div class="footer-link-box">  
-                            <div>
-
-
-
-
-
-
-	
-		<div class="quick-link-box">
-			<div class="footer-title">
-				<a href="https://www.tcs.com/insights" class="desktop-footer-section-title">Insights</a>
-				
-			</div>
-			<ul class="quick-links">
-				
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items " href="https://www.tcs.com/insights/customer-stories">Customer Stories</a>
-							</li>
-						
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items " href="https://www.tcs.com/insights/topics/cloud-topic">Cloud</a>
-							</li>
-						
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items " href="https://www.tcs.com/insights/topics/blockchain-topic">Blockchain</a>
-							</li>
-						
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items " href="https://www.tcs.com/insights/topics/internet-of-things-topic">IoT</a>
-							</li>
-						
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items " href="https://www.tcs.com/insights/topics/metaverse-topic">Metaverse</a>
-							</li>
-						
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items " href="https://www.tcs.com/insights/topics/future-of-work-topic">Future of Work</a>
-							</li>
-						
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items " href="https://www.tcs.com/insights/topics/health-and-wellness-topic">Health and Wellness</a>
-							</li>
-						
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items " href="https://www.tcs.com/insights/topics/sustainability-topic">Sustainability</a>
-							</li>
-						
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items " href="https://www.tcs.com/insights/topics/ai-ml-topic">AI and ML</a>
-							</li>
-						
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items " href="https://www.tcs.com/insights/topics/cybersecurity-topic">Cybersecurity</a>
-							</li>
-						
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items " href="https://www.tcs.com/insights/perspectives">Perspectives</a>
-							</li>
-						
-					
-				
-			</ul>
-		</div>
-	
-	
-
-
-
-</div>                            
-                        </div>
-                        <div class="footer-link-box mt-4">
-
-
-
-
-
-
-	
-		<div class="quick-link-box">
-			<div class="footer-title">
-				<a href="https://www.tcs.com/who-we-are" class="desktop-footer-section-title">More information</a>
-				
-			</div>
-			<ul class="quick-links">
-				
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items " href="https://www.tcs.com/careers">Careers</a>
-							</li>
-						
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items " href="https://www.tcs.com/who-we-are/corporate-social-responsibility">Corporate Social Responsibility</a>
-							</li>
-						
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items " href="https://www.tcs.com/who-we-are/diversity-equity-inclusion">Diversity, Equity, and Inclusion</a>
-							</li>
-						
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items " href="https://www.tcs.com/investor-relations" target="_blank">Investor Relations</a>
-							</li>
-						
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items " href="https://www.tcs.com/who-we-are/sports-sponsorships">Sports Sponsorships</a>
-							</li>
-						
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/pace-innovation">TCS Pace™</a>
-							</li>
-						
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items " href="https://www.tcs.com/what-we-do/research">TCS Research</a>
-							</li>
-						
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items " href="https://www.tcs.com/who-we-are/tcs-way">The TCS Way</a>
-							</li>
-						
-					
-						
-							
-							<li class="quick-links-list">
-								<a class="quick-links-list-items " href="https://www.tcs.com/who-we-are">Who we are</a>
-							</li>
-						
-					
-				
-			</ul>
-		</div>
-	
-	
-
-
-
-</div>
-                        
-                    </div>
-
-                 
-                    
-                    
-
-                
-
-            </div>
+                                                                <div class="footer-heading">Master Programs</div>
+                <p class="bottom-p">
+                                                            <a href="https://www.apponix.com/master-program-in-aws-cloud-devops">Cloud Computing</a> &nbsp;|&nbsp;                                         <a href="https://apponix.com/master-program-in-full-stack-web-developer">Full Stack Development</a> &nbsp;|&nbsp;                                         <a href="https://apponix.com/master-program-in-data-science">Data Science</a> &nbsp;|&nbsp;                                         <a href="https://apponix.com/master-program-in-digital-marketing">Digital Marketing</a>                                                        </p>
+                                <div class="footer-heading">Trending Courses</div>
+                <p class="bottom-p">
+                                                            <a href="https://apponix.com/master-program-in-full-stack-web-developer">Full Stack Development</a> &nbsp;|&nbsp;                                         <a href="https://www.apponix.com/master-program-in-aws-cloud-devops">Cloud Computing</a> &nbsp;|&nbsp;                                         <a href="https://www.apponix.com/devops-certification-training">DevOps Training</a>                                                        </p>
+                                <div class="footer-heading"></div>
+                <p class="bottom-p">
+                                    </p>
+                                                <p class="bottom-p ">
+                                                                                                    <a href="https://www.apponix.com/our-team.html">our team</a> &nbsp;|&nbsp;                                         <a href="https://www.apponix.com/about.html">about us</a> &nbsp;|&nbsp;                                         <a href="https://www.apponix.com/contact.html">contact us</a> &nbsp;|&nbsp;                                         <a href="https://www.apponix.com/corporate-training.html">corporate training</a> &nbsp;|&nbsp;                                         <a href="https://certificate.apponix.co.in/certificate">Certificate Authentication</a> &nbsp;|&nbsp;                                         <a href="https://www.apponix.com/ecertificate">Certificate download</a> &nbsp;|&nbsp;                                         <a href="https://www.apponix.com/Job-oriented-courses">Job Oriented Courses</a> &nbsp;|&nbsp;                                         <a href="https://www.apponix.com/placements.html">Apponix Placements</a> &nbsp;|&nbsp;                                         <a href="https://www.apponix.com/student-reviews.html">Student Reviews</a> &nbsp;|&nbsp;                                         <a href="https://www.apponix.com/apponix-certified-professionals">Apponix Certified Professionals</a> &nbsp;|&nbsp;                                         <a href="https://www.apponix.com/events.html">Events</a> &nbsp;|&nbsp;                                         <a href="https://www.apponix.com/terms-condition.html">Terms &amp; Conditions</a> &nbsp;|&nbsp;                                         <a href="https://www.apponix.com/privacy-policy.html">Refund policy</a> &nbsp;|&nbsp;                                         <a href="https://www.apponix.com/blog">blogs /articles</a> &nbsp;|&nbsp;                                         <a href="https://www.apponix.com/trainers.html">Trainers</a> &nbsp;|&nbsp;                                         <a href="https://certificate.apponix.co.in/certificate">Verify Certificate</a> &nbsp;|&nbsp;                                         <a href="https://www.apponix.com/resume/resume-writing-services.html">Resume Services</a> &nbsp;|&nbsp;                                         <a href="https://www.apponix.com/service/digital-marketing-company-in-bangalore.html">Digital Marketing Services</a> &nbsp;|&nbsp;                                         <a href="https://www.apponix.com/download-cv">Download CV</a> &nbsp;|&nbsp;                                         <a href="https://www.apponix.com/quiz">Quiz</a> &nbsp;|&nbsp;                                         <a href="https://www.apponix.com/sitemap.html">Sitemap</a>                                                                            </p>
+                <br>
+                <br>
+                <p class="m-0 bottom-p copyrightp">© Copyright: 2011-2021 Apponix  Technologies, All rights Reserved</p>
+                <p class="bottom-p copyrightp">DISCLAIMER: THE CERTIFICATE NAMES ARE TRADEMARKS OF RESPECTIVE OWNERS</p>
             </div>
         </div>
-        <div id="mobileFooter">
-            <div class="footer-container">
-              <div id="footerAccordion">    
-
-              </div>
-            </div>
-          </div>    
     </footer>
 
-</div>
-<div class="minimalFooter aem-GridColumn aem-GridColumn--default--12">
-
-	<div id="baseFooter" class="collapse show">
-		<div class="footer-container px-0 tcs-custom-container" data-dl-title="Footer">
-			<div class="row align-items-center">
-				<div class="col-12">
-					<div class="tab-view-b-b"></div>
-				</div>
-				<div class="col-sm-3 col-md-3 order-5 order-sm-1 order-md-1 order-xl-1  col-xl-2 mob-d-none">
-					<a href="https://www.tcs.com"> <img class="img-fluid" src="/content/dam/global-tcs/en/images/discover-tcs/TCS%20logo.svg" alt="Tata consultancy services"/>
-					</a>
-				</div>
-				<div class="col-12 col-sm-3 col-lg-4 order-1 order-sm-2 order-md-2 order-xl-1 col-xl-2">
-					<ul class="social-icn-ul base-footer-pad-MV">
-						
-								<li class="social-icn-ul-list"><a class="social-icn-item" href="https://www.facebook.com/TataConsultancyServices" target="_blank"><img class="social-icn-item-icon" alt="Facebook" src="/etc.clientlibs/tcs/clientlibs/clientlib-site/resources/images/social/Facebook.svg"/><span class="sr-only">Open in New Tab Facebook</span></a>
-								</li>
-						
-								<li class="social-icn-ul-list"><a class="social-icn-item" href="https://www.youtube.com/user/TCSGlobal" target="_blank"><img class="social-icn-item-icon" alt="Youtube" src="/etc.clientlibs/tcs/clientlibs/clientlib-site/resources/images/social/Youtube.svg"/><span class="sr-only">Open in New Tab Youtube</span></a>
-								</li>
-						
-								<li class="social-icn-ul-list"><a class="social-icn-item" href="https://twitter.com/TCS" target="_blank"><img class="social-icn-item-icon" alt="Twitter" src="/etc.clientlibs/tcs/clientlibs/clientlib-site/resources/images/social/Twitter.svg"/><span class="sr-only">Open in New Tab Twitter</span></a>
-								</li>
-						
-								<li class="social-icn-ul-list"><a class="social-icn-item" href="https://www.instagram.com/tcsglobal/" target="_blank"><img class="social-icn-item-icon" alt="Instagram" src="/etc.clientlibs/tcs/clientlibs/clientlib-site/resources/images/social/Instagram.svg"/><span class="sr-only">Open in New Tab Instagram</span></a>
-								</li>
-						
-								<li class="social-icn-ul-list"><a class="social-icn-item" href="https://www.linkedin.com/company/tata-consultancy-services/" target="_blank"><img class="social-icn-item-icon" alt="linkedin" src="/etc.clientlibs/tcs/clientlibs/clientlib-site/resources/images/social/linkedin.svg"/><span class="sr-only">Open in New Tab linkedin</span></a>
-								</li>
-						
-					</ul>
-				</div>
-				<div class="col-12 col-sm-6 col-lg-5 order-5 order-sm-2 order-md-2 order-xl-1 col-xl-3">
-					<div class="base-footer-pad-MV text-left-mob">
-						<span class="link-content"> ©2023 TATA Consultancy Services Limited </span>
-					</div>
-				</div>
-				<div class="col-12 col-sm-9 col-md-9 order-3 order-sm-1 order-md-1 order-xl-1 col-xl-4 footer-tabview">
-					<ul class="base-footer-tcs-lnks-ul">
-						
-							
-                            	
-								<li class="base-footer-tcs-lnks-ul-list">
-									<a class="base-footer-tcs-lnks-ul-list-item" href="https://www.tcs.com/who-we-are/legal/tcs-privacy-notice">Privacy Notice</a>
-								</li>
-							
-						
-							
-                            	
-								<li class="base-footer-tcs-lnks-ul-list">
-									<a class="base-footer-tcs-lnks-ul-list-item" href="https://www.tcs.com/who-we-are/legal/tcs-cookie-policy">Cookie Policy</a>
-								</li>
-							
-						
-							
-                            	
-								<li class="base-footer-tcs-lnks-ul-list">
-									<a class="base-footer-tcs-lnks-ul-list-item" href="https://www.tcs.com/who-we-are/legal/legal-disclaimer">Disclaimer</a>
-								</li>
-							
-						
-							
-                            	
-								<li class="base-footer-tcs-lnks-ul-list">
-									<a class="base-footer-tcs-lnks-ul-list-item" href="https://www.tcs.com/who-we-are/legal/security-policy">Security Policy</a>
-								</li>
-							
-						
-							
-                            	
-								<li class="base-footer-tcs-lnks-ul-list">
-									<a class="base-footer-tcs-lnks-ul-list-item" href="https://www.tcs.com/who-we-are/legal/tcs-privacy-notice/tcs-privacy-policy-usa#CPRA-2023">California Notice at Collection</a>
-								</li>
-							
-						
-						
-							<li class="base-footer-tcs-lnks-ul-list">
-								<a class="base-footer-tcs-lnks-ul-list-item optanon-toggle-display ot-sdk-show-settings" href="javascript:void(0);">Customize Cookies</a>
-							</li>
-						
-					</ul>
-					<a href="javascript:void(0);" class="expand-view" aria-expanded="false" role="button">More</a>
-				</div>
-				<div class="col-12 col-sm-3 col-lg-3 order-4 order-sm-2 order-md-2 order-xl-1 col-xl-1 p-r-l-adjst">
-					<div class="text-sm-right  base-footer-pad-MV">
-						<strong><a class="link-content text-uppercase text-underline"></a></strong>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-
-    
-</div>
-</div>
-
-    
-</div>
-</div>
-
-    
-</div>
-
-    
-</div>
-</div>
-
-
-            
-    
-    
-
-<script defer src="/content/dam/tcstop/jquery-3.6.0.min.js"></script>
-<script defer src="/content/dam/tcstop/scrollspy-v1.0.1.min.js"></script>
-<script defer src="/content/dam/tcstop/swiper-bundle-8.0.3.min.js" integrity="sha512-+1MtN0rwSlEnZo0agG99mCQChlBtfe8hyHItwWtgiD33mWvaNVZkZB9yX2S92z5HgDg1+EcitjutZejbHUcZAg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-<script defer src="/content/dam/tcstop/jquery.overlayScrollbars-1.13.1.min.js" integrity="sha512-3Ofi0j25Ar6Hyqk2sdvfuoVCvvN6nE6Dh/eoMc8RQ/bnCvO8wpE+M5KyJz6T08T7pl/x82I/3Y5Amz9n3T9Esw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-
-  <script defer type="text/javascript" src="https://cdn.storifyme.com/static/web-components/storifyme-elements.min.js?web-components/storifyme-elements-5a91f5d082.min.js"></script>
-
-<script defer src="/content/dam/tcstop/pdf-2.14.305.min.js" integrity="sha512-dw+7hmxlGiOvY3mCnzrPT5yoUwN/MRjVgYV7HGXqsiXnZeqsw1H9n9lsnnPu4kL2nx2bnrjFcuWK+P3lshekwQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-<script defer src="/content/dam/tcstop/pdf_viewer-2.14.305.min.js" integrity="sha512-x+RmXhJTdSyOC9nVUvKVwtTsfTFtsbWPNeTuI3OlA7kLvyxG39BiWaT5VU5xENbHq25k3KFPdGR5OcO2/LTxOg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-<div class="pdf-worker" data-attr="/content/dam/tcstop/pdf.worker-2.14.305.min.js"></div>
-
-    
-  <script defer="true" src="/etc.clientlibs/tcs/clientlibs/clientlib-dependencies.min.ddb7c594c9e2d4270c650aa8831ac405.js" xmlns="http://www.w3.org/1999/xhtml"></script>
-<script defer="true" src="/etc.clientlibs/tcs/clientlibs/clientlib-site.min.0f9dd5ff4db6bbc44649da3cf0b68d1a.js" xmlns="http://www.w3.org/1999/xhtml"></script>
 
 
 
-<script defer src="/content/dam/tcstop/bootstrap.bundle-4.6.1.min.js"></script>
-<script defer src="/content/dam/tcstop/atc.min.js"></script>
-<script defer src="https://unpkg.com/@googlemaps/markerclusterer/dist/index.min.js"></script>
-<script>
-	// Email sign up form validation error messages for different field types.
-	const COMMON_VALIDATION_MESSAGES = {
-		required : "This field is mandatory",
-		checkbox : "Please accept to proceed further.",
-		businessEmail : "Please enter a valid business email.",
-		email : "Please enter a valid email id",
-		maxLength : "Maximum length allowed: ",
-		success : "email got saved",
-		whitelist : "Email entered is not whitelisted.",
-		invalidCaptcha : "Invalid Captcha",
-		firstname : "Please enter a valid first name",
-		lastname: "Please enter a valid last name",
-		nonMandatoryTextField:"Please enter a valid text",
-		nonMandatoryNumberField:"Please enter a valid Number",
-		textfield: "Please enter a valid text",
-		customfield: "Please enter a valid field",
-		number: "Please enter a valid phone number",
-		year: "Please enter a valid year",
-		linkedInUrl: "Enter valid LinkedIn Profile URL ",
-		experienceYears: "Enter valid number",
-		company:"Please enter a valid company",
-		schoolname:"Please enter a valid school name",
-		cgpa:"Enter valid number",
-		percentage:"Enter valid number",
-		freeText:"Use of special characters not allowed.Ex: !#^<})",
-	}
+
+
+
 	
-	// Query form validation error messages for different field types.
-	const MULTIFORM_VALIDATION_MESSAGES = {
-		success : "Multi Form Details got saved",
+
+    <script>
+    setTimeout(function(){$('#exampleModal').modal('show')}, 10000);
+    document.querySelector("#exampleModal button[data-dismiss=modal]").addEventListener('click', function(){$("#exampleModal").modal('hide')});
+    </script>
+	<script>
+	  $(document).ready(function(){
+	  $('.g-recaptcha-response').prop('required',true);
+	  $(".g-recaptcha-response").css({ 'opacity' : '0', 'margin' : '-60px 40px 30px', 'display' : '' });
+	});
+	</script>
+	<script type="application/ld+json">
+	{
+	  "@context": "https://schema.org/",
+	  "@type": "Product",
+	  "name": "Apponix Academy",
+	  "image": "https://www.apponix.com/storage/logoimage/CEg4WyxID25SrmEpnCulCX1at24hGPmKlov2CLsy.svg",
+	  "description": "Apponix Academy is the most innovative Training & Recruitment Company located in Bangalore, delivering classroom & online training across India, UK & USA",
+	   "mpn": "001",
+	  "sku": "8050580888",
+	  "brand": {
+		"@type": "Organization",
+		"name": "Apponix Academy"
+	  },
+	  "aggregateRating": {
+		"@type": "AggregateRating",
+		"ratingValue": "5",
+		"bestRating": "5",
+		"worstRating": "1",
+		"ratingCount": "7985",
+		"reviewCount": "7985"
+	  },
+	  "review": {
+		"@type": "Review",
+		"name": "Vijay",
+		"reviewBody": "I joined in Apponix Academy to pursue Expertise in IT Course. The training they had given to me is wonderful and they taught more tools and working knowledge in digital marketing. Efficient trainer. He gave me many tips and tricks on how to handle and survive in the field of digital marketing. Overall its a best place to learn Digital marketing course.",
+		"reviewRating": {
+		  "@type": "Rating",
+		  "ratingValue": "5",
+		  "bestRating": "5",
+		  "worstRating": "1"
+		},
+		"datePublished": "2023-03-03",
+		"author": {"@type": "Person", "name": "Apponix Academy"}
+	  }
 	}
+	</script>
+    <script>
+        var secondary = document.querySelector(".secondary")
+            , fromTop = secondary.offsetTop;
 
-	const EMAIL_VALIDATION_MESSAGES = {
-		success : "email got saved",
-	}
+        function toggleMenu() {
+            let o = document.querySelector("#navbar-mobile")
+                , e = document.querySelector("body");
+            o.classList.toggle("d-none"), e.classList.toggle("overflow-hidden")
+        }
+        document.onscroll = function() {
+            !secondary.classList.contains("stuck") && window.pageYOffset >= fromTop ? secondary.classList.add("stuck") : secondary.classList.contains("stuck") && window.pageYOffset < fromTop && secondary.classList.remove("stuck")
+        }, $(function() {
+            $(".v-tab-link").each(function() {
+                $(this).mouseover(function() {
+                    $(".menu-children").hide();
+                    var o = $(this).attr("data-target");
+                    $(o).show()
+                })
+            }), $(".menu-children").each(function() {
+                $(this).mouseover(function() {
+                    $(this).show()
+                }), $(this).mouseout(function() {
+                    $(this).hide()
+                })
+            })
+        });
 
+    </script>
+    <script type="text/javascript">
+        ! function(n, i, e) {
+            "use strict";
+            var t = i.Modernizr
+                , s = n("body");
+            n.DLMenu = function(i, e) {
+                this.$el = n(e), this._init(i)
+            }, n.DLMenu.defaults = {
+                animationClasses: {
+                    classin: "dl-animate-in-1"
+                    , classout: "dl-animate-out-1"
+                }
+                , onLevelClick: function(n, i) {
+                    return !1
+                }
+                , onLinkClick: function(n, i) {
+                    return !1
+                }
+            }, n.DLMenu.prototype = {
+                _init: function(i) {
+                    this.options = n.extend(!0, {}, n.DLMenu.defaults, i), this._config();
+                    this.animEndEventName = {
+                        WebkitAnimation: "webkitAnimationEnd"
+                        , OAnimation: "oAnimationEnd"
+                        , msAnimation: "MSAnimationEnd"
+                        , animation: "animationend"
+                    } [t.prefixed("animation")] + ".dlmenu", this.transEndEventName = {
+                        WebkitTransition: "webkitTransitionEnd"
+                        , MozTransition: "transitionend"
+                        , OTransition: "oTransitionEnd"
+                        , msTransition: "MSTransitionEnd"
+                        , transition: "transitionend"
+                    } [t.prefixed("transition")] + ".dlmenu", this.supportAnimations = t.cssanimations, this.supportTransitions = t.csstransitions, this._initEvents()
+                }
+                , _config: function() {
+                    this.open = !1, this.$trigger = this.$el.children(".dl-trigger"), this.$menu = this.$el.children("ul.dl-menu"), this.$menuitems = this.$menu.find("li:not(.dl-back)"), this.$el.find("ul.dl-submenu"), this.$back = this.$menu.find("li.mobile-main-item"), this.mobileBreakpoint = 991
+                }
+                , _initEvents: function() {
+                    var e = this;
+                    this.$trigger.on("click.dlmenu", function() {
+                        return e.open ? e._closeMenu() : e._openMenu(), !1
+                    }), this.$menuitems.on("click.dlmenu", function(i) {
+                        i.stopPropagation();
+                        var t = n(this)
+                            , s = t.children("ul.dl-submenu");
+                        if (s.length > 0) {
+                            var o = s.clone().css("opacity", 0).insertAfter(e.$menu)
+                                , a = function() {
+                                    e.$menu.off(e.animEndEventName).removeClass(e.options.animationClasses.classout).addClass("dl-subview"), t.addClass("dl-subviewopen").parents(".dl-subviewopen:first").removeClass("dl-subviewopen").addClass("dl-subview"), o.remove()
+                                };
+                            return setTimeout(function() {
+                                o.addClass(e.options.animationClasses.classin), e.$menu.addClass(e.options.animationClasses.classout), e.supportAnimations ? e.$menu.on(e.animEndEventName, a) : a.call(), e.options.onLevelClick(t, t.children("a:first").text())
+                            }), !1
+                        }
+                        e.options.onLinkClick(t, i)
+                    }), this.$back.on("click.dlmenu", function(i) {
+                        var t = n(this)
+                            , s = t.parents("ul.dl-submenu:first")
+                            , o = s.parent()
+                            , a = s.clone().insertAfter(e.$menu)
+                            , l = function() {
+                                e.$menu.off(e.animEndEventName).removeClass(e.options.animationClasses.classin), a.remove()
+                            };
+                        return setTimeout(function() {
+                            a.addClass(e.options.animationClasses.classout), e.$menu.addClass(e.options.animationClasses.classin), e.supportAnimations ? e.$menu.on(e.animEndEventName, l) : l.call(), o.removeClass("dl-subviewopen");
+                            var n = t.parents(".dl-subview:first");
+                            n.is("li") && n.addClass("dl-subviewopen"), n.removeClass("dl-subview")
+                        }), !1
+                    }), n(i).resize(function() {
+                        n(i).width() > e.mobileBreakpoint && e._resetMenu()
+                    })
+                }
+                , closeMenu: function() {
+                    this.open && this._closeMenu()
+                }
+                , _closeMenu: function() {
+                    var n = this
+                        , i = function() {
+                            n.$menu.off(n.transEndEventName), n._resetMenu()
+                        };
+                    this.$menu.removeClass("dl-menuopen"), this.$menu.addClass("dl-menu-toggle"), this.$trigger.removeClass("dl-active"), s.removeClass("mobile-menu-active"), this.supportTransitions ? this.$menu.on(this.transEndEventName, i) : i.call(), this.open = !1
+                }
+                , openMenu: function() {
+                    this.open || this._openMenu()
+                }
+                , _openMenu: function() {
+                    var i = this;
+                    s.off("click").on("click.dlmenu", function() {
+                        i._closeMenu(), s.removeClass("mobile-menu-active")
+                    }), this.$menu.addClass("dl-menuopen dl-menu-toggle").on(this.transEndEventName, function() {
+                        n(this).removeClass("dl-menu-toggle")
+                    }), this.$trigger.addClass("dl-active"), this.open = !0, s.addClass("mobile-menu-active")
+                }
+                , _resetMenu: function() {
+                    this.$menu.removeClass("dl-subview"), this.$menuitems.removeClass("dl-subview dl-subviewopen")
+                }
+            };
+            var o = function(n) {
+                i.console && i.console.error(n)
+            };
+            n.fn.dlmenu = function(i) {
+                if ("string" == typeof i) {
+                    var e = Array.prototype.slice.call(arguments, 1);
+                    this.each(function() {
+                        var t = n.data(this, "dlmenu");
+                        t ? n.isFunction(t[i]) && "_" !== i.charAt(0) ? t[i].apply(t, e) : o("no such method '" + i + "' for dlmenu instance") : o("cannot call methods on dlmenu prior to initialization; attempted to call method '" + i + "'")
+                    })
+                } else this.each(function() {
+                    var e = n.data(this, "dlmenu");
+                    e ? e._init() : e = n.data(this, "dlmenu", new n.DLMenu(i, this))
+                });
+                return this
+            }
+        }(jQuery, window), $(function() {
+            var n = 991;
+            ! function(e) {
+                var t = document.getElementsByClassName("dl-submenu")
+                    , s = null
+                    , o = null
+                    , a = u()
+                    , l = !0;
 
-</script>
+                function u() {
+                    var n = window
+                        , i = "inner";
+                    return "innerWidth" in window || (i = "client", n = document.documentElement || document.body), {
+                        width: n[i + "Width"]
+                    }
+                }
 
-    
+                function d() {
+                    for (a = u().width, i = 0; i < t.length; i++) s = t[i].parentNode, o = s.getElementsByTagName("a")[0], l && r(s), o.onclick = a <= n ? function(n) {
+                        n.preventDefault()
+                    } : function() {
+                        return !0
+                    };
+                    l = !1
+                }
 
-    
+                function r(n) {
+                    var i = n.cloneNode(!1)
+                        , e = n.children[0].cloneNode(!0)
+                        , t = n.children[1];
+                    i.appendChild(e), t.insertBefore(i, t.children[0]), i.setAttribute("class", "nav-sub-item mobile-main-item")
+                }
+                d(), window.onresize = d, e()
+            }(function() {
+                $("#dl-menu").dlmenu({
+                        animationClasses: {
+                            classin: "dl-animate-in-2"
+                            , classout: "dl-animate-out-2"
+                        }
+                    })
+                    , function() {
+                        var i = $(window).width()
+                            , e = $(".nav-main")
+                            , t = $(".nav-sub-list")
+                            , s = $(".nav-sub-sub");
 
-    
-    
+                        function o() {
+                            i > n && e.hasClass("dl-menuwrapper") && (e.removeClass("dl-menuwrapper").attr("id", ""), t.removeClass("dl-submenu"), s.removeClass("dl-submenu"))
+                        }
 
-            
+                        function a() {
+                            i <= n && (e.hasClass("dl-menuwrapper") || (e.addClass("dl-menuwrapper").attr("id", "dl-menu"), t.addClass("dl-submenu"), s.addClass("dl-submenu")))
+                        }
+                        o(), a(), $(window).resize(function() {
+                            i = $(window).width(), o(), a()
+                        })
+                    }()
+            })
+        });
 
-        
+    </script>
+    <script>
+        function searchToggle(a, e) {
+            var s = $(a).closest(".search-wrapper");
+            s.hasClass("active") ? s.hasClass("active") && 0 == $(a).closest(".input-holder").length && (s.removeClass("active"), s.find(".search-input").val("")) : (s.addClass("active"), e.preventDefault())
+        }
+
+    </script>
+    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-3-typeahead/4.0.1/bootstrap3-typeahead.min.js"></script> -->
+    <script type="text/javascript">
+        var route = "https://www.apponix.com/autocomplete-search";
+        $("#myInput").typeahead({
+            source: function(e, t) {
+                return $.get(route, {
+                    query: e
+                }, function(e) {
+                    return console.log(e), t(e)
+                })
+            }
+        }), $("#myInputmobile").typeahead({
+            source: function(e, t) {
+                return $.get(route, {
+                    query: e
+                }, function(e) {
+                    return console.log(e), t(e)
+                })
+            }
+        }), $(".inputsearch").typeahead({
+            source: function(e, t) {
+                return $.get(route, {
+                    query: e
+                }, function(e) {
+                    return console.log(e), t(e)
+                })
+            }
+        });
+
+    </script>
+        <!-- <script src="https://www.google.com/recaptcha/api.js?render="></script>
+    <script>
+        grecaptcha.ready(function() {
+            grecaptcha.execute('', {
+                    action: 'contact'
+                }).then(function(token) {
+                if (token) {
+                    document.getElementById('recaptcha').value = token;
+                }
+            });
+        });
+
+    </script> -->
+    <script>
+        $("#Contact-Form9").click(function() {
+            // any value you need
+            console.log('90');
+        });
+
+    </script>
     </body>
 </html>
